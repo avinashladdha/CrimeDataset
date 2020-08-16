@@ -1,0 +1,60 @@
+SI.No.,States/UT/City,No. of Cases Reported,No. of Victims - Up To 10 Years,No. of Victims - 11-15 Years,No. of Victims - 16-18 Years,No. of Victims - 19-30 Years,No. of Victims - 31-50 Years,No. of Victims - Above 50 Years
+1,Andhra Pradesh,895,58,144,214,328,145,6
+2,Arunachal Pradesh,39,0,9,18,12,0,0
+3,Assam,703,25,94,192,292,93,7
+4,Bihar,1447,12,66,354,789,226,0
+5,Goa,18,7,4,2,4,1,0
+6,Gujarat,331,25,67,87,123,29,0
+7,Haryana,372,20,68,86,162,35,1
+8,Himachal Pradesh,109,7,22,26,41,12,1
+9,jammu & Kashmir,170,1,11,25,97,36,0
+10,Karnataka,301,24,46,69,141,20,1
+11,Kerala,423,23,98,70,181,48,3
+12,Madhya Pradesh,3561,134,626,899,1425,477,0
+13,Maharashtra,1320,100,259,370,457,128,6
+14,Manipur,12,1,3,2,4,2,0
+15,Meghalaya,27,2,2,8,15,0,0
+16,Mizoram,71,21,31,14,0,5,0
+17,Nagaland,11,0,2,4,5,0,0
+18,Orissa,820,24,104,181,359,150,2
+19,Punjab,282,30,85,54,89,24,0
+20,Rajasthan,1198,28,109,229,612,211,9
+21,Sikkim,7,2,0,0,4,1,0
+22,Tamil Nadu,430,18,70,86,228,28,0
+23,Tripura,72,2,4,18,40,8,0
+24,Uttar Pradesh,1593,67,277,497,598,153,1
+25,West Bengal,819,7,77,277,401,57,0
+Total States,Total States,15031,638,2278,3782,6407,1889,37
+26,A & N Islands,6,2,2,2,0,0,0
+27,Chandigarh,16,3,2,2,6,3,0
+28,D & N Haveli,3,1,0,2,0,0,0
+29,Daman & DIU,4,2,1,1,0,0,0
+30,Delhi,402,85,138,57,86,35,4
+31,Lakshadeep,0,0,0,0,0,0,0
+32,Pondicherry,6,0,1,3,1,0,1
+Total (UTs),Total (UTs),437,93,144,67,93,38,5
+Total (All-India),Total (All-India),15468,731,2422,3849,6500,1927,42
+33,Ahmedabad,14,2,6,3,2,1,0
+34,Bangalore,29,2,6,9,9,2,1
+35,Bhopal,42,0,9,11,12,10,0
+36,Calcutta,24,3,8,7,4,2,0
+37,Chennai,27,0,0,4,19,4,0
+38,Coimbatore,4,0,3,0,0,1,0
+39,Delhi,332,77,102,52,66,31,4
+40,Hyderabad,48,2,3,11,25,7,0
+41,Indore,29,1,7,5,10,6,0
+42,Jaipur,38,3,5,4,22,4,0
+43,Kanpur,34,2,5,10,16,1,0
+44,Kochi,9,1,3,3,2,0,0
+45,Lucknow,28,2,10,6,6,4,0
+46,Ludhiana,38,6,0,5,22,5,0
+47,Madurai,6,1,0,3,2,0,0
+48,Mumbai,141,23,36,55,21,4,2
+49,Nagpur,42,9,8,14,7,4,0
+50,Patna,18,0,1,11,6,0,0
+51,Pune,51,5,14,12,14,5,1
+52,Surat,17,2,5,8,3,1,0
+53,Vadodra,10,1,2,2,3,2,0
+54,Varanasi,10,0,3,4,3,0,0
+55,Vishakhapatnam,17,0,0,8,0,9,0
+Total Cities,Total Cities,1008,142,236,247,274,103,8

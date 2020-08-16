@@ -1,0 +1,39 @@
+Sl. No.,Category,State/UT,Number of Cases in Which Property - Stolen,Number of Cases in Which Property - Recovered,Value of Property (Rs. in lakh) - Stolen,Value of Property (Rs. in lakh) - Recovered
+1,State,Andhra Pradesh,91,33,145.6,16.1
+2,State,Arunachal Pradesh,18,3,158.2,89.2
+3,State,Assam,112,36,28.7,2
+4,State,Bihar,43,9,21.3,8.5
+5,State,Chhattisgarh,3,0,0.3,0
+6,State,Goa,6,0,5.5,0
+7,State,Gujarat,0,0,0,0
+8,State,Haryana,7,0,0.9,0
+9,State,Himachal Pradesh,41,9,24.5,10.5
+10,State,Jammu & Kashmir,3,3,1.6,1.6
+11,State,Jharkhand,23,10,0.8,0.4
+12,State,Karnataka,9,4,3.4,5
+13,State,Kerala,8,5,2189.7,50.9
+14,State,Madhya Pradesh,72,27,7.4,2.3
+15,State,Maharashtra,10,2,6.2,5.4
+16,State,Manipur,1,0,0.1,0
+17,State,Meghalaya,0,0,0,0
+18,State,Mizoram,0,0,0,0
+19,State,Nagaland,0,0,0,0
+20,State,Odisha,3,1,0.1,0
+21,State,Punjab,9,1,2,0
+22,State,Rajasthan,47,13,84.5,80
+23,State,Sikkim,1,0,1.5,0
+24,State,Tamil Nadu,23,14,13.6,12.4
+25,State,Tripura,0,0,0,0
+26,State,Uttar Pradesh,12,5,9.6,4.1
+27,State,Uttarakhand,0,0,0,0
+28,State,West Bengal,255,17,187,2.3
+State,State,Total (States),797,192,2892.5,290.7
+29,Union Territory,A & N Islands,1,0,1,0
+30,Union Territory,Chandigarh,0,0,0,0
+31,Union Territory,D & N Haveli,1,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0
+33,Union Territory,Delhi,0,0,0,0
+34,Union Territory,Lakshadweep,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,0
+Union Territory,Union Territory,Total (UTs),2,0,1,0
+Total (All-India),Total (All-India),Total (All-India),799,192,2893.5,290.7

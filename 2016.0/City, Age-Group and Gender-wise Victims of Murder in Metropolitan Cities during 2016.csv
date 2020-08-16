@@ -1,0 +1,22 @@
+S. No. (Col.1),State/UT (Col.2),Child Victims - Below 6 Years - Male (Col.3),Child Victims - Below 6 Years - Female (Col.4),Child Victims - Below 6 Years - Total (Col.5),Child Victims - 6 Years to 12 Years - Male (Col.6),Child Victims - 6 Years to 12 Years - Female (Col.7),Child Victims - 6 Years to 12 Years - Total (Col.8),Child Victims - 12 Years to 16 Years - Male (Col.9),Child Victims - 12 Years to 16 Years - Female (Col.10),Child Victims - 12 Years to 16 Years - Total (Col.11),Child Victims - 16 Years to 18 Years - Male (Col.12),Child Victims - 16 Years to 18 Years - Female (Col.13),Child Victims - 16 Years to 18 Years - Total (Col.14),Child Victims - Total Child Victims - Male (Col.15),Child Victims - Total Child Victims - Female (Col.16),Child Victims - Total Child Victims - Total (Col.17),Adult Victims - 18 Years to 30 Years - Male (Col.18),Adult Victims - 18 Years to 30 Years - Female (Col.19),Adult Victims - 18 Years to 30 Years - Total (Col.20),Adult Victims - 30 Years to 45 Years - Male (Col.21),Adult Victims - 30 Years to 45 Years - Female (Col.22),Adult Victims - 30 Years to 45 Years - Total (Col.23),Adult Victims - 45 Years to 60 Years - Male (Col.24),Adult Victims - 45 Years to 60 Years - Female (Col.25),Adult Victims - 45 Years to 60 Years - Total (Col.26),Adult Victims - 60 Years & Above - Male (Col.27),Adult Victims - 60 Years & Above - Female (Col.28),Adult Victims - 60 Years & Above - Total (Col.29),Adult Victims - Total Adult Victims - Male (Col.30),Adult Victims - Total Adult Victims - Female (Col.31),Adult Victims - Total Adult Victims - Total (Col.32),Total Victims (Child+Adult) - Male (Col.33),Total Victims (Child+Adult) - Female (Col.34),Total Victims (Child+Adult) - Total (Col.35)
+1,Ahmedabad (Gujarat),1,0,1,1,0,1,1,0,1,1,0,1,4,0,4,32,6,38,36,7,43,11,1,12,4,2,6,83,16,99,87,16,103
+2,Bengaluru (Karnataka),2,4,6,2,2,4,0,1,1,0,0,0,4,7,11,84,24,108,65,21,86,11,8,19,9,3,12,169,56,225,173,63,236
+3,Chennai (Tamil Nadu),0,1,1,1,0,1,0,1,1,0,0,0,1,2,3,33,16,49,31,9,40,29,8,37,7,3,10,100,36,136,101,38,139
+4,Coimbatore (Tamil Nadu),0,2,2,0,0,0,0,0,0,0,0,0,0,2,2,7,3,10,4,1,5,6,3,9,2,1,3,19,8,27,19,10,29
+5,Delhi,5,6,11,4,2,6,10,4,14,3,3,6,22,15,37,177,51,228,122,33,155,39,13,52,7,11,18,345,108,453,367,123,490
+6,Ghaziabad (Uttar Pradesh),0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,13,7,20,15,9,24,12,3,15,0,0,0,40,19,59,41,19,60
+7,Hyderabad (Telangana),0,3,3,1,1,2,1,1,2,0,0,0,2,5,7,19,0,19,30,5,35,19,0,19,3,3,6,71,8,79,73,13,86
+8,Indore (Madhya Pradesh),0,3,3,0,1,1,1,2,3,1,1,2,2,7,9,13,7,20,13,5,18,3,4,7,5,1,6,34,17,51,36,24,60
+9,Jaipur (Rajasthan),1,1,2,0,0,0,0,0,0,0,0,0,1,1,2,41,7,48,27,7,34,10,3,13,3,0,3,81,17,98,82,18,100
+10,Kanpur (Uttar Pradesh),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,9,25,25,12,37,5,2,7,0,0,0,46,23,69,46,23,69
+11,Kochi (Kerala),0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,2,0,2,4,1,5,1,1,2,0,0,0,7,2,9,8,2,10
+12,Kolkata (West Bengal),0,0,0,0,1,1,3,0,3,1,0,1,4,1,5,24,20,44,15,8,23,23,4,27,2,4,6,64,36,100,68,37,105
+13,Kozhikode (Kerala),2,0,2,0,0,0,0,0,0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1,3,0,3
+14,Lucknow (Uttar Pradesh),1,2,3,1,2,3,0,1,1,0,2,2,2,7,9,18,12,30,26,10,36,15,1,16,4,2,6,63,25,88,65,32,97
+15,Mumbai (Maharashtra),3,6,9,1,3,4,2,0,2,0,1,1,6,10,16,38,14,52,37,21,58,13,4,17,2,7,9,90,46,136,96,56,152
+16,Nagpur (Maharashtra),1,0,1,1,1,2,0,1,1,1,0,1,3,2,5,34,8,42,33,5,38,9,0,9,3,2,5,79,15,94,82,17,99
+17,Patna (Bihar),0,0,0,0,0,0,1,1,2,0,0,0,1,1,2,62,26,88,48,18,66,35,6,41,0,0,0,145,50,195,146,51,197
+18,Pune (Maharashtra),2,3,5,1,0,1,1,0,1,3,0,3,7,3,10,50,12,62,32,10,42,11,4,15,1,0,1,94,26,120,101,29,130
+19,Surat (Gujarat),1,2,3,3,0,3,0,0,0,1,0,1,5,2,7,29,6,35,48,12,60,4,1,5,0,0,0,81,19,100,86,21,107
+Total Cities,Total Cities,19,33,52,17,13,30,20,12,32,12,7,19,68,65,133,693,228,921,611,194,805,256,66,322,52,39,91,1612,527,2139,1680,592,2272
+Percentage Share of age group on Total Victims,Percentage Share of age group on Total Victims,NA,NA,2.3,NA,NA,1.3,NA,NA,1.4,NA,NA,0.8,NA,NA,5.9,NA,NA,40.5,NA,NA,35.4,NA,NA,14.2,NA,NA,4,NA,NA,94.1,NA,NA,100

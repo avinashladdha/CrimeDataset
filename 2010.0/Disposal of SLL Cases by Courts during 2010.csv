@@ -1,0 +1,28 @@
+Sl. No. (Col. 1),Crime Head (Col. 2),Total No.of Cases for Investigation Including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases - Compounded or Withdrawn (Col. 5),No. of Cases - Trials Completed - Convicted (Col. 6),No. of Cases - Trials Completed - Acquitted or Discharged (Col. 7),No. of Cases - Trials Completed - Total {(Col.6)+(Col.7)} (Col. 8),No. of Cases - Pending trial at the end of the year (Col. 9)
+1,Arms Act,414868,4,198,65251,21719,86970,327700
+2,Narcotic Drugs & Psychotropic Substances Act,148002,0,93,21600,8071,29671,118238
+3,Gambling Act,452184,14,826,125926,24024,149950,301408
+4,Excise Act,630383,6,476,143908,28986,172894,457013
+5,Prohibition Act,2263862,1,4389,190284,130131,320415,1939058
+6,Explosive & Explosive Substances Act,25476,2,12,2016,1451,3467,21997
+7,Immoral Traffic (P) Act,11932,5,37,1125,920,2045,9850
+8,Indian Railways Act,8183,0,12,586,181,767,7404
+9,The Foreigners Act,7803,1,0,472,127,599,7204
+10,Protection of Civil Rights Act,1416,0,5,53,203,256,1155
+11,Protection of Civil Rights Act - PCR Act for SCs,1376,0,5,53,191,244,1127
+12,Protection of Civil Rights Act - PCR Act for STs,40,0,0,0,12,12,28
+13,Indian Passport Act,3260,0,1,268,132,400,2859
+14,Essential Commodities Act,51705,4,45,1817,3190,5007,46653
+15,Terrorist & Disruptive Activities Act,1837,0,0,0,6,6,1831
+16,Antiquity & Art Treasure Act,169,0,0,10,19,29,140
+17,Dowry Prohibition Act,19269,7,353,612,2442,3054,15862
+18,Prohibition of Child Marriage Act,395,0,0,8,46,54,341
+19,Indecent Representation of Women (p) Act,1830,0,0,779,58,837,993
+20,Copyrights Act,33456,29,57,2739,2609,5348,28051
+21,Sati Prevention Act,1,0,0,0,0,0,1
+22,SC/ST (Prevention of Atrocities) Act,45247,0,159,3430,5748,9178,35910
+23,SC/ST (Prevention of Atrocities) Act - Prevention of Attrocities Act for SCs,40481,0,143,3225,5181,8406,31932
+24,SC/ST (Prevention of Atrocities) Act - Prevention of Attrocities Act for STs,4766,0,16,205,567,772,3978
+25,Forest Act,20063,0,4,3916,1005,4921,15138
+26,Other Sll Crimes,5173584,30,6669,3513632,137781,3651413,1515502
+27,Total Cognizable Crimes Under Sll,9314925,103,13336,4078432,368849,4447281,4854308

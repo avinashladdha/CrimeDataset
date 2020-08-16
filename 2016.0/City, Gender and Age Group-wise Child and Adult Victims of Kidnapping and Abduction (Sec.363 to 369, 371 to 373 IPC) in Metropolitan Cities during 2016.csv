@@ -1,0 +1,22 @@
+S. No. (Col.1),State/UT (Col.2),Child Victims - Below 6 Years - Male (Col.3),Child Victims - Below 6 Years - Female (Col.4),Child Victims - Below 6 Years - Total (Col.5),Child Victims - 6 Years to 12 Years - Male (Col.6),Child Victims - 6 Years to 12 Years - Female (Col.7),Child Victims - 6 Years to 12 Years - Total (Col.8),Child Victims - 12 Years to 16 Years - Male (Col.9),Child Victims - 12 Years to 16 Years - Female (Col.10),Child Victims - 12 Years to 16 Years - Total (Col.11),Child Victims - 16 Years to 18 Years - Male (Col.12),Child Victims - 16 Years to 18 Years - Female (Col.13),Child Victims - 16 Years to 18 Years - Total (Col.14),Child Victims - Total Child Victims - Male (Col.15),Child Victims - Total Child Victims - Female (Col.16),Child Victims - Total Child Victims - Total (Col.17),Adult Victims - 18 Years to 30 Years - Male (Col.18),Adult Victims - 18 Years to 30 Years - Female (Col.19),Adult Victims - 18 Years to 30 Years - Total (Col.20),Adult Victims - 30 Years to 45 Years - Male (Col.21),Adult Victims - 30 Years to 45 Years - Female (Col.22),Adult Victims - 30 Years to 45 Years - Total (Col.23),Adult Victims - 45 Years to 60 Years - Male (Col.24),Adult Victims - 45 Years to 60 Years - Female (Col.25),Adult Victims - 45 Years to 60 Years - Total (Col.26),Adult Victims - 60 Years & Above - Male (Col.27),Adult Victims - 60 Years & Above - Female (Col.28),Adult Victims - 60 Years & Above - Total (Col.29),Adult Victims - Total Adult Victims - Male (Col.30),Adult Victims - Total Adult Victims - Female (Col.31),Adult Victims - Total Adult Victims - Total (Col.32),Total Victims (Child+Adult) - Male (Col.33),Total Victims (Child+Adult) - Female (Col.34),Total Victims (Child+Adult) - Total (Col.35)
+1,Ahmedabad (Gujarat),6,5,11,14,3,17,40,76,116,20,179,199,80,263,343,23,8,31,15,0,15,2,1,3,0,0,0,40,9,49,120,272,392
+2,Bengaluru (Karnataka),9,13,22,46,22,68,131,253,384,56,358,414,242,646,888,21,29,50,42,6,48,8,1,9,3,0,3,74,36,110,316,682,998
+3,Chennai (Tamil Nadu),3,3,6,4,2,6,0,4,4,0,2,2,7,11,18,2,5,7,6,0,6,3,0,3,1,0,1,12,5,17,19,16,35
+4,Coimbatore (Tamil Nadu),0,1,1,0,0,0,0,0,0,0,2,2,0,3,3,2,0,2,2,0,2,0,1,1,0,0,0,4,1,5,4,4,8
+5,Delhi,161,140,301,610,317,927,1143,1597,2740,567,1234,1801,2481,3288,5769,141,264,405,46,47,93,12,2,14,0,0,0,199,313,512,2680,3601,6281
+6,Ghaziabad (Uttar Pradesh),3,0,3,10,13,23,5,36,41,2,23,25,20,72,92,92,142,234,15,21,36,6,0,6,0,0,0,113,163,276,133,235,368
+7,Hyderabad (Telangana),16,4,20,15,19,34,19,74,93,25,83,108,75,180,255,34,49,83,12,10,22,2,2,4,0,0,0,48,61,109,123,241,364
+8,Indore (Madhya Pradesh),7,4,11,44,8,52,56,97,153,42,116,158,149,225,374,3,6,9,1,1,2,0,0,0,1,0,1,5,7,12,154,232,386
+9,Jaipur (Rajasthan),1,1,2,31,13,44,72,96,168,57,167,224,161,277,438,22,93,115,16,7,23,0,1,1,0,0,0,38,101,139,199,378,577
+10,Kanpur (Uttar Pradesh),1,0,1,8,0,8,22,30,52,15,21,36,46,51,97,42,197,239,9,64,73,0,0,0,0,0,0,51,261,312,97,312,409
+11,Kochi (Kerala),0,1,1,0,0,0,0,0,0,0,4,4,0,5,5,1,2,3,3,1,4,2,1,3,0,0,0,6,4,10,6,9,15
+12,Kolkata (West Bengal),0,0,0,0,0,0,0,27,27,19,66,85,19,93,112,56,98,154,20,10,30,1,1,2,0,0,0,77,109,186,96,202,298
+13,Kozhikode (Kerala),0,0,0,0,0,0,1,2,3,1,3,4,2,5,7,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,2,6,8
+14,Lucknow (Uttar Pradesh),12,9,21,50,91,141,172,229,401,78,203,281,312,532,844,11,63,74,0,6,6,0,0,0,0,0,0,11,69,80,323,601,924
+15,Mumbai (Maharashtra),44,50,94,151,58,209,419,475,894,170,573,743,784,1156,1940,9,20,29,22,17,39,9,7,16,1,2,3,41,46,87,825,1202,2027
+16,Nagpur (Maharashtra),8,12,20,29,11,40,77,155,232,15,164,179,129,342,471,19,26,45,0,0,0,0,0,0,0,0,0,19,26,45,148,368,516
+17,Patna (Bihar),0,0,0,25,0,25,4,20,24,85,242,327,114,262,376,146,300,446,0,0,0,0,0,0,0,0,0,146,300,446,260,562,822
+18,Pune (Maharashtra),7,3,10,34,16,50,159,252,411,59,270,329,259,541,800,31,68,99,9,13,22,3,0,3,1,0,1,44,81,125,303,622,925
+19,Surat (Gujarat),6,8,14,21,16,37,49,80,129,9,60,69,85,164,249,9,2,11,10,1,11,5,0,5,0,1,1,24,4,28,109,168,277
+Total Cities,Total Cities,284,254,538,1092,589,1681,2369,3503,5872,1220,3770,4990,4965,8116,13081,664,1373,2037,228,204,432,53,17,70,7,3,10,952,1597,2549,5917,9713,15630
+Victims age group-wise Percentage Share,Victims age group-wise Percentage Share,NA,NA,3.4,NA,NA,10.8,NA,NA,37.6,NA,NA,31.9,NA,NA,83.7,NA,NA,13,NA,NA,2.8,NA,NA,0.4,NA,NA,0.1,NA,NA,16.3,NA,NA,100

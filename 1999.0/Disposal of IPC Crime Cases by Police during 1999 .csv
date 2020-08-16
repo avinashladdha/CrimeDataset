@@ -1,0 +1,28 @@
+SI.No (1),Crime Head (2),Total No for investigation including pending cases (3),Cases with drawan by Govt. (4),No. of Cases in Which Investigation was Refused (5),No. of Cases in Which Investigation was Completed Charge Found False/Mistake of Fact or Law Etc. (6),No. of Cases in Which Investigation was Completed Final Report True Submitted (7),No. of Cases in Which Investigation was Completed Charge Sheets Were Submitted (8),No. of Cases in Which Investigation was Completed Total [ (6)+(7)+(8)] (9),No. of Cases Pending investigation (10)
+1,Murder,58923,0,120,1118,6504,30219,37841,20962
+2,Attempt to Commit Murder,41789,0,65,1326,3207,26042,30575,11149
+3,C.H. Not Amounting To Murder,6285,0,11,122,481,3231,3834,2440
+4,Rape,21349,0,24,1252,791,13575,15618,5707
+5,Kidnapping & Abduction,37446,1,151,5683,4043,14051,23777,13517
+5,I)Of Woman & Girls,25481,1,122,4229,2529,9373,16131,9227
+5,II)Of Others,11965,0,29,1454,1514,4678,7646,4290
+6,Dacoity,15070,0,20,463,2693,4947,8103,6947
+7,Preparation & Assembly for Dacoity,2418,0,0,59,120,1274,1453,965
+8,Robbery,33329,0,54,1885,7327,13590,22802,10473
+9,Burglary,150747,3,538,4545,69334,40821,114700,35506
+10,Theft,383399,3,1205,12986,155181,108309,2766476,105715
+10,I) Auto Theft,80043,1,117,1701,32248,20844,54793,25132
+10,II) Other Theft,303257,2,1088,11285,122905,87431,22621,80546
+11,Riots,106694,9,159,10479,6981,64943,82403,24123
+12,Criminal Breach of Trust,27217,0,96,2545,4271,9776,16592,10529
+13,Cheating,68375,0,217,9927,8345,21684,39956,2802
+14,Counterfeiting,5127,0,66,39,669,698,1406,3655
+15,Arson,15533,0,81,1733,3579,6564,11876,3576
+16,Hurt,279355,0,616,10073,11883,214401,236357,42382
+17,Dowry Deaths,9123,0,15,432,384,6060,6876,2232
+18,Molestation,37617,0,19,2187,1011,29610,32808,4790
+19,Sexual Harassment,9552,0,14,146,116,7972,8234,1304
+20,Cruelty by Husband and Relatives,53991,0,126,5173,2458,35294,42925,10940
+21,Importation of Girls,1,0,0,0,0,1,1,0
+22,Other IPC Crimes,941807,14,2169,48237,78422,653118,779777,159847
+23,Total Cognizable Crimes Under IPC,2305147,30,5766,120410,367800,1306180,1794390,504961

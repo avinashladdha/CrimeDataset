@@ -1,0 +1,25 @@
+SI.No.,Crime Head,Total No. of Cases for Trial Including Pending Cases,No. of Cases - Compounded or withdrawn,No. of Cases - In which trials were Completed - Convicted,No. of Cases - in which trials were completed - Acquitted or Discharged,No. of Cases - in which trials were Completed - Total [Col. 5+6],No. of Cases - Pending Trial
+1,Murder,147102,452,7784,13740,21524,125126
+2,Attempt to Commit Murder,119591,1140,6178,11403,17581,100870
+3,C.H. Not Amounting To Murder,15937,171,839,1629,2468,13298
+4,Rape,51734,282,2348,6088,8436,43016
+5,Kidnapping & Abduction,57050,657,2245,5707,7952,48441
+5,I)of Women & Girls,42978,519,1722,4267,5989,36470
+5,II)of Others,14072,138,523,1440,1963,11971
+6,Dacoity,34720,79,952,2675,3627,31014
+7,Preparation & Assembly for Dacoity,4555,9,251,391,642,3904
+8,Robbery,74780,400,2563,6192,8755,65625
+9,Burglary,237239,3166,11745,20676,32421,201652
+10,Theft,618760,10868,36210,59427,95637,512255
+11,Riots,418677,15019,14013,39919,53932,349726
+12,Criminal Breach of Trust,71014,902,2207,4908,7115,62997
+13,Cheating,97077,1341,2804,6634,9438,86298
+14,Counterfeiting,2392,9,111,275,386,1997
+15,Arson,30547,597,1187,3904,5091,24859
+16,Hurt/Grievous Hurt,752251,55496,37704,82962,120666,576089
+17,Dowry Deaths,16517,100,797,1487,2284,14133
+18,Molestation,92398,5688,4337,9834,14171,725398
+19,Sexual Harassment,13327,527,2949,1195,4144,8656
+20,Cruelty by Husband and Relatives,99542,4227,2310,9810,12120,83195
+21,Other IPC Crimes,2342452,100026,179431,235767,415198,1827228
+22,Total Cognizable Crimes Under IPC,5297662,201156,318965,524623,843588,4252918

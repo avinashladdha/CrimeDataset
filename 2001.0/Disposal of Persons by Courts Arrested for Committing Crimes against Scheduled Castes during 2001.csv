@@ -1,0 +1,12 @@
+Crime Head (Col.1),Total No. Persons under Arrest including those from Previous Year (Col.2),No. of Persons whose Cases Compounded or Withdrawn (Col.3),No. of Persons whose Trial Completed (Col.4),No. of Persons whose Trial Remained Pending (Col.5),No. of Persons whose No. of Persons Convicted (Col.6),Percentage of Persons whose Trials Remained Pending {(Col.4 *100)/Col.2} = (Col.7),Percentage of Persons Convicted to Trials Completed {(Col.6 * 100) / Col.4} = (Col.8)
+Murder,7400,7,1022,6371,419,13.8,41
+Rape,4749,18,797,3934,278,16.8,34.9
+Kidnapping,2266,19,328,1919,135,14.5,41.2
+Dacoity,638,5,73,560,42,11.4,57.5
+Robbery,878,4,107,767,41,12.2,38.3
+Arson,2665,28,346,2291,101,13,29.2
+Hurt,28993,613,4659,23721,1378,16.1,29.6
+PCR Act,10489,164,2648,7677,338,25.2,12.8
+SC/ST Prev. of Attrocities Act,106657,758,17931,87968,7437,16.8,41.5
+Other Crime against SC,70543,1159,13181,56203,4162,18.7,31.6
+Total,235278,2775,41092,191411,14331,81.4,34.9

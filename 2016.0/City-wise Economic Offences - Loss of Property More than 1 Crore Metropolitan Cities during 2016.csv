@@ -1,0 +1,21 @@
+S. No. (Col.1),Cities (Col.2),Cases where the Loss Of Property more than 1 Crore - Criminal Breach of Trust - 1-10 Crore (Col.3),Cases where the Loss of Property more than 1 Crore - Criminal Breach of Trust - 10-25 Crore (Col.4),Cases where the Loss of Property more than 1 Crore - Criminal Breach of Trust - 25-50 Crore (Col.5),Cases where the Loss of Property more than 1 Crore - Criminal Breach of Trust - 50-100 Crore (Col.6),Cases where the Loss of Property more than 1 Crore - Criminal Breach of Trust - Above 100 Crore (Col.7),Cases where the Loss of Property more than 1 Crore - Criminal Breach of Trust - Total (Col.8),Cases where the Loss of Property more than 1 Crore - Cheating - 1-10 Crore (Col.9),Cases where the Loss of Property more than 1 Crore - Cheating - 10-25 Crore (Col.10),Cases where the Loss of Property more than 1 Crore - Cheating - 25-50 Crore (Col.11),Cases where the Loss of Property more than 1 Crore - Cheating - 50-100 Crore (Col.12),Cases where the Loss of Property more than 1 Crore - Cheating - Above 100 Crore (Col.13),Cases where the Loss of Property more than 1 Crore - Cheating - Total (Col.14),Number of Reported Cases where the Loss of Property more than 1 Crore - Fraud/Forgery - 1-10 Crore (Col.15),Number of Reported Cases where the Loss of Property more than 1 Crore - Fraud/Forgery - 10-25 Crore (Col.16),Number of Reported Cases where the Loss of Property more than 1 Crore - Fraud/Forgery - 25-50 Crore (Col.17),Number of Reported Cases where the Loss of Property more than 1 Crore - Fraud/Forgery - 50-100 Crore (Col.18),Number of Reported Cases where the Loss of Property more than 1 Crore - Fraud/Forgery - Above 100 Crore (Col.19),Number of Reported Cases where the Loss of Property more than 1 Crore - Fraud/Forgery - Total (Col.20),Number of Reported Cases where the Loss of Property more than 1 Crore - Grand Total (CBT + Cheating+Fraud/Forgery) - 1-10 Crore (Col.21),Number of Reported Cases where the Loss of Property more than 1 Crore - Grand Total (CBT + Cheating+Fraud/Forgery) - 10-25 Crore (Col.22),Number of Reported Cases where the Loss of Property more than 1 Crore - Grand Total (CBT + Cheating+Fraud/Forgery) - 25-50 Crore (Col.23),Number of Reported Cases where the Loss of Property more than 1 Crore - Grand Total (CBT + Cheating+Fraud/Forgery) - 50-100 Crore (Col.24),Number of Reported Cases where the Loss of Property more than 1 Crore - Grand Total (CBT + Cheating+Fraud/Forgery) - Above 100 Crore (Col.25),Number of Reported Cases where the Loss of Property more than 1 Crore - Grand Total (CBT + Cheating+Fraud/Forgery) - Total (Col.26)
+1,Ahmedabad (Gujarat),4,0,0,0,0,4,1,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,5
+2,Bengaluru (Karnataka),0,0,0,0,0,0,25,3,1,0,0,29,0,0,0,0,0,0,25,3,1,0,0,29
+3,Chennai (Tamil Nadu),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Coimbatore (Tamil Nadu),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Delhi,8,0,0,0,0,8,111,9,4,1,2,127,28,2,2,0,1,33,147,11,6,1,3,168
+6,Ghaziabad (Uttar Pradesh),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+7,Hyderabad (Telangana),28,5,1,0,0,34,24,2,0,0,1,27,18,0,0,0,1,19,70,7,1,0,2,80
+8,Indore (Madhya Pradesh),0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,2
+9,Jaipur (Rajasthan),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+10,Kanpur (Uttar Pradesh),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Kochi (Kerala),0,0,0,0,0,0,5,3,0,1,0,9,0,0,0,0,0,0,5,3,0,1,0,9
+12,Kolkata (West Bengal),1,0,0,0,0,1,1,0,0,0,0,1,5,0,0,0,0,5,7,0,0,0,0,7
+13,Kozhikode (Kerala),0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+14,Lucknow (Uttar Pradesh),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Mumbai (Maharashtra),34,16,8,3,7,68,15,6,2,1,3,27,22,1,1,0,0,24,71,23,11,4,10,119
+16,Nagpur (Maharashtra),0,0,0,0,0,0,3,1,0,0,0,4,0,0,0,0,0,0,3,1,0,0,0,4
+17,Patna (Bihar),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Pune (Maharashtra),0,0,1,0,0,1,45,0,1,0,0,46,0,0,0,0,0,0,45,0,2,0,0,47
+19,Surat (Gujarat),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,75,21,10,3,7,116,235,24,8,3,6,276,73,3,3,0,2,81,383,48,21,6,15,473

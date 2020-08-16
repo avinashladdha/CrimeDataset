@@ -1,0 +1,7 @@
+Category (Col.1),Crime Head (Col.2),Cases Pending Trial from the Previous Year (Col.3),Cases Sent for Trial During the Year (Col.4),Total Cases for Trial During the Year (Col.5) = (Col.3+4),No. of Cases Withdrawn by the Govt. (Col.6),No. of Cases Disposed by Plea Bargaining (Col.7),Cases Compounded (Col.8),Cases in Which Trials were Completed (Col.9) = (Col. 10+11),Cases Convicted (Col.10),Cases Acquitted or Discharged (Col.11),Cases Disposed off by Courts (Col.12) = (Col.6+Col.7 +Col.8+Col.9),Cases Pending Trial at the End of the Year (Col.13) = (Col.5 NA Col.12),Conviction Rate (Col.14) = (Col.10/ Col.9) * 100,Pendency Percentage (Col.15) = (Col.13/ Col.5) * 100
+Environment Related Offences,"Forest Act, 1927",18323,3407,21730,0,0,2,3210,2590,620,3212,18518,80.7,85.2
+Environment Related Offences,"Wildlife Protection Act, 1972",1698,605,2303,0,0,0,207,148,59,207,2096,71.5,91
+Environment Related Offences,"Environmental (Protection) Act, 1986",411,67,478,0,0,0,33,27,6,33,445,81.8,93.1
+Environment Related Offences,"Air (Prevention & Control of Pollution) Act, 1981",47,26,73,0,0,0,1,0,1,1,72,0,98.6
+Environment Related Offences,"Water (Prevention & Control of Pollution) Act, 1974",11,9,20,0,0,0,6,3,3,6,14,50,70
+Total Environment Related Offences,Total Environment Related Offences,20490,4114,24604,0,0,2,3457,2768,689,3459,21145,80.1,85.9

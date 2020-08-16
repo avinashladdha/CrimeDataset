@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,Gain - Murder,Gain - Culpable Homocide Not Ampunting to Murder (C.H.),Dispute Over Property - Murder,Dispute Over Property - Culpable Homocide Not Ampunting to Murder (C.H.),Personal Venedetta or Enmity - Murder,Personal Venedetta or Enmity - Culpable Homocide Not Ampunting to Murder (C.H.),Sexual Causes - Murder,Sexual Causes - Culpable Homocide Not Ampunting to Murder (C.H.),Sudden Provocation - Murder,Sudden Provocation - Culpable Homocide Not Ampunting to Murder (C.H.),Lunacy - Murder,Lunacy - Culpable Homocide Not Ampunting to Murder (C.H.),Other Causes - Murder,Other Causes - Culpable Homocide Not Ampunting to Murder (C.H.),Total - Murder,Total - Culpable Homocide Not Ampunting to Murder (C.H.)
+1,State,Andhra Pradesh,666,7,20,NA,259,NA,26,NA,70,2,3,3,555,9,1599,21
+2,State,Arunachal Pradesh,1,NA,2,NA,7,NA,5,NA,8,1,NA,NA,25,1,48,2
+3,State,Assam,68,13,93,11,70,NA,15,NA,92,2,1,A,381,11,720,37
+4,State,Bihar,109,91,178,140,664,159,435,40,2,3,179,11,1903,169,3470,613
+5,State,Gujarat,33,NA,103,NA,112,NA,127,NA,202,3,2,A,600,14,1179,17
+6,State,Haryana,30,6,91,20,76,4,36,1,61,49,NA,10,123,20,417,110
+7,State,Himachal Pradesh,4,NA,9,2,3,2,14,1,9,3,NA,NA,20,10,59,18
+8,State,Jammu & Kashmir,5,NA,14,NA,19,NA,8,NA,6,NA,NA,NA,35,9,87,9
+9,State,Karnataka,82,NA,147,NA,146,NA,134,NA,70,4,5,NA,487,19,1071,23
+10,State,Kerala,24,NA,40,NA,245,15,8,NA,28,8,3,NA,187,13,535,36
+11,State,Madhya Pradesh,270,NA,190,NA,368,NA,96,NA,130,12,34,2,1562,26,2650,40
+12,State,Maharashtra,124,5,146,6,251,10,296,7,376,7,6,NA,1023,74,2222,109
+13,State,Manipur,5,NA,2,NA,11,NA,4,NA,21,2,4,NA,23,2,70,4
+14,State,Meghalaya,6,NA,NA,NA,7,NA,1,NA,10,2,NA,NA,74,2,98,4
+15,State,Mizoram,17,NA,NA,NA,NA,NA,NA,NA,12,3,NA,NA,8,1,37,4
+16,State,Nagaland,2,NA,2,NA,13,NA,NA,NA,1,NA,NA,NA,32,3,50,3
+17,State,Orissa,26,NA,45,2,107,5,41,NA,188,11,NA,NA,232,41,639,59
+18,State,Punjab,18,3,95,10,69,7,55,15,163,56,NA,NA,701,68,1101,159
+19,State,Rajasthan,65,NA,86,NA,330,7,18,NA,37,2,6,NA,570,42,1112,51
+20,State,Sikkim,NA,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,2,1,4,2
+21,State,Tamil Nadu,68,NA,126,NA,236,NA,161,NA,82,2,1,NA,748,20,1422,22
+22,State,Tripura,54,NA,22,NA,5,NA,NA,NA,16,1,NA,NA,30,NA,127,1
+23,State,Uttar Pradesh,718,231,871,206,2523,575,339,39,207,117,101,51,2077,832,6836,2051
+24,State,West Bengal,298,95,214,120,277,112,60,6,45,55,2,NA,474,197,1372,585
+Total (States),State,Total (States),2693,451,2946,517,5800,897,1880,109,1837,345,347,77,11872,1584,26925,3980
+25,UT,A & N Islands,NA,NA,1,NA,4,NA,NA,NA,6,NA,NA,NA,1,2,12,2
+26,UT,Chandigarh,2,NA,1,NA,3,NA,NA,NA,1,NA,NA,NA,2,NA,9,NA
+27,UT,D & N Haveli,NA,NA,1,NA,NA,NA,1,NA,1,NA,NA,NA,3,NA,6,NA
+28,UT,Delhi,14,4,37,31,66,44,13,NA,51,52,NA,NA,95,73,276,204
+29,UT,"Goa, Daman & Diu",5,NA,2,NA,4,1,3,NA,2,4,NA,NA,11,4,27,9
+30,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,UT,Pondicherry,2,NA,2,NA,4,NA,1,NA,1,NA,NA,NA,4,NA,14,NA
+Total (UTs),UT,Total (UTs),23,4,44,31,81,45,18,NA,62,56,NA,NA,116,79,344,215
+All India,All India,All India,2716,455,2540,548,5881,942,1898,109,1899,401,347,77,11988,1663,27269,4195
+1,City,Ahmedabad,NA,NA,NA,NA,9,NA,5,NA,13,NA,NA,NA,84,4,111,4
+2,City,Bangalore,6,NA,NA,NA,13,NA,2,NA,10,NA,NA,NA,38,3,69,3
+3,City,Bombay,17,NA,20,NA,65,NA,11,NA,96,NA,1,NA,87,NA,297,NA
+4,City,Calcutta,6,2,13,2,32,3,NA,NA,NA,4,NA,NA,18,3,69,14
+5,City,Delhi,11,2,31,27,56,34,12,NA,40,40,NA,NA,77,62,227,165
+6,City,Hyderabad,2,NA,1,NA,13,NA,2,NA,NA,NA,1,NA,31,NA,50,NA
+7,City,Jaipur,3,NA,2,NA,6,NA,1,NA,5,2,NA,NA,17,1,34,3
+8,City,Kanpur,36,NA,6,NA,NA,11,7,1,3,NA,NA,NA,81,25,133,37
+9,City,Lucknow,1,NA,5,NA,11,3,9,NA,NA,NA,NA,NA,52,19,78,22
+10,City,Madras,2,NA,NA,NA,16,NA,9,NA,5,NA,NA,NA,32,2,64,2
+11,City,Nagpur,2,NA,3,NA,9,NA,5,NA,21,NA,NA,NA,36,7,76,7
+12,City,Pune,5,NA,3,1,6,NA,5,NA,11,1,1,NA,34,NA,65,2
+Total (Cities),City,Total (Cities),91,4,84,30,236,51,68,1,204,47,3,NA,587,126,1273,259

@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts./Cities,Juveniles Sent to Courts,Restored to Guardians,On Probation,To Reformatories and Borstals,To Schools and Institutions,To Adult Institutions/Jails,Otherwise Disposed of,Pending Disposal
+1,State,Andhra Pradesh,1873,43,59,39,42,17,1621,52
+2,State,Assam,1278,NA,59,NA,NA,400,419,400
+3,State,Bihar,2088,62,111,56,23,284,496,1056
+4,State,Gujarat,20433,261,69,17,5,235,13457,6389
+5,State,Haryana,1286,266,35,1,NA,262,168,554
+6,State,Himachal Pradesh,362,2,20,2,NA,1,145,192
+7,State,Jammu and Kashmir,100,NA,NA,NA,NA,NA,70,30
+8,State,Kerala,208,19,22,35,39,19,42,32
+9,State,Madhya Pradesh,12958,33,69,23,14,284,6116,6419
+10,State,Maharashtra,19779,1001,73,61,104,5099,4999,8442
+11,State,Manipur,86,NA,11,NA,NA,NA,47,28
+12,State,Mysore,3195,195,64,136,118,466,2099,117
+13,State,Nagaland,288,4,39,NA,NA,NA,2,243
+14,State,Orissa,595,118,179,NA,NA,256,NA,42
+15,State,Punjab,844,NA,74,1,1,192,421,155
+16,State,Rajasthan,1694,163,179,27,2,1,520,802
+17,State,Tamil Nadu,14023,7077,1652,504,247,702,3612,229
+18,State,Tripura,NA,NA,NA,NA,NA,NA,NA,NA
+19,State,Uttar Pradesh,1551,225,202,52,7,101,59,905
+20,State,West Bengal,3924,183,90,86,15,195,3079,276
+Total (States),State,Total (States),86565,9652,3007,1040,617,8514,37372,26363
+21,UT,A & N Islands,5,NA,NA,NA,NA,NA,NA,5
+22,UT,Chandigarh,100,NA,NA,NA,NA,10,65,25
+23,UT,D & N Haveli,16,NA,NA,NA,NA,7,2,7
+24,UT,Delhi,3372,1011,4,4,784,375,294,900
+25,UT,"Goa, Daman & Diu",86,2,10,NA,1,18,1,54
+26,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Pondicherry,105,NA,7,20,3,69,2,4
+Total (UTs),UT,Total (UTs),3684,1013,21,24,788,479,364,995
+Total (All-India),Total (All-India),Total (All-India),90249,10665,3028,1064,1405,8993,37736,27358
+1,City,Ahmedabad,2611,54,NA,NA,NA,NA,2180,377
+2,City,Bangalore,2818,NA,NA,72,6,145,2595,NA
+3,City,Bombay,1803,630,22,8,13,11,248,871
+4,City,Calcutta,277,157,NA,47,NA,NA,61,12
+5,City,Delhi,3372,1011,4,4,784,375,294,900
+6,City,Hyderabad,484,NA,NA,151,NA,NA,285,48
+7,City,Kanpur,213,1,26,NA,NA,12,NA,174
+8,City,Madras,1681,1510,60,NA,NA,NA,111,NA
+Total (Cities),City,Total (Cities),13259,3363,112,282,803,543,5774,2382

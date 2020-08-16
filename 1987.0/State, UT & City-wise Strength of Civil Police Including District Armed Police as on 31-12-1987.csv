@@ -1,0 +1,49 @@
+SL. No.,Category,State/U.Ts/Cities,Number of DG/IG/DIG/SP,Number of ASP & DSP,Number of Inspector & S.I.,Number of Officers Below S.I.,Total
+1,State,Andhra Pradesh,126,204,3282,41888,45500
+2,State,Arunachal Pradesh,9,17,225,1899,2150
+3,State,Assam,118,281,3198,24118,27715
+4,State,Bihar,181,373,6216,48906,55676
+5,State,Goa,3,9,96,1693,1801
+6,State,Gujarat,86,138,2637,45334,48195
+7,State,Haryana,18,47,460,13525,14050
+8,State,Himachal Pradesh,56,69,373,6666,7164
+9,State,Jammu & Kashmir,66,109,936,15696,16807
+10,State,Karnataka,87,156,2356,37549,40148
+11,State,Kerala,58,139,1438,25439,27074
+12,State,Madhya Pradesh,181,465,4107,52738,57491
+13,State,Maharashtra*,141,376,6760,94482,101759
+14,State,Manipur,30,33,316,3969,4348
+15,State,Meghalaya,22,16,405,4266,4709
+16,State,Mizoram,10,28,210,1732,1980
+17,State,Nagaland,29,36,327,6098,6490
+18,State,Orissa,119,188,2619,22822,25748
+19,State,Punjab,115,122,1493,27036,28766
+20,State,Rajasthan,75,315,2320,37746,40456
+21,State,Sikkim,13,13,120,1527,1673
+22,State,Tamil Nadu,78,329,5462,46411,52280
+23,State,Tripura,16,44,568,5484,6112
+24,State,Uttar Pradesh,318,678,11861,110029,122886
+25,State,West Bengal,120,211,5895,38800,45026
+Total (States),State,Total (States),2075,4396,63680,715853,786004
+26,UT,A & N Islands,3,8,70,1150,1231
+27,UT,Chandigarh,3,7,114,1513,1637
+28,UT,D & N Haveli,NA,1,5,108,114
+29,UT,Daman & Diu,NA,1,6,6,13
+30,UT,Delhi,48,128,2886,22610,25672
+31,UT,Lakshadweep,1,1,14,280,296
+32,UT,Pondicherry,3,12,79,885,979
+Total (UTs),UT,Total (UTs),58,158,3174,2655,29942
+Total (All India),Total (All India),Total (All India),2133,4554,66854,742405,815946
+1,City,Ahmedabad,15,13,428,6070,6580
+2,City,Bangalore,8,17,454,7149,7628
+3,City,Bombay @,23,78,4316,25083,29500
+4,City,Calcutta,21,43,1542,10794,12400
+5,City,Delhi,48,128,2886,22610,25672
+6,City,Hyderabad,14,30,525,4755,5324
+7,City,Jaipur,1,11,213,3083,3308
+8,City,Kanpur,2,13,475,3690,4180
+9,City,Lucknow,4,12,457,4654,5127
+10,City,Madras,12,46,796,8281,9135
+11,City,Nagpur,5,12,212,4605,4834
+12,City,Pune,6,12,259,4563,4840
+Total (Cities),City,Total (Cities),159,415,12617,105337,118528

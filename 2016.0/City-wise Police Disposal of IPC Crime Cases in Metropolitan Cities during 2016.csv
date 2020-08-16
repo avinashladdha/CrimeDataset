@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Cases Pending Investigation from Previous Year (Col.3),Cases Reported during the Year (Col.4),Total Cases for Investigation (Col.5) = (Col. 3+ Col.4),Cases Withdrawn by Govt. (Col.6),Cases Transferred to other PS or Magistrate (Col.7),Cases not Investigated U/S 157(1)(b) of Cr.PC (Col.8),Final Report - True but Insufficient Evidence (Col.9),Final Report - False (Col.10),Final Report - Mistake of Fact (Col.11),Final Report - Non-Cognizable (Col.12),Final Report - Total (Col.13) = (Col.9+ Col.10+ Col.11+ Col.12),Cases in which Chargesheets were Submitted (Col.14),Total Cases Disposed off by Police (Col.15) = (Col. 7+8+13+14),Cases Pending Investigation at the End of the Year (Col.16) = (Col. 5 - (Col.6+ Col.15)),Chargesheeting Rate (Col.17) = (Col.14/ Col.15) * 100,Pendency Percentage (Col.18) = (Col.16/ (Col.5)) * 100
+1,Ahmedabad (Gujarat),2460,16383,18843,25,3,0,2421,37,142,0,2600,13872,16475,2343,84.2,12.4
+2,Bengaluru (Karnataka),18974,45797,64771,0,482,9,10534,1585,528,0,12647,29375,42513,22258,69.9,34.4
+3,Chennai (Tamil Nadu),11671,16870,28541,0,3,0,2176,0,0,0,2176,10227,12406,16135,82.5,56.5
+4,Coimbatore (Tamil Nadu),2108,3216,5324,2,10,0,1089,15,224,0,1328,2954,4292,1030,69,19.3
+5,Delhi,115142,199445,314587,20,294,80,109544,1018,6012,0,116574,44195,161143,153424,27.5,48.8
+6,Ghaziabad (Uttar Pradesh),1045,8105,9150,0,0,0,4784,231,0,0,5015,2622,7637,1513,34.3,16.5
+7,Hyderabad (Telangana),11253,16742,27995,1,106,0,4776,303,1248,16,6343,12968,19417,8577,67.2,30.6
+8,Indore (Madhya Pradesh),1302,13827,15129,0,0,20,4889,256,0,0,5145,8982,14147,982,63.5,6.5
+9,Jaipur (Rajasthan),3817,23247,27064,0,52,0,7652,2165,5093,419,15329,8611,23992,3072,36,11.4
+10,Kanpur (Uttar Pradesh),1854,5911,7765,0,0,0,2527,104,0,0,2631,3375,6006,1759,56.2,22.7
+11,Kochi (Kerala),1002,16052,17054,0,0,0,620,2,3,0,625,15680,16305,749,96.2,4.4
+12,Kolkata (West Bengal),10247,22519,32766,0,0,0,4338,0,0,0,4338,12524,16862,15904,74.3,48.5
+13,Kozhikode (Kerala),1914,8136,10050,0,3,0,405,48,15,0,468,7833,8304,1746,94.4,17.4
+14,Lucknow (Uttar Pradesh),3221,15960,19181,0,0,0,7829,343,0,0,8172,6041,14213,4968,42.5,25.9
+15,Mumbai (Maharashtra),67462,39617,107079,4,120,0,11967,395,1020,28,13410,25980,39510,67565,66,63.1
+16,Nagpur (Maharashtra),5484,11711,17195,3,0,0,3525,34,453,41,4053,8244,12297,4895,67,28.5
+17,Patna (Bihar),9121,13957,23078,1,0,0,4733,1871,168,116,6888,6274,13162,9915,47.7,43
+18,Pune (Maharashtra),7991,16296,24287,1,10,0,5312,115,789,51,6267,8918,15195,9091,58.7,37.4
+19,Surat (Gujarat),185,19844,20029,6,1,0,1259,5,127,1,1392,18508,19901,122,93,0.6
+Total Cities,Total Cities,276253,513635,789888,63,1084,109,190380,8527,15822,672,215401,247183,463777,326048,53.3,41.3

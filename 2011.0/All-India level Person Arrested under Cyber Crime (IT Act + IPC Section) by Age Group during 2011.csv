@@ -1,0 +1,24 @@
+Sl. No.,Category,Crime Head,Below 18 Years,Between 18 – 30 Years,Between 30 –45 Years,Between 45 – 60 Years,Above 60 Years,Total (All Age Groups)
+1,Offences under IT Act,Tampering computer source documents,1,38,19,7,1,66
+2,Offences under IT Act,Hacking with Computer Systems - Loss/damage to computer resource/utility,8,260,182,36,1,487
+3,Offences under IT Act,Hacking with Computer Systems - Hacking,0,38,27,0,0,65
+4,Offences under IT Act,Obscene publication/transmission in electronic form,14,283,113,31,2,443
+5,Offences under IT Act,Failure Of compliance/orders of certifying Authority,0,1,2,1,0,4
+6,Offences under IT Act,Failure To assist in decrypting the information intercepted by Govt. Agency,0,0,0,0,0,0
+7,Offences under IT Act,Un-authorised access/attempt to access of protected Computer system,0,11,3,1,0,15
+8,Offences under IT Act,Obtaining License or Digital Signature Certificate by misrepresentation/suppression of fact,0,0,0,0,0,0
+9,Offences under IT Act,Publishing false digital Signature Certificate,0,1,0,0,0,1
+10,Offences under IT Act,Fraud Digital Signature Certificate,0,7,1,0,0,8
+11,Offences under IT Act,Breach of confidentiality/privacy,0,13,10,4,0,27
+12,Offences under IT Act,Other,2,43,19,3,1,68
+13,Offences under IT Act,Total (Offences under IT Act),25,695,376,83,5,1184
+14,Offences under IPC,Offences by/Against Public Servant,0,3,0,0,0,3
+15,Offences under IPC,False electronic evidence,0,1,0,0,0,1
+16,Offences under IPC,Destruction of electronic evidence,0,4,2,4,0,10
+17,Offences under IPC,Forgery,12,129,97,33,6,277
+18,Offences under IPC,Criminal Breach of Trust/Fraud,3,40,65,19,2,129
+19,Offences under IPC,Counterfeiting Property/mark,0,2,6,0,0,8
+20,Offences under IPC,Counterfeiting Tampering,1,4,2,0,0,7
+21,Offences under IPC,Counterfeiting Currency/Stamps,0,5,6,0,0,11
+22,Offences under IPC,Total( Offences under IPC),16,188,178,56,8,446
+Grant Total,Grant Total,Grant Total ,41,883,554,139,13,1630

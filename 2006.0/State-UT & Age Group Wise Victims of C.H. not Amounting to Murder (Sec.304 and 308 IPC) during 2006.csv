@@ -1,0 +1,39 @@
+Sr. No.,Category,States/UTs,Number of Victims Upto 10 Years - Male,Number of Victims Upto 10 Years - Female,Number of Victims Upto 10 Years - Total,Number of Victims 10-15 Years - Male,Number of Victims 10-15 Years - Female,Number of Victims 10-15 Years - Total,Number of Victims 15-18 Years - Male,Number of Victims 15-18 Years - Female,Number of Victims 15-18 Years - Total,Number of Victims 18-30 Years - Male,Number of Victims 18-30 Years - Female,Number of Victims 18-30 Years - Total,Number of Victims 30-50 Years - Male,Number of Victims 30-50 Years - Female,Number of Victims 30-50 Years - Total,Number of Victims Above 50 Years - Male,Number of Victims Above 50 Years - Female,Number of Victims Above 50 Years - Total,Number of Victims Total of All Age Groups - Male,Number of Victims Total of All Age Groups - Female,Number of Victims Total of All Age Groups - Total
+1,State,Andhra Pradesh,0,1,1,2,0,2,2,2,4,60,7,67,51,7,58,5,4,9,120,21,141
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,3,0,3
+3,State,Assam,0,0,0,0,0,0,0,0,0,18,0,18,14,0,14,0,0,0,32,0,32
+4,State,Bihar,0,0,0,0,0,0,0,0,0,174,20,194,112,8,120,12,0,12,298,28,326
+5,State,Chhattisgarh,1,0,1,2,0,2,0,0,0,5,2,7,9,3,12,2,0,2,19,5,24
+6,State,Goa,0,0,0,1,0,1,0,0,0,0,0,0,1,1,2,0,0,0,2,1,3
+7,State,Gujarat,0,0,0,1,0,1,1,0,1,5,6,11,12,1,13,1,0,1,20,7,27
+8,State,Haryana,0,3,3,0,0,0,3,0,3,18,4,22,22,4,26,4,1,5,47,12,59
+9,State,Himachal Pradesh,0,0,0,0,0,0,0,0,0,6,2,8,13,0,13,0,0,0,19,2,21
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,21,2,23,12,4,16,1,0,1,34,6,40
+11,State,Jharkhand,0,0,0,3,0,3,7,3,10,34,9,43,34,4,38,3,0,3,81,16,97
+12,State,Karnataka,3,1,4,0,1,1,2,0,2,30,4,34,25,1,26,4,0,4,64,7,71
+13,State,Kerala,1,4,5,4,0,4,1,0,1,26,3,29,52,5,57,18,3,21,102,15,117
+14,State,Madhya Pradesh,12,3,15,2,3,5,7,0,7,38,4,42,44,8,52,16,1,17,119,19,138
+15,State,Maharashtra,2,5,7,4,0,4,1,0,1,40,8,48,32,8,40,10,0,10,89,21,110
+16,State,Manipur,0,0,0,0,0,0,0,0,0,3,0,3,1,0,1,0,0,0,4,0,4
+17,State,Meghalaya,0,1,1,0,0,0,0,0,0,4,1,5,2,0,2,0,0,0,6,2,8
+18,State,Mizoram,0,0,0,0,0,0,1,0,1,3,1,4,4,1,5,0,0,0,8,2,10
+19,State,Nagaland,0,1,1,0,0,0,0,0,0,5,0,5,2,0,2,0,0,0,7,1,8
+20,State,Orissa,0,0,0,0,0,0,0,0,0,26,9,35,14,9,23,0,0,0,40,18,58
+21,State,Punjab,1,2,3,4,0,4,6,2,8,70,26,96,62,13,75,8,1,9,151,44,195
+22,State,Rajasthan,0,0,0,2,0,2,3,3,6,22,9,31,32,4,36,2,2,4,61,18,79
+23,State,Sikkim,1,0,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,3,0,3
+24,State,Tamil Nadu,1,0,1,1,0,1,1,0,1,7,0,7,8,0,8,4,0,4,22,0,22
+25,State,Tripura,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+26,State,Uttar Pradesh,6,3,9,22,13,35,59,13,72,528,63,591,616,72,688,133,15,148,1364,179,1543
+27,State,Uttaranchal,0,0,0,0,0,0,0,0,0,19,0,19,18,2,20,1,0,1,38,2,40
+28,State,West Bengal,0,0,0,0,0,0,0,0,0,208,23,231,134,16,150,17,4,21,359,43,402
+State,State,Total (States),28,24,52,49,17,66,94,23,117,1371,203,1574,1330,171,1501,241,31,272,3113,469,3582
+29,Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1
+30,Union Territory,Chandigarh,0,0,0,0,0,0,0,0,0,5,0,5,2,1,3,0,0,0,7,1,8
+31,Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,0,2,2,0,0,0,3,0,3,28,5,33,34,4,38,2,0,2,67,11,78
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union Territory,Pondicherry,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,3,0,3
+Union Territory,Union Territory,Total (UTs),0,2,2,0,0,0,3,0,3,34,7,41,37,5,42,3,0,3,77,14,91
+Total (All-India),Total (All-India),Total (All-India),28,26,54,49,17,66,97,23,120,1405,210,1615,1367,176,1543,244,31,275,3190,483,3673

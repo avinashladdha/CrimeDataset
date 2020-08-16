@@ -1,0 +1,13 @@
+S.No. (Col.1),Crime Head (Col.2),Cases Pending Investigation from Previous Year (Col.3),Cases Reported during the Year (Col.4),Total Cases For Investigation (Col.5) = (Col. 3+4),Number of Cases Withdrawn by the Govt. (Col.6),Cases Transferred to Other Police Station or Magistrate (Col.7),Cases not Investigated U/s 157(1)(b) Of Cr.pc (Col.8),Final Report - True But Insufficient Evidence (Col.9),Final Report - False (Col.10),Final Report - Mistake of Fact (Col.11),Final Report - Non-Cognizable (Col.12),Final Report - Total (Col.13) = (Col.9+ Col.10 +Col.11+ Col.12),Cases in which Chargesheets were Submitted (Col.14),Total Cases Disposed off by Police (Col.15) = (Col. 7+8+13 +14),Cases Pending Investigation at the End of the Year (Col.16) = (Col. 5-(Col.6+15)),Chargesheeting Rate (Col.17) = (Col.14/ Col.15) * 100,Pendency Percentage (Col.18) = (Col.16/ (Col.5)) * 100
+1,Murder,493,1055,1548,0,3,0,56,10,1,2,69,988,1060,488,93.2,31.5
+2,Culpable Homicide not Amounting to Murder,33,93,126,0,0,0,4,3,0,0,7,78,85,41,91.8,32.5
+3,Attempt to Commit Murder,160,439,599,0,0,0,6,7,2,5,20,359,379,220,94.7,36.7
+4,Attempt to Commit Culpable Homicide,18,75,93,0,0,0,0,2,0,0,2,67,69,24,97.1,25.8
+5,Grievous Hurt,282,920,1202,1,0,0,4,12,0,3,19,891,910,291,97.9,24.2
+6,Rape,24,34,58,0,0,0,2,1,1,0,4,41,45,13,91.1,22.4
+7,Extortion,49,96,145,0,1,0,8,8,1,0,17,65,83,62,78.3,42.8
+8,Robbery,964,1024,1988,0,0,0,315,1,16,2,334,584,918,1070,63.6,53.8
+9,Dacoity,27,39,66,0,0,0,6,3,1,0,10,36,46,20,78.3,30.3
+10,Cheating,1799,1941,3740,0,4,0,482,77,96,14,669,712,1385,2355,51.4,63
+11,Other IPC Crimes,5316,15694,21010,0,6,0,1348,508,196,84,2136,12070,14212,6798,84.9,32.4
+Total Crimes against Senior Citizen,Total Crimes against Senior Citizen,9165,21410,30575,1,14,0,2231,632,314,110,3287,15891,19192,11382,82.8,37.2

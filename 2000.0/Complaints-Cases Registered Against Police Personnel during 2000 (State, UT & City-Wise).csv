@@ -1,0 +1,60 @@
+SI.No.,State/UT/City,No. of Complaints Received /Alleged During the Year,Complaints Received /Cases Registered No. of Inquiry instituted- Departmental,Complaints Received /Cases Registered No. of Inquiry instituted- Magisterial,Complaints Received /Cases Registered No. of Inquiry instituted- Judicial,Complaints received /Cases registered- Complaints/Cases declared Failse/Unsubstantiated,Complaints received /Cases Registerede - No. of Cases registered during the Year,Complaints received /Cases registered - No. of Cases reported for regular Deptt. Action,Complaints received /Cases registered - No. of Cases sent up Trials/ Chargesheeted,Police Personnel Involved/Action taken - No. of Police Personnel sent up for Trial during the year,Police Personnel Involved/Action taken - No. of Police Personnel in whose Cases Withdrawn or otherwise disposed of,Police Personnel Involved/Action taken - No. of Police Personnel in whose cases Trial was Completed,Police Personnel Involved/Action Taken - No. of Police Personnel Convicted,Police Personnel Involved/Action Taken - No. of Police Personnel Acquitted,Departmental Action/Punishment- No. of Police Personnel- Against whom Displinary Action Initiated,Departmental Action/Punishment- No. of Police Personnel- in whose cases Withdrawn or otherwise Disposed of,Departmental Action/Punishment - No. of Police Personnel -in whose Cases Trial was Completed,Departmental Action/Punishment - No. of Police Personnel- Dismissed / Removed from Service,Departmental Action/Punishment - No. of Police Personnel against- Major Punishment awarded,Departmental Action/Punishment - No. of Police Personnel -Minor Punishment awarded
+1,Andhra Pradesh,1275,1087,0,25,59,444,231,127,140,10,9,2,7,1813,670,11,33,220,1512
+2,Arunachal Pradesh,51,28,0,0,1,30,27,19,19,1,1,0,1,74,9,3,1,6,12
+3,Assam,22,19,1,3,3,11,3,6,10,1,11,0,11,60,16,13,1,9,55
+4,Bihar,118,8,0,62,3,55,2,19,141,14,1,1,0,1503,242,375,7,446,390
+5,Goa,45,43,0,2,0,2,0,2,2,0,3,0,3,70,40,27,0,4,23
+6,Gujarat,1926,1100,76,69,1219,388,426,325,390,27,30,5,25,1454,98,478,72,238,12177
+7,Haryana,1307,285,0,2,1214,1,0,1,1,0,0,0,0,15,0,0,1,5,7
+8,Himachal Pradesh,244,67,1,0,197,11,1,7,6,3,0,0,0,141,3,20,2,49,113
+9,Jammu & Kashmir,256,343,0,0,62,11,1,9,5,7,0,0,0,1192,509,375,53,333,963
+10,Karnataka,2356,289,3,12,24,81,279,43,58,5,2,0,2,1232,148,220,22,39,930
+11,Kerala,1959,1704,1,9,996,120,70,50,50,8,4,1,3,748,88,186,9,52,323
+12,Madhya Pradesh,21450,1295,2,0,20153,36,0,36,36,1,3,0,3,2032,109,1923,78,808,1037
+13,Maharashtra,9347,1934,48,138,3571,528,278,248,288,23,42,10,32,789,90,207,90,590,9075
+14,Manipur,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+15,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,9,4,3,0,38,8
+16,Mizoram,3,2,1,0,0,3,0,3,3,0,2,1,1,60,1,55,6,37,12
+17,Nagaland,5,2,1,1,1,5,0,4,4,1,2,0,2,22,3,11,0,10,0
+18,Orissa,72,21,0,38,12,44,25,24,30,9,6,1,5,30,2,2,1,0,6
+19,Punjab,8141,2039,35,44,7764,106,79,22,70,5,13,1,12,1472,69,642,137,1312,1106
+20,Rajasthan,2235,1220,13,3,999,381,109,26,52,8,2,0,2,6882,1834,4679,87,4234,358
+21,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,24,3,0,0,10,11
+22,Tamil Nadu,2155,95,12,36,10,102,96,52,37,12,9,2,7,1100,309,368,38,391,608
+23,Tripura,5,5,0,0,7,5,0,0,0,0,0,0,0,42,0,12,3,27,1
+24,Uttar Pradesh,7353,1460,38,5,5850,1478,1368,110,187,11,8,1,7,1814,235,1579,23,168,1388
+25,West Bengal,72,69,0,3,0,20,6,11,12,4,2,0,2,262,39,3,0,4,222
+Total States,Total States,60398,13116,232,452,42145,3862,3001,1145,1541,150,150,25,125,22840,4521,11192,664,9030,30338
+26,A & N Islands,14,5,0,0,0,14,5,7,7,0,1,1,0,30,3,31,3,9,19
+27,Chandigarh,6,0,0,0,0,6,0,0,0,1,0,0,0,208,5,114,8,33,9
+28,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Daman & DIU,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+30,Delhi,7737,613,0,0,463,169,89,5,5,0,0,0,0,89,0,0,129,441,1850
+31,Lakshadweep,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,Pondicherry,4,0,4,0,0,4,0,3,3,0,0,0,0,43,13,10,2,1,17
+Total (Uts),Total (Uts),7762,618,4,0,463,194,94,15,15,2,1,1,0,375,21,155,142,484,1895
+Total (All -India),Total (All -India),68160,13734,236,452,42608,4056,3095,1160,1556,152,151,26,125,23215,4542,11347,806,9514,32233
+33,Ahmedabad,655,586,69,0,586,69,69,54,61,0,0,0,0,75,0,0,0,74,0
+34,Bangalore,11,4,3,0,0,10,1,6,6,1,0,0,0,7,0,0,2,0,3
+35,Bhopal,271,17,0,0,230,0,24,0,0,0,0,0,0,52,0,41,0,1,40
+36,Calcutta,24,21,3,0,0,24,21,3,3,3,0,0,0,21,0,0,0,1,20
+37,Chennai,13,0,0,0,0,11,2,5,5,4,2,0,2,4,0,4,0,4,0
+38,Coimbatore,7737,613,0,0,463,169,89,5,5,0,0,0,0,89,0,0,129,441,1850
+39,Delhi,54,3,0,0,31,20,4,14,14,1,0,0,0,25,12,0,0,0,6
+40,Hyderabad,1804,2,0,0,1763,0,2,2,0,0,10,10,0,0,0,0,0,4,6
+41,Indore,6,6,0,0,6,2,2,0,0,0,0,0,0,115,94,0,0,106,101
+42,Jaipur,796,175,5,4,612,20,172,7,7,1,0,0,0,250,35,460,5,8,20
+43,Kanpur,7,7,0,0,0,7,0,5,5,0,0,0,0,0,0,0,0,0,0
+44,Kochi,0,0,0,0,0,4,0,1,1,0,0,0,0,5,0,0,0,0,0
+45,Lucknow,245,56,10,0,179,66,51,15,20,0,0,0,0,78,15,63,0,7,56
+46,Ludhiana,27,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,2,61,9
+47,Madurai,5,0,0,5,0,5,0,5,7,0,0,0,0,7,0,0,0,0,0
+48,Mumbai,44,18,26,0,0,44,18,26,26,0,8,0,8,58,12,0,0,12,27
+49,Nagpur,102,101,0,0,81,16,0,14,14,0,11,0,11,33,0,22,11,2,9
+50,Patna,15,0,0,15,0,0,0,5,5,1,0,0,0,0,0,0,0,0,0
+51,Pune,254,254,0,0,237,14,1,10,10,0,0,0,0,41,0,16,5,10,1
+52,Surat,43,15,0,28,0,28,15,28,28,0,0,0,0,65,0,0,19,31,10660
+53,Vadodra,82,82,0,0,81,16,1,15,15,0,0,0,0,30,0,29,2,13,7
+54,Varanasi,75,10,2,0,63,12,10,2,7,0,0,0,0,15,2,13,0,3,10
+55,Vishakhapatnam,5,0,0,0,0,5,0,5,5,0,0,0,0,5,0,0,0,0,0
+Total (Cities),Total (Cities),12275,1970,118,52,4359,542,482,227,244,11,31,10,21,975,170,648,175,778,12825

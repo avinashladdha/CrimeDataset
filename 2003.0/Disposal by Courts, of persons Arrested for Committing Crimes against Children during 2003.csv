@@ -1,0 +1,14 @@
+Sr. No. (Col.1),Crime Head (Col.2),Total No. Persons under arrest Including those from Previous Year (Col.3),No. of Persons whose - Cases Compounded or Withdrawn (Col.4),No. of Persons whose - Trial Completed (Col.5),Percentage of Persons - Trial Remained Pending (Col.6),Percentage of Persons - No. of Persons Convicted (Col.7),Percentage of Persons whose Trials Remained Pending = Col.( 6 ×100 / 3 (Col.8),Persons Convicted to Trials Completed (Col.9)= Col.(7 × 100 /5)
+1,Infanticide,327,0,85,242,49,74,57.6
+2,Murder,5939,19,996,4924,416,82.9,41.8
+3,Rape,9399,8,1498,7893,522,84,34.8
+4,Kid. & Abduction,10432,35,1688,8709,714,83.5,42.3
+5,Foeticide,121,2,22,97,4,80.2,18.2
+6,Abetment of Suicide,93,0,35,58,4,62.4,11.4
+7,Exposure and Abandonment,780,5,73,702,17,90,23.3
+8,Procuration of Minor Girls,566,9,123,434,25,76.7,20.3
+9,Buying of Girls for Prostitution,46,9,23,14,2,30.4,8.7
+10,Selling of Girls for Prostitution,296,29,24,243,6,82.1,25
+11,Child Marriage Restraint Act,1525,4,147,1374,61,90.1,41.5
+12,Other Crimes,16518,456,2979,13083,1351,79.2,45.4
+Total,Total,46042,576,7693,37773,3171,82,41.2

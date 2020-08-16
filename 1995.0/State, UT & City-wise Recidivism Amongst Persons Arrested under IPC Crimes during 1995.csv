@@ -1,0 +1,59 @@
+SL. No. (Col. 1),Category (Col. 2),State/UT/City (Col. 3),Total No. of Persons Arrested (Col. 4),New Offenders - Number (Col. 5),New Offenders - Percentage to Total (Col. 6),Old Offenders Convicted in the past - Once - Number (Col. 7),Old Offenders Convicted in the past - Once - Percentage to Total (Col. 8),Old Offenders Convicted in the past - Twice - Number (Col. 9),Old Offenders Convicted in the past - Twice - Percentage to Total (Col. 10),Old Offenders Convicted in the past - Thrice or More - Number (Col. 11),Old Offenders Convicted in the past - Thrice or More - Percentage to Total (Col. 12),Old Offenders Convicted in the past - Percentage of Recidivists (Col. 7+9+11) (Col. 13)
+1,State,Andhra Pradesh ,174489,160051,91.7,11881,6.8,2014,1.2,543,0.3,8.3
+2,State,Arunachal Pradesh ,2275,2275,100,0,0,0,0,0,0,0
+3,State,Assam,48231,47689,98.9,396,0.8,101,0.2,45,0.1,1.1
+4,State,Bihar,243109,229360,94.3,9580,3.9,2787,1.1,1382,0.6,5.7
+5,State,Goa,3676,3650,99.3,20,0.5,1,0,5,0.1,0.7
+6,State,Gujarat,157461,136283,86.6,19255,12.2,1294,0.8,629,0.4,13.4
+7,State,Haryana,53211,47671,89.6,3930,7.4,1095,2.1,515,1,10.4
+8,State,Himachal Pradesh,17171,14959,87.1,1475,8.6,620,3.6,117,0.7,12.9
+9,State,Jammu & Kashmir,15543,0,0,15543,100,0,0,0,0,100
+10,State,Karnataka ,174930,165456,94.6,8352,4.8,1019,0.6,103,0.1,5.4
+11,State,Kerala,137881,128998,93.6,8649,6.3,216,0.2,18,0,6.4
+12,State,Madhya Pradesh,303700,268591,88.4,30547,10.1,3825,1.3,737,0.2,11.6
+13,State,Maharashtra,269517,254840,94.6,9919,3.7,2621,1,2137,0.8,5.4
+14,State,Manipur,1337,1337,100,0,0,0,0,0,0,0
+15,State,Meghalaya,2184,1786,81.8,297,13.6,69,3.2,32,1.5,18.2
+16,State,Mizoram,1229,419,34.1,405,33,335,27.3,70,5.7,65.9
+17,State,Nagaland,1210,1068,88.3,97,8,30,2.5,15,1.2,11.7
+18,State,Orissa,91035,89969,98.8,523,0.6,450,0.5,93,0.1,1.2
+19,State,Punjab,16709,12393,74.2,3259,19.5,1000,6,57,0.3,25.8
+20,State,Rajasthan,213024,199243,93.5,11014,5.2,1834,0.9,933,0.4,6.5
+21,State,Sikkim ,740,735,99.3,4,0.5,1,0.1,0,0,0.7
+22,State,Tamil Nadu,195859,157202,80.3,22639,11.6,11116,5.7,4902,2.5,19.7
+23,State,Tripura,4111,3795,92.3,302,7.3,14,0.3,0,0,7.7
+24,State,Uttar Pradesh,290789,284194,97.7,4897,1.7,1394,0.5,304,0.1,2.3
+25,State,West Bengal ,118584,116135,97.9,1742,1.5,501,0.4,206,0.2,2.1
+Total (States),State,Total (States),2538005,2328099,91.7,164726,6.5,32337,1.3,12843,0.5,8.3
+26,UT,A & N Islands,445,445,100,0,0,0,0,0,0,0
+27,UT,Chandigarh,2939,2430,82.7,496,16.9,9,0.3,4,0.1,17.3
+28,UT,D & N Haveli,615,615,100,0,0,0,0,0,0,0
+29,UT,Daman & Diu,307,307,100,0,0,0,0,0,0,0
+30,UT,Delhi,42014,38969,92.8,2283,5.4,533,1.3,229,0.5,7.2
+31,UT,Lakshadweep,2,2,100,0,0,0,0,0,0,0
+32,UT,Pondicherry,3412,2912,85.3,462,13.5,17,0.5,21,0.6,14.7
+Total (UTs),UT,Total (UTs),49734,45680,91.8,3241,6.5,559,1.1,254,0.5,8.2
+Total (All-India),Total (All-India),Total (All-India),2587739,2373779,91.7,167967,6.5,32896,1.3,13097,0.5,8.3
+33,City,Ahmedabad ,14844,13373,90.1,1296,8.7,97,0.7,78,0.5,9.9
+34,City,Bangalore ,14335,14001,97.7,290,2,36,0.3,8,0.1,2.3
+35,City,Bhopal,15199,11607,76.4,3122,20.5,343,2.3,127,0.8,23.6
+36,City,Bombay,31941,21129,66.2,6910,21.6,2133,6.7,1769,5.5,33.8
+37,City,Calcutta,9129,8594,94.1,458,5,61,0.7,16,0.2,5.9
+38,City,Coimbatore,3692,3523,95.4,114,3.1,42,1.1,13,0.4,4.6
+39,City,Delhi,34057,31221,91.7,2117,6.2,513,1.5,206,0.6,8.3
+40,City,Hyderabad,8811,8203,93.1,413,4.7,118,1.3,77,0.9,6.9
+41,City,Indore,10451,8401,80.4,1855,17.7,175,1.7,20,0.2,19.6
+42,City,Jaipur,10332,9997,96.8,127,1.2,119,1.2,89,0.9,3.2
+43,City,Kanpur,7685,7214,93.9,232,3,199,2.6,40,0.5,6.1
+44,City,Kochi,5385,5336,99.1,48,0.9,1,0,0,0,0.9
+45,City,Lucknow,4909,4626,94.2,213,4.3,63,1.3,7,0.1,5.8
+46,City,Ludhiana,768,768,100,0,0,0,0,0,0,0
+47,City,Madras,8432,7319,86.8,716,8.5,225,2.7,172,2,13.2
+48,City,Madurai,5150,5126,99.5,13,0.3,7,0.1,4,0.1,0.5
+49,City,Nagpur,6251,6198,99.2,46,0.7,7,0.1,0,0,0.8
+50,City,Patna,7964,7760,97.4,195,2.4,5,0.1,4,0.1,2.6
+51,City,Pune,12903,12849,99.6,32,0.2,17,0.1,5,0,0.4
+52,City,Surat,5713,5009,87.7,428,7.5,86,1.5,190,3.3,12.3
+53,City,Vadodra,5584,4447,79.6,1088,19.5,28,0.5,21,0.4,20.4
+54,City,Varanasi,2691,2691,100,0,0,0,0,0,0,0
+55,City,Vishakhapatnam,2614,2375,90.9,165,6.3,48,1.8,26,1,0

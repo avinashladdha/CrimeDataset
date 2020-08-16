@@ -1,0 +1,28 @@
+SI.No.,Crime Head,Total No. of Cases for Trial Including Pending Cases,Cases withdrawn by Govt.,No. of Cases - Compounded or withdrawn,No. of Cases - in which trials were completed - convicted,No. of Cases - in which trials were completed - acquitted or discharged,No. of Cases - in which trials were completed - total [(6) +(7)],No. of Cases - Pending Trial
+1,Murder,167652,2,312,8397,15157,23554,143786
+2,Attempt to Commit Murder,137102,26,839,7131,13312,20443,115820
+3,C.H. Not Amounting Murder,17284,1,71,956,1479,2435,14778
+4,Rape,63621,1,151,3133,7385,10518,52952
+5,Kidnapping & Abduction,69150,6,516,3177,7597,10774,57860
+5,I) Of Women & Girls,48794,2,405,2217,5298,7515,40874
+5,II) Of Others,20356,4,111,960,2299,3259,16986
+6,Dacoity,35316,4,37,931,2572,3503,31776
+7,Preparation & Assembly for Dacoity,5648,1,10,187,519,706,4932
+8,Robbery,84080,5,181,3372,7145,10517,73382
+9,Burglary,246131,21,1620,13780,22615,36395,208116
+10,Theft,640632,176,3984,35995,53154,89149,547499
+10,I) Auto Theft,92873,0,393,5647,6103,11750,80730
+10,II) Other Theft,547759,176,3591,30348,47051,77399,466769
+11,Riots,414457,107,10794,15562,38393,53955,349708
+12,Criminal Breach of Trust,74493,3,597,2605,5459,8064,65832
+13,Cheating,126626,6,1243,4120,8989,13109,112274
+14,Counterfeiting,3252,1,12,173,348,521,2719
+15,Arson,32622,23,361,1178,3899,5077,27184
+16,Hurt,907427,39,60487,41336,82022,123358,723582
+17,Dowry Deaths,25945,0,190,1534,2598,4132,21623
+18,Molestation,120882,4,5579,5911,11982,17893,97410
+19,Sexual Harassment,24585,1,454,5158,2499,7657,16474
+20,Cruelty by Husband and Relatives,157122,8,3594,4383,15776,20159,133369
+21,Importation of Girls,52,0,0,9,10,19,33
+22,Other IPC Crimes,2669055,260,77211,231195,240048,471243,2120601
+23,Total Cognizable Crimes Under IPC,6023134,695,168243,390223,542958,933181,4921710

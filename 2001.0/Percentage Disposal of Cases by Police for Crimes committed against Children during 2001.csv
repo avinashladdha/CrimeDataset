@@ -1,0 +1,15 @@
+Crime Head (Col. 1 ),Cases Withdrawn by Govt. (Col. 2 ),Percentage of Cases to Total Cases for Investigation in which Investigation was Refused (Col. 3 ),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Charge Found False/ Mistake of Fact or Law Etc. (Col. 4 ),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Final Report True Submitted (Col. 5 ),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Charge Sheets were Submitted (Col. 6 ),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Total (Col. 7) = {(Col.4) + (Col.5) + (Col.6)},No. of Cases Pending Investigation (Col. 8 ),Charge Sheeting Rate (Col.6/ Col.5 + Col.6) *100) = (Col. 9 )
+Murder - Total,0,0.4,2.6,18.1,61.4,82.1,17.5,77.2
+Murder - (i) Infanticide,0,0,2.2,37.4,51.1,90.6,9.4,57.7
+Murder - (ii) Other Murder,0,0.4,2.6,15.8,62.6,81,18.5,79.8
+Rape,0,0,1.5,3.9,80.7,86.1,13.8,95.3
+Kid. & Abduction,0,0.1,16.6,14.8,52.2,83.6,16.4,77.9
+Foeticide,0,0,5.3,42.1,36.8,84.2,15.8,46.7
+Abetment of Suicide,0,0,13.3,10,53.3,76.7,23.3,84.2
+Exposure and Abandonment,0,0.1,1,66.2,18.5,85.7,14.2,21.8
+Procuration Minor Girl,0,0,3.9,14.5,61.2,79.6,20.4,80.9
+Buying Girls for Prost.,0,0,0,28.6,42.9,71.4,28.6,60
+Selling Girls for Prost.,0,0,0,10,80,90,10,88.9
+Child Marriage Restraint Act,0,0.9,12.3,2.8,71.7,86.8,12.3,96.2
+Other Crime,0,0,3.1,10,75,88,12,88.2
+Total,0,0.1,6.3,14.8,64.4,85.5,14.4,81.3

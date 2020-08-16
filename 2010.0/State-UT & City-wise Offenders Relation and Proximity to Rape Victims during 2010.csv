@@ -1,0 +1,75 @@
+Sl. No.,Category,States/Uts/Cities,No. of Cases in Which Offenders were Known to the Victims,No. of Cases in Which Offenders were - Parents / Close Family Members,No. of Cases in Which Offenders were - Relatives,No. of Cases in Which Offenders were - Neighbour,No. of Cases in Which Offenders were - Known Persons
+1,State,Andhra Pradesh,1362,0,20,507,835
+2,State,Arunachal Pradesh,47,0,0,2,45
+3,State,Assam,1721,13,66,438,1204
+4,State,Bihar,795,2,0,479,314
+5,State,Chhattisgarh,1012,21,81,379,531
+6,State,Goa,34,2,1,13,18
+7,State,Gujarat,404,4,22,61,317
+8,State,Haryana,720,15,30,312,363
+9,State,Himachal Pradesh,133,7,6,32,88
+10,State,Jammu & Kashmir,245,0,10,42,193
+11,State,Jharkhand,771,11,84,266,410
+12,State,Karnataka,466,2,31,169,264
+13,State,Kerala,632,14,65,204,349
+14,State,Madhya Pradesh,3135,21,232,1223,1659
+15,State,Maharashtra,1573,44,84,583,862
+16,State,Manipur,34,0,0,13,21
+17,State,Meghalaya,146,8,6,36,96
+18,State,Mizoram,50,3,2,0,45
+19,State,Nagaland,13,1,0,4,8
+20,State,Odisha,1025,37,69,287,632
+21,State,Punjab,542,17,32,218,275
+22,State,Rajasthan,1437,24,101,503,809
+23,State,Sikkim,17,2,1,4,10
+24,State,Tamil Nadu,666,0,76,190,400
+25,State,Tripura,238,0,76,127,35
+26,State,Uttar Pradesh,1562,4,85,411,1062
+27,State,Uttarakhand,103,11,4,29,59
+28,State,West Bengal,2134,4,106,1037,987
+Total (States),Total (States),Total (States),21017,267,1290,7569,11891
+29,Union Territories,Andaman & Nicobar Islands,24,0,0,4,20
+30,Union Territories,Chandigarh,31,0,1,8,22
+31,Union Territories,Dadra Nagar Haveli,3,0,0,0,3
+32,Union Territories,Daman & Diu,1,0,0,1,0
+33,Union Territories,Delhi,487,21,53,231,182
+34,Union Territories,Lakshadweep,0,0,0,0,0
+35,Union Territories,Puducherry,3,0,0,3,0
+Total (UTs),Total (UTs),Total (UTs),549,21,54,247,227
+Total (All-India),Total (All-India),Total (All-India),21566,288,1344,7816,12118
+36,City,Agra,13,1,2,3,7
+37,City,Ahmedabad,49,0,1,12,36
+38,City,Allahabad,7,0,1,2,4
+39,City,Amritsar,24,0,0,18,6
+40,City,Asansol,18,0,0,5,13
+41,City,Bengaluru,65,0,6,21,38
+42,City,Bhopal,73,0,12,27,34
+43,City,Chennai,27,0,0,0,27
+44,City,Coimbatore,15,0,2,2,11
+45,City,Delhi (city),405,14,45,197,149
+46,City,Dhanbad,5,0,1,0,4
+47,City,Faridabad,51,0,2,16,33
+48,City,Hyderabad,45,0,0,10,35
+49,City,Indore,69,0,0,57,12
+50,City,Jabalpur,81,0,0,79,2
+51,City,Jaipur,71,2,0,12,57
+52,City,Jamshedpur,16,0,2,0,14
+53,City,Kanpur,40,0,3,7,30
+54,City,Kochi,20,2,0,3,15
+55,City,Kolkata,32,0,3,5,24
+56,City,Lucknow,52,0,2,6,44
+57,City,Ludhiana,52,0,0,21,31
+58,City,Madurai,3,0,0,0,3
+59,City,Meerut,19,0,2,3,14
+60,City,Mumbai,171,4,10,58,99
+61,City,Nagpur,57,5,3,16,33
+62,City,Nasik,30,0,0,0,30
+63,City,Patna,25,0,0,19,6
+64,City,Pune,91,0,4,45,42
+65,City,Rajkot,9,0,0,5,4
+66,City,Surat,23,0,0,2,21
+67,City,Vadodara,7,1,0,1,5
+68,City,Varanasi,2,0,0,0,2
+69,City,Vijayawada,25,0,0,0,25
+70,City,Vishakhapatnam,53,0,0,34,19
+Total (Cities),Total (Cities),Total (Cities),1745,29,101,686,929

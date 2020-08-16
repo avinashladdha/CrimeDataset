@@ -1,0 +1,75 @@
+Category,States/UTs/Cities,Below 18 years,Between 18 - 30 years,Between 30 - 45 years,Between 45 - 60 years,Above 60 years,Total
+State,Andhra Pradesh,0,40,36,34,0,110
+State,Arunachal Pradesh,0,0,0,0,0,0
+State,Assam,0,0,0,0,0,0
+State,Bihar,0,0,0,0,0,0
+State,Chhattisgarh,0,17,26,8,0,51
+State,Goa,0,0,0,0,0,0
+State,Gujarat,2,79,59,16,3,159
+State,Haryana,0,1,0,0,0,1
+State,Himachal Pradesh,0,0,0,0,0,0
+State,Jammu & Kashmir,0,0,0,0,0,0
+State,Jharkhand,0,0,0,0,0,0
+State,Karnataka,0,0,0,0,0,0
+State,Kerala,0,0,0,0,0,0
+State,Madhya Pradesh,0,0,0,0,0,0
+State,Maharashtra,0,0,1,0,0,1
+State,Manipur,0,0,0,0,0,0
+State,Meghalaya,0,0,0,0,0,0
+State,Mizoram,0,0,0,0,0,0
+State,Nagaland,0,0,0,0,0,0
+State,Orissa,0,0,0,0,0,0
+State,Punjab,0,9,37,5,0,51
+State,Rajasthan,0,0,0,0,0,0
+State,Sikkim,0,0,0,0,0,0
+State,Tamil Nadu,0,0,0,0,0,0
+State,Tripura,0,0,0,0,0,0
+State,Uttar Pradesh,0,0,0,0,0,0
+State,Uttaranchal,0,0,0,0,0,0
+State,West Bengal,0,0,0,0,0,0
+State,Total (States),2,146,159,63,3,373
+Union Territory,A & N Islands,0,0,0,0,0,0
+Union Territory,Chandigarh,0,0,0,0,0,0
+Union Territory,D & N Haveli,0,0,0,0,0,0
+Union Territory,Daman & Diu,0,0,0,0,0,0
+Union Territory,Delhi,0,2,2,0,0,4
+Union Territory,Lakshadweep,0,0,0,0,0,0
+Union Territory,Pondicherry,0,0,0,0,0,0
+Union Territory,Total (UTs),0,2,2,0,0,4
+Total (All-India),Total (All-India),2,148,161,63,3,377
+City,Agra,0,0,0,0,0,0
+City,Ahmedabad,1,6,13,4,1,25
+City,Allahabad,0,0,0,0,0,0
+City,Amritsar,0,0,0,0,0,0
+City,Asansol,0,0,0,0,0,0
+City,Bangalore,0,0,0,0,0,0
+City,Bhopal,0,0,0,0,0,0
+City,Chennai,0,0,0,0,0,0
+City,Coimbatore,0,0,0,0,0,0
+City,Delhi (city),0,2,2,0,4,8
+City,Dhanbad,0,0,0,0,0,0
+City,Faridabad,0,0,0,0,0,0
+City,Hyderabad,0,0,0,0,0,0
+City,Indore,0,0,0,0,0,0
+City,Jabalpur,0,0,0,0,0,0
+City,Jaipur,0,0,0,0,0,0
+City,Jamshedpur,0,0,0,0,0,0
+City,Kanpur,0,0,0,0,0,0
+City,Kochi,0,0,0,0,0,0
+City,Kolkata,0,0,0,0,0,0
+City,Lucknow,0,0,0,0,0,0
+City,Ludhiana,0,0,0,0,0,0
+City,Madurai,0,0,0,0,0,0
+City,Meerut,0,0,0,0,0,0
+City,Mumbai,0,0,1,0,0,1
+City,Nagpur,0,0,0,0,0,0
+City,Nasik,0,0,0,0,0,0
+City,Patna,0,0,0,0,0,0
+City,Pune,0,0,0,0,0,0
+City,Rajkot,0,0,0,0,0,0
+City,Surat,1,73,46,12,2,134
+City,Vadodara,0,0,0,0,0,0
+City,Varanasi,0,0,0,0,0,0
+City,Vijayawada,0,0,0,0,0,0
+City,Vishakhapatnam,0,0,0,0,0,0
+City,Total (cities),2,81,62,16,7,168

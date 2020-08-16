@@ -1,0 +1,48 @@
+SL. No.,Category,States/UTs/Cities,Murder,Culpable Homicide Not Amounting to Murder,Rape,Kidnapping & Abduction,Dacoity,Robbery,Burglary,Theft,Riots,Criminal Breach of Trust,Cheating,Counterfeiting,Total
+1,State,Andhra Pradesh,37,NA,14,12,9,9,166,506,113,3,2,NA,1047
+2,State,Assam,48,1,22,37,34,36,297,620,378,2,4,NA,1882
+3,State,Bihar,88,12,41,59,34,25,225,514,761,23,6,NA,2166
+4,State,Gujarat,158,NA,21,131,42,95,472,1290,1148,56,45,NA,8609
+5,State,Haryana,49,18,27,17,2,4,195,294,46,2,7,NA,1586
+6,State,Himachal Pradesh,17,6,10,6,2,5,56,60,61,NA,2,NA,593
+7,State,Jammu and Kashmir,26,NA,22,27,NA,NA,68,292,76,NA,5,NA,597
+8,State,Karnataka,24,NA,3,8,6,12,149,457,372,1,14,NA,1747
+9,State,Kerala,6,NA,2,NA,NA,1,15,23,22,1,NA,NA,113
+10,State,Madhya Pradesh,226,58,2,62,28,106,682,1169,637,17,34,NA,9035
+11,State,Maharashtra,255,10,106,90,91,275,1181,3116,1183,107,73,17,12751
+12,State,Manipur,11,1,1,10,9,15,43,56,46,1,3,1,206
+13,State,Meghalaya,NA,NA,NA,NA,2,2,15,30,5,NA,NA,NA,77
+14,State,Nagaland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,State,Orissa,1,NA,1,NA,16,4,158,287,27,11,1,NA,568
+16,State,Punjab,13,NA,3,3,NA,NA,20,37,5,17,NA,NA,253
+17,State,Rajasthan,47,NA,17,20,4,17,140,244,457,4,11,NA,1443
+18,State,Sikkim,NA,NA,1,NA,NA,NA,8,14,2,NA,NA,NA,43
+19,State,Tamil Nadu,44,1,8,6,1,36,418,1017,306,6,2,1,2341
+20,State,Tripura,8,NA,4,6,13,21,109,219,113,NA,NA,NA,608
+21,State,Uttar Pradesh,3,3,3,NA,NA,NA,17,54,NA,NA,NA,NA,124
+22,State,West Bengal,38,15,13,14,46,33,103,328,634,NA,NA,NA,1224
+Total (States),State,Total (States),1099,125,321,508,339,696,4537,10627,6392,251,209,19,47013
+23,UT,A & N Islands,NA,NA,NA,1,NA,NA,3,7,43,NA,NA,NA,141
+24,UT,Arunachal Pradesh,NA,NA,1,NA,4,6,12,9,6,NA,NA,NA,53
+25,UT,Chandigarh,NA,1,NA,NA,NA,NA,8,29,3,NA,1,NA,98
+26,UT,D & N Haveli,3,NA,NA,NA,NA,1,NA,9,5,NA,NA,NA,27
+27,UT,Delhi,69,58,26,113,5,37,112,422,35,10,9,NA,1005
+28,UT,"Goa, Daman & Diu",3,1,4,2,1,5,60,67,71,NA,2,NA,293
+29,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,1
+30,UT,Mizoram,NA,NA,17,3,NA,5,27,76,1,NA,6,1,379
+31,UT,Pondicherry,4,NA,2,1,NA,1,33,51,4,4,NA,NA,307
+Total (UTs),UT,Total (UTs),79,60,50,120,10,55,256,670,168,14,18,1,2304
+All India,All India,All India,1178,185,371,628,349,751,4793,11297,6560,265,227,20,49317
+1,City,Ahmedabad,30,NA,1,24,4,8,73,246,251,8,10,NA,1512
+2,City,Bangalore,NA,NA,NA,NA,NA,5,45,190,7,1,2,NA,338
+3,City,Bombay,4,1,1,12,NA,3,NA,232,3,NA,3,NA,363
+4,City,Calcutta,NA,NA,NA,NA,NA,NA,NA,36,NA,NA,NA,NA,36
+5,City,Delhi,69,58,26,113,5,37,112,422,35,10,9,NA,1005
+6,City,Hyderabad,NA,NA,NA,NA,NA,NA,23,42,NA,NA,NA,NA,320
+7,City,Jaipur,2,NA,1,3,NA,3,27,56,54,NA,3,NA,213
+8,City,Kanpur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,City,Lucknow,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+10,City,Madras,2,2,NA,34,NA,15,39,96,21,NA,NA,NA,389
+11,City,Nagpur,32,NA,10,7,6,53,87,231,39,7,9,NA,888
+12,City,Pune,11,NA,9,9,NA,20,101,386,126,8,11,NA,1740
+Total (Cities),City,Total (Cities),150,61,48,202,15,144,507,1938,536,34,47,NA,6805

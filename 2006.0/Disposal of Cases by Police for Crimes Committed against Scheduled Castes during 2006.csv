@@ -1,0 +1,12 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Cases for investigation including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases in which investigation Refused (Col. 5),No. of Cases in which investigation Completed - Charge Found False / Mistake of Fact or Law Etc.(Col. 6),No. of Cases in which investigation Completed - Final Report True Submitted (Col. 7),No. of Cases in which investigation Completed - Charge Sheets Submitted(Col. 8),No. of Cases in which investigation Completed -Total (Col. 9)= Col. {(6) + (7) + (8)},No. of Cases Pending Investigation at the end of the year (Col. 10)
+1,"Murder (Sec. 302,303 IPC)",810,0,0,46,29,581,656,154
+2,Rape (Sec.376 IPC,1453,0,1,117,40,1021,1178,274
+3,"Kidnapping & Abduction (Sec. 363-369, 371-373 IPC)",338,0,1,44,36,201,281,56
+4,Dacoity (Sec.395-398 IPC),39,0,0,2,1,22,25,14
+5,"Robbery (392-394, 397,398 IPC)",118,0,1,11,10,47,68,49
+6,"Arson (Sec.435, 436, 438 IPC)",303,0,0,51,32,145,228,75
+7,"Hurt (Sec.323-333, 335-338 IPC)",4720,0,2,577,290,2849,3716,1002
+8,"PCR Act, 1955 for SCs",517,0,3,55,17,320,392,122
+9,"SC/ST Prev. of Atrocities Act, 1989 for SCs",12781,5,11,1812,627,5968,8407,4358
+10,Other Crime,14129,0,13,2949,759,8132,11840,2276
+Total,Total,35208,5,32,5664,1841,19286,26791,8380

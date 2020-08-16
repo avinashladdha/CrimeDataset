@@ -1,0 +1,28 @@
+Crime Head (Col.1),Total No. of Cases for Investigation Including Pending Cases from previous year (Col.2),Cases Withdrawn by Govt (Col.3),No. of Cases in which Investigation Refused (Col.4),No. of Cases in which Investigation was Completed - Charge Found False /Mistakeof Fact Or Law Etc. (Col.5),No. of Cases in which Investigation was Completed - Final Report True Submitted (Col.6),No. of Cases in which Investigation was Completed - Charge Sheets Submitted (Col.7),No. of Cases in which Investigation was Completed - Total (Col.8) = Col.{(5)+(6)+(7)},No. of Cases Pending Investigation at the end of the year (Col.9)
+Arms Act,87102,1,0,111,893,72812,73816,13285
+Narcotic Drugs & Psychotropic Substances Act,41853,1,4,71,1524,27934,29529,12319
+Gambling Act,194930,1,0,14,198,185646,185858,9071
+Excise Act,162164,19,334,309,575,141354,142238,19573
+Prohibition Act,441524,4596,898,9278,10670,314334,334282,101748
+Explosive & Explosive Substances Act,6943,0,0,60,476,3609,4145,2798
+Immoral Traffic (P) Act,4937,0,1,16,27,3441,3484,1452
+Indian Railways Act,325,0,1,19,50,128,197,127
+Registration of Foreigners Act,2468,0,0,1,13,2072,2086,382
+Protection of Civil Rights Act,365,0,0,78,40,182,300,65
+Protection of Civil Rights Act - (i) PCR Act for SCs,328,0,0,58,36,180,274,54
+Protection of Civil Rights Act - (ii) PCR Act for SCTs,37,0,0,20,4,2,26,11
+Indian Passport Act,2112,0,0,51,34,949,1034,1078
+Essential Commodities Act,11359,0,6,171,450,6977,7598,3755
+Terrorist & Disruptive Activities Act @,84,0,0,0,2,2,4,80
+Antiquities & Art Treasures Act,106,0,0,21,3,23,47,59
+Dowry Prohibition Act,8518,2,27,395,420,4099,4914,3575
+Child Marriage Restraint Act,133,0,0,9,11,69,89,44
+Indecent Representation of Women (p Act,1295,0,1,3,1,1233,1237,57
+Copyright Act,8846,0,2,74,86,6716,6876,1968
+Sati Prevention Act,0,0,0,0,0,0,0,0
+SC/ST (Prevention of Atrocities) Act,15894,10,26,2243,942,7515,10700,5158
+SC/ST (Prevention of Atrocities) Act - (i) Prevention of Attrocities Act for SCs,14177,10,25,1996,921,6660,9577,4565
+SC/ST (Prevention of Atrocities) Act - (ii) Prevention of Attrocities Act for SCTs,1717,0,1,247,21,855,1123,593
+Forest Act,5119,1,19,73,200,4319,4592,507
+Other SLL Crimes,2960047,148,35065,45720,134730,2702475,2882925,41909
+Total Cognizable Crimes Under SLL,3956124,4779,36384,58717,151345,3485889,3695951,219010

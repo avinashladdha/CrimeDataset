@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,Cases reported under local & special laws - Opium Act,Cases reported under local & special laws - Excise Act,Cases reported under local & special laws - Prohibition Act,Cases reported under local & special laws - Customs Act,Cases reported under local & special laws - Gambling Act,Cases reported under local & special laws - Suppression of Immoral Traffic in Women & Girls Act,Cases reported under local & special laws - Prevention of Corruption Act,Cases reported under local & special laws - Motor Vehicles Act,Cases reported under local & special laws - Indian Railways Act,Cases reported under local & special laws - Arms Act,Cases reported under local & special laws - Explosive & Explosive Substances Act,Cases reported under local & special laws - Other Offences,Cases reported under local & special laws - Grand Total
+1,State,Andhra Pradesh,NA,NA,NA,NA,NA,29,NA,NA,NA,NA,NA,305,334
+2,State,Assam,NA,433,24,NA,114,NA,NA,NA,3,16,18,151,759
+3,State,Bihar,NA,40,NA,NA,49,NA,NA,NA,27,16,NA,89,221
+4,State,Gujarat,NA,NA,10192,NA,4935,1,NA,1,53,16,1,6031,21230
+5,State,Haryana,49,482,NA,NA,390,NA,NA,NA,11,92,NA,70,1094
+6,State,Himachal Pradesh,NA,161,NA,NA,2,NA,NA,NA,1,4,NA,26,194
+7,State,Jammu and Kashmir,NA,NA,NA,NA,50,NA,NA,NA,NA,NA,NA,35,85
+8,State,Karnataka,NA,68,NA,NA,245,264,NA,927,NA,NA,1,1054,2559
+9,State,Kerala,NA,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,19,27
+10,State,Madhya Pradesh,7,739,NA,NA,1741,NA,NA,854,64,216,8,795,4424
+11,State,Maharashtra,NA,NA,8992,NA,8187,29,NA,27,1305,85,NA,10632,29257
+12,State,Manipur,NA,7,NA,NA,7,4,NA,NA,NA,2,1,5,26
+13,State,Meghalaya,NA,NA,3,NA,3,NA,NA,NA,NA,NA,NA,10,16
+14,State,Nagaland,1,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,6,14
+15,State,Orissa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21,21
+16,State,Punjab,64,450,NA,NA,316,NA,NA,NA,25,133,NA,36,1024
+17,State,Rajasthan,10,37,NA,NA,210,2,NA,NA,21,18,1,8,307
+18,State,Sikkim,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,State,Tamil Nadu,NA,NA,2625,NA,1284,1589,NA,NA,141,2,NA,14284,19925
+20,State,Tripura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3
+21,State,Uttar Pradesh,NA,5,NA,NA,NA,NA,NA,NA,22,8,NA,250,285
+22,State,West Bengal,NA,25,NA,NA,99,NA,NA,NA,113,3,6,485,731
+Total (States),State,Total (States),131,2447,21836,NA,17640,1918,NA,1809,1793,611,36,34315,82536
+23,UT,A & N Islands,NA,143,NA,NA,4,NA,NA,2,NA,NA,1,14,164
+24,UT,Arunachal Pradesh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,5
+25,UT,Chandigarh,4,13,NA,NA,10,NA,NA,NA,NA,19,NA,19,65
+26,UT,D & N Haveli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Delhi,30,315,NA,NA,310,5,NA,NA,31,599,NA,42,1332
+28,UT,"Goa, Daman & Diu",NA,2,NA,NA,54,2,NA,NA,NA,NA,1,14,73
+29,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,UT,Mizoram,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,4,5
+31,UT,Pondicherry,NA,16,NA,NA,35,9,NA,40,NA,4,NA,493,597
+Total (UTs),UT,Total (UTs),34,489,NA,NA,414,16,NA,42,31,622,2,591,2241
+Total (All-India),Total (All-India),Total (All-India),165,2936,21836,NA,18054,1934,NA,1851,1824,1233,38,34906,84777
+1,City,Ahmedabad,NA,NA,2426,NA,2604,1,NA,NA,NA,2,1,3157,8191
+2,City,Bangalore,NA,39,NA,NA,25,42,NA,618,NA,NA,1,20,745
+3,City,Bombay,NA,NA,NA,NA,40,NA,NA,NA,NA,NA,NA,1793,1833
+4,City,Calcutta,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,154,176
+5,City,Delhi,30,315,NA,NA,310,5,NA,NA,31,599,NA,42,1332
+6,City,Hyderabad,NA,97,NA,NA,43,3,NA,NA,NA,NA,NA,1189,1332
+7,City,Jaipur,NA,NA,NA,NA,16,NA,NA,NA,NA,7,NA,2,25
+8,City,Kanpur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,City,Lucknow,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,City,Madras,NA,NA,198,NA,1050,157,NA,NA,NA,NA,NA,7266,8671
+11,City,Nagpur,NA,NA,721,NA,1152,NA,NA,NA,NA,38,NA,944,2855
+12,City,Pune,NA,NA,1230,NA,283,10,NA,13,NA,NA,NA,1614,3150
+Total (Cities),City,Total (Cities),30,473,4575,NA,5523,218,NA,631,31,646,2,16181,28310

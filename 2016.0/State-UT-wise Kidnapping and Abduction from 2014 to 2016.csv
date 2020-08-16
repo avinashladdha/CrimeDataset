@@ -1,0 +1,40 @@
+S. No. (Col. 1),Category (Col. 2),State/UT (Col. 3),Year - 2014 (Col. 4),Year - 2015 (Col. 5 ),Year - 2016 (Col. 6),Percentage State Share to All-India (2016) (Col. 7),Rank Based on Incidence/ Percentage share (2016) (Col. 8),Mid-Year Projected Population+ (in Lakhs) (2016) (Col. 9),Rate of Kidnapping & Abduction (2016) (Col. 10),Rank Based on Crime Rate (2016) (Col. 11)
+1,State,Andhra Pradesh,1066,917,917,1,18,517.4,1.8,31
+2,State,Arunachal Pradesh,146,175,112,0.1,27,13.2,8.5,6
+3,State,Assam,4824,5831,6126,7,6,325.8,18.8,2
+4,State,Bihar,6575,7128,7324,8.3,3,1043,7,13
+5,State,Chhattisgarh,2014,2083,2071,2.4,13,259.9,8,7
+6,State,Goa,152,112,106,0.1,28,19.9,5.3,20
+7,State,Gujarat,2722,2108,2784,3.2,12,630.8,4.4,23
+8,State,Haryana,3082,3520,3932,4.5,9,276.1,14.2,3
+9,State,Himachal Pradesh,304,327,290,0.3,21,71.2,4.1,24
+10,State,Jammu & Kashmir,860,1153,810,0.9,19,124.6,6.5,14
+11,State,Jharkhand,1425,1402,1309,1.5,15,338,3.9,25
+12,State,Karnataka,1933,2354,2916,3.3,11,625.7,4.7,22
+13,State,Kerala,222,271,241,0.3,22,357.5,0.7,34
+14,State,Madhya Pradesh,7833,6778,7123,8.1,4,782.6,9.1,5
+15,State,Maharashtra,3794,8255,9333,10.6,2,1205.5,7.7,8
+16,State,Manipur,182,179,145,0.2,25,26,5.6,18
+17,State,Meghalaya,179,212,156,0.2,24,27.8,5.6,17
+18,State,Mizoram,7,15,6,0,35,10.7,0.6,35
+19,State,Nagaland,37,85,91,0.1,29,23.9,3.8,26
+20,State,Odisha,3073,3236,3046,3.5,10,425.9,7.2,12
+21,State,Punjab,1550,1694,1591,1.8,14,292,5.4,19
+22,State,Rajasthan,5671,5426,5299,6,8,732.8,7.2,11
+23,State,Sikkim,20,21,12,0,33,6.5,1.8,30
+24,State,Tamil Nadu,1746,1603,1223,1.4,17,695.2,1.8,32
+25,State,Telangana,1152,1044,1302,1.5,16,368.5,3.5,28
+26,State,Tripura,126,152,139,0.2,26,38.4,3.6,27
+27,State,Uttar Pradesh,12361,11999,15898,18.1,1,2192.4,7.3,10
+28,State,Uttarakhand,691,759,790,0.9,20,106.8,7.4,9
+29,State,West Bengal,6114,6119,6045,6.9,7,938.3,6.4,15
+Total (States),State,Total (States),69861,74958,81137,92.2,NA,12476.2,6.5,NA
+30,UT,A & N Islands,22,28,26,0,30,5.5,0.7,21
+31,UT,Chandigarh,187,230,180,0.2,23,18,10,4
+32,UT,D&N Haveli,14,14,10,0,34,4.3,2.3,29
+33,UT,Daman & Diu,10,27,21,0,31,3.3,6.4,16
+34,UT,Delhi,7143,7730,6619,7.5,5,214.9,30.8,1
+35,UT,Lakshadweep,0,0,0,0,NA,0.8,0,NA
+36,UT,Puducherry,13,18,15,0,32,16.8,0.9,33
+Total (UTs),UT,Total (UTs),7389,8047,6871,7.8,NA,263.7,26.1,NA
+Total (All-India),Total (All-India),Total (All-India),77250,83005,88008,100,NA,12739.9,6.9,NA

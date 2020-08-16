@@ -1,0 +1,49 @@
+SL. No.,Category,States/UTs/Cities,1986,1987,Percentage Variation in 1987 Over 1986
+1,State,Andhra Pradesh,127514,154726,21.3
+2,State,Arunachal Pradesh,1538,1249,-18.8
+3,State,Assam,55003,56593,2.9
+4,State,Bihar,220407,218640,-0.8
+5,State,Goa,5102,6102,19.6
+6,State,Gujarat,122075,121426,-0.5
+7,State,Haryana,33407,32730,-2
+8,State,Himachal Pradesh,8884,9628,8.4
+9,State,Jammu & Kashmir,31679,28458,-10.2
+10,State,Karnataka,126038,147012,16.6
+11,State,Kerala,88383,86219,-2.4
+12,State,Madhya Pradesh,227031,218109,-3.9
+13,State,Maharashtra,276123,270546,-2
+14,State,Manipur,3185,3786,18.9
+15,State,Meghalaya,2175,2493,14.6
+16,State,Mizoram,1243,1325,6.6
+17,State,Nagaland,1186,1305,10
+18,State,Orissa,96572,78411,-18.8
+19,State,Punjab,20031,20615,2.9
+20,State,Rajasthan,124689,117463,-5.8
+21,State,Sikkim,431,398,-7.7
+22,State,Tamil Nadu,196561,204485,4
+23,State,Tripura,9083,5539,-40
+24,State,Uttar Pradesh,282156,267737,-5.1
+25,State,West Bengal,113519,95632,-15.8
+Total (States),State,Total (States),2174015,2150627,-1.9
+26,UT,A & N Islands,427,638,49.4
+27,UT,Chandigarh,1125,2915,159.1
+28,UT,D & N Haveli,695,878,26.3
+29,UT,Daman & Diu,208,221,6.3
+30,UT,Delhi,24530,25920,5.7
+31,UT,Lakshadweep,9,32,255.6
+32,UT,Pondicherry,4094,4114,0.5
+Total (UTs),UT,Total (UTs),31088,34718,11.7
+Total (All India),Total (All India),Total (All India),2205103,2185345,-0.9
+1,City,Ahmedabad,14446,11663,-19.3
+2,City,Bangalore,10106,13976,38.3
+3,City,Bombay,30067,29261,-2.7
+4,City,Calcutta,21884,18643,-14.8
+5,City,Delhi,23012,23939,4
+6,City,Hyderabad,5773,5539,-4.1
+7,City,Jaipur,5402,5786,7.1
+8,City,Kanpur,6468,3268,-49.5
+9,City,Lucknow,2686,2642,-1.6
+10,City,Madras,13065,13494,3.3
+11,City,Nagpur,9466,11682,23.4
+12,City,Pune,13884,12756,-8.1
+Total (Cities),City,Total (Cities),156259,152649,-2.3

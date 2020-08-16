@@ -1,0 +1,36 @@
+SL. No. (Col. 1),Category (Col. 2),State/UT (Col. 3),Total No. of Cases for Trial Including Pending Cases (Col. 4),No. of Cases - Compounded or with Drawn (Col. 5),No. of Cases - in which Trials were Completed - Convicted (Col. 6),No. of Cases - in which Trials were Completed - Acquitted or Discharged (Col. 7),No. of Cases - in which Trials were Completed - Total (Col. 6+7) (Col. 8),No. of Cases - Pending Trial (Col. 9),Pendency Percentage (Col. 10),Percentage of Pendency to All India Total (Col. 11),Conviction Rate (Col. 12)
+1,State,Andhra Pradesh,247139,8669,37221,44922,82143,156327,63.3,4,45.3
+2,State,Arunachal Pradesh,7377,108,319,93,412,6857,93,0.2,77.4
+3,State,Assam,91071,3851,3228,14476,17704,69516,76.3,1.8,18.2
+4,State,Bihar,355437,17867,13095,38033,51128,286442,80.6,7.4,25.6
+5,State,Goa,14459,392,580,1271,1851,12216,84.5,0.3,31.3
+6,State,Gujarat,339835,7955,20499,22907,43406,288474,84.9,7.4,47.2
+7,State,Haryana,98779,431,11812,10903,22715,75633,76.6,2,52
+8,State,Himachal Pradesh,22834,1381,756,2807,3563,17890,78.3,0.5,21.2
+9,State,Jammu & Kashmir,48288,1770,1735,2877,4612,41906,86.8,1.1,37.6
+10,State,Karnataka,235789,11399,8939,29237,38176,186214,79,4.8,23.4
+11,State,Kerala,186114,9813,10544,32830,43374,132927,71.4,3.4,24.3
+12,State,Madhya Pradesh,693961,24241,39010,27206,66216,603504,87,15.6,58.9
+13,State,Maharashtra,773434,18476,24926,47227,72153,682805,88.3,17.6,34.5
+14,State,Manipur,3388,0,4,16,20,3368,99.4,0.1,20
+15,State,Meghalaya,5435,72,204,83,287,5076,93.4,0.1,71.1
+16,State,Mizoram,2853,4,404,1009,1413,1436,50.3,0,28.6
+17,State,Nagaland,3046,27,315,79,394,2625,86.2,0.1,79.9
+18,State,Orissa,185957,256,4844,23778,28622,157079,84.5,4.1,16.9
+19,State,Punjab,28977,447,2809,5022,7831,20699,71.4,0.5,35.9
+20,State,Rajasthan,431424,20223,18241,19682,37923,373278,86.5,9.6,48.1
+21,State,Sikkim,996,47,269,151,420,529,53.1,0,64
+22,State,Tamil Nadu,234008,4568,56432,30766,87198,142242,60.8,3.7,64.7
+23,State,Tripura,5671,174,110,1102,1212,4285,75.6,0.1,9.1
+24,State,Uttar Pradesh,441136,14939,45743,44048,89791,336406,76.3,8.7,50.9
+25,State,West Bengal,160544,900,4491,9191,13682,145962,90.9,3.8,32.8
+Total (States),State,Total (States),4617952,148010,306530,409716,716246,3753696,81.3,96.9,42.8
+26,UT,A & N Islands,2349,71,111,42,153,2125,90.5,0.1,72.5
+27,UT,Chandigarh,3714,6,455,420,875,2833,76.3,0.1,52
+28,UT,D & N Haveli,1016,0,50,126,176,840,82.7,0,28.4
+29,UT,Daman & Diu,372,19,48,113,161,192,51.6,0,29.8
+30,UT,Delhi,130993,0,8290,9306,17596,113397,86.6,2.9,47.1
+31,UT,Lakshadweep,51,14,2,7,9,28,54.9,0,22.2
+32,UT,Pondicherry,3074,111,759,822,1581,1382,45,0,48
+Total (UTs),UT,Total (UTs),141569,221,9715,10836,20551,120797,85.3,3.1,47.3
+Total (All -India),Total (All -India),Total (All -India),4759521,148231,316245,420552,736797,3874493,81.4,100,42.9

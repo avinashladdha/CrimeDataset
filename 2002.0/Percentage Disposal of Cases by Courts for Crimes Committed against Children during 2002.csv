@@ -1,0 +1,15 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 4),Percentage of Cases to Total Cases for Trial - No. of Cases - in which Trials were Completed - Convicted (Col. 5),Percentage of Cases to Total Cases for Trial - No. of Cases - in which Trials were Completed - Acquitted or Discharged (Col. 6),Percentage of Cases to Total Cases for Trial - No. of Cases - in which Trials were Completed - Total {(Col. 5) + (Col. 6)} = (Col. 7),Percentage of Cases to Total Cases for Trial - Pending Trial (Col. 8),Conviction Rate (Col. 5/ Col. 7 × 100) = (Col. 9)
+1,Murder - Total,0,0.2,8.3,7.2,15.5,84.3,53.8
+1,Murder - (i) - Infanticide,0,0,11.4,10.9,22.3,77.7,51.1
+1,Murder - (ii) - Other Murder,0,0.2,8.1,6.9,15,84.8,54.1
+2,Rape,0,0,7,10.6,17.6,82.4,39.6
+3,Kidnapping & Abduction,0,0.2,6.4,8.4,14.9,84.9,43.3
+4,Foeticide,0,0,2.2,13.3,15.6,84.4,14.3
+5,Abetment of Suicide,0,0,0,28.6,28.6,71.4,0
+6,Exposure and Abandonment,0,0.3,1.8,10.2,11.9,87.7,14.7
+7,Procuration of Minor Girls,0,0.7,6.5,8.6,15.1,84.2,43.2
+8,Buying of Girls for Prost.,0,0,5.9,41.2,47.1,52.9,12.5
+9,Selling of Girls for Prost.,0,0,0,13.3,13.3,86.7,0
+10,Child Marriage Restraint Act,0,0,9.4,4.2,13.6,86.4,69.4
+11,Other Crimes,0,1.5,7,8.1,15.1,83.4,46.7
+12,Total,0,0.7,6.9,8.7,15.7,83.7,44.2

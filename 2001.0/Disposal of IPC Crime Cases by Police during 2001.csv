@@ -1,0 +1,31 @@
+Crime Head (Col.1),Total No. of Cases for Investigation including Pending Cases (Col.2),Cases Withdrawn by Govt. (Col.3),No. of Cases in which Investigation was Refused (Col.4),No. of Cases in which Investigation was Completed - Charge Found False/Mistake of Fact or Law Etc. (Col.5),No. of Cases in which Investigation was Completed - Final Report True Submitted (Col.6),No. of Cases in which Investigation was Completed - Chargesheets were Submitted (Col.7),No. of Cases in which Investigation was Completed - Total {(Col.5) + (Col.6) + (Col.7)} = (Col.8),No. of Cases Pending Investigation (Col.9)
+Murder,56949,83,118,1109,7035,29053,37197,19551
+Attempt to Commit Murder,42886,23,79,1283,4326,26363,31972,10812
+C.H. not Amounting Murder,5630,3,2,184,607,2841,3632,1993
+Rape - Total,21757,25,40,1094,1049,14054,16197,5495
+Rape - (i) Custodial Rape,3,0,0,0,0,3,3,0
+Rape - (ii) Other Rape,21754,25,40,1094,1049,14051,16194,5495
+Kidnapping & Abduction - Total,35521,41,179,5149,4751,13367,23267,12034
+Kidnapping & Abduction - (i) of Women & Girls,23419,24,127,3481,3085,8741,15307,7961
+Kidnapping & Abduction - (ii) of Others,12102,17,52,1668,1666,4626,7960,4073
+Dacoity,12463,8,11,409,2127,3981,6517,5927
+Preparation & Assembly for Dacoity,2643,0,6,8,118,1444,1570,1067
+Robbery,29980,75,52,1331,7183,11967,20481,9372
+Burglary,134180,614,507,3350,61412,37005,101767,31292
+Theft - Total,343988,653,1175,9081,145027,98116,252224,89936
+Theft - (i) Auto Theft,85709,23,148,1947,42123,19068,63138,22400
+Theft - (ii) Other Theft,258279,630,1027,7134,102904,79048,189086,67536
+Riots,99849,97,112,7187,6724,62598,76509,23131
+Criminal Breach of Trust,24850,4,77,2267,3800,9436,15503,9266
+Cheating,73799,22,430,9911,9638,24212,43761,29586
+Counterfeiting,6101,0,208,39,537,905,1481,4412
+Arson,13953,20,66,1318,3139,5986,10443,3424
+Hurt,310249,131,415,10660,14743,245974,271377,38326
+Dowry Death,9351,2,10,400,479,6060,6939,2400
+Molestation,39303,63,52,1828,1164,31234,34226,4962
+Sexual Harassment,10784,31,36,147,213,9316,9676,1041
+Cruelty by Husband and Relatives,60910,25,102,5559,3599,39006,48164,12619
+Importation of Girls,126,0,0,5,5,60,70,56
+Causing Death by Negligence,64654,13,165,1599,8858,43048,53505,10971
+Other IPC Crimes,838453,1308,3392,41101,68327,587371,696799,136954
+Total Cognizable Crimes under IPC,2238379,3241,7234,105019,354861,1303397,1763277,464627

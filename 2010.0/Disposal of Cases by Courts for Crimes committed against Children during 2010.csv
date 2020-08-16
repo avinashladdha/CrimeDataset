@@ -1,0 +1,14 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. for Cases for Trial Including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases (Col. 5) - Compounded or Withdrawn,No. of Cases in which Trials Completed (Col. 6) - Convicted,No. of Cases in which Trials Completed (Col. 7) - Acquitted or Discharged,No. of Cases in which Trials Completed (Col. 8) - Total = Col. {(6) + (7)),No. of Cases - Pending Trial at the end of the year (Col. 9)
+1,Infanticide (Sec.315 IPC),242,0,0,34,19,53,189
+2,Murder (Sec.302 IPC),5326,0,2,455,506,961,4363
+3,Rape (Sec.376 IPC),20594,0,9,1017,2381,3398,17187
+4,"Kidnapping & Abduction (Sec.363-369,371-373 IPC)",19544,0,30,1015,2052,3067,16447
+5,"Foeticide (Sec.315,316 IPC)",117,0,0,5,15,20,97
+6,Abetment to Suicide (Sec.305 IPC),122,0,1,6,19,25,96
+7,Exposure and Abandonment (Sec. 317 IPC),870,0,0,23,112,135,735
+8,Procuration Minor Girls (Sec. 366A IPC),864,0,2,24,156,180,682
+9,Buying of Girls for Prost. (Sec.373 IPC),157,0,0,4,24,28,129
+10,Selling of Girls for Prost. (Sec.372 IPC),208,0,0,2,13,15,193
+11,Prohibition of Child Marriage Act 2006,395,0,0,8,46,54,341
+12,Other Crimes,23912,0,543,1741,2866,4607,18762
+13,Total,72351,0,587,4334,8209,12543,59221

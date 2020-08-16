@@ -1,0 +1,28 @@
+Sr. No. (Col 1),Crime Head (Col 2),Total No. of Persons under Trial Including those from Previous Year (Col 3),No of Persons whose Cases Compounded or Withdrawn (Col 4),No of Persons whose Trial Completed (Col 5),No of Persons whose Trial Remained Pending (Col 6),No of Persons Convicted (Col 7),Percentage of Persons whose Trials Remained Pending (Col 8) = (Col 6)×100/ (Col 3),Percentage of Persons Convicted to Trials Completed (Col 9) = (Col 7) × 100/ (Col 5)
+1,Arms Act,387211,572,60390,326249,36870,84.3,61.1
+2,Narcotic Drugs & Psychotropic Substances Act,142506,1788,25081,115637,14841,81.1,59.2
+3,Gambling Act,1067552,8737,310031,748784,259743,70.1,83.8
+4,Excise Act,509906,2625,121670,385611,84858,75.6,69.7
+5,Prohibition Act,2301443,38579,254099,2008765,113812,87.3,44.8
+6,Explosive & Explosive Substances Act,32816,55,4767,27994,2135,85.3,44.8
+7,Immoral Traffic (P) Act,31855,91,8711,23053,6341,72.4,72.8
+8,Indian Railways Act,58542,105,33883,24554,32262,41.9,95.2
+9,Registration of Foreigners Act,6138,1,1007,5130,867,83.6,86.1
+10,Protection of Civil Rights Act - Total,7472,25,1201,6246,132,83.6,11
+10,Protection of Civil Rights Act - i) PCR Act for SCs,7159,25,1172,5962,128,83.3,10.9
+10,Protection of Civil Rights Act - ii) PCR Act for STs,313,0,29,284,4,90.7,13.8
+11,Indian Passport Act,3912,13,685,3214,460,82.2,67.2
+12,Essential Commodities Act,44583,147,3783,40653,713,91.2,18.8
+13,Terrorist & Disruptive Activities Act,5576,2,380,5194,15,93.1,3.9
+14,Antiquity & Art Treasure Act,249,0,47,202,10,81.1,21.3
+15,Dowry Prohibition Act,30250,616,5028,24606,1320,81.3,26.3
+16,Child Marriage Restraint Act,1705,0,188,1517,95,89,50.5
+17,Indecent Representation of Women (P) Act,2581,0,1393,1188,1239,46,88.9
+18,Copyrights Act,26360,27,4033,22300,2174,84.6,53.9
+19,Sati Prevention Act,0,0,0,0,0,0,0
+20,SC/ ST (Prevention of Atrocities) Act - Total,110754,789,21649,88316,4973,79.7,23
+20,SC/ ST (Prevention of Atrocities) Act - i) Prevention of Atrocities Act for SCs,98977,664,18965,79348,4352,80.2,22.9
+20,SC/ ST (Prevention of Atrocities) Act - ii) Prevention of Atrocities Act for STs,11777,125,2684,8968,621,76.1,23.1
+21,Forest Act,33898,40,8882,24976,6424,73.7,72.3
+22,Other SLL Crimes,4794325,10769,3148856,1634700,3010919,34.1,95.6
+Total Cognizable Crimes under SLL,Total Cognizable Crimes under SLL,9599634,64981,4015764,5518889,3580203,57.5,89.2

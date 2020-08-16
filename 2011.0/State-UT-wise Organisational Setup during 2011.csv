@@ -1,0 +1,39 @@
+Sl. No.,Category,State/UT,Number of - Zones,Number of - Ranges,Number of - Police Districts,Number of - Sub Divisions,Number of - Circles,Number of - Rural Police Stations,Number of - Urban Police Stations,Number of - Women Police Stations
+1,State,Andhra Pradesh,14,13,33,179,420,1274,387,27
+2,State,Arunachal Pradesh,1,3,17,5,17,54,15,0
+3,State,Assam,2,6,30,28,45,183,130,1
+4,State,Bihar @,5,12,44,112,202,699,171,5
+5,State,Chhattisgarh,0,5,22,86,0,313,103,4
+6,State,Goa,0,0,2,8,0,9,16,1
+7,State,Gujarat,14,10,34,94,85,398,147,25
+8,State,Haryana,0,4,21,54,0,166,96,2
+9,State,Himachal Pradesh,0,3,13,26,0,63,39,0
+10,State,Jammu & Kashmir,2,7,25,45,0,142,73,2
+11,State,Jharkhand,3,6,26,45,117,289,136,24
+12,State,Karnataka,0,8,32,132,232,491,412,10
+13,State,Kerala,2,4,19,53,192,318,158,4
+14,State,Madhya Pradesh,12,15,53,143,0,609,339,9
+15,State,Maharashtra,37,9,45,279,0,689,337,0
+16,State,Manipur,3,4,10,25,0,83,8,9
+17,State,Meghalaya,0,2,7,8,19,19,20,7
+18,State,Mizoram,0,2,8,17,0,27,11,0
+19,State,Nagaland,1,3,11,18,0,20,30,0
+20,State,Odisha,0,8,34,35,99,372,182,6
+21,State,Punjab,4,7,27,114,0,200,177,6
+22,State,Rajasthan,0,9,36,0,189,443,330,29
+23,State,Sikkim,1,1,4,11,0,6,22,0
+24,State,Tamil Nadu #,4,12,39,246,376,567,734,196
+25,State,Tripura,1,2,4,22,30,43,27,1
+26,State,Uttar Pradesh,0,18,75,312,392,1102,413,71
+27,State,Uttarakhand,0,2,13,72,37,71,54,2
+28,State,West Bengal,3,7,31,94,87,253,300,10
+State,State,Total (States),109,182,715,2263,2539,8903,4867,451
+29,Union Territory,A & N Islands,0,0,2,5,0,20,3,1
+30,Union Territory,Chandigarh,3,0,0,3,0,0,11,0
+31,Union Territory,D & N Haveli,0,0,1,0,0,1,1,0
+32,Union Territory,Daman & Diu,0,0,2,0,0,1,2,0
+33,Union Territory,Delhi,0,3,11,54,0,0,180,0
+34,Union Territory,Lakshadweep,1,1,1,1,1,9,0,0
+35,Union Territory,Puducherry,0,0,2,6,15,18,26,3
+Union Territory,Union Territory,Total (UTs),4,4,19,69,16,49,223,4
+Total (All-India),Total (All-India),Total (All-India),113,186,734,2332,2555,8952,5090,455

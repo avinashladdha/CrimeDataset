@@ -1,0 +1,39 @@
+Category,States/ UTs,Number of Police Stations -(0-60 Cases),Number of Police Stations - (61-100 Cases),Number of Police Stations - (101-200 Cases),Number of Police Stations - (201-300 Cases),Number of Police Stations - (301-400 Cases),Number of Police Stations - (401-500 Cases),Number of Police Stations - (501-1000 Cases),Number of Police Stations - (1001 and above),Number of Police Stations - Total
+State,Andhra Pradesh,343,405,502,171,57,39,30,9,1556
+State,Arunachal Pradesh,59,4,4,2,0,0,0,0,69
+State,Assam,29,46,77,55,12,5,5,3,232
+State,Bihar,167,198,213,96,38,23,20,2,757
+State,Chhattisgarh,78,50,96,50,30,19,14,1,338
+State,Goa,10,9,4,2,0,0,0,0,25
+State,Gujarat,67,69,94,79,47,25,52,35,468
+State,Haryana,0,15,62,57,31,16,26,2,209
+State,Himachal Pradesh,10,10,36,16,8,2,5,0,87
+State,Jammu & Kashmir,37,46,59,15,13,2,0,0,172
+State,Jharkhand,108,84,71,32,23,6,5,0,329
+State,Karnataka,72,138,296,165,59,44,29,2,805
+State,Kerala,21,20,67,88,67,57,107,17,444
+State,Madhya Pradesh,12,38,65,165,240,210,150,50,930
+State,Maharashtra,128,159,282,154,96,49,71,3,942
+State,Manipur,38,8,8,3,1,0,0,0,58
+State,Meghalaya,14,7,6,0,0,0,0,0,27
+State,Mizoram,23,2,3,1,2,1,1,1,34
+State,Nagaland,26,13,4,0,0,0,0,0,43
+State,Orissa,84,120,164,66,19,5,1,0,459
+State,Punjab,12,33,98,64,33,13,6,0,259
+State,Rajasthan,50,74,233,151,98,51,54,0,711
+State,Sikkim,25,1,1,0,0,0,0,0,27
+State,Tamil Nadu,77,75,179,178,161,137,255,160,1222
+State,Tripura,34,13,6,1,0,1,0,0,55
+State,Uttar Pradesh,154,166,299,264,209,161,134,59,1446
+State,Uttaranchal,22,14,12,21,12,10,10,5,106
+State,West Bengal,90,92,138,90,31,16,6,0,463
+State,Total (States),1790,1909,3079,1986,1287,892,981,349,12273
+Union Territory,A & N Islands,8,3,2,0,4,1,NR,3,21
+Union Territory,Chandigarh,0,0,1,2,4,3,1,0,11
+Union Territory,D & N Haveli,0,1,0,0,1,0,0,0,2
+Union Territory,Daman & Diu,1,0,1,0,0,0,0,0,2
+Union Territory,Delhi,1,2,5,7,17,22,53,22,129
+Union Territory,Lakshadweep,9,0,0,0,0,0,0,0,9
+Union Territory,Pondicherry,8,2,9,10,6,4,0,1,40
+Union Territory,Total (UTs),27,8,18,19,32,30,54,26,214
+Total (All-India),Total (All-India),1817,1917,3097,2005,1319,922,1035,375,12487

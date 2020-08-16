@@ -1,0 +1,59 @@
+SI.No.,Category,State/UT/City,7-12 Years - Boys,7-12 years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Girls only,Overall age Group - Boys,Overall age Group - Girls,Total (Boys + Girls)
+1,State,Andhra Pradesh,106,3,468,17,192,574,212,786
+2,State,Arunachal Pradesh,10,0,30,0,0,40,0,40
+3,State,Assam,9,0,223,9,32,232,41,273
+4,State,Bihar,214,8,1303,24,118,1517,150,1667
+5,State,Goa,1,0,10,1,2,11,3,14
+6,State,Gujarat,61,17,95,0,107,156,124,280
+7,State,Haryana,8,0,232,12,66,240,78,318
+8,State,Himachal Pradesh,2,2,50,4,9,52,15,67
+9,State,Jammu & Kashmir,0,0,0,0,0,0,0,0
+10,State,Karnataka,81,1,228,11,149,309,161,470
+11,State,Kerala,1,2,53,4,39,54,45,99
+12,State,Madhya Pradesh,594,36,2469,173,372,3063,581,3644
+13,State,Maharashtra,388,40,1251,88,462,1639,590,2229
+14,State,Manipur,0,0,0,0,0,0,0,0
+15,State,Meghalaya,1,0,32,0,0,33,0,33
+16,State,Mizoram,4,0,16,0,16,20,16,36
+17,State,Nagaland,0,0,2,0,3,2,3,5
+18,State,Orissa,7,0,150,1,39,157,40,197
+19,State,Punjab,0,0,6,0,0,6,0,6
+20,State,Rajasthan,32,0,488,28,308,520,336,856
+21,State,Sikkim,0,0,7,1,5,7,6,13
+22,State,Tamil Nadu,31,13,327,21,69,358,103,461
+23,State,Tripura,1,0,4,0,0,5,0,5
+24,State,Uttar Pradesh,1,0,35,2,8,36,10,46
+25,State,West Bengal,0,0,4,0,0,4,0,4
+Total States,State,Total States,1552,122,7483,396,1996,9035,2514,11549
+26,UT,A & N Islands,0,0,2,0,0,2,0,2
+27,UT,Chandigarh,0,0,26,4,2,26,6,32
+28,UT,D & N Haveli,0,0,2,0,0,2,0,2
+29,UT,Daman & DIU,0,0,2,2,1,2,3,5
+30,UT,Delhi,78,7,458,11,42,536,60,596
+31,UT,Lakshadweep,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,1,0,20,0,0,21,0,21
+Total (UTs),UT,Total (UTs),79,7,510,17,45,589,69,658
+Total (All -India),Total (All -India),Total (All -India),1631,129,7993,413,2041,9624,2583,12207
+33,City,Ahmedabad,13,0,113,12,76,126,88,214
+34,City,Bangalore,59,0,102,6,5,161,11,172
+35,City,Bhopal,0,0,0,0,0,0,0,0
+36,City,Bombay,42,3,134,4,7,176,14,190
+37,City,Calcutta,0,0,2,0,0,2,0,2
+38,City,Coimbatore,0,0,17,2,0,17,2,19
+39,City,Delhi,78,7,458,11,42,536,60,596
+40,City,Hyderabad,29,0,129,0,0,158,0,158
+41,City,Indore,0,0,70,0,0,70,0,70
+42,City,Jaipur,0,0,87,10,23,87,33,120
+43,City,Kanpur,0,0,0,0,0,0,0,0
+44,City,Kochi,0,0,0,0,0,0,0,0
+45,City,Lucknow,0,0,0,0,0,0,0,0
+46,City,Ludhiana,0,0,0,0,0,0,0,0
+47,City,Madras,0,0,46,0,0,46,0,46
+48,City,Madurai,0,0,55,3,0,55,3,58
+49,City,Nagpur,12,0,28,1,0,40,1,41
+50,City,Patna,5,0,39,0,2,44,2,46
+51,City,Pune,19,1,117,5,8,136,14,150
+52,City,Surat,23,0,87,0,0,110,0,110
+53,City,Vadodra,16,1,61,18,36,77,55,132
+54,City,Varanasi,0,0,0,0,0,0,0,0
+55,City,Vishakhapatnam,0,0,37,1,5,37,6,43

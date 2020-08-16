@@ -1,0 +1,14 @@
+Sr. No. (Col.1),Crime Head (Col. 2),Total No. of Cases for Investigation Including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases in Which (Col. 5) - Investigaon Refused,No. of Cases in Which - Investigation Completed (Col. 6) - Charge Found False /Mistake of Fact or Law Etc.,No. of Cases in Which - Investigation Completed (Col. 7) - Final Report True Submitted,No. of Cases in Which - Investigation Completed (Col. 8) - Charge Sheets Submitted,No. of Cases in Which - Investigation Completed (Col. 9) - Total = Col.{(6)+(7)+(8)},No. of Cases Pending Investigation at the end of the year (Col. 10)
+1,Infanticide (Sec.315 IPC),93,0,0,2,40,22,64,29
+2,Murder (Sec.302 IPC),2014,3,2,61,179,1184,1424,585
+3,Rape (Sec. 376 IPC),7316,0,2,216,181,4763,5160,2154
+4,"Kidnapping & Abduction (Sec.363-369,371-373 IPC)",12254,90,60,1502,1536,4710,7748,4356
+5,Foeticide,182,0,0,15,83,31,129,53
+6,Abetment to Suicide ( Sec.305 IPC),66,0,0,2,8,40,50,16
+7,Exposure and Abandonment ( Sec. 317 IPC),1097,0,1,24,722,84,830,266
+8,Procuration Minor Girls ( Sec. 366A IPC),434,0,0,25,35,140,200,234
+9,Buying of Girls for Prost. ( Sec.373 IPC),61,0,0,0,2,34,36,25
+10,Selling of Girls for Prost.( Sec.372 IPC),151,0,0,0,13,25,38,113
+11,"Child Marriage Restraint Act, 1978",48,0,0,3,2,15,20,28
+12,Other Crimes,8259,0,1,161,515,6203,6879,1379
+13,Total,31975,93,66,2011,3316,17251,22578,9238

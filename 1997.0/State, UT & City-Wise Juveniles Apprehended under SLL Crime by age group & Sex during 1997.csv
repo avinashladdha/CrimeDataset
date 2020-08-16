@@ -1,0 +1,59 @@
+SI.No.,Category,State/UT/City,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Girls only,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+1,State,Andhra Pradesh,3,10,28,2,47,31,59,90
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0
+3,State,Assam,10,4,0,2,3,10,9,19
+4,State,Bihar,2,0,60,4,8,62,12,74
+5,State,Goa,0,0,0,0,9,0,9,9
+6,State,Gujarat,12,6,18,0,34,30,40,70
+7,State,Haryana,3,0,215,2,11,218,13,231
+8,State,Himachal Pradesh,1,0,5,0,1,6,1,7
+9,State,Jammu & Kashmir,0,0,0,0,0,0,0,0
+10,State,Karnataka,7,8,12,0,80,19,88,107
+11,State,Kerala,0,0,2,1,0,2,1,3
+12,State,Madhya Pradesh,24,0,1259,30,41,1283,71,1354
+13,State,Maharashtra,47,2,130,7,498,177,507,684
+14,State,Manipur,0,0,0,0,0,0,0,0
+15,State,Meghalaya,0,0,6,0,0,6,0,6
+16,State,Mizoram,0,0,0,0,9,0,9,9
+17,State,Nagaland,0,0,0,0,0,0,0,0
+18,State,Orissa,0,0,0,0,0,0,0,0
+19,State,Punjab,2,2,10,3,0,12,5,17
+20,State,Rajasthan,7,2,14,0,13,21,15,36
+21,State,Sikkim,0,0,0,0,0,0,0,0
+22,State,Tamil Nadu,827,4,1900,5,70,2727,79,2806
+23,State,Tripura,0,0,0,0,0,0,0,0
+24,State,Uttar Pradesh,0,0,8,0,5,8,5,13
+25,State,West Bengal,0,0,0,0,0,0,0,0
+Total States,State,Total States,945,38,3667,56,829,4612,923,5535
+26,UT,A & N Islands,0,0,2,0,0,2,0,2
+27,UT,Chandigarh,1,0,0,0,0,1,0,1
+28,UT,D & N Haveli,0,0,0,0,0,0,0,0
+29,UT,Daman & Diu,0,0,0,0,0,0,0,0
+30,UT,Delhi,3,0,40,0,8,43,8,51
+31,UT,Lakshadweep,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,0,0,0,0,0,0,0,0
+Total (UTs),UT,Total (UTs),4,0,42,0,8,46,8,54
+Total (All -India),Total (All -India),Total (All -India),949,38,3709,56,837,4658,931,5589
+33,City,Ahmedabad,0,0,22,1,17,22,18,40
+34,City,Bangalore,0,2,0,0,1,0,3,3
+35,City,Bhopal,0,0,0,0,0,0,0,0
+36,City,Bombay,0,0,1,0,460,1,460,461
+37,City,Calcutta,0,0,0,0,0,0,0,0
+38,City,Coimbatore,37,4,37,0,0,74,4,78
+39,City,Delhi,3,0,40,0,8,43,8,51
+40,City,Hyderabad,0,0,0,0,0,0,0,0
+41,City,Indore,0,0,0,0,0,0,0,0
+42,City,Jaipur,0,0,2,0,1,2,1,3
+43,City,Kanpur,0,0,0,0,0,0,0,0
+44,City,Kochi,0,0,0,0,0,0,0,0
+45,City,Lucknow,0,0,0,0,0,0,0,0
+46,City,Ludhiana,0,0,0,0,0,0,0,0
+47,City,Madras,0,0,0,0,15,0,15,15
+48,City,Madurai,111,0,17,0,0,128,0,128
+49,City,Nagpur,11,0,15,3,0,26,3,29
+50,City,Patna,1,0,5,0,1,6,1,7
+51,City,Pune,0,0,3,0,3,3,3,6
+52,City,Surat,0,0,30,7,442,30,449,479
+53,City,Vadodra,4,0,5,0,12,9,12,21
+54,City,Varanasi,0,0,0,0,0,0,0,0
+55,City,Vishakhapatnam,2,0,0,0,27,2,27,29

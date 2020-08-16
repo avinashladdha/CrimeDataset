@@ -1,0 +1,59 @@
+Category,SL.No.,State/UT/City,DG/IG/DIG/SP - Sanctioned,DG/IG/DIG/SP - Actual,ASP & DSP - Sanctioned,ASP & DSP - Actual,"Inspector, SI & A.S.I. - Sanctioned","Inspector, SI & A.S.I. - Actual",Officers Below A.S.I. - Sanctioned,Officers Below A.S.I. - Actual,Grand Total - Sanctioned,Grand Total - Actual
+State,1,Andhra Pradesh,0,0,0,0,40,32,1213,1100,1253,1132
+State,2,Arunachal Pradesh,0,1,0,0,13,13,52,106,65,120
+State,3,Assam,0,0,0,0,22,25,201,201,223,226
+State,4,Bihar,6,6,11,11,51,51,274,272,342,340
+State,5,Goa,0,0,0,0,4,9,193,169,197,178
+State,6,Gujarat,0,0,1,1,58,58,871,871,930,930
+State,7,Haryana,1,1,2,5,26,20,199,169,228,195
+State,8,Himachal Pradesh,0,0,0,1,3,23,43,381,46,405
+State,9,Jammu & Kashmir,0,0,0,0,13,10,162,146,175,156
+State,10,Karnataka,0,0,0,0,87,31,1246,1037,1333,1068
+State,11,Kerala,0,0,1,1,40,40,520,478,561,519
+State,12,Madhya Pradesh,0,0,1,1,133,111,919,889,1053,1001
+State,13,Maharashtra,0,0,3,3,198,197,2965,2880,3166,3080
+State,14,Manipur,0,4,0,2,1,5,243,235,244,246
+State,15,Meghalaya,0,0,0,0,4,35,40,96,44,131
+State,16,Mizoram,0,0,0,0,0,6,0,78,0,84
+State,17,Nagaland,0,0,0,0,15,15,22,22,37,37
+State,18,Orissa,0,0,1,1,97,73,230,230,328,304
+State,19,Punjab,0,0,0,5,26,48,181,738,207,791
+State,20,Rajasthan,0,0,2,0,41,9,570,561,613,570
+State,21,Sikkim,0,0,1,1,21,21,39,39,61,61
+State,22,Tamil Nadu,0,0,0,0,335,213,2533,1005,2868,1218
+State,23,Tripura,0,0,1,1,41,33,175,158,217,192
+State,24,Uttar Pradesh,0,0,0,0,204,82,1855,1276,2059,1358
+State,25,West Bengal,0,0,1,1,230,155,614,498,845,654
+State,Total (States),Total (States),7,12,25,34,1703,1315,15360,13635,17095,14996
+UT,26,A & N Islands,0,0,0,0,4,4,71,71,75,75
+UT,27,Chandigarh,0,0,0,0,2,22,33,136,35,158
+UT,28,D & N Haveli,0,0,0,0,0,0,0,0,0,0
+UT,29,Daman & Diu,0,0,0,0,0,0,12,12,12,12
+UT,30,Delhi,0,0,1,1,410,318,998,1004,1409,1323
+UT,31,Lakshadweep,0,0,0,0,1,1,17,17,18,18
+UT,32,Pondicherry,0,0,0,0,2,3,12,62,14,65
+UT,Total (UTs),Total (UTs),0,0,1,1,419,348,1143,1302,1563,1651
+Total (All-India),Total (All-India),Total (All-India),7,12,26,35,2122,1663,16503,14937,18658,16647
+City,33,Ahmedabad,0,0,1,0,13,10,159,141,173,151
+City,34,Bangalore,0,0,0,0,21,21,148,128,169,149
+City,35,Bhopal,0,0,0,0,11,8,51,51,62,59
+City,36,Bombay,0,0,3,3,123,108,856,704,982,815
+City,37,Calcutta,0,0,1,1,98,86,212,129,311,216
+City,38,Coimbatore,0,0,0,0,14,12,56,53,70,65
+City,39,Delhi,0,0,1,1,410,318,998,1004,1409,1323
+City,40,Hyderabad,0,0,0,0,9,9,199,195,208,204
+City,41,Indore,0,0,0,0,6,7,53,56,59,63
+City,42,Jaipur,0,0,2,0,10,2,77,58,89,60
+City,43,Kanpur,0,0,1,1,15,6,55,73,71,80
+City,44,Kochi,0,0,0,0,5,5,42,37,47,42
+City,45,Lucknow,0,0,0,0,22,12,79,84,101,96
+City,46,Ludhiana,0,0,0,0,0,3,18,48,18,51
+City,47,Madras,0,0,0,0,15,15,186,159,201,174
+City,48,Madurai,0,0,0,0,12,9,99,47,111,56
+City,49,Nagpur,0,0,0,0,9,9,154,144,154,153
+City,50,Patna,0,0,0,0,0,16,0,87,0,103
+City,51,Pune,0,0,0,1,4,16,228,223,232,240
+City,52,Surat,0,0,0,0,3,3,115,81,118,84
+City,53,Vadodara,0,0,0,0,3,0,99,92,102,92
+City,54,Varanasi,0,0,0,0,5,4,60,60,65,64
+City,55,Vishakhapatnam,0,0,0,0,4,4,100,90,104,94

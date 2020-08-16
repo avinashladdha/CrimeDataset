@@ -1,0 +1,48 @@
+SL. No.,Category,State/U.Ts/Cities,Number of DG/IG/DIG/SP,Number of ASP & DSP,Number of Inspector & Sub Inspectors,Number of Officers Below S.I.,Total
+1,State,Andhra Pradesh,NA,NA,327,8786,9113
+2,State,Arunachal Pradesh,NA,NA,NA,NA,NA
+3,State,Assam,36,107,569,15808,16520
+4,State,Bihar,NA,72,933,14580,15585
+5,State,Gujarat,11,33,368,11802,12214
+6,State,Haryana,9,19,219,5384,5631
+7,State,Himachal Pradesh,5,7,47,2744,2803
+8,State,Jammu & Kashmir,17,56,176,5820,6069
+9,State,Karnataka,7,15,168,4753,4943
+10,State,Kerala,16,29,251,6351,6647
+11,State,Madhya Pradesh,32,124,1010,23062,24228
+12,State,Maharashtra,11,40,331,10959,11341
+13,State,Manipur,8,46,163,5174,5391
+14,State,Meghalaya,4,8,74,1811,1897
+15,State,Mizoram,1,6,44,1007,1058
+16,State,Nagaland,9,74,271,7986,8340
+17,State,Orissa,16,79,250,6806,7151
+18,State,Punjab,17,40,184,5449,5690
+19,State,Rajasthan,7,47,248,6747,7049
+20,State,Sikkim,1,3,12,506,522
+21,State,Tamil Nadu,14,39,285,7126,7464
+22,State,Tripura,4,26,82,2480,2592
+23,State,Uttar Pradesh,42,136,1167,32604,33949
+24,State,West Bengal,37,87,986,29194,30304
+Total (States),State,Total (States),304,1093,8165,216939,226501
+25,UT,A & N Islands,NA,1,8,249,258
+26,UT,Chandigarh,NA,1,26,871,898
+27,UT,D & N Haveli,NA,NA,NA,NA,NA
+28,UT,Delhi,10,22,275,9669,9976
+29,UT,"Goa, Daman & Diu",NA,2,13,573,588
+30,UT,Lakshadweep,NA,NA,NA,NA,NA
+31,UT,Pondicherry,NA,2,23,675,700
+Total (UTs),UT,Total (UTs),10,28,345,12037,12420
+All India,All India,All India,314,1121,8510,228976,238921
+1,City,Ahmedabad,NA,NA,NA,NA,NA
+2,City,Bangalore,NA,NA,NA,NA,NA
+3,City,Bombay,NA,NA,NA,NA,NA
+4,City,Calcutta,7,26,243,7185,7461
+5,City,Delhi,10,22,275,9669,9976
+6,City,Hyderabad,2,2,70,1812,1886
+7,City,Jaipur,NA,NA,39,1150,1189
+8,City,Kanpur,NA,NA,16,1074,1090
+9,City,Lucknow,NA,NA,33,1550,1583
+10,City,Madras,NA,NA,NA,NA,NA
+11,City,Nagpur,NA,NA,NA,NA,NA
+12,City,Pune,NA,NA,6,1523,1529
+Total (Cities),City,Total (Cities),19,50,682,23963,24714

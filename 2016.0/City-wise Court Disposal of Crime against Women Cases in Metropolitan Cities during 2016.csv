@@ -1,0 +1,21 @@
+S.No (Col.1),City (Col.2),Cases Pending Trial from the Previous Year (Col.3),Cases sent for Trial during the Year (Col.4),Total Cases for Trial during the Year (Col.5) = (Col.3+4),Number of Cases withdrawn by the Govt. (Col.6),Number of Cases Disposed by Plea Bargaining (Col.7),Cases Compounded (Col.8),Cases in which Trials were Completed (Col.9) = (Col. 10+ Col.11),Cases Convicted (Col.10),Cases Acquitted or Discharged (Col.11),Total Cases Disposed off by Courts (Col.12) = (Col.6+ Col.7+ Col.8+ Col.9),Total Cases Pending Trial at the End of the Year (Col.13) = (Col.5-Col.12),Conviction Rate (Col.14) = (Col.10/ Col.9) * 100,Pendency Percentage (Col.15) = (Col.13/ Col.5) * 100
+1,Ahmedabad (Gujarat),9521,1030,10551,0,0,2,400,10,390,402,10149,2.5,96.2
+2,Bengaluru (Karnataka),7873,1967,9840,0,0,37,921,32,889,958,8882,3.5,90.3
+3,Chennai (Tamil Nadu),1430,401,1831,0,0,0,424,153,271,424,1407,36.1,76.8
+4,Coimbatore (Tamil Nadu),419,109,528,0,0,8,126,21,105,134,394,16.7,74.6
+5,Delhi,21666,7963,29629,0,0,116,2301,679,1622,2417,27212,29.5,91.8
+6,Ghaziabad (Uttar Pradesh),1115,573,1688,0,0,0,132,67,65,132,1556,50.8,92.2
+7,Hyderabad (Telangana),4421,1991,6412,0,0,355,529,41,488,884,5528,7.8,86.2
+8,Indore (Madhya Pradesh),1898,849,2747,0,0,227,514,148,366,741,2006,28.8,73
+9,Jaipur (Rajasthan),6606,988,7594,0,2,0,304,43,261,306,7288,14.1,96
+10,Kanpur (Uttar Pradesh),2085,721,2806,0,0,0,351,188,163,351,2455,53.6,87.5
+11,Kochi (Kerala),2651,369,3020,0,0,4,164,42,122,168,2852,25.6,94.4
+12,Kolkata (West Bengal),4435,1214,5649,0,0,0,102,0,102,102,5547,0,98.2
+13,Kozhikode (Kerala),1689,323,2012,0,0,0,237,88,149,237,1775,37.1,88.2
+14,Lucknow (Uttar Pradesh),2785,1108,3893,0,0,0,184,89,95,184,3709,48.4,95.3
+15,Mumbai (Maharashtra),12332,3308,15640,3,0,140,782,215,567,925,14715,27.5,94.1
+16,Nagpur (Maharashtra),6709,1157,7866,0,0,7,305,25,280,312,7554,8.2,96
+17,Patna (Bihar),1827,2327,4154,0,0,0,255,26,229,255,3899,10.2,93.9
+18,Pune (Maharashtra),8988,1541,10529,0,0,44,403,37,366,447,10082,9.2,95.8
+19,Surat (Gujarat),4195,470,4665,0,0,0,2,0,2,2,4663,0,100
+Total Cities,Total Cities,102645,28409,131054,3,2,940,8436,1904,6532,9381,121673,22.6,92.8

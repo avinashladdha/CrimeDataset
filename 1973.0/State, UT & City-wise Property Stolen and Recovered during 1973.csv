@@ -1,0 +1,41 @@
+SL. No.,Category,States/U.Ts./Cities,Total Value of Property Stolen,Total Value of Property Recovered
+1,State,Andhra Pradesh,141.23,55.62
+2,State,Assam,113.03,8.21
+3,State,Bihar,290.24,9.33
+4,State,Gujarat,272.75,48.95
+5,State,Haryana,77.4,45.22
+6,State,Himachal Pradesh,20.14,9.58
+7,State,Jammu and Kashmir,21.42,13.45
+8,State,Karnataka,185.83,67.88
+9,State,Kerala,120.47,31.58
+10,State,Madhya Pradesh,317.54,84.08
+11,State,Maharashtra,970,299.78
+12,State,Manipur,8.74,2.52
+13,State,Meghalaya,3.74,0.67
+14,State,Nagaland,7.41,2.51
+15,State,Orissa,78.59,15.05
+16,State,Punjab,486.25,61.66
+17,State,Rajasthan,165.48,82.82
+18,State,Tamil Nadu,127.876,79.42
+19,State,Tripura,3.02,0.66
+20,State,Uttar Pradesh,1254.69,122.51
+21,State,West Bengal,232.34,67.39
+Total (States),State,Total (States),4898.17,1108.89
+22,UT,A & N Islands,1.44,0.94
+23,UT,Chandigarh,13.87,7.25
+24,UT,D & N Haveli,0.34,0.08
+25,UT,Delhi,387.69,157.94
+26,UT,"Goa, Daman & Diu",10.27,4.97
+27,UT,Lakshadweep,0.05,NA
+28,UT,Pondicherry,3.16,1.81
+Total (UTs),UT,Total (UTs),416.82,172.99
+Total (All-India),Total (All-India),Total (All-India),5314.99,1281.88
+1,City,Ahmedabad,52.94,7.37
+2,City,Bangalore,44.43,19.96
+3,City,Bombay,518.7,225.32
+4,City,Calcutta,202.12,62.3
+5,City,Delhi,374.64,143.97
+6,City,Hyderabad,25.48,8.29
+7,City,Kanpur,72.99,12.47
+8,City,Madras,33.05,17.94
+Total (Cities),City,Total (Cities),1324.35,497.62

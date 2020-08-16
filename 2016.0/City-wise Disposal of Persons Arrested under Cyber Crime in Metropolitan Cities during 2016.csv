@@ -1,0 +1,21 @@
+S. No.,City,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted/ Discharged - Male,Persons Acquitted/ Discharged - Female,Persons Acquitted/ Discharged - Total
+1,Ahmedabad (Gujarat),117,2,119,74,1,75,0,0,0,5,0,5
+2,Bengaluru (Karnataka),135,4,139,100,2,102,5,0,5,14,0,14
+3,Chennai (Tamil Nadu),3,1,4,0,0,0,0,0,0,0,0,0
+4,Coimbatore (Tamil Nadu),13,1,14,6,1,7,0,0,0,1,0,1
+5,Delhi,47,0,47,40,0,40,0,0,0,4,0,4
+6,Ghaziabad (Uttar Pradesh),36,0,36,23,0,23,2,0,2,4,0,4
+7,Hyderabad (Telangana),198,18,216,85,1,86,0,0,0,6,0,6
+8,Indore (Madhya Pradesh),35,1,36,26,1,27,7,2,9,5,0,5
+9,Jaipur (Rajasthan),43,2,45,43,2,45,1,0,1,8,0,8
+10,Kanpur (Uttar Pradesh),139,0,139,57,0,57,2,0,2,2,0,2
+11,Kochi (Kerala),26,2,28,27,1,28,0,0,0,4,0,4
+12,Kolkata (West Bengal),165,3,168,38,0,38,0,0,0,12,0,12
+13,Kozhikode (Kerala),7,0,7,5,0,5,0,0,0,2,0,2
+14,Lucknow (Uttar Pradesh),435,0,435,184,0,184,0,0,0,0,0,0
+15,Mumbai (Maharashtra),252,13,265,199,7,206,2,0,2,2,0,2
+16,Nagpur (Maharashtra),26,0,26,24,0,24,0,0,0,0,0,0
+17,Patna (Bihar),169,3,172,44,0,44,0,0,0,15,0,15
+18,Pune (Maharashtra),91,4,95,40,3,43,0,0,0,5,0,5
+19,Surat (Gujarat),27,0,27,26,0,26,0,0,0,0,0,0
+Total Cities,Total Cities,1964,54,2018,1041,19,1060,19,2,21,89,0,89

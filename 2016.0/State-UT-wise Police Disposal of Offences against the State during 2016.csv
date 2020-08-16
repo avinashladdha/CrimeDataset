@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Cases Pending Investigation from Previous Year (Col.4),Cases Reported during the Year (Col.5),Total Cases for Investigation (Col.6) = (Col.4+5),Cases Withdrawn by Govt. (Col.7),Cases Transferred to other PS/ Magistrate (Col.8),Cases not Investigated U/S 157(1) (b) of Cr.PC (Col.9),Final Report - True but Insufficient Evidence (Col.10),Final Report - False (Col.11),Final Report - Mistake of Fact (Col.12),Final Report - Non-Cognizable (Col.13),Final Report - Total (Col.14) = (Col.10 + Col.11+ Col.12+Col.13),Cases in which Chargesheets were Submitted (Col.15),Total Cases Disposed off by Police (Col.16) = (Col. 8+9+ Col.14+ Col.15),Cases Pending Investigation at the End of the Year (Col.17) = (Col. 6 - (Col.7 + Col.16)),Chargesheeting Rate (Col.18) = (Col.15/ Col.16) * 100,Pendency Percentage (Col.19) = (Col.17/ (Col.6)) * 100
+1,State,Andhra Pradesh,26,40,66,0,0,0,0,1,0,0,1,39,40,26,97.5,39.4
+2,State,Arunachal Pradesh,0,10,10,0,0,0,1,1,0,0,2,3,5,5,60,50
+3,State,Assam,245,343,588,0,0,0,70,0,0,0,70,67,137,451,48.9,76.7
+4,State,Bihar,142,207,349,0,0,0,9,0,0,0,9,127,136,213,93.4,61
+5,State,Chhattisgarh,6,9,15,0,0,0,0,0,0,0,0,9,9,6,100,40
+6,State,Goa,12,11,23,0,0,0,4,0,0,0,4,7,11,12,63.6,52.2
+7,State,Gujarat,7,44,51,0,0,0,17,0,1,0,18,28,46,5,60.9,9.8
+8,State,Haryana,66,1286,1352,0,0,0,92,21,0,0,113,1142,1255,97,91,7.2
+9,State,Himachal Pradesh,22,58,80,0,0,0,26,5,2,0,33,23,56,24,41.1,30
+10,State,Jammu & Kashmir,245,185,430,0,0,0,24,3,0,0,27,28,55,375,50.9,87.2
+11,State,Jharkhand,122,106,228,0,0,0,6,0,0,0,6,73,79,149,92.4,65.4
+12,State,Karnataka,43,148,191,0,1,0,10,1,3,0,14,81,96,95,84.4,49.7
+13,State,Kerala,230,317,547,0,1,0,66,6,2,0,74,210,285,262,73.7,47.9
+14,State,Madhya Pradesh,3,21,24,0,0,0,0,3,0,1,4,19,23,1,82.6,4.2
+15,State,Maharashtra,116,178,294,0,0,0,10,0,0,0,10,114,124,170,91.9,57.8
+16,State,Manipur,2680,335,3015,0,0,0,124,0,0,0,124,11,135,2880,8.1,95.5
+17,State,Meghalaya,30,51,81,0,0,0,10,0,3,0,13,11,24,57,45.8,70.4
+18,State,Mizoram,8,0,8,0,0,0,0,0,0,0,0,2,2,6,100,75
+19,State,Nagaland,6,15,21,0,0,0,4,0,0,0,4,10,14,7,71.4,33.3
+20,State,Odisha,27,25,52,0,0,0,0,0,0,0,0,2,2,50,100,96.2
+21,State,Punjab,34,32,66,0,0,0,2,3,2,0,7,20,27,39,74.1,59.1
+22,State,Rajasthan,5,82,87,0,0,0,8,7,14,1,30,50,80,7,62.5,8
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+24,State,Tamil Nadu,1284,1827,3111,0,0,0,170,0,90,0,260,1141,1401,1710,81.4,55
+25,State,Telangana,39,90,129,0,0,0,5,0,2,0,7,90,97,32,92.8,24.8
+26,State,Tripura,5,7,12,0,0,0,8,0,1,0,9,1,10,2,10,16.7
+27,State,Uttar Pradesh,84,1414,1498,0,0,0,148,5,0,0,153,1109,1262,236,87.9,15.8
+28,State,Uttarakhand,2,4,6,0,0,0,0,1,0,0,1,2,3,3,66.7,50
+29,State,West Bengal,134,102,236,0,0,0,12,0,0,9,21,90,111,125,81.1,53
+Total (States),State,Total (States),5623,6947,12570,0,2,0,826,57,120,11,1014,4509,5525,7045,81.6,56
+30,UT,A & N Islands,1,7,8,0,0,0,2,0,0,0,2,0,2,6,0,75
+31,UT,Chandigarh,0,2,2,0,0,0,0,0,0,0,0,1,1,1,100,50
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+34,UT,Delhi,25,22,47,0,1,0,4,0,0,0,4,17,22,25,77.3,53.2
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+36,UT,Puducherry,2,8,10,0,0,0,1,0,0,0,1,9,10,0,90,0
+Total (UTs),UT,Total (UTs),28,39,67,0,1,0,7,0,0,0,7,27,35,32,77.1,47.8
+Total (All India),Total (All India),Total (All India),5651,6986,12637,0,3,0,833,57,120,11,1021,4536,5560,7077,81.6,56

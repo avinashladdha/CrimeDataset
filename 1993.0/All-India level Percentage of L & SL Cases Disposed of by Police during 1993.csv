@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Percentage of cases to total cases for investigation in which - investigation was refused (Col. 3),Percentage of cases to total cases for investigation in which - investigation was completed - charge found false/ mistake of fact or of law etc. (Col. 4),Percentage of cases to total cases for investigation in which - investigation was completed - final report true submitted (Col. 5),Percentage of cases to total cases for investigation in which - investigation was completed - chargesheets were laid (Col. 6),Percentage of cases to total cases for investigation in which - investigation was completed - Total (Col. 4+5+6) (Col. 7),Percentage of cases pending investigation (Col. 8)
+1,Arms Act,0,0.5,2.4,81.9,84.7,15.3
+2,Narcotic Drugs & Psychotropic Substances Act,0.1,0.3,1.5,59.1,60.9,39
+3,Gambling Act,0,0,0.1,96.4,96.5,3.5
+4,Excise Act,3.7,0.4,0.7,81.5,82.7,13.5
+5,Prohibition Act,0.5,0.3,2.3,83.4,86,13.5
+6,Explosive & Explosive Substances Act,0.2,1.2,9.4,47.1,57.7,42.1
+7,Immoral Traffic (P) Act,0,0.1,1,93.5,94.6,5.4
+8,Indian Railways Act,1,0.5,2.5,90.9,93.9,5.1
+9,Registration of Foreigners Act,0.3,0.7,1.3,85.3,87.2,12.5
+10,Protection Of Civil Rights Act,0.9,13.8,2.2,64.5,80.5,18.6
+11,Indian Passport Act,0,0.7,1.3,85.9,87.9,12.1
+12,Essential Commodities Act,0.1,2.5,5.9,49.9,58.3,41.6
+13,Terrorist & Disruptive Actvites Act,0.2,0.7,37.5,6.9,45.2,54.6
+14,Antiquity & Art Treasure Act,0,8,0,44,52,48
+15,Dowry Prohibition Act,1.3,8.9,6.2,49.3,64.5,34.2
+16,Other L & SL Crimes,0.6,4.6,0.7,91.3,96.6,2.7
+17,Total Cognizable Crimes Under L & SL,0.7,3.3,1.1,88.9,93.4,5.9

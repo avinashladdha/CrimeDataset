@@ -1,0 +1,9 @@
+Category (Col. 1),Event/Category of Police Personnel (Col. 2),Age Group - 18 Years & Above – Below 30 Years (Col. 3),Age Group - 30 Years & Above – Below 45 Years (Col. 4),Age Group - 45 Years & Above – Below 60 Years (Col. 5),Age Group - 60 Years & Above (Col. 6),Age Group - Total (Col. 7) = (Sum of Col.3 to Col.6)
+Natural Deaths,No. of Civil Police Personnel died due to Natural Death While In Service,100,535,1422,10,2067
+Natural Deaths,No. of Armed Police Personnel died due to Natural Death While In Service,16,72,173,0,261
+Natural Deaths,"No. of Other Police Personnel (CID, Intelligence, Radio Wing, Computer, EOW) died due to Natural Death While In Service",3,8,17,0,28
+Natural Deaths,No. of Total police personnel died due to Natural Death While In Service,119,615,1612,10,2356
+Suicides,No. of Civil Police Personnel Committed Suicides While In Service,33,49,42,1,125
+Suicides,No. of Armed Police Personnel died Committed Suicides While In Service,16,15,6,0,37
+Suicides,"No. of Other Police Personnel (CID, Intelligence, Radio Wing, Computer, EOW) Committed Suicides While In Service",2,1,2,0,5
+Suicides,No. of Total police personnel Committed Suicides While In Service,51,65,50,1,167

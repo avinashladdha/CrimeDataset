@@ -1,0 +1,19 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 3),Percentage of Cases to Total Cases for Trial - In which Trials were Completed - Convicted (Col. 4),Percentage of Cases to Total Cases for Trial - In which Trials were Completed - Acquitted or Discharged (Col. 5),Percentage of Cases to Total Cases for Trial - In which Trials were Completed - Total (Col. 4+5) (Col. 6),Percentage of Cases to Total Cases for Trial - Pending Trial (Col. 7)
+1,Murder,0.4,7,9.8,16.7,82.8
+2,Attempt to Commit Murder,0.9,7.5,9.9,17.4,81.7
+3,C.H. Not Amounting to Murder,0.7,7.9,11.3,19.2,80.1
+4,Rape,0.8,5.8,11.4,17.3,81.9
+5,Kidnapping & Abduction,1.2,5.6,10.2,15.7,83.1
+5,I) Of Women & Girls,1.1,5.2,10.1,15.4,83.5
+5,II) Of Others,1.4,6.9,10.3,17.2,81.4
+6,Dacoity,0.8,4.7,9.4,14.1,85.1
+7,Preparation & Assembly for Dacoity,0.1,7.4,13.6,21.1,78.8
+8,Robbery,0.5,5.3,8.8,14.1,85.5
+9,Burglary,2,8.1,9.5,17.6,80.4
+10,Theft,1.4,9.3,8.9,18.1,80.4
+11,Riots,3.6,4.2,9.4,13.6,82.9
+12,Criminal Breach of Trust,1.4,4.2,6.9,11.1,87.5
+13,Cheating,1.6,4.8,6.4,11.2,87.2
+14,Counterfeiting,1,6.7,7.4,14.1,84.9
+15,Other IPC Crimes,4.4,8.6,9.3,17.9,77.8
+16,Total Cognizable Crimes Under IPC,3.4,8,9.2,17.2,79.5

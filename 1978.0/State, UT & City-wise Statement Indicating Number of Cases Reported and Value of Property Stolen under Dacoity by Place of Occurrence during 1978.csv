@@ -1,0 +1,44 @@
+SL. No.,Category,States/U.Ts/Cities,Residential Premises - Number of Cases Reported,Residential Premises - Value of Property Stolen,Highways - Number of Cases Reported,Highways - Value of Property Stolen ,Railways - Number of Cases Reported,Railways - Value of Property Stolen ,Rivers & Sea - Number of Cases Reported,Rivers & Sea - Value of Property Stolen ,Banks - Number of Cases Reported,Banks - Value of Property Stolen ,Commercial Establishment - Number of Cases Reported,Commercial Establishment - Value of Property Stolen ,Other Places - Number of Cases Reported,Other Places - Value of Property Stolen ,Total - Number of Cases Reported,Total - Value of Property Stolen 
+1,State,Andhra Pradesh ,165,22.99,31,2.28,9,0.2,NA,NA,NA,NA,12,0.37,66,1.89,283,27.73
+2,State,Assam,229,10.58,NA,NA,NA,NA,NA,NA,NA,NA,5,0.1,18,2.76,252,13.44
+3,State,Bihar,1863,39.33,191,2.88,28,0.67,NA,NA,NA,NA,68,0.8,534,1.88,2684,45.56
+4,State,Gujarat,42,1.23,2,0.03,2,0.77,NA,NA,NA,NA,NA,NA,98,4.23,144,6.26
+5,State,Haryana,14,0.31,7,0.93,NA,NA,NA,NA,1,1.24,NA,NA,15,0.64,37,3.12
+6,State,Himachal Pradesh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.08,1,0.08
+7,State,Jammu and Kashmir,9,0.08,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,0.81,20,0.89
+8,State,Karnataka ,74,5.08,12,0.12,1,0.01,NA,NA,NA,NA,24,5.66,116,2.22,227,13.09
+9,State,Kerala,5,0.24,6,9.76,NA,NA,NA,NA,NA,NA,2,NA,19,2.44,32,12.44
+10,State,Madhya Pradesh,395,21.97,50,1.13,6,0.34,NA,NA,NA,NA,9,0.13,55,4.33,515,27.9
+11,State,Maharashtra,208,9.13,76,2.34,15,0.06,NA,NA,NA,NA,4,0.11,261,8.32,564,19.96
+12,State,Manipur,12,0.65,2,0.01,NA,NA,NA,NA,NA,NA,NA,NA,14,0.05,28,0.71
+13,State,Meghalaya,13,0.38,NA,NA,NA,NA,NA,NA,NA,NA,1,0.05,NA,NA,14,0.43
+14,State,Nagaland,3,0.04,4,0.17,NA,NA,NA,NA,NA,NA,1,0.03,4,0.02,12,0.26
+15,State,Orissa,242,13.82,8,0.07,3,0.12,NA,NA,NA,NA,NA,NA,24,4.09,277,18.1
+16,State,Punjab,NA,NA,2,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.03
+17,State,Rajasthan,45,2.79,11,2.52,2,0.05,NA,NA,NA,NA,NA,NA,69,3.04,127,8.4
+18,State,Sikkim ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,State,Tamil Nadu,16,1.68,3,0.14,1,0.03,1,0.03,NA,NA,1,0.01,22,0.29,44,2.18
+20,State,Tripura,72,1.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,72,1.82
+21,State,Uttar Pradesh,5036,258.24,152,11.68,51,0.99,1,0.05,1,0.02,1,2.61,1189,248.69,6431,522.28
+22,State,West Bengal ,1106,32,31,3.21,14,0.73,NA,NA,NA,NA,21,2.18,160,10.64,1332,48.76
+Total (States),State,Total (States),9549,422.36,588,37.3,132,3.97,2,0.08,2,1.26,149,12.05,2776,296.42,13098,773.44
+23,UT,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,UT,Arunachal Pradesh,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.2
+25,UT,Chandigarh,2,0.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.07
+26,UT,D & N Haveli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Delhi,36,2.23,NA,NA,NA,0,NA,NA,NA,NA,14,1.71,18,0.81,69,4.75
+28,UT,"Goa, Daman & Diu",NA,NA,1,0.05,NA,NA,NA,NA,NA,NA,NA,NA,3,0.11,4,0.16
+29,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,UT,Mizoram,1,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0,8,0.02
+31,UT,Pondicherry,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0
+Total (UTs),UT,Total (UTs),45,2.52,1,0.05,1,0,NA,NA,NA,NA,14,1.71,28,0.92,89,5.2
+Total (All-India),Total (All-India),Total (All-India),9594,424.88,589,37.35,133,3.97,2,0.08,2,1.26,163,13.76,2704,297.34,13187,778.6
+1,City,Ahmedabad ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.28,2,0.28
+2,City,Bangalore ,7,1.86,1,0.01,NA,NA,NA,NA,NA,NA,5,1.2,33,0.63,46,3.7
+3,City,Bombay,4,0.11,NA,NA,NA,NA,NA,NA,NA,NA,3,0.08,15,2,22,2.19
+4,City,Calcutta,6,0.96,19,1.55,NA,NA,NA,NA,NA,NA,20,1.89,7,0.27,52,4.67
+5,City,Delhi,17,1.43,NA,NA,1,0,NA,NA,NA,NA,14,1.71,20,0.81,52,3.95
+6,City,Hyderabad,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,6,0.02,7,0.04
+7,City,Kanpur,222,9.63,4,0.04,NA,NA,NA,NA,NA,NA,1,2.61,NA,NA,227,12.28
+8,City,Madras,1,0.43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.43
+Total (Cities),City,Total (Cities),257,14.42,24,1.6,1,0,NA,NA,NA,NA,44,7.51,83,4.01,409,27.54

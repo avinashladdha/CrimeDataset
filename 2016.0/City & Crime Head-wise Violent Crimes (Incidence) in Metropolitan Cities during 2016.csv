@@ -1,0 +1,21 @@
+S. No (Col.1),City (Col.2),Murder (sec 302 Ipc) (Col.3),Culpable Homicide Not Amounting To Murder (sec 304 Ipc) (Col.4),Dowry Deaths (sec 304b Ipc) (Col.5),Infanticide (section 315 Ipc) (Col.6),Foeticide (section 316 Ipc) (Col.7),Attempt To Commit Murder (section 307 Ipc) (Col.8),Attempt To Commit Culpable Homicide (sec 308 Ipc) (Col.9),Grievous Hurt (sec 325 & 326 Ipc) (Col.10),Kidnapping & Abduction (sec. 363 - 369 Ipc)* (Col.11),Rape (sec. 376 Ipc) (Col.12),Attempt To Commit Rape (sec 376 R/w 511 Ipc) (Col.13),Rioting** (sec 147 - 151 & 153a Ipc) (Col.14),Robbery (sec 392 To 394 Ipc) (Col.15),Dacoity (sec. 395 To 398 Ipc) (Col.16),Arson (sec 435 To 438 Ipc) (Col.17),Total Violent Crimes (Col.18) = (Col. 3 To 18)
+1,Ahmedabad (gujarat),103,6,2,0,0,65,1,170,376,112,0,117,125,12,18,1107
+2,Bengaluru (karnataka),229,20,57,0,1,590,1,220,974,321,3,524,789,101,137,3967
+3,Chennai (tamil Nadu),133,4,5,0,0,231,4,40,34,25,0,94,103,11,21,705
+4,Coimbatore (tamil Nadu),27,0,1,0,0,21,0,30,8,0,0,37,87,1,8,220
+5,Delhi,479,54,144,2,7,601,766,450,5925,1996,29,75,4560,38,171,15297
+6,Ghaziabad (uttar Pradesh),59,16,20,0,0,60,21,19,368,105,12,39,55,0,1,775
+7,Hyderabad (andhra Pradesh),86,17,18,0,0,138,0,112,359,170,0,39,181,19,23,1162
+8,Indore (madhya Pradesh),58,6,19,0,0,64,0,95,383,179,2,21,106,3,15,951
+9,Jaipur (rajasthan),97,5,31,0,1,67,1,8,569,330,4,37,130,2,10,1292
+10,Kanpur (uttar Pradesh),69,18,50,0,0,69,16,110,409,54,1,88,71,2,2,959
+11,Kochi (kerala),10,4,1,0,0,26,42,80,14,62,0,32,42,7,6,326
+12,Kolkata (west Bengal),78,29,10,0,0,159,5,464,290,15,3,190,35,4,2,1284
+13,Kozhikode (kerala),3,1,2,0,0,9,59,27,7,52,0,189,62,0,26,437
+14,Lucknow (uttar Pradesh),97,14,42,1,0,138,0,27,924,102,0,137,84,12,54,1632
+15,Mumbai (maharashtra),147,10,12,1,2,210,0,1359,1949,712,1,473,1145,45,30,6096
+16,Nagpur (maharashtra),92,4,6,0,0,90,0,240,509,171,0,132,340,27,33,1644
+17,Patna (bihar),195,0,76,0,0,12,0,2647,822,54,9,565,137,30,0,4547
+18,Pune (maharashtra),130,13,10,0,1,191,1,659,851,354,0,267,490,26,72,3065
+19,Surat (gujarat),102,1,0,0,0,44,0,190,270,121,0,55,63,5,7,858
+Total Cities,Total Cities,2194,222,506,4,12,2785,917,6947,15041,4935,64,3111,8605,345,636,46324

@@ -1,0 +1,28 @@
+SI.No,Crime Head,Male,Female,Total,Percentage to Total - Male,Percentage to Total - Female
+1,Murder,74390,3788,78178,95.2,4.8
+2,Attempt to Commit Murder,72077,2836,74913,96.2,3.8
+3,C.H. Not Amounting To Murder,6692,171,6863,97.5,2.5
+4,Rape,19980,320,20300,98.4,1.6
+5,Kidnapping & Abduction,27308,2014,29322,93.1,6.9
+5,I)of Women & Girls,15638,1507,17145,91.2,8.8
+5,II)of Others,11670,507,12177,95.8,4.2
+6,Dacoity,22758,118,22876,99.5,0.5
+7,Preparation & Assembly for Dacoity,6840,4,6844,99.9,0.1
+8,Robbery,28718,248,28966,99.1,0.9
+9,Burglary,66610,1355,67965,98,2
+10,Theft,162793,4074,166867,97.6,2.4
+10,I) Auto Theft,24805,168,24973,99.3,0.7
+10,II) Other Theft,137988,3906,141894,97.2,2.8
+11,Riots,409340,21253,430593,95.1,4.9
+12,Criminal Breach of Trust,14218,330,14548,97.7,2.3
+13,Cheating,37447,1543,38990,96,4
+14,Counterfeiting,2111,25,2136,98.8,1.2
+15,Arson,14420,258,14678,98.2,1.8
+16,Hurt,432062,23270,455332,94.9,5.1
+17,Dowry Deaths,14532,3923,18455,78.7,21.3
+18,Molestation,41281,453,41734,98.9,1.1
+19,Sexual Harassment,13586,76,13662,99.4,0.6
+20,Cruelty by Husband and Relatives,83794,21753,105547,79.4,20.6
+21,Importation of Girls,156,0,156,100,0
+22,Other IPC Crimes,985660,51338,1036998,95,5
+23,Total Cognizable Crimes Under IPC,2536773,139150,2675923,94.8,5.2

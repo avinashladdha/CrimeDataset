@@ -1,0 +1,31 @@
+Sr. No. (Col 1),Crime Head (Col 2),Total No. of Persons under Trial including those from Previous Year (Col 3),No of Persons whose - Cases Compounded or Withdrawn (Col 4),No of Persons whose - Trial Completed (Col 5),No of Persons whose - Trial Remained Pending (Col 6),No of Persons Convicted (Col 7),Percentage of Persons - whose Trials Remained Pending (Col 6)×100/ (Col 3) = (Col 8),Percentage of Persons - Convicted to Trials Completed (Col 7) × 100/ (Col 5) = (Col 9)
+1,Murder,460715,464,72974,387277,22849,84.1,31.3
+2,Attempt to Commit Murder,432601,1598,67805,363198,19891,84,29.3
+3,C.H. not Amounting to Murder,40191,107,6321,33763,2198,84,34.8
+4,Rape - Total,101502,251,19962,81289,5060,80.1,25.3
+4,Rape - (i) Custodial Rape,147,0,132,15,4,10.2,3
+4,Rape - (ii) Other Rape,101355,251,19830,81274,5056,80.2,25.5
+5,Kidnapping & Abduction - Total,154618,732,24171,129715,6144,83.9,25.4
+5,Kidnapping & Abduction - i) of Women & Girls,98166,510,15420,82236,3826,83.8,24.8
+5,Kidnapping & Abduction - ii) of Others,56452,222,8751,47479,2318,84.1,26.5
+6,Dacoity,172323,319,20125,151879,4424,88.1,22
+7,Preparation & Assembly for Dacoity,36406,9,5314,31083,1000,85.4,18.8
+8,Robbery,178044,263,22242,155539,5638,87.4,25.3
+9,Burglary,410996,1966,58233,350797,18476,85.4,31.7
+10,Theft - Total,915399,3955,126317,785127,42556,85.8,33.7
+10,Theft - (i) Auto Theft,121484,171,17849,103464,6991,85.2,39.2
+10,Theft - (ii) Other Theft,793915,3784,108468,681663,35565,85.9,32.8
+11,Riots,2624773,49212,295011,2280550,72067,86.9,24.4
+12,Criminal Breach of Trust,106721,663,10746,95312,2610,89.3,24.3
+13,Cheating,219073,2067,23398,193608,6428,88.4,27.5
+14,Counterfeiting,8813,5,1145,7663,284,87,24.8
+15,Arson,73461,598,11369,61494,2158,83.7,19
+16,Hurt,1932678,116262,282954,1533462,89406,79.3,31.6
+17,Dowry Death,79734,430,16809,62495,6307,78.4,37.5
+18,Molestation,178469,7522,28415,142532,8605,79.9,30.3
+19,Sexual Harassment,38135,943,11843,25349,7314,66.5,61.8
+20,Cruelty by Husband and Relatives,472608,10236,71941,390431,14644,82.6,20.4
+21,Importation of Girls,343,0,78,265,18,77.3,23.1
+22,Causing Death by Negligence,196279,2053,38283,155943,18362,79.4,48
+23,Other IPC Crimes,4180009,133670,738350,3307989,324945,79.1,44
+Total Cognizable Crimes under IPC,Total Cognizable Crimes under IPC,13013891,333325,1953806,10726760,681384,82.4,34.9

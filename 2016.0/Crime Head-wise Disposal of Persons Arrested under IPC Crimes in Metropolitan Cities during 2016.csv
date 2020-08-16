@@ -1,0 +1,39 @@
+S. No.,Category,Crime Head,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Total
+1,A. Offences Affecting the Human Body,Murder,4196,210,4406,3668,237,3905,651,17,668,1286,35,1321,30,3,33
+2,A. Offences Affecting the Human Body,Culpable Homicide not Amounting to Murder,348,14,362,295,14,309,56,1,57,99,2,101,8,0,8
+3,A. Offences Affecting the Human Body,Causing Death by Negligence,7879,155,8034,7257,76,7333,1048,7,1055,2025,30,2055,179,1,180
+4,A. Offences Affecting the Human Body,Dowry Deaths,973,162,1135,687,127,814,211,7,218,283,25,308,9,3,12
+5,A. Offences Affecting the Human Body,Attempt to Commit Murder,6150,165,6315,4998,117,5115,568,9,577,1629,14,1643,20,0,20
+6,A. Offences Affecting the Human Body,Attempt to Commit Culpable Homicide,1320,29,1349,885,26,911,105,2,107,175,1,176,27,0,27
+7,A. Offences Affecting the Human Body,Grievous Hurt,7951,426,8377,6663,276,6939,1115,10,1125,3119,59,3178,106,0,106
+8,A. Offences Affecting the Human Body,Causing Injuries under Rash Driving,41427,1503,42930,37999,585,38584,25243,263,25506,4394,73,4467,272,0,272
+9,A. Offences Affecting the Human Body,Assault on Women with Intent to Outrage her Modesty,11983,440,12423,10137,288,10425,852,9,861,1802,42,1844,97,0,97
+10,A. Offences Affecting the Human Body,Kidnapping & Abduction,5567,191,5758,4525,134,4659,323,8,331,997,38,1035,52,2,54
+11,A. Offences Affecting the Human Body,Human Trafficking,240,40,280,134,55,189,8,0,8,16,3,19,2,0,2
+12,A. Offences Affecting the Human Body,Rape,5369,171,5540,4945,134,5079,387,4,391,1221,21,1242,33,1,34
+13,A. Offences Affecting the Human Body,Attempt to Commit Rape,59,0,59,63,0,63,5,0,5,9,0,9,0,0,0
+14,A. Offences Affecting the Human Body,Unnatural Offences,459,8,467,363,6,369,43,0,43,40,0,40,8,0,8
+Total (A),A. Offences Affecting the Human Body,Total (A),93921,3514,97435,82619,2075,84694,30615,337,30952,17095,343,17438,843,10,853
+15,B. Offences against the State,Offences Against State,14,0,14,2,0,2,0,0,0,0,0,0,0,0,0
+Total (B),B. Offences against the State,Total (B),14,0,14,2,0,2,0,0,0,0,0,0,0,0,0
+16,C. Offences against Public Tranquility,Unlawful Assembly,38792,5355,44147,5245,1285,6530,693,127,820,2047,220,2267,0,0,0
+17,C. Offences against Public Tranquility,Riots,10944,743,11687,8740,530,9270,920,23,943,4721,82,4803,222,1,223
+18,C. Offences against Public Tranquility,Offences Promoting Enmity Between Different Groups,38,2,40,36,0,36,0,0,0,0,0,0,0,0,0
+Total (C),C. Offences against Public Tranquility,Total (C),49774,6100,55874,14021,1815,15836,1613,150,1763,6768,302,7070,222,1,223
+19,D. Offences against Property,Theft,57300,1249,58549,29540,784,30324,6171,225,6396,8613,125,8738,1060,11,1071
+20,D. Offences against Property,Criminal Trespass/Burglary,12272,343,12615,9158,148,9306,1778,9,1787,1972,16,1988,275,0,275
+21,D. Offences against Property,Extortion,1908,62,1970,1417,46,1463,67,0,67,296,1,297,5,0,5
+22,D. Offences against Property,Robbery,10079,112,10191,8018,58,8076,1183,4,1187,2005,5,2010,296,1,297
+23,D. Offences against Property,Dacoity,1536,32,1568,1243,23,1266,147,0,147,363,0,363,13,0,13
+24,D. Offences against Property,Making Preparation and Assembly for Committing Dacoity,2117,1,2118,2138,1,2139,34,0,34,1093,0,1093,11,0,11
+25,D. Offences against Property,Criminal Breach of Trust,3187,108,3295,2332,104,2436,147,2,149,481,4,485,14,0,14
+26,D. Offences against Property,Cheating,16616,762,17378,12745,627,13372,1160,14,1174,2348,72,2420,310,0,310
+27,D. Offences against Property,Arson,591,6,597,417,3,420,27,0,27,82,4,86,1,0,1
+Total (D),D. Offences against Property,Total (D),105606,2675,108281,67008,1794,68802,10714,254,10968,17253,227,17480,1985,12,1997
+28,E. Offences Relating to Documents & Property Marks,Counterfeiting,193,4,197,240,6,246,35,1,36,52,1,53,3,0,3
+29,E. Offences Relating to Documents & Property Marks,Forgery,1702,208,1910,1388,93,1481,199,20,219,358,18,376,4,1,5
+Total (E),E. Offences Relating to Documents & Property Marks,Total (E),1895,212,2107,1628,99,1727,234,21,255,410,19,429,7,1,8
+30,Cruelty by Husband or his Relatives,Cruelty by Husband or his Relatives,15118,4276,19394,12319,3698,16017,765,144,909,4015,1190,5205,71,16,87
+31,Insult to the Modesty of Women,Insult to the Modesty of Women,1910,60,1970,1800,42,1842,286,2,288,403,3,406,17,0,17
+32,Other IPC Crimes *,Other IPC Crimes *,146660,6464,153124,137303,6070,143373,41671,818,42489,33029,1303,34332,648,20,668
+Total IPC Crimes,Total IPC Crimes,Total IPC Crimes,414898,23301,438199,316700,15593,332293,85898,1726,87624,78973,3387,82360,3793,60,3853

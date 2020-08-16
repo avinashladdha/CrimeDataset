@@ -1,0 +1,24 @@
+Category,Crime Head,Below 18 years,Between 18 – 30 years,Between 30 – 45 years,Between 45 – 60 years,Above 60 years,Total (All Age Groups)
+Offences under IT Act,Tampering computer source department,0,3,1,2,0,6
+Offences under IT Act,Hacking Computer System - i) Loss/damage to computer resource/utility,0,5,5,1,0,11
+Offences under IT Act,Hacking Computer System - ii) Hacking,1,6,0,0,0,7
+Offences under IT Act,Obscence publication/transmission in electronic form,2,7,5,3,0,17
+Offences under IT Act,Failure - i) of compliance/orders of certifying Authority,0,0,0,0,0,0
+Offences under IT Act,Failure - ii) to assist to decoy or the information in interception by Govt. Agency,0,9,2,1,0,12
+Offences under IT Act,Un-authorised access/attempt to access of protected Computer system,0,0,0,0,0,0
+Offences under IT Act,Obtaining Licence or Digital Signature by misrepresentation/supression of fact,0,0,0,0,0,0
+Offences under IT Act,Publishing False digital Signature certificate,0,0,0,0,0,0
+Offences under IT Act,Fraud Digital/Signature,0,2,0,0,0,2
+Offences under IT Act,Breach of confidentiality/privacy,0,0,0,0,0,0
+Offences under IT Act,Other,0,0,0,0,0,0
+Offences under IT Act,Total (Offences under IT Act),3,32,13,7,0,55
+Offences under IPC,Public Servant Offences by/Against,0,0,0,0,0,0
+Offences under IPC,False electronic evidence,0,0,0,0,0,0
+Offences under IPC,Destruction of electronic evidence,0,0,0,0,0,0
+Offences under IPC,Forgery,2,40,46,13,1,102
+Offences under IPC,Criminal Breach of Trust/Fraud,0,36,106,103,10,255
+Offences under IPC,Counterfeiting - i) Property/mark,0,0,5,5,0,10
+Offences under IPC,Counterfeiting - ii) Tampering,0,12,15,6,0,33
+Offences under IPC,Counterfeiting - iii)Currency/Stamps,0,25,37,13,0,75
+Offences under IPC,Total (Offences under IPC),2,113,209,140,11,475
+Grant Total (Offences under IT Act + Offences under IPC ),Grant Total (Offences under IT Act + Offences under IPC ),5,145,222,147,11,530

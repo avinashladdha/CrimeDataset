@@ -1,0 +1,12 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),No. of Cases - Compounded or Withdrawn (Col. 4),No. of Cases - Convicted (Col. 5),No. of Cases - Acquitted or Discharged (Col. 6),No. of Cases - Total {(Col. 5) + (Col. 6)} = (Col. 7),No. of Cases - Pending Trial (Col. 8),Conviction Rate {(Col. 5)/ (Col. 7) × 100} = (Col. 9)
+1,Murder,0,0.1,9.4,10.8,20.1,79.7,46.4
+2,Rape,0,3.3,6.8,16,22.9,73.8,29.8
+3,Kidnapping & Abduction,0,0.6,7.7,15,22.7,76.7,34
+4,Dacoity,0,0,2.4,6,8.4,91.6,28.6
+5,Robbery,0,0.8,6.5,19.5,26,73.2,25
+6,Arson,0,0.4,8.5,16.4,24.8,74.7,34.2
+7,Hurt,0.1,2,7.4,15.5,22.9,75.1,32.5
+8,P.C.R. Act,0,8.9,1.9,13.4,15.3,75.8,12.6
+9,SC/ ST Prev. of Atrocities Act,0,0.7,3.9,12.8,16.7,82.6,23.4
+10,Other Crimes against SCs,0,2.8,5.7,15.4,21.1,76,27
+11,Total,0,2,5.3,14.3,19.6,78.4,27.1

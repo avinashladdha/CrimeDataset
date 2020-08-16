@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts/Cities,Cases Pending Investigation from the Previous Year,Cases Pending Disposal in Courts,Cases Reported during the Year,Cases not Investigated Declared False and Mistake of Fact or Law and Non-Cognizable,Cases Pending Investigation at the End of the Year,Cases Pending Trial at the End of the Year,Total True Cases,Cases not Detected,Cases in which Chargesheets were laid,Cases Compounded or Withdrawn,Cases in which Trails were Completed,Cases Convicted,Cases Acquitted or Discharged,Percentage of Cases Convicted to True Cases Investigated,Percentage of Cases Convicted to Cases in which Trials were Completed,"Volume of Crime Per 100,000 of Population"
+1,State,Andhra Pradesh,45,242,796,86,32,192,773,72,701,25,676,550,126,71.2,81.4,1.9
+2,State,Assam,89,581,570,70,90,595,485,185,300,21,279,172,107,35.5,61.6,3.7
+3,State,Bihar,136,939,637,114,104,1078,416,137,279,41,238,164,74,39.4,68.9,1.1
+4,State,Gujarat,55,284,683,32,61,279,650,166,484,228,256,142,114,21.8,55.5,2.6
+5,State,Haryana,147,167,401,13,133,241,328,180,148,2,146,102,44,31.1,69.9,4.1
+6,State,Jammu & Kashmir,66,159,163,39,63,182,104,48,56,14,42,17,25,16.3,40.5,4.1
+7,State,Kerala,15,55,170,20,11,47,162,10,152,26,126,91,35,56.2,72.2,0.8
+8,State,Madhya Pradesh,306,2762,4602,110,306,2970,4284,2496,1788,381,1407,1043,364,24.3,74.1,11.6
+9,State,Maharashtra,269,835,1552,93,250,790,1523,596,927,203,717,491,226,32.2,68.5,3.2
+10,State,Mysore,92,330,745,110,75,314,668,111,557,112,445,292,153,43.7,65.6,2.6
+11,State,Nagaland,2,5,4,NA,3,3,5,NA,5,NA,5,5,NA,100,100,0.9
+12,State,Orissa,52,806,803,80,77,899,605,138,467,62,405,269,136,44.5,66.4,3.8
+13,State,Punjab,116,96,260,14,90,86,282,189,93,2,91,60,31,21.3,65.9,1.8
+14,State,Rajasthan,296,1751,1910,295,282,1878,1502,571,931,363,568,317,251,21.1,55.8,7.5
+15,State,Tamil Nadu,50,174,1688,86,34,113,1679,139,1540,51,1489,1344,145,80,90.3,4.3
+16,State,Uttar Pradesh,619,2421,6123,361,448,2854,5500,4193,1307,112,1195,710,485,12.9,59.4,6.9
+17,State,West Bengal,160,844,857,50,200,868,743,409,334,112,222,150,72,20.2,67.6,2
+Total (States),State,Total (States),2515,12451,21964,1573,2259,13389,19709,9640,10069,1755,8307,5919,2388,30,71.3,4.2
+18,UT,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,UT,Chandigarh,3,NA,10,1,4,2,6,4,2,NA,2,2,NA,33.3,100,6.5
+20,UT,Dadra & N. Haveli,NA,1,1,NA,NA,1,1,NA,1,1,NA,NA,NA,NA,NA,1.4
+21,UT,Delhi,22,22,94,6,34,23,75,57,18,2,16,11,5,14.7,68.8,2.3
+22,UT,"Goa, Daman & Diu",NA,1,1,NA,NA,NA,2,NA,2,NA,2,2,NA,100,100,0.1
+23,UT,Himachal Pradesh,5,10,25,3,8,17,12,2,10,2,8,5,3,41.7,62.5,0.7
+24,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,UT,Manipur,55,140,35,8,45,122,55,20,35,8,27,8,19,14.5,29.6,3.2
+26,UT,Pondicherry,1,1,16,2,NA,NA,16,3,13,1,12,12,NA,75,100,3.6
+27,UT,Tripura,34,50,208,191,32,50,19,NA,19,NA,19,7,12,36.8,36.8,14.2
+Total (UTs),UT,Total (UTs),120,225,390,211,123,215,186,86,100,14,86,47,39,25.3,54.7,3.4
+Total (All-India),Total (All-India),Total (All-India),2635,12676,22354,1784,2382,13604,19895,9726,10169,1769,8393,5966,2427,30,71.1,4.2
+1,City,Ahmedabad,2,8,13,NA,2,5,16,1,15,4,11,7,4,43.8,63.6,0.8
+2,City,Bangalore,11,10,54,7,7,10,51,11,40,4,36,34,2,66.7,94.4,3.1
+3,City,Bombay,11,16,64,7,14,14,56,23,33,8,25,16,9,28.6,64,1.2
+4,City,Calcutta,2,2,22,NA,2,1,23,4,19,NA,19,17,2,73.9,89.5,0.7
+5,City,Delhi,14,17,73,6,26,20,52,37,15,2,13,8,5,15.4,61.5,2
+6,City,Hyderabad,NA,NA,5,NA,NA,NA,5,NA,5,NA,5,5,NA,100,100,0.4
+7,City,Kanpur,3,29,41,6,1,30,36,21,15,2,13,13,NA,36.1,100,3.2
+8,City,Madras,NA,NA,52,3,NA,2,47,NA,47,3,44,44,NA,93.6,100,2.5
+Total (Cities),City,Total (Cities),43,82,324,29,52,82,286,97,189,23,166,144,22,50.3,86.7,1.6

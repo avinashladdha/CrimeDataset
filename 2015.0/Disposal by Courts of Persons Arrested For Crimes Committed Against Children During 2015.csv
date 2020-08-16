@@ -1,0 +1,54 @@
+Crime Head,Persons in Custody during the Stage of Trial at the Beginning of the year - Male,Persons in Custody during the Stage of Trial at the Beginning of the year - Female,Persons on Bail during the Stage of Trial at the Beginning of the year - Male,Persons on Bail during the Stage of Trial at the Beginning of the year - Female,Total Number of Persons under Trial During the Year - Male,Total Number of Persons under Trial During the Year - Female,Persons Against whom Cases were Compounded by Courts - Male,Persons Against whom Cases were Compounded by Courts - Female,Persons Against whom Cases were Withdrawn - Male,Persons Against whom Cases were Withdrawn - Female,Persons in whose Cases Trials were Completed During the Year - Male,Persons in whose Cases Trials were Completed During the Year - Female,Persons Convicted - Male,Persons Convicted - Female,Persons Acquitted - Male,Persons Acquitted - Female,Persons Discharged by Court - Male,Persons Discharged by Court - Female,Persons in Custody during the stage of Trial at the end of the year - Male,Persons in Custody during the stage of Trial at the end of the year - Female,Persons on Bail During the stage of Trial at the end of the year - Male,Persons on Bail During the stage of Trial at the end of the year - Female
+1 Murder,2939,58,6277,178,11403,375,0,0,6,1,1275,41,604,8,651,29,20,4,3263,63,6859,270
+2 Infanticide,46,2,224,11,321,26,4,3,0,0,40,3,25,2,15,1,0,0,76,2,201,18
+3 Rape,11308,51,28478,189,51625,476,23,0,11,0,6406,61,2173,7,4180,54,53,0,11439,85,33746,330
+4 Assault on Women with Intent to Outrage her Modesty,3431,2,11833,73,24145,138,111,0,14,0,3567,9,1259,2,2295,7,13,0,3263,5,17190,124
+4.1 Sexual Harassment,1236,1,4162,38,9218,70,19,0,0,0,1354,0,508,0,841,0,5,0,1228,1,6617,69
+4.2 Assault on Women with Intent to Disrobe,200,0,613,1,1347,2,9,0,0,0,128,0,46,0,82,0,0,0,167,0,1043,2
+4.3 Voyeurism,16,0,71,0,138,1,1,0,0,0,8,0,3,0,5,0,0,0,29,0,100,1
+4.4 Stalking,217,0,923,2,2064,9,11,0,1,0,245,1,80,0,165,1,0,0,161,1,1646,7
+4.5 Others assault,1762,1,6064,32,11378,56,71,0,13,0,1832,8,622,2,1202,6,8,0,1678,3,7784,45
+5 Insult to the Modesty of Women (Girls Children),142,0,760,0,1238,4,74,0,0,0,166,0,54,0,109,0,3,0,187,0,811,4
+6 Kidnapping & Abduction,16888,210,44157,1030,82017,1938,152,1,116,17,7785,201,2487,69,5183,132,115,0,19278,284,54686,1435
+6.1 Kidnapping & Abduction,5808,57,12017,322,24928,631,6,1,40,11,2396,41,700,15,1642,26,54,0,6997,146,15489,432
+6.2 Kidnaping & Abduction in Order to Murder,896,0,986,6,2112,10,0,0,0,0,109,2,40,1,69,1,0,0,917,1,1086,7
+6.3 Kidnapping for Ransom,251,2,268,6,739,11,0,0,0,0,61,1,27,0,34,1,0,0,323,3,355,7
+6.4 Kidnapping & Abduction of Women to Compel her for Marriage,7578,119,23882,588,41832,1088,137,0,72,6,3940,131,1362,46,2564,85,14,0,8653,107,29030,844
+6.5 Other Kidnapping,2355,32,7004,108,12406,198,9,0,4,0,1279,26,358,7,874,19,47,0,2388,27,8726,145
+7 Foeticide,38,2,144,14,216,28,0,0,0,0,20,4,2,0,18,4,0,0,48,4,148,20
+8 Abetment of Suicide of child,69,0,302,11,432,12,0,0,0,0,35,0,2,0,33,0,0,0,61,0,336,12
+9 Exposure and Abandonment,55,25,723,196,863,264,0,0,1,0,47,17,5,5,32,9,10,3,57,23,758,224
+10 Procuration of Minor girls,688,7,2321,42,4519,59,2,0,0,0,542,4,56,0,486,4,0,0,1020,12,2955,43
+11 Importation of Girls from Foreign Country,3,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1
+12 Buying of Minors for Prostitution,14,0,264,1,291,3,0,0,0,0,1,1,1,1,0,0,0,0,21,0,269,2
+13 Selling of Minors for Prostitution,212,8,314,8,670,29,0,0,2,0,37,4,15,3,22,1,0,0,232,10,399,15
+"14 Prohibition of Child Marriage Act, 2006",303,26,1459,238,2300,382,0,0,10,6,206,27,46,7,159,20,1,0,242,22,1842,327
+"15 Transplantation of Human Organs Act, 1994",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"16 Child Labour (Prohibition & Regulation) Act, 1986",30,2,161,3,387,7,0,0,0,0,19,0,7,0,9,0,3,0,64,4,304,3
+16.1 Offences Committed against Migrant,1,0,27,0,80,1,0,0,0,0,9,0,3,0,3,0,3,0,0,0,71,1
+16.1.1 Offences Committed against SC Migrants,0,0,4,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+16.1.2 Offences Committed against ST Migrants,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+16.1.3 Offences Committed against Others Migrants,1,0,23,0,71,1,0,0,0,0,9,0,3,0,3,0,3,0,0,0,62,1
+16.2 Offences Committed against Locals,29,2,134,3,307,6,0,0,0,0,10,0,4,0,6,0,0,0,64,4,233,2
+16.2.1 Offences Committed against Local SCs,0,0,1,0,10,1,0,0,0,0,2,0,0,0,2,0,0,0,2,0,6,1
+16.2.2 Offences Committed against Local STs,0,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+16.2.3 Offences Committed against Others Locals,29,2,133,3,295,5,0,0,0,0,7,0,4,0,3,0,0,0,62,4,226,1
+"17 Immoral Traffic (Prevention) Act, 1956",89,18,877,151,1087,208,0,0,0,0,25,10,10,7,15,3,0,0,148,27,914,171
+17.1 Under ITP Section 5,6,0,194,45,264,70,0,0,0,0,17,6,9,6,8,0,0,0,45,9,202,55
+17.2 Under ITP Section 6,3,1,15,0,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1
+17.3 Under ITP Section 7,1,1,350,28,357,30,0,0,0,0,0,0,0,0,0,0,0,0,2,1,355,29
+17.4 Under ITP Section 8,0,0,6,1,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1
+17.5 Other Section of ITP Act,79,16,312,77,434,106,0,0,0,0,8,4,1,1,7,3,0,0,101,17,325,85
+"18 Juvenile Justice (Care and Protection of Children) Act, 2000",180,5,1280,81,2704,210,10,2,1,0,335,22,176,14,159,8,0,0,226,23,2132,163
+"19 Protection of Children from Sexual Offences Act, 2012",4849,29,5585,23,26566,244,1,0,15,0,2470,31,1067,5,1392,26,11,0,7102,32,16978,181
+19.1 Under POCSO Act Section 4,2549,6,2609,12,12560,127,0,0,8,0,1089,14,469,1,614,13,6,0,3665,23,7798,90
+19.2 Under POCSO Act Section 6,378,6,460,2,2737,27,0,0,1,0,257,13,100,1,155,12,2,0,720,2,1759,12
+19.3 Under POCSO Act Section 8,1394,10,1338,0,7005,40,1,0,6,0,620,1,296,1,324,0,0,0,1715,3,4663,36
+19.4 Under POCSO Act Section 10,86,1,154,0,543,9,0,0,0,0,40,1,13,0,27,1,0,0,162,0,341,8
+19.5 Under POCSO Act Sections 14 & 15,10,0,39,0,144,0,0,0,0,0,25,0,23,0,2,0,0,0,49,0,70,0
+19.6 Other Acts of POCSO,432,6,985,9,3577,41,0,0,0,0,439,2,166,2,270,0,3,0,791,4,2347,35
+20 Attempt to Commit Murder,1049,8,2678,34,4186,51,14,0,0,0,220,5,86,0,132,5,2,0,781,10,3171,36
+21 Unnatural Offences,283,0,906,3,1911,12,1,0,5,0,230,1,108,1,122,0,0,0,403,0,1272,11
+22 Human Trafficking (Section 370 & 370A IPC),1,0,7,2,235,39,0,0,0,0,9,0,2,0,7,0,0,0,80,10,146,29
+23 Other Crimes Committed against Children,6223,152,23548,345,39095,833,324,21,149,4,5040,149,1745,30,3239,119,56,0,6408,148,27174,511
+Total crimes against Children,48840,606,132298,2633,256215,5339,716,27,330,28,28475,590,9930,161,18258,422,287,7,54401,764,172293,3930

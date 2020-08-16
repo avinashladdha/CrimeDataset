@@ -1,0 +1,12 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Persons under Trial Including those from Previous Year (Col. 3),Total No. of Persons whose - Cases Compounded or Withdrawn (Col. 4),Total No. of Persons whose - Trial Completed (Col. 5),Total No. of Persons whose - Trial Remained Pending (Col. 6),No. of Persons Convicted (Col. 7),Percentage of Persons - whose Trials Remained Pending (Col. 6 × 100/ Col. 3) = (Col. 8),Percentage of Persons - Convicted to Trials Completed (Col. 7 × 100/ Col. 5) = (Col. 9)
+1,Murder,1142,14,255,873,94,76.4,36.9
+2,Rape,2700,17,644,2039,134,75.5,20.8
+3,Kidnapping & Abduction,458,2,119,337,22,73.6,18.5
+4,Dacoity,340,0,60,280,3,82.4,5
+5,Robbery,224,2,58,164,52,73.2,89.7
+6,Arson,527,0,94,433,12,82.2,12.8
+7,Hurt,6354,134,1488,4732,317,74.5,21.3
+8,P.C.R. Act,313,0,29,284,4,90.7,13.8
+9,SC/ ST Prev. of Atrocities Act,11777,125,2684,8968,621,76.1,23.1
+10,Other Crimes against SCs,18540,568,4729,13243,979,71.4,20.7
+11,Total,42375,862,10160,31353,2238,74,22

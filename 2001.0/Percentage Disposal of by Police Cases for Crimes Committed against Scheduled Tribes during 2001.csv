@@ -1,0 +1,12 @@
+Crime Head (Col.1),Cases Withdrawn by Govt. (Col.2),Percentage of Cases to Total Cases for Investigation in which Investigation was Refused (Col.3),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Charge Found False/Mistake of Fact or Law Etc. (Col.4),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Final Report True Submitted (Col.5),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Chargesheets were Submitted (Col.6),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Total {(Col.4) + (Col.5) + (Col.6)} = (Col.7),No. of Cases Pending Investigation (Col.8),Charge Sheeting Rate {(Co.6)/(Col.5 + Col.6)* 100} = (Col.9)
+Murder,0,0,1.8,18.2,58.2,78.2,21.8,76.2
+Rape,0,0,6.3,2.9,75.3,84.5,15.5,96.3
+Kidnapping,0,0,5.5,3.3,72.5,81.3,18.7,95.7
+Dacoity,0,0,0,20.7,51.7,72.4,27.6,71.4
+Robbery,0,0,0,37.1,47.2,84.3,15.7,56
+Arson,0,0,7,3.5,33.9,44.3,55.7,90.7
+Hurt,0,0,6.6,2.5,71.9,81,19,96.6
+PCR Act,0,0,11.5,0,54.1,65.6,34.4,100
+SC/ST Prev. of Atrocities Act,0.6,0.1,27.1,2.4,56.2,85.7,13.7,95.9
+Other Crime against ST,0,0,7,4.4,75.5,87,13,94.5
+Total,0.2,0,12.1,4.3,68,84.4,15.4,94

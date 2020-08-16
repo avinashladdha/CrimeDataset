@@ -1,0 +1,12 @@
+Crime Head (Col.1),Total No. of cases for Investigation Including Pending cases from previous year (Col.2),Cases Withdrawn by Govt. (Col.3),No. of cases in which Investigation was Refused (Col.4),No. of cases in which Investigation was Completed - Charge Found False / Mistakeof Factor Law Etc. (Col.5),No. of cases in which Investigation was Completed - Final Report True Submitted (Col.6),No. of cases in which Investigation was Completed - Charge Sheets Were Submitted (Col.7),No. of cases in which Investigation was Completed - Total (Col.8) = {(Col.6) + (Col.7) + (Col.8)},No. of cases Pending Investigation at the end of the year (Col.9)
+Murder,231,0,0,1,2,154,157,74
+Rape,762,1,0,26,15,587,628,133
+Kidnapping & Abduction,89,1,0,5,8,53,66,22
+Dacoity,27,0,0,1,9,13,23,4
+Robbery,54,0,0,1,22,20,43,11
+Arson,46,0,0,1,5,28,34,12
+Hurt,913,0,0,79,62,629,770,143
+P.C.R. Act,180,0,0,2,4,16,22,158
+SS/ ST (prev.) of Atrocities Act,1711,9,7,157,72,935,1164,531
+Other Crime Against Sts,3071,3,6,367,209,2025,2601,461
+Total,7084,14,13,640,408,4460,5508,1549

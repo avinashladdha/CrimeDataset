@@ -1,0 +1,24 @@
+Sl No (1),Crime Head (2),Cases with Drawn by Govt. (3),Percentage of Case to total Cases Fo Investigation in Which Investigation was Refused (4),Percentage of Case to total Cases Fo Investigation in Which Investigation was Comleted Charge Found False/ Mistake of Fact Or Law Etc. (5),Percentage of Case to total Cases Fo Investigation in Which Investigation was Completed Final Report True Submited (6),Percentage of Case to total Cases Fo Investigation in Which Investigation was Completed Charge Sheets Were Submitted (7),Percentage of Case to total Cases Fo Investigation in Which Investigation was Completed Total [( (5) +(6)+(7)] (8),Percentage of Cases Pending Investigation (9),Charge Sheeting Rate [(17)/(6) +(7) *100]
+1,Arms Act,0,0,0.3,2.7,80.5,83.5,16.5,96.8
+2,Narcotic Drugs & Psychotropic Substances Act,0,0,1.4,2.5,71.4,75.3,24.7,96.6
+3,Gambling Act,0,0,0,0.1,97.1,97.2,2.7,99.9
+4,Excise Act,0,1.1,0.2,0.8,83.6,84.6,14.3,99
+5,Prohibition Act,0,0.5,0.8,1.4,83.4,85.5,13.9,98.4
+6,Explosive & Explosive Substances Act,0,0.2,1.5,9.3,49.1,60,39.8,84
+7,Immoral Traffic (P) Act,0,0,0.1,0.2,89.2,89.4,10.6,99.8
+8,Indian Railways Act,0,0.1,0.3,1.5,95.3,97,2.9,98.5
+9,Registration of Foregners Act,0,0,0.4,2,78.4,80.8,19.2,97.5
+10,Protection Of Civil Rights Act,0,3.2,14.7,2.6,55.8,73.2,23.6,95.5
+11,Indian Passport Act,0,0.3,1.9,4.1,56.2,62.2,37.5,93.1
+12,Essential Commodities Act,0,0.1,2.3,5,48.2,55.6,44.3,90.6
+13,Terrorist & Disruptive Actvites Act,0,0,0.7,8.1,17.5,26.3,73.7,68.5
+14,Antiquity & Art Treasure Act,0,1.4,0,5.7,21.4,27.1,71.4,78.9
+15,Dowry Prohibition Act,0,0.4,7.4,7.2,55.8,70.4,29.1,88.5
+16,Child Marriage Restraint Act,0,1.5,14.7,4.4,66.2,85.3,13.2,93.8
+17,Indecent Representation of Women (P)Act,0,0,0,1.1,76.8,77.9,22.1,98.5
+18,Copy Rights Act,0,0.4,3.2,3,67.8,74,25.5,95.8
+19,Sati Prevention Act,0,0,0,0,0,0,0,0
+20,SC/St (Prevention of Atrocities ) Act,0,0.1,19.6,4.3,57.1,81,18.9,93
+21,Forest Act,0,2.1,2.2,5,81.8,89,8.9,94.2
+22,Other SLL Crimes,0,1.2,2.2,1.3,93.3,96.9,1.9,98.6
+23,Total cognizable Crimes Under Sll,0,1,1.9,1.4,90.5,93.7,5.3,98.5

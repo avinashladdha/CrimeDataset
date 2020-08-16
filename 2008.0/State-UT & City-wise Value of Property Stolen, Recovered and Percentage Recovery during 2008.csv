@@ -1,0 +1,74 @@
+Sl. No.,Category,States/ UTs/ Cities,Total Value of Property - Stolen,Total Value of Property - Recovered,Percentage Recovery
+1,State,Andhra Pradesh,12081.2,5603.2,46.4
+2,State,Arunachal Pradesh,880.7,242,27.5
+3,State,Assam,3434.9,769,22.4
+4,State,Bihar,4643.9,553.7,11.9
+5,State,Chhattisgarh,3837.5,1317.2,34.3
+6,State,Goa,1165.4,244.1,21
+7,State,Gujarat,25422,4014.4,15.8
+8,State,Haryana,9644.3,5083.8,52.7
+9,State,Himachal Pradesh,1627.1,446.4,27.4
+10,State,Jammu & Kashmir,1639.9,610.3,37.2
+11,State,Jharkhand,3598.6,353.2,9.8
+12,State,Karnataka,19210.6,6091.5,31.7
+13,State,Kerala,25777.3,1391,5.4
+14,State,Madhya Pradesh,10907.7,3340.6,30.6
+15,State,Maharashtra,154693.4,13448.8,8.7
+16,State,Manipur,1072.7,19.9,1.9
+17,State,Meghalaya,798.5,83.5,10.5
+18,State,Mizoram,293.7,210.2,71.6
+19,State,Nagaland,4197.3,37.4,0.9
+20,State,Orissa,5603.7,1752.7,31.3
+21,State,Punjab,8456.3,5070.6,60
+22,State,Rajasthan,10492.6,5905.6,56.3
+23,State,Sikkim,1643.6,42.8,2.6
+24,State,Tamil Nadu,6794.8,4952.4,72.9
+25,State,Tripura,490.1,31.5,6.4
+26,State,Uttar Pradesh,18201,11617.9,63.8
+27,State,Uttarakhand,1097,329.8,30.1
+28,State,West Bengal,9269.4,1513.4,16.3
+State,State,Total (States),346975.1,75076.7,21.6
+29,Union Territory,A & N Islands,126.1,38.8,30.7
+30,Union Territory,Chandigarh,1193.4,420.2,35.2
+31,Union Territory,D & N Haveli,378.6,78.3,20.7
+32,Union Territory,Daman & Diu,466,42.3,9.1
+33,Union Territory,Delhi,35853.9,1005.1,2.8
+34,Union Territory,Lakshadweep,2.4,1,40.6
+35,Union Territory,Puducherry,300.2,152.5,50.8
+Union Territory,Union Territory,Total (UTs),38320.5,1738.2,4.5
+Total (All India),Total (All India),Total (All India),385295.6,76814.9,19.9
+36,City,Agra,506.6,138.8,27.4
+37,City,Ahmedabad,8843,495.3,5.6
+38,City,Allahabad,147.8,31.6,21.4
+39,City,Amritsar,444.2,299.6,67.5
+40,City,Asansol,68,18,26.5
+41,City,Bengaluru,9717,3252.4,33.5
+42,City,Bhopal,730.7,284.6,39
+43,City,Chennai,623.7,486.4,78
+44,City,Coimbatore,314.1,220,70
+45,City,Delhi (city),34290.7,760.5,2.2
+46,City,Dhanbad,80.4,17.2,21.4
+47,City,Faridabad,776.2,394.7,50.8
+48,City,Hyderabad,2583,920.1,35.6
+49,City,Indore,1550.9,311.1,20.1
+50,City,Jabalpur,251.9,120.9,48
+51,City,Jaipur,2514.7,1130.6,45
+52,City,Jamshedpur,371.3,32,8.6
+53,City,Kanpur,630.3,268.5,42.6
+54,City,Kochi,3003,127,4.2
+55,City,Kolkata,4356.1,818.7,18.8
+56,City,Lucknow,1135.4,433.9,38.2
+57,City,Ludhiana,1167.6,785.8,67.3
+58,City,Madurai,198.1,119.1,60.1
+59,City,Meerut,238.9,111.3,46.6
+60,City,Mumbai,32767,5145.2,15.7
+61,City,Nagpur,3015.1,468.1,15.5
+62,City,Nasik,9100.4,180.2,2
+63,City,Patna,212.2,39.3,18.5
+64,City,Pune,50051,1124.4,2.2
+65,City,Rajkot,538.9,202.6,37.6
+66,City,Surat,2973.3,842.8,28.3
+67,City,Vadodara,2144.3,163.2,7.6
+68,City,Varanasi,197.6,26.2,13.3
+69,City,Vijayawada,443.4,190.9,43.1
+70,City,Vishakhapatnam,382.1,194.5,50.9

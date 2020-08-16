@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,Number of Cases Reported,Number of Victims - Below 10 Years,Number of Victims - 10-16 Years,Number of Victims - 16-30 Years,Number of Victims - 30 Years
+1,State,Andhra Pradesh,601,46,127,353,75
+2,State,Arunachal Pradesh,18,1,3,10,4
+3,State,Assam,458,7,105,294,52
+4,State,Bihar,1005,14,182,637,172
+5,State,Goa,10,1,4,5,0
+6,State,Gujarat,236,19,59,132,26
+7,State,Haryana,168,11,35,96,26
+8,State,Himachal Pradesh,63,5,24,25,9
+9,State,Jammu & Kashmir,121,3,12,90,16
+10,State,Karnataka,164,8,42,96,18
+11,State,Kerala,197,19,38,101,39
+12,State,Madhya Pradesh,2302,81,609,1266,346
+13,State,Maharashtra,875,69,227,482,97
+14,State,Manipur,21,0,3,18,0
+15,State,Meghalaya,37,4,3,28,2
+16,State,Mizoram,56,11,21,18,6
+17,State,Nagaland,13,0,6,7,0
+18,State,Orissa,249,3,25,162,59
+19,State,Punjab,55,5,14,24,12
+20,State,Rajasthan,740,11,77,531,121
+21,State,Sikkim,6,2,2,1,1
+22,State,Tamil Nadu,290,24,42,203,21
+23,State,Tripura,76,0,5,62,9
+24,State,Uttar Pradesh,1541,39,288,935,279
+25,State,West Bengal,561,8,137,361,55
+Total (States),State,Total (States),9863,391,2090,5937,1445
+26,UT,A & N Islands,3,1,1,1,0
+27,UT,Chandigarh,11,0,6,5,0
+28,UT,D & N Haveli,4,0,1,2,1
+29,UT,Daman & Diu,0,0,0,0,0
+30,UT,Delhi,177,0,2,80,95
+31,UT,Lakshadweep,0,0,0,0,0
+32,UT,Pondicherry,10,2,5,3,0
+Total (UTs),UT,Total (UTs),205,3,15,91,96
+Total (All -India),Total (All -India),Total (All -India),10068,394,2105,6028,1541
+33,City,Ahmedabad,20,5,6,4,5
+34,City,Bangalore,21,2,5,14,0
+35,City,Bombay,107,15,37,49,6
+36,City,Calcutta,24,3,12,8,1
+37,City,Delhi,153,0,2,71,80
+38,City,Hyderabad,27,0,2,22,3
+39,City,Jaipur,13,0,0,11,2
+40,City,Kanpur,28,1,3,14,10
+41,City,Lucknow,36,8,10,19,1
+42,City,Madras,20,0,0,20,0
+43,City,Nagpur,46,8,13,23,2
+44,City,Pune,22,4,7,10,1

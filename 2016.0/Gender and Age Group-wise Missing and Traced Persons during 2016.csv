@@ -1,0 +1,13 @@
+Gender (Col.1),Age Group (Col.2),Unrecovered Missing Persons of Previous years (Col.3),Persons Missing during 2016 (Col.4),Total Missing (Col.5) = (3+4),No. of Persons Traced (Col.6),Percentage of Traced Persons Traced (Col.7) = (Col.6/Col.5 * 100),No. of persons untraced (Col.8) = (Col.5-Col.6)
+Female,Total,140653,174021,314674,139858,44.4,174816
+Female,Children (Girls) - (Below 18 Years),29327,41067,70394,35580,50.5,34814
+Female,Adults - (Above 18 and Below 60),105461,128944,234405,101208,43.2,133197
+Female,Senior Citizen - (60 Years and Above),5865,4010,9875,3070,31.1,6805
+Male,Total,117916,116418,234334,89523,38.2,144811
+Male,Children (Boys) - (Below 18 Years),18835,22340,41175,20364,49.5,20811
+Male,Adults - (Above 18 and Below 60),87415,84852,172267,62762,36.4,109505
+Male,Senior Citizen - (60 Years and Above),11666,9226,20892,6397,30.6,14495
+Female + Male,Total Persons,258569,290439,549008,229381,41.8,319627
+Female + Male,Children - (Below 18 Years),48162,63407,111569,55944,50.1,55625
+Female + Male,Adults - (Above 18 and Below 60),192876,213796,406672,163970,40.3,242702
+Female + Male,Senior Citizen - (60 Years and Above),17531,13236,30767,9467,30.8,21300

@@ -1,0 +1,41 @@
+SL. No.,Category,States/U.Ts/Cities,Number of Rape Cases Reported,Below 16 Years,Between 16 to 30 Years,Above 30 Years
+1,State,Andhra Pradesh,58,12,41,5
+2,State,Assam,117,23,84,10
+3,State,Bihar,240,41,154,45
+4,State,Gujarat,57,9,41,7
+5,State,Haryana,59,20,25,14
+6,State,Himachal Pradesh,17,5,7,5
+7,State,Jammu and Kashmir,26,NA,20,6
+8,State,Karnataka,36,7,28,1
+9,State,Kerala,38,11,24,3
+10,State,Madhya Pradesh,443,115,255,73
+11,State,Maharashtra,238,81,127,30
+12,State,Manipur,8,3,5,NA
+13,State,Meghalaya,4,NA,4,NA
+14,State,Nagaland,10,NA,9,1
+15,State,Orissa,52,12,37,3
+16,State,Punjab,85,24,49,12
+17,State,Rajasthan,153,15,106,32
+18,State,Tamil Nadu,58,26,28,4
+19,State,Tripura,1,NA,1,NA
+20,State,Uttar Pradesh,577,162,342,73
+21,State,West Bengal,285,37,239,9
+Total (States),State,Total (States),2562,603,1626,333
+22,UT,A & N Islands,NA,NA,NA,NA
+23,UT,Chandigarh,4,3,1,NA
+24,UT,D & N Haveli,NA,NA,NA,NA
+25,UT,Delhi,33,18,12,3
+26,UT,"Goa, Daman & Diu",1,1,NA,NA
+27,UT,Lakshadweep,NA,NA,NA,NA
+28,UT,Pondicherry,5,2,3,NA
+Total (UTs),UT,Total (UTs),43,24,16,3
+Total (All-India),Total (All-India),Total (All-India),2605,627,1642,336
+1,City,Ahmedabad,7,3,4,NA
+2,City,Bangalore,4,NA,4,NA
+3,City,Bombay,29,14,14,1
+4,City,Calcutta,15,2,13,NA
+5,City,Delhi,30,17,10,3
+6,City,Hyderabad,2,NA,2,NA
+7,City,Kanpur,14,5,9,NA
+8,City,Madras,9,5,3,1
+Total (Cities),City,Total (Cities),110,46,59,5

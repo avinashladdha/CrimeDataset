@@ -1,0 +1,24 @@
+SI. No.,Crime Head,Total Number of Cases for investigation including pending cases,Number of cases in which - Investigation was refused,Number of cases in which - Investigation was completed - charge found False/Mistake of Fact or Law Etc.,Number of Cases in which - Investigation was completed - final report true submitted,Number of Cases in which - Investigation was completed - chargesheets were laid,Number of Cases in which - Investigation was completed - total [Col. (5+6+7)],Number of cases pending investigation
+1,Arms Act,88095,16,245,2265,71487,73997,14082
+2,Narcotic Drugs & Psychotropic Substances Act,33479,21,168,617,20357,21142,12316
+3,Gambling Act,121639,20,45,100,118874,119019,2600
+4,Excise Act,211214,1123,804,2097,171272,174173,35918
+5,Prohibition Act,637561,3760,5309,14458,518512,538279,95522
+6,Explosive & Explosive Substances Act,8632,18,106,819,4548,5473,3141
+7,Immoral Traffic (Prevention) Act,9076,1,5,21,7851,7877,1198
+8,Indian Railways Act,42228,44,110,544,40881,41535,649
+9,Registration of Foreigners Act,1692,4,10,43,1397,1450,238
+10,Protection Of Civil Rights Act,2080,53,180,76,1303,1559,468
+11,Indian Passport Act,599,5,11,26,373,410,184
+12,Essential Commodities Act,9827,21,217,457,4867,5541,4265
+13,Terrorist & Disruptive Actvites Act,2687,0,19,522,240,781,1906
+14,Antiquity & Art Treasure Act,71,0,5,5,21,31,40
+15,Dowry Prohibition Act,3853,27,213,229,2284,2726,1100
+16,Child Marriage Restraint Act,107,1,10,1,60,71,35
+17,Indecent Representation of Women (P)Act,96,0,3,1,78,82,14
+18,CopyRight Act,1220,7,13,54,757,824,389
+19,Sati Prevention Act,1,0,0,0,1,1,0
+20,SC/ST (Prevention of Atrocities ) Act,18338,60,3195,901,11152,15248,3030
+21,Forest Act,5741,145,116,269,4731,5116,480
+22,Other SLL Crimes,4107912,27011,37739,36809,3510630,3585178,495723
+23,Total Cognizable Crimes Under SLL,5306148,32337,48523,60314,4491676,4600513,673298

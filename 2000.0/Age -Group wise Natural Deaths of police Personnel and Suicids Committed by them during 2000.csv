@@ -1,0 +1,60 @@
+SI.No.,State/UT/City,No. of police personnel Died Natural Deaths While In Service - 18-25 years,No. of police personnel Died Natural Deaths While In Service - 26-35 years,No. of police personnel Died Natural Deaths While In Service - 36-45 years,No. of police personnel Died Natural Deaths While In Service - 46-55 years,No. of police personnel Died Natural Deaths While In Service - Above 55 years,No. of police personnel Died Natural Deaths While In Service - Total (Col.3 to 7),No. of police personnel Committed Suicide While in Service - 18-25 years,No. of police personnel Committed Suicide While in Service - 26-35 years,No. of police personnel Committed Suicide While in Service - 36-45 years,No. of police personnel Committed Suicide While in Service - 46-55 years,No. of police personnel Committed Suicide While In Service - Above 55 years,No. of police personnel Committed Suicide While In Service - Total (Col.9 to 13)
+1,Andhra Pradesh,3,26,77,61,7,174,1,0,1,0,0,2
+2,Arunachal Pradesh,0,0,1,0,0,1,0,0,0,0,0,0
+3,Assam,0,5,12,15,3,35,0,0,0,0,0,0
+4,Bihar,1,4,17,26,9,57,0,1,0,0,0,1
+5,Goa,2,1,3,5,2,13,0,0,0,0,0,0
+6,Gujarat,1,14,41,34,3,93,0,1,1,2,0,4
+7,Haryana,0,8,22,26,1,57,0,4,3,1,0,8
+8,Himachal Pradesh,0,1,0,7,1,9,0,0,0,0,0,0
+9,Jammu & Kashmir,0,4,6,2,2,14,0,0,0,0,0,0
+10,Karnataka,3,15,58,86,10,172,0,2,3,3,0,8
+11,Kerala,0,1,18,34,0,53,0,1,7,4,0,12
+12,Madhya Pradesh,5,26,40,40,12,123,0,5,6,3,0,14
+13,Maharashtra,8,45,115,65,20,253,0,10,12,8,0,30
+14,Manipur,0,3,7,6,0,16,0,1,1,1,0,3
+15,Meghalaya,2,0,3,0,0,5,0,0,0,0,0,0
+16,Mizoram,0,2,1,4,3,10,0,0,0,2,0,2
+17,Nagaland,0,6,7,1,1,15,0,1,0,0,0,1
+18,Orissa,0,1,3,4,2,10,0,1,1,0,0,2
+19,Punjab,0,29,22,23,4,78,0,1,1,0,0,2
+20,Rajasthan,2,9,25,32,6,74,0,1,0,0,0,1
+21,Sikkim,0,0,0,7,0,7,0,1,0,0,0,1
+22,Tamil Nadu,0,15,55,88,20,178,0,7,1,3,0,11
+23,Tripura,0,0,0,0,0,0,0,0,0,0,0,0
+24,Uttar Pradesh,5,9,37,36,17,104,0,0,2,1,0,3
+25,West Bengal,3,12,49,38,26,128,0,0,0,1,0,1
+Total States,Total States,35,236,619,640,149,1679,1,37,39,29,0,106
+26,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0
+27,Chandigarh,0,2,3,2,0,7,0,1,0,0,0,1
+28,D & N Haveli,0,0,0,1,0,1,0,0,0,0,0,0
+29,Daman & DIU,0,0,0,0,0,0,0,0,0,0,0,0
+30,Delhi,0,11,8,11,3,33,0,3,1,0,0,4
+31,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0
+32,Pondicherry,0,0,1,5,3,9,0,0,0,0,0,0
+Total (UTs),Total (UTs),0,13,12,19,6,50,0,4,1,0,0,5
+Total (All -India),Total (All -India),35,249,631,659,155,1729,1,41,40,29,0,111
+33,Ahmedabad,0,0,0,0,0,0,0,1,0,0,0,1
+34,Bangalore,0,0,4,0,2,6,0,0,0,0,0,0
+35,Bhopal,0,2,1,0,1,4,0,1,0,0,0,1
+36,Calcutta,0,0,0,1,2,3,0,0,0,0,0,0
+37,Chennai,0,1,2,4,1,8,0,1,0,0,0,1
+38,Coimbatore,0,11,8,11,3,33,0,3,1,0,0,4
+39,Delhi,0,0,0,0,0,0,0,0,0,0,0,0
+40,Hyderabad,1,2,8,1,0,12,0,0,0,1,0,1
+41,Indore,0,0,0,0,0,0,0,0,0,0,0,0
+42,Jaipur,0,0,2,2,0,4,0,0,0,0,0,0
+43,Kanpur,0,0,0,0,0,0,0,0,0,0,0,0
+44,Kochi,3,9,45,27,11,95,0,0,0,0,0,0
+45,Lucknow,0,0,0,0,0,0,0,0,0,0,0,0
+46,Ludhiana,0,5,0,0,0,5,0,5,2,5,2,14
+47,Madurai,0,0,4,6,3,13,0,0,0,0,0,0
+48,Mumbai,0,2,7,4,1,14,0,1,2,0,0,3
+49,Nagpur,2,4,6,4,8,24,0,0,1,0,0,1
+50,Patna,0,2,4,9,3,18,0,0,0,0,0,0
+51,Pune,0,4,9,8,2,23,0,1,1,1,0,3
+52,Surat,0,0,1,0,0,1,0,0,0,0,0,0
+53,Vadodra,0,1,6,4,0,11,0,0,0,0,0,0
+54,Varanasi,0,1,2,2,5,10,0,0,0,0,0,0
+55,Vishakhapatnam,1,0,1,0,0,2,0,0,0,0,0,0
+Total Cities,Total Cities,7,44,110,83,42,286,0,13,7,7,2,29

@@ -1,0 +1,51 @@
+SI.No,Crime Head,1996,1997,1998,1999,2000
+1,Murder,2.1,2.1,2.1,2.1,2.1
+2,Attempt to Commit Murder,2.5,2.5,2.4,2.5,2.4
+3,C.H. Not Amounting To Murder,2.2,2.1,2,1.8,1.8
+4,Rape,1.3,1.3,1.3,1.3,1.2
+5,Kidnapping & Abduction,1.3,1.3,1.3,1.3,1.3
+5,I)of Women & Girls,1.2,1.2,1.2,1.2,1.1
+5,II)of Others,1.6,1.6,1.6,1.6,1.6
+6,Dacoity,3.1,3.1,3.1,3.3,3.4
+7,Preparation & Assembly for Dacoity,4.9,4.7,4.2,4.8,4.5
+8,Robbery,1.3,1.3,1.4,1.4,1.4
+9,Burglary,0.7,0.6,0.6,0.6,0.6
+10,Theft,0.6,0.6,0.6,0.6,0.6
+10,I) Auto Theft,*,*,*,0.5,0.4
+10,II) Other Theft,*,*,*,0.7,0.7
+11,Riots,5.2,5,4.8,4.9,5.4
+12,Criminal Breach of Trust,1,0.9,0.9,1,1
+13,Cheating,0.9,0.8,0.8,0.9,0.9
+14,Counterfeiting,0.3,0.4,1.2,1.2,0.9
+15,Arson,1.2,1.3,1.1,1.2,1.4
+16,Hurt,1.9,1.9,1.9,1.9,1.9
+17,Dowry Deaths,2.7,2.6,2.6,2.6,2.6
+18,Molestation,1.3,1.2,1.2,1.3,1.3
+19,Sexual Harassment,1.2,1.2,1.3,1.2,1.2
+20,Cruelty by Husband and Relatives,2.3,2.2,2.3,2.3,2.3
+21,Importation of Girls,*,*,*,3,2.4
+22,Other IPC Crimes,1.3,1.4,1.4,1.3,1.3
+23,Total Cognizable Crimes Under IPC,1.5,1.5,1.5,1.5,1.5
+1,Arms Act,1,1,1.1,1.1,1.1
+2,Narcotic Drugs & Psychotropic Substances Act,1.1,1.2,1.2,1.1,1.1
+3,Gambling Act,2.2,2.1,2.2,2.2,2.1
+4,Excise Act,1.1,1.1,1.1,1.1,1.1
+5,Prohibition Act,1,1,1,1,1
+6,Explosive & Explosive Substances Act,1.1,1.2,1.2,1.2,1.3
+7,Immoral Traffic (P) Act,1.3,1.4,1.5,1.6,1.5
+8,Indian Railways Act,1.1,1,1.1,1,1.3
+9,Registration of Foreigners Act,1.6,1.8,1.5,1.8,1.8
+10,Protection Of Civil Rights Act,1.8,2.1,1.8,1.5,1.6
+11,Indian Passport Act,3,1.8,2.2,1.9,2
+12,Essential Commodities Act,1.2,1.2,1.3,1.3,1.3
+13,Terrorist & Disruptive Actvites Act,5.8,3.7,0,0,3.6
+14,Antiquity & Art Treasure Act,1.7,1.5,1.9,2.9,1.3
+15,Dowry Prohibition Act,2.7,2.6,2.5,2.2,2.3
+16,Child Marriage Restraint Act,3.7,2.2,6,3.1,3.6
+17,Indecent Representation of Women (P)Act,2.6,3.8,1,1.3,3.6
+18,Copy Rights Act,1.4,1.4,1.4,1.5,1.6
+19,Sati Prevention Act,0,1,0,0,0
+20,SC/ST (Prevention of Atrocities ) Act,2,1.7,1.7,1.7,1.8
+21,Forest Act,2.1,1.8,1.9,2.2,2
+22,Other SLL Crimes,1,1,1,1.2,1.1
+23,Total cognizable Crimes Under Sll,1,1,1,1.2,1.2

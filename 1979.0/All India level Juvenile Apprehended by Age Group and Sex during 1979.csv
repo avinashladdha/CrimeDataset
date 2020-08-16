@@ -1,0 +1,28 @@
+SL. No.,Category,Heads of Crime ,Between 7-12 Years - Boys,Between 7-12 Years - Girls,Between 12-16 Years - Boys,Between 12-16 Years - Girls,Between 16-18 Years - Boys,Between 16-18 Years - Girls,Between 18-21 Years - Boys,Between 18-21 Years - Girls,Overall Age Groups - Boys,Overall Age Groups - Girls,Total - Boys+Girls
+1,IPC Crime,Murder ,15,NA,97,4,174,11,868,41,1154,56,1210
+2,IPC Crime,Culpable Homicide Not Amounting to Murder,NA,NA,11,NA,18,NA,100,1,129,1,130
+3,IPC Crime,Rape,7,NA,25,1,71,NA,300,NA,403,1,404
+4,IPC Crime,Kidnapping & Abduction,9,1,30,6,100,19,456,24,595,50,645
+5,IPC Crime,Dacoity,1,NA,9,NA,84,1,717,8,811,9,820
+6,IPC Crime,Robbery,7,1,52,2,123,4,919,7,1101,14,1115
+7,IPC Crime,Burglary,333,23,1333,55,1582,60,4461,119,7709,257,7966
+8,IPC Crime,Thefts,1074,94,3757,214,3598,162,10001,404,18430,874,19304
+9,IPC Crime,Riots,133,16,762,66,2907,141,10587,487,14389,710,15099
+10,IPC Crime,Criminal Breach of Trust,1,NA,11,NA,27,1,219,1,258,2,260
+11,IPC Crime,Cheating ,7,NA,14,1,40,NA,259,4,320,5,325
+12,IPC Crime,Counterfeiting,NA,NA,NA,NA,1,NA,1,NA,2,NA,2
+13,IPC Crime,Total,2034,160,7796,458,12637,616,45030,1828,67497,3062,70559
+1,Local & Special Laws,Arms Act,1,NA,12,NA,171,NA,953,1,1137,1,1138
+2,Local & Special Laws,Opium Act,NA,NA,4,NA,27,NA,161,NA,192,NA,192
+3,Local & Special Laws,Gambling Act ,160,1,1317,7,3596,16,16103,121,21176,145,21321
+4,Local & Special Laws,Excise Act,14,4,118,5,655,44,1642,180,2429,233,2662
+5,Local & Special Laws,Prohibition Act,1188,67,2566,299,2612,384,19809,979,26175,1729,27904
+6,Local & Special Laws,Explosive & Explosive Substances Act,NA,NA,1,NA,4,NA,37,1,42,1,43
+7,Local & Special Laws,Suppression of Immoral Traffic Act,NA,NA,3,8,9,128,44,1418,56,1554,1610
+8,Local & Special Laws,Motor Vehicles Act,11,NA,26,NA,920,NA,759,NA,1716,NA,1716
+9,Local & Special Laws,Prevention of Corruption Act,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,Local & Special Laws,Customs Act,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,Local & Special Laws,Indian Railways Act,21,6,84,2,417,NA,2452,23,2974,31,3005
+12,Local & Special Laws,Other Offences,6082,790,5068,541,3645,347,22121,1299,36916,2977,39893
+13,Local & Special Laws,Total Local & Special Laws,7477,868,9199,862,12054,919,64083,4022,92813,6671,99484
+Grand Total (IPC + Local & Special Laws),Grand Total (IPC + Local & Special Laws),Grand Total (IPC + Local & Special Laws),9511,1028,16995,1320,24691,1535,109113,5850,160310,9733,170043

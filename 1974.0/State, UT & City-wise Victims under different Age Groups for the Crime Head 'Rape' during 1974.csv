@@ -1,0 +1,43 @@
+SL. No.,Category,States/U.Ts/Cities,Number of Cases Reported,Below 16 Years,Between 16 to 30 Years,Above 30 Years
+1,State,Andhra Pradesh,73,24,44,5
+2,State,Assam,106,42,57,7
+3,State,Bihar,252,68,146,38
+4,State,Gujarat,60,6,42,12
+5,State,Haryana,54,14,28,12
+6,State,Himachal Pradesh,16,3,9,4
+7,State,Jammu and Kashmir,48,9,33,6
+8,State,Karnataka,23,NA,11,12
+9,State,Kerala,55,16,31,8
+10,State,Madhya Pradesh,515,125,294,96
+11,State,Maharashtra,280,88,142,50
+12,State,Manipur,11,3,8,NA
+13,State,Meghalaya,6,1,4,1
+14,State,Nagaland,13,NA,13,NA
+15,State,Orissa,40,6,32,2
+16,State,Punjab,86,22,48,16
+17,State,Rajasthan,182,16,139,27
+18,State,Tamil Nadu,65,21,35,9
+19,State,Tripura,7,NA,6,1
+20,State,Uttar Pradesh,682,175,423,84
+21,State,West Bengal,288,54,212,22
+Total (States),State,Total (States),2862,693,1757,412
+22,UT,A & N Islands,6,NA,4,2
+23,UT,Arunachal Pradesh,2,NA,2,NA
+24,UT,Chandigarh,6,2,4,NA
+25,UT,D & N Haveli,NA,NA,NA,NA
+26,UT,Delhi,64,30,27,7
+27,UT,"Goa, Daman & Diu",NA,NA,NA,NA
+28,UT,Lakshadweep,NA,NA,NA,NA
+29,UT,Mizoram,13,NA,9,4
+30,UT,Pondicherry,9,5,3,1
+Total (UTs),UT,Total (UTs),100,37,49,14
+All-India,All-India,All-India,2962,730,1806,426
+1,City,Ahmedabad,8,6,1,1
+2,City,Bangalore,3,NA,1,2
+3,City,Bombay,50,28,21,1
+4,City,Calcutta,18,3,15,NA
+5,City,Delhi,61,29,25,7
+6,City,Hyderabad,8,NA,6,2
+7,City,Kanpur,26,10,14,2
+8,City,Madras,5,4,1,NA
+Total (Cities),City,Total (Cities),179,80,84,15

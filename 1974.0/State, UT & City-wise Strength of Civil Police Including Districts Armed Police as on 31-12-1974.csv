@@ -1,0 +1,43 @@
+SL. No. (Col.1),Category (Col.2),States/U.Ts/Cities (Col.3),"Number of I.G., D.Is.G.& S.P. (Col.4)",Number of A.Ss.P./ Dy.S.P. (Col.5),Number of Inspector & Sub-Inspectors  (Col.6),Number of Officers Below the Rank of Sub-Inspectors (Col.7),Total (Col.8) = (Col.4+5+6+7)
+1,State,Andhra Pradesh ,71,134,2172,27151,29528
+2,State,Assam,47,72,1662,14226,16007
+3,State,Bihar,67,215,2962,36748,39992
+4,State,Gujarat,43,84,1637,31354,33118
+5,State,Haryana,24,32,325,8997,9378
+6,State,Himachal Pradesh,23,23,200,4659,4905
+7,State,Jammu and Kashmir,16,27,212,6436,6691
+8,State,Karnataka ,51,95,1435,26654,28235
+9,State,Kerala,32,74,772,10375,11253
+10,State,Madhya Pradesh,86,160,2499,36414,39159
+11,State,Maharashtra,89,217,4117,68024,72447
+12,State,Manipur,12,22,86,3013,3133
+13,State,Meghalaya,7,13,242,2691,2953
+14,State,Nagaland,7,13,82,2288,2390
+15,State,Orissa,78,117,1734,16538,18467
+16,State,Punjab,39,86,832,18262,19219
+17,State,Rajasthan,55,209,1599,30530,32393
+18,State,Tamil Nadu,58,177,2730,35592,38557
+19,State,Tripura,8,16,2782,239,3045
+20,State,Uttar Pradesh,196,553,6541,87621,94911
+21,State,West Bengal ,94,180,5721,37187,43182
+Total (States),State,Total (States),1103,2519,40342,504999,548963
+22,UT,A & N Islands,NA,NA,NA,NA,NA
+23,UT,Arunachal Pradesh,1,NA,58,416,475
+24,UT,Chandigarh,1,2,42,810,855
+25,UT,D & N Haveli,NA,1,4,64,69
+26,UT,Delhi,24,63,1456,12518,14061
+27,UT,"Goa, Daman & Diu",2,6,60,1337,1405
+28,UT,Lakshadweep,1,NA,14,204,219
+29,UT,Mizoram,6,12,147,1172,1337
+30,UT,Pondicherry,NA,NA,NA,NA,NA
+Total (UTs),UT,Total (UTs),35,84,1781,16521,18421
+Total (All-India),Total (All-India),Total (All-India),1138,2603,42123,521520,567384
+1,City,Ahmedabad ,1,14,294,3521,3830
+2,City,Bangalore ,5,8,183,3502,3698
+3,City,Bombay,15,46,1572,18265,19898
+4,City,Calcutta,19,34,1734,10436,12223
+5,City,Delhi,24,63,1456,12518,14061
+6,City,Hyderabad,8,13,247,3118,3386
+7,City,Kanpur,3,12,267,2919,3201
+8,City,Madras,6,22,421,5855,6304
+Total (Cities),City,Total (Cities),81,212,6174,60134,66601

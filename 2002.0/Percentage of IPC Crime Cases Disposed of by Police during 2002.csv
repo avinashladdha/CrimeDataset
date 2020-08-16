@@ -1,0 +1,71 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Investigation in which - Investigation was Refused (Col. 4),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Charge Found False/ Mistake of Fact or Law Etc. (Col. 5),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Final Report True Submitted (Col. 6),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Charge Sheets were Submitted (Col. 7),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Total (Col. 8) = (Col. 5 + Col. 6 + Col. 7),Percentage of Cases Pending Investigation (Col. 9),Charge Sheeting Rate = (Col. 10) {(Col. 7)/ (Col. 6 + Col. 7)} × 100
+1,Murder,0,0.2,2,11.8,52.5,66.4,33.3,81.6
+2,Attempt to Commit Murder,0,0.1,3.2,8.6,62.6,74.4,25.4,87.9
+3,C.H. not Amounting to Murder,0,0.1,2.4,8.9,58.2,69.4,30.5,86.8
+4,Rape - Total,0,0.1,5.2,3.6,65.1,74,25.9,94.7
+4,Rape - Total i) Custodial Rape,0,0,66.7,33.3,0,100,0,0
+4,Rape - Total ii) Other Rape,0,0.1,5.2,3.6,65.1,74,25.9,94.7
+5,Kidnapping & Abduction - Total,0.1,0.4,14,11.8,38.6,64.4,35.1,76.6
+5,Kidnapping & Abduction - i) of Women & Girls,0.1,0.4,15.1,11.3,39.2,65.6,33.8,77.5
+5,Kidnapping & Abduction ii) of Others,0.1,0.4,11.8,12.6,37.5,61.9,37.7,74.9
+6,Dacoity,0,0.1,3.1,16.1,33.5,52.7,47.2,67.6
+7,Preparation & Assembly for Dacoity,0,0.1,0.2,4.5,57.3,62,37.9,92.8
+8,Robbery,0,0.1,4.5,22.1,42,68.6,31.3,65.6
+9,Burglary,0,0.2,2.8,44.7,28.4,76,23.8,38.9
+10,Theft - Total,0,0.4,3,40.7,29.7,73.4,26.3,42.2
+10,Theft - i) Auto Theft,0,0.3,2.9,47.7,22,72.6,27.1,31.6
+10,Theft - ii) Other Theft,0,0.4,3,38.1,32.5,73.6,25.9,46
+11,Riots,0,0.1,6.7,6.9,62.6,76.2,23.7,90.1
+12,Criminal Breach of Trust,0,0.3,10,13.5,38.7,62.2,37.5,74.2
+13,Cheating,0,0.8,14.6,11.7,33.4,59.8,39.4,74
+14,Counterfeiting,0,1.8,0.5,9.5,16.5,26.4,71.8,63.5
+15,Arson,0,0.3,9.8,24.1,43.8,77.7,21.9,64.5
+16,Hurt,0,0.1,3.8,3.9,79.4,87.1,12.8,95.3
+17,Dowry Death,0,0.3,4.3,4.4,66.9,75.6,24.1,93.8
+18,Molestation,0,0.1,5.2,2.9,79,87.1,12.7,96.5
+19,Sexual Harassment,0,0,1.8,0.9,90.6,93.3,6.7,99
+20,Cruelty by Husband and Relatives,0,0.2,10,4.9,64.4,79.3,20.4,92.9
+21,Importation of Girls,0,0,0.8,10.9,48.8,60.5,39.5,81.8
+22,Causing Death by Negligence,0,0.2,2.9,12.4,67.4,82.7,17.1,84.5
+23,Other IPC Crimes,0,0.2,5.7,7.8,71.2,84.7,15.1,90.1
+Total Cognizable Crimes under IPC,Total Cognizable Crimes under IPC,0,0.2,5.2,14.9,59.5,79.5,20.2,80
+,,,,,,,,,
+,,,,,,,,,
+TABLE-4.3,,,,,,,,,
+Percentage Of IPC Crime Cases Disposed Of By Police During 2002 ,,,,,,,,,
+,,,,,,,,,
+Sl.,Crime Head,Cases With- drawn ,Percentage Of Cases To Total Cases For Investigation In Which,,,,,Percentage Of Cases Pending Investiga-tion,Charge sheeting Rate ((7)/((6) + (7)) × 100)
+No.,,By Govt.,Investi-gation Was Refused,Investigation Was Completed,,,,,
+,,,,Charge Found False/,Final Report True Submitted,Charge Sheets Were Submi-tted,Total {(5)+(6) +(7)},,
+,,,,Mistake Of Fact Or Law Etc.,,,,,
+-1,-2,-3,-4,-5,-6,-7,-8,-9,-10
+1,MURDER ,,,,,,,,
+2,ATTEMPT TO COMMIT MURDER ,,,,,,,,
+3,C.H. NOT AMOUNTING TO MURDER ,,,,,,,,
+4,RAPE ,,,,,,,,
+,i) CUSTODIAL RAPE ,,,,,,,,
+,ii) OTHER RAPE ,,,,,,,,
+5,KIDNAPPING & ABDUCTION ,,,,,,,,
+,i) OF WOMEN & GIRLS ,,,,,,,,
+,ii) OF OTHERS ,,,,,,,,
+6,DACOITY ,,,,,,,,
+7,PREPARATION & ASSEMBLY FOR DACOITY ,,,,,,,,
+8,ROBBERY ,,,,,,,,
+9,BURGLARY ,,,,,,,,
+10,THEFT ,,,,,,,,
+,i) AUTO THEFT ,,,,,,,,
+,ii) OTHER THEFT ,,,,,,,,
+11,RIOTS ,,,,,,,,
+12,CRIMINAL BREACH OF TRUST ,,,,,,,,
+13,CHEATING ,,,,,,,,
+14,COUNTERFEITING ,,,,,,,,
+15,ARSON ,,,,,,,,
+16,HURT ,,,,,,,,
+17,DOWRY DEATH ,,,,,,,,
+18,MOLESTATION ,,,,,,,,
+19,SEXUAL HARASSMENT ,,,,,,,,
+20,CRUELTY BY HUSBAND AND RELATIVES ,,,,,,,,
+21,IMPORTATION OF GIRLS ,,,,,,,,
+22,CAUSING DEATH BY NEGLIGENCE ,,,,,,,,
+23,OTHER IPC CRIMES ,,,,,,,,
+24,TOTAL COGNIZABLE CRIMES UNDER IPC ,,,,,,,,

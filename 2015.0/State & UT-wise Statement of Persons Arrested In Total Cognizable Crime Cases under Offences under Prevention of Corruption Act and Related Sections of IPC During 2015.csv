@@ -1,0 +1,40 @@
+S. No. ,Category,State/UT ,Persons In Cust./ Bail During Investigation At Beginning of The Year ,Persons Arrested During the Year ,Persons Released by Police/ Magistrate Before Trial ,Persons in Custody/ Bail During Investigation at the end of Year ,Persons Charge Sheeted ,Persons Under Trial at the Beginning of Year ,Total Persons Under Trial ,No. of Persons Whose Cases Withdrawn Or Other-wise Disposed off ,No. of Persons whose Cases were closed During the Year ,Persons In Custody/ Bail During Trial At The End of Year ,Persons In Whose Cases Trial Completed ,Persons Convicted ,Persons Acquitted ,Percentage of Persons Convicted to Trial Completed ,Persons Reported for Regular Deptt. Action ,Persons Reported for Suitable Action ,Persons Punished Departmentally  - Dismissed from Service ,Persons Punished Departmentally - Removed from Service ,Persons Punished Departmentally - Awarded Other Major Punish-ment ,Persons Punished Departmentally - Awarded Minor Punish-ment ,Gazetted Or Equal Status officers In Public Under Taking Involved - Group 'A' officers ,Gazetted Or Equal Status officers In Public Under Taking Involved - Group 'B' officers ,Non Gazetted or Equal Status officers in Public Undertaking Involved ,Private Persons Involved 
+1,State,Andhra Pradesh ,410  ,177  ,0  ,426  ,161  ,953  ,1114  ,3  ,0  ,1047  ,110  ,64  ,46  ,58.2  ,18  ,0  ,1  ,0  ,4  ,7  ,80  ,0  ,136  ,20  
+2,State,Arunachal Pradesh ,18  ,41  ,0  ,19  ,40  ,20  ,60  ,0  ,5  ,55  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,6  ,9  ,8  ,31  
+3,State,Assam ,3  ,10  ,0  ,12  ,1  ,120  ,121  ,0  ,0  ,121  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,15  ,18  ,18  ,0  
+4,State,Bihar ,215  ,61  ,0  ,115  ,161  ,2048  ,2209  ,0  ,0  ,2206  ,3  ,2  ,1  ,66.7  ,59  ,59  ,0  ,0  ,0  ,0  ,1  ,17  ,43  ,1  
+5,State,Chhattisgarh ,119  ,36  ,18  ,85  ,89  ,417  ,506  ,0  ,0  ,486  ,20  ,6  ,14  ,30.0  ,51  ,51  ,0  ,0  ,0  ,0  ,1  ,12  ,37  ,5  
+6,State,Goa ,9  ,10  ,0  ,15  ,4  ,5  ,9  ,0  ,0  ,9  ,0  ,0  ,0  ,NA  ,4  ,0  ,0  ,7  ,0  ,0  ,1  ,2  ,4  ,0  
+7,State,Gujarat ,398  ,457  ,52  ,591  ,212  ,1758  ,1970  ,5  ,13  ,1811  ,141  ,28  ,113  ,19.9  ,3  ,0  ,14  ,61  ,1  ,0  ,12  ,39  ,293  ,82  
+8,State,Haryana ,477  ,194  ,22  ,459  ,190  ,1259  ,1449  ,57  ,206  ,846  ,340  ,136  ,204  ,40.0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,32  ,0  ,0  
+9,State,Himachal Pradesh ,268  ,80  ,17  ,228  ,103  ,668  ,771  ,4  ,6  ,717  ,44  ,13  ,31  ,29.5  ,7  ,0  ,0  ,0  ,0  ,0  ,9  ,11  ,142  ,25  
+10,State,Jammu & Kashmir ,0  ,37  ,0  ,0  ,37  ,2302  ,2339  ,0  ,0  ,2311  ,28  ,11  ,17  ,39.3  ,30  ,0  ,0  ,0  ,0  ,0  ,159  ,0  ,129  ,36  
+11,State,Jharkhand ,142  ,75  ,0  ,75  ,142  ,201  ,343  ,0  ,8  ,317  ,18  ,4  ,14  ,22.2  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,23  ,70  ,2  
+12,State,Karnataka ,685  ,362  ,76  ,665  ,306  ,1842  ,2148  ,10  ,101  ,1726  ,311  ,70  ,241  ,22.5  ,66  ,57  ,12  ,1  ,2  ,27  ,54  ,50  ,186  ,56  
+13,State,Kerala ,0  ,35  ,23  ,0  ,165  ,1647  ,1812  ,236  ,57  ,274  ,52  ,26  ,26  ,50.0  ,62  ,6  ,20  ,0  ,0  ,1  ,23  ,40  ,396  ,206  
+14,State,Madhya Pradesh ,797  ,634  ,0  ,992  ,439  ,609  ,1048  ,0  ,4  ,853  ,191  ,145  ,46  ,75.9  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+15,State,Maharashtra ,1550  ,1693  ,2  ,1268  ,1973  ,4794  ,6767  ,42  ,1  ,6028  ,696  ,139  ,557  ,20.0  ,1  ,0  ,0  ,1  ,0  ,0  ,126  ,151  ,1141  ,275  
+16,State,Manipur ,25  ,2  ,2  ,25  ,0  ,11  ,11  ,0  ,0  ,11  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+17,State,Meghalaya ,1  ,0  ,0  ,0  ,1  ,1  ,2  ,0  ,0  ,2  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+18,State,Mizoram ,45  ,31  ,0  ,66  ,10  ,45  ,55  ,0  ,0  ,55  ,0  ,0  ,0  ,NA  ,56  ,10  ,0  ,0  ,0  ,0  ,18  ,6  ,0  ,7  
+19,State,Nagaland ,39  ,0  ,0  ,0  ,39  ,0  ,39  ,0  ,0  ,15  ,24  ,11  ,13  ,45.8  ,0  ,0  ,0  ,3  ,5  ,11  ,22  ,9  ,41  ,29  
+20,State,Odisha ,77  ,860  ,10  ,221  ,706  ,4490  ,5196  ,20  ,54  ,4908  ,214  ,83  ,131  ,38.8  ,237  ,1  ,13  ,5  ,10  ,11  ,53  ,71  ,360  ,227  
+21,State,Punjab ,155  ,213  ,13  ,90  ,265  ,300  ,565  ,4  ,2  ,442  ,117  ,39  ,78  ,33.3  ,4  ,0  ,28  ,0  ,2  ,0  ,0  ,25  ,159  ,61  
+22,State,Rajasthan ,417  ,781  ,0  ,404  ,794  ,5948  ,6742  ,27  ,0  ,6491  ,224  ,89  ,135  ,39.7  ,111  ,0  ,3  ,3  ,31  ,77  ,0  ,32  ,79  ,0  
+23,State,Sikkim ,71  ,15  ,0  ,86  ,0  ,10  ,10  ,0  ,0  ,10  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,1  ,2  ,1  ,11  
+24,State,Tamil Nadu ,80  ,126  ,0  ,15  ,191  ,3376  ,3567  ,23  ,0  ,3357  ,187  ,64  ,123  ,34.2  ,53  ,42  ,6  ,0  ,36  ,3  ,10  ,182  ,126  ,96  
+25,State,Telangana ,201  ,107  ,0  ,235  ,173  ,881  ,1054  ,1  ,0  ,1011  ,42  ,26  ,16  ,61.9  ,1  ,0  ,4  ,0  ,8  ,10  ,103  ,0  ,147  ,8  
+26,State,Tripura ,2  ,25  ,22  ,4  ,1  ,0  ,1  ,0  ,0  ,1  ,0  ,0  ,0  ,NA  ,0  ,2  ,0  ,0  ,0  ,0  ,0  ,17  ,1  ,0  
+27,State,Uttar Pradesh ,122  ,57  ,25  ,116  ,38  ,630  ,668  ,2  ,1  ,629  ,36  ,11  ,25  ,30.6  ,0  ,0  ,0  ,0  ,7  ,2  ,0  ,1  ,34  ,46  
+28,State,Uttarakhand ,0  ,21  ,1  ,1  ,19  ,121  ,140  ,1  ,0  ,37  ,7  ,4  ,3  ,57.1  ,0  ,0  ,0  ,0  ,0  ,0  ,1  ,1  ,19  ,0  
+29,State,West Bengal ,38  ,14  ,1  ,40  ,11  ,168  ,179  ,0  ,0  ,179  ,0  ,0  ,0  ,NA  ,7  ,0  ,0  ,0  ,0  ,0  ,8  ,2  ,14  ,21  
+TOTAL (STATES),State,TOTAL (STATES),6364  ,6154  ,284  ,6253  ,6271  ,34624  ,40895  ,435  ,458  ,35955  ,2805  ,971  ,1834  ,34.6  ,770  ,228  ,101  ,81  ,106  ,149  ,703  ,752  ,3584  ,1245  
+30,UT,A & N Islands ,16  ,7  ,0  ,13  ,10  ,51  ,61  ,0  ,0  ,61  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,1  ,2  ,16  ,1  
+31,UT,Chandigarh ,34  ,11  ,0  ,36  ,9  ,106  ,115  ,1  ,0  ,76  ,38  ,11  ,27  ,28.9  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+32,UT,D&N Haveli ,0  ,0  ,0  ,0  ,0  ,2  ,2  ,0  ,0  ,1  ,1  ,1  ,0  ,100.0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+33,UT,Daman & Diu ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,4  ,0  ,1  
+34,UT,Delhi UT ,217  ,49  ,0  ,238  ,28  ,158  ,186  ,33  ,4  ,128  ,21  ,13  ,8  ,61.9  ,0  ,0  ,0  ,0  ,0  ,0  ,8  ,4  ,21  ,14  
+35,UT,Lakshadweep ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,NA  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+36,UT,Puducherry ,29  ,2  ,0  ,28  ,3  ,51  ,54  ,0  ,0  ,38  ,16  ,12  ,4  ,75.0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  
+TOTAL (Uts),UT,TOTAL (Uts),296  ,69  ,0  ,315  ,50  ,368  ,418  ,34  ,4  ,304  ,76  ,37  ,39  ,48.7  ,0  ,0  ,0  ,0  ,0  ,0  ,9  ,10  ,37  ,16  
+TOTAL (ALL INDIA) ,TOTAL (ALL INDIA) ,TOTAL (ALL INDIA) ,6660  ,6223  ,284  ,6568  ,6321  ,34992  ,41313  ,469  ,462  ,36259  ,2881  ,1008  ,1873  ,35.0  ,770  ,228  ,101  ,81  ,106  ,149  ,712  ,762  ,3621  ,1261  

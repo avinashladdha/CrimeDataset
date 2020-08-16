@@ -1,0 +1,31 @@
+Sr. No. (Col.1),Crime Head (Col.2),Total No. of Cases for Trial including Pending Cases (Col.3),Cases Withdrawn by Govt. (Col.4),No. of Cases - Compounded or Withdrawn (Col.5),No. of Cases in which Trials were Completed - Convicted (Col.6),No. of Cases in which Trials were Completed - Acquitted or Discharged (Col.7),No. of Cases in which Trials were Completed - Total (Col.8) = Col.{(6) + (7)},No. of Cases - Pending Trial (Col.9)
+1,Murder,179680,33,362,9433,18233,27666,151652
+2,Attempt to Commit Murder,146352,8,500,6768,17316,24084,121768
+3,C.H. not Amounting to Murder,18989,0,37,987,2104,3091,15861
+4,Rape - Total,70197,163,198,3423,9684,13107,56892
+4,Rape - I) Custodial Rape,1,0,0,0,1,1,0
+4,Rape - Ii) Other Rape,70196,163,198,3423,9683,13106,56892
+5,Kidnapping & Abduction - Total,74643,7,412,2398,7674,10072,64159
+5,Kidnapping & Abduction - I) of Women & Girls,51285,7,350,1605,5184,6789,44146
+5,Kidnapping & Abduction - Ii) of Others,23358,0,62,793,2490,3283,20013
+6,Dacoity,35868,1,22,890,3266,4156,31690
+7,Preparation & Assembly for Dacoity,8372,27,29,272,1100,1372,6971
+8,Robbery,87958,13,224,2560,7036,9596,78138
+9,Burglary,242255,2,1536,10580,20574,31154,209565
+10,Theft - Total,660075,10,2870,33123,54575,87698,569507
+10,Theft - I) Auto Theft,106417,4,283,5658,7833,13491,92643
+10,Theft - Ii) Other Theft,553658,6,2587,27465,46742,74207,476864
+11,Riots,406571,116,7244,10251,34009,44260,355067
+12,Criminal Breach of Trust,76578,3,589,1522,4720,6242,69747
+13,Cheating,157784,6,1982,3771,9678,13449,142353
+14,Counterfeiting,4548,0,9,156,371,527,4012
+15,Arson,34577,1,234,1014,4188,5202,29141
+16,Hurt,1052018,176,62776,49522,92825,142347,846895
+17,Dowry Death,28569,0,132,1708,3566,5274,23163
+18,Molestation,137028,2,6343,5668,13087,18755,111930
+19,Sexual Harassment,30328,8,848,6010,3546,9556,19924
+20,Cruelty by Husband and Relatives,196314,6,4582,4509,20373,24882,166850
+21,Importation of Girls,146,0,0,1,8,9,137
+22,Causing Death by Negligence,193141,11,1413,12994,18342,31336,160392
+23,Other IPC Crimes,2735787,72,74142,217327,228405,445732,2215913
+Total Cognizable Crimes Under IPC,Total Cognizable Crimes Under IPC,6577778,665,166484,384887,574680,959567,5451727

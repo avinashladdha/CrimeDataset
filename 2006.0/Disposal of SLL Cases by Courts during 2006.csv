@@ -1,0 +1,28 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Cases for Trial Including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases (Col. 5) - Compounded or Withdrawn,No. of Cases Trials Completed (Col. 6) - Convicted,No. of Cases Trials Completed (Col. 7) - Acquitted or Discharged,No. of Cases Trials Completed (Col. 8) - Total = Col. {(6) + (7)},No. of Cases (Col. 9) - Pending Trial at the end of the year
+1,Arms Act,387404,23,182,36986,24020,61006,326216
+2,Narcotic Drugs & Psychotropic Substances Act,138933,0,83,16431,9645,26076,112774
+3,Gambling Act,477522,42,1319,138385,25114,163499,312704
+4,Excise Act,537771,1814,384,95741,28068,123809,413578
+5,Prohibition Act,2201364,1292,14710,163836,180105,343941,1842713
+6,Explosive & Explosive Substances Act,24163,2,29,1475,1837,3312,20822
+7,Immoral Traffic (P) Act,11800,0,20,2682,750,3432,8348
+8,Indian Railways Act,15239,15,81,1463,399,1862,13296
+9,Registration of Foreigners Act,6965,1,3,2107,221,2328,4634
+10,Protection of Civil Rights Act - Total,3213,0,3,89,543,632,2578
+10,Protection of Civil Rights Act - (i) PCR Act for SCs,2996,0,3,87,473,560,2433
+10,Protection of Civil Rights Act - (ii) PCR Act for STs,217,0,0,2,70,72,145
+11,Indian Passport Act,2043,0,0,237,126,363,1680
+12,Essential Commodities Act,39905,0,49,987,2523,3510,36346
+13,Terrorist & Disruptive Activities Act,2131,0,0,14,69,83,2048
+14,Antiquity & Art Treasure Act,141,0,2,10,29,39,100
+15,Dowry Prohibition Act,12867,0,102,633,1684,2317,10448
+16,Child Marriage Restraint Act,448,0,2,14,27,41,405
+17,Indecent Representation of Women (P) Act,2355,0,3,1311,178,1489,863
+18,Copyrights Act,24859,0,49,1339,2181,3520,21290
+19,Sati Prevention Act,1,0,0,0,0,0,1
+20,SC/ST (prevention of Atrocities) Act - Total,46421,0,302,1793,5750,7543,38576
+20,SC/ST (prevention of Atrocities) Act - (i) Prevention of Attrocities Act For SCs,40800,0,262,1538,4989,6527,34011
+20,SC/ST (prevention of Atrocities) Act - (ii) Prevention of Attrocities Act For STs,5621,0,40,255,761,1016,4565
+21,Forest Act,16928,23,120,2831,911,3742,13066
+22,Other SLL Crimes,3692583,294,57454,1829518,154164,1983682,1651447
+Total Cognizable Crimes Under SLL,Total Cognizable Crimes Under SLL,7645056,3506,74897,2297882,438344,2736226,4833933

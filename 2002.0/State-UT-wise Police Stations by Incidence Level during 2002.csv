@@ -1,0 +1,39 @@
+Sr. No. (Col.1),Category (Col.2),States/ UTs (Col.3),Number of Police Stations - 0-60 Cases (Col.4),Number of Police Stations - 61-100 Cases (Col.5),Number of Police Stations - 101-200 Cases (Col.6),Number of Police Stations - 201-300 Cases (Col.7),Number of Police Stations - 301-400 Cases (Col.8),Number of Police Stations - 401-500 Cases (Col.9),Number of Police Stations - 501-1000 Cases (Col.10),Number of Police Stations - 1001 and above Cases (Col.11),Number of Police Stations - Total (Col.4 To Col.11) = Col.12
+1,State,Andhra Pradesh,364,500,480,128,42,25,28,0,1567
+2,State,Arunachal Pradesh,56,5,5,3,0,0,0,0,69
+3,State,Assam,34,46,69,48,17,6,5,2,227
+4,State,Bihar,199,172,221,111,38,11,5,0,757
+5,State,Chhattisgarh,41,23,41,20,56,29,11,181,402
+6,State,Goa,8,7,6,3,0,0,0,0,24
+7,State,Gujarat,61,57,119,74,45,28,52,30,466
+8,State,Haryana,1,14,55,52,32,20,28,2,204
+9,State,Himachal Pradesh,8,9,36,16,8,2,5,0,84
+10,State,Jammu & Kashmir,32,41,63,19,12,2,1,0,170
+11,State,Jharkhand,46,38,23,26,60,54,30,10,287
+12,State,Karnataka,77,117,351,141,51,26,31,2,796
+13,State,Kerala,18,20,79,96,81,54,82,10,440
+14,State,Madhya Pradesh,80,120,229,174,119,85,91,16,914
+15,State,Maharashtra,114,149,271,163,86,52,70,30,935
+16,State,Manipur,36,7,7,3,2,0,0,0,55
+17,State,Meghalaya,8,12,4,3,0,0,0,0,27
+18,State,Mizoram,21,1,2,3,3,2,2,0,34
+19,State,Nagaland,26,8,3,2,0,0,0,0,39
+20,State,Orissa,84,120,164,66,19,5,1,0,459
+21,State,Punjab,21,39,103,50,17,11,11,4,256
+22,State,Rajasthan,23,53,237,169,115,45,67,0,709
+23,State,Sikkim,16,6,4,0,0,0,0,0,26
+24,State,Tamil Nadu,80,202,117,294,117,105,337,213,1465
+25,State,Tripura,32,11,5,3,0,0,0,0,51
+26,State,Uttar Pradesh,106,155,361,291,249,127,124,30,1443
+27,State,Uttaranchal,23,11,21,14,5,5,9,6,94
+28,State,West Bengal,77,78,152,93,31,21,6,0,458
+State,State,Total (States),1692,2021,3228,2065,1205,715,996,536,12458
+29,Union Territory,A & N Islands,2,2,4,2,1,1,2,1,15
+30,Union Territory,Chandigarh,0,0,0,3,3,1,4,0,11
+31,Union Territory,D & N Haveli,0,1,0,1,0,0,0,0,2
+32,Union Territory,Daman & Diu,1,0,0,1,0,0,0,0,2
+33,Union Territory,Delhi,3,0,3,13,21,25,52,6,123
+34,Union Territory,Lakshadweep,9,0,0,0,0,0,0,0,9
+35,Union Territory,Puducherry,7,1,16,10,0,2,1,0,37
+Union Territory,Union Territory,Total (UTs),22,4,23,30,25,29,59,7,199
+Total (All-India),Total (All-India),Total (All-India),1714,2025,3251,2095,1230,744,1055,543,12657

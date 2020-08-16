@@ -1,0 +1,14 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. Persons Under Arrest Including those from Previous Year (Col. 3),No. of Persons Whose - Cases Compounded or Withdrawn (Col. 4),No. of Persons Whose - Trial Completed (Col. 5),Percentage of Persons - Trial Remained Pending at the end of the year (Col. 6),Percentage of Persons - No. of Persons Convicted (Col. 7),Whose Trials Remained Pending (Col. 8) = Col. (6 ×100 /3),Persons Convicted to Trials Completed (Col. 9) = Col (7 × 100 /5)
+1,Infanticide (Sec.315 IPC),305,2,52,251,29,82.3,55.8
+2,"Murder (Sec.302, 303 IPC)",7077,4,774,6299,718,89,92.8
+3,Rape (Sec.376 IPC),16051,47,2950,13054,963,81.3,32.6
+4,"Kidnapping .& Abduction ((Sec.363-369,371-373 IPC)",15341,77,2791,12473,919,81.3,32.9
+5,"Foeticide (Sec.315,316 IPC)",217,2,50,165,5,76,10
+6,Abetment of Suicide (Sec.305 IPC),144,2,24,118,0,81.9,0
+7,Exposure and Abandonment (Sec. 317 IPC),923,6,55,862,17,93.4,30.9
+8,Procuration Minor Girls (Sec. 366A IPC),702,7,122,573,15,81.6,12.3
+9,Buying of Girls for Prost. (Sec.373 IPC),111,0,32,79,5,71.2,15.6
+10,Selling of Girls for Prost. (Sec.372 IPC),188,0,84,104,19,55.3,22.6
+11,"Child Marriage Restraint Act, 1978",1932,1,120,1811,52,93.7,43.3
+12,Other Crime,22850,621,4675,17554,1927,76.8,41.2
+Total,Total,65841,769,11729,53343,4669,81,39.8

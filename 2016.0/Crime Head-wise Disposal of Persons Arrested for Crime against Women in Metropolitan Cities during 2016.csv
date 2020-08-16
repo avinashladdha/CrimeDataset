@@ -1,0 +1,38 @@
+S. No.,Category,Crime Head,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Total
+1,IPC Cases,Dowry Deaths,973,162,1135,687,127,814,211,7,218,283,25,308,9,3,12
+2,IPC Cases,Abetment of Suicides of Women,387,89,476,305,55,360,8,0,8,48,10,58,5,0,5
+3,IPC Cases,Causing Miscarriage Without Womens Consent,76,0,76,46,0,46,0,0,0,0,0,0,0,0,0
+4,IPC Cases,Deaths Caused by Act Done with Intent to Cause Miscarriage,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
+5,IPC Cases,Acid Attack,37,0,37,32,0,32,3,0,3,2,0,2,0,0,0
+6,IPC Cases,Cruelty by Husband or his Relatives,15118,4276,19394,12319,3698,16017,765,144,909,4015,1190,5205,71,16,87
+7,IPC Cases,Kidnapping & Abduction of Women,3727,105,3832,3203,80,3283,180,3,183,540,10,550,8,0,8
+7.1,IPC Cases,Kidnaping & Abduction,975,61,1036,911,46,957,63,1,64,216,7,223,6,0,6
+7.2,IPC Cases,Kidnaping & Abduction in order to Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7.3,IPC Cases,Kidnapping for Ransom,13,0,13,6,0,6,0,0,0,0,0,0,0,0,0
+7.4,IPC Cases,Kidnapping & Abduction of Women to Compel her for Marriage,2439,23,2462,1867,19,1886,79,2,81,224,3,227,1,0,1
+7.5,IPC Cases,Kidnapping & Abduction of Women-Other,300,21,321,419,15,434,38,0,38,100,0,100,1,0,1
+8,IPC Cases,Human Trafficking,70,19,89,64,37,101,6,0,6,8,3,11,2,0,2
+9,IPC Cases,Rape,5369,171,5540,4945,134,5079,387,4,391,1221,21,1242,33,1,34
+9.1,IPC Cases,Rape,5013,163,5176,4694,128,4822,361,3,364,1183,21,1204,33,1,34
+9.2,IPC Cases,Gang Rape,354,8,362,249,6,255,26,1,27,38,0,38,0,0,0
+9.3,IPC Cases,Custodial Rape,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0
+10,IPC Cases,Attempt to Commit Rape,59,0,59,63,0,63,5,0,5,9,0,9,0,0,0
+11,IPC Cases,Unnatural Offences,97,4,101,65,3,68,1,0,1,3,0,3,0,0,0
+12,IPC Cases,Assault on Women with Intent to Outrage her Modesty,11983,440,12423,10137,288,10425,852,9,861,1802,42,1844,97,0,97
+12.1,IPC Cases,Assault on Women,4861,259,5120,4690,169,4859,381,9,390,1108,38,1146,51,0,51
+12.2,IPC Cases,Sexual Harassment,3966,119,4085,3278,83,3361,276,0,276,426,4,430,17,0,17
+12.3,IPC Cases,Assault on Women with Intent to Disrobe,1165,47,1212,760,27,787,65,0,65,77,0,77,11,0,11
+12.4,IPC Cases,Voyeurism,148,4,152,113,4,117,8,0,8,16,0,16,2,0,2
+12.5,IPC Cases,Stalking,1843,11,1854,1296,5,1301,122,0,122,175,0,175,16,0,16
+13,IPC Cases,Insult to the Modesty of Women,1910,60,1970,1800,42,1842,286,2,288,403,3,406,17,0,17
+14,SLL Cases,"Dowry Prohibition Act, 1961",1190,567,1757,1181,624,1805,18,2,20,818,407,1225,0,0,0
+15,SLL Cases,Immoral Traffic (Prevention) Act,1017,485,1502,854,395,1249,217,88,305,132,55,187,0,0,0
+15.1,SLL Cases,Procuring/Inducing a Person for sake of Prostitution (Sec 5),705,224,929,530,163,693,100,33,133,53,37,90,0,0,0
+15.2,SLL Cases,Detaining a Person in Premises where prostitution is carried on(Sec 6),51,10,61,39,9,48,12,7,19,3,0,3,0,0,0
+15.3,SLL Cases,Prostitution in the Vicinity of Public Places(Sec 7),102,17,119,87,16,103,16,5,21,11,6,17,0,0,0
+15.4,SLL Cases,Seducing or Soliciting for Prostitution(Sec 8),57,185,242,54,136,190,15,27,42,7,2,9,0,0,0
+15.5,SLL Cases,Other Sections under ITP Act,102,49,151,144,71,215,74,16,90,58,10,68,0,0,0
+16,SLL Cases,"Protection of Women from Domestic Violence Act, 2005",5,1,6,4,0,4,1,0,1,2,0,2,0,0,0
+17,SLL Cases,Publishing or Transmitting of Sexually Explicit Material (Sec 67A IT Act),89,1,90,63,0,63,3,0,3,2,0,2,0,0,0
+18,SLL Cases,"Indecent Representation of Women (Prohibition) Act, 1986",2,0,2,11,0,11,4,0,4,1,0,1,0,0,0
+Total Crime Against Women,Total Crime Against Women,Total Crime Against Women,42109,6380,48489,35779,5483,41262,2947,259,3206,9291,1766,11057,242,20,262

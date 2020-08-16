@@ -1,0 +1,39 @@
+Category (Col. 1),State/UT (Col. 2),No. of Reported Cases Where the Loss of Property Under - Criminal Breach of Trust Worth Rs. - 1-10 Crore (Col. 3),No. of Reported Cases Where the Loss of Property Under - Criminal Breach of Trust Worth Rs. - 10-25 Crore (Col. 4),No. of Reported Cases Where the Loss of Property Under - Criminal Breach of Trust Worth Rs. - 25-50 Crore (Col. 5),No. of Reported Cases Where the Loss of Property Under - Criminal Breach of Trust Worth Rs. - 50-100 Crore (Col. 6),No. of Reported Cases Where the Loss of Property Under - Criminal Breach of Trust Worth Rs. - Above 100 Crore (Col. 7),No. of Reported Cases Where the Loss of Property Under - Criminal Breach of Trust Worth Rs. - Total (Col. 8),No. of Reported Cases Where the Loss of Property Under - Cheating Worth Rs. - 1-10 Crore (Col. 9),No. of Reported Cases Where the Loss of Property Under - Cheating Worth Rs. - 10-25 Crore (Col. 10),No. of Reported Cases Where the Loss of Property Under - Cheating Worth Rs. - 25-50 crore (Col. 11),No. of Reported Cases Where the Loss of Property Under - Cheating Worth Rs. - 50-100 crore (Col. 12),No. of Reported Cases Where the Loss of Property Under - Cheating Worth Rs. - Above 100 Crore (Col. 13),No. of Reported Cases Where the Loss of Property Under - Cheating Worth Rs. - Total (Col. 14),No. of Reported Cases Where the Loss of Property Under - Grand Total (Col. 15) = Col. (8+14)
+State,Andhra Pradesh,8,2,0,0,0,10,43,12,1,2,0,58,68
+State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Assam,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Bihar,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Chhattisgarh,5,0,0,0,0,5,1,1,0,0,0,2,7
+State,Goa,0,0,0,0,0,0,0,1,1,0,0,2,2
+State,Gujarat,21,0,0,0,0,21,26,1,0,3,0,30,51
+State,Haryana,0,0,0,0,0,0,1,0,0,0,0,1,1
+State,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Jammu & Kashmir,0,0,0,0,0,0,1,0,0,0,0,1,1
+State,Jharkhand,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Karnataka,13,0,1,0,0,14,82,0,0,0,0,82,96
+State,Kerala,6,0,0,1,0,7,4,0,0,0,1,5,18
+State,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Maharashtra,43,4,3,2,0,52,80,6,7,0,2,95,147
+State,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Nagaland,0,0,0,0,0,0,7,0,0,0,0,7,7
+State,Odisha,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Punjab,8,0,0,0,0,8,7,0,0,0,0,7,15
+State,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Tamil Nadu,1,0,0,0,0,1,3,0,0,0,0,3,4
+State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttar Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttarakhand,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,West Bengal,2,0,0,0,0,2,21,4,2,0,0,27,29
+State,Total (States),107,6,4,3,0,120,276,25,11,5,3,320,440
+Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Chandigarh,1,0,0,0,0,1,5,1,1,0,0,7,8
+Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,1,0,0,1,1
+Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Delhi,4,0,0,0,0,4,27,1,0,0,0,28,34
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Total (UTs),5,0,0,0,0,5,32,2,2,0,0,36,41
+Total (All-India),Total (All-India),112,6,4,3,0,125,308,27,13,5,3,356,481

@@ -1,0 +1,14 @@
+Crime Head (Col.1),Total No. Persons under Arrest Including those from Previous Year (Col.2),No. of Persons Whose - Cases Compounded Or Withdrawn (Col.3),No. of Persons Whose - Trial Completed (Col.4),Percentage of Persons - Trial Remained Pending at the end of the year (Col.5),Percentage of Persons - No. of Persons Convicted (Col.6),Whose Trials Remained Pending (Col.7) = (Col.5 ×100 / Col.2),Persons Convicted to Trials Completed (Col.8) = (Col.6 × 100 / Col.4)
+Infanticide (Sec.315 IPC),385,2,69,314,31,81.6,44.9
+"Murder (Sec.302, 303 IPC)",7846,7,1674,6165,719,78.6,43
+Rape (Sec.376 IPC),18447,66,3562,14819,1210,80.3,34
+"Kidnapping .& Abduction (Sec.363-369,371-373 IPC)",17522,54,3043,14425,1019,82.3,33.5
+"Foeticide (Sec.315,316 IPC)",206,1,26,179,4,86.9,15.4
+Abetment of Suicide (Sec.305 IPC),161,1,40,120,9,74.5,22.5
+Exposure And Abandonment (Sec. 317 IPC),1067,3,94,970,12,90.9,12.8
+Procuration Minor Girls (Sec. 366a IPC),833,3,144,686,24,82.4,16.7
+Buying of Girls for Prost. (Sec.373 IPC),154,0,23,131,0,85.1,0
+Seling of Girls for Prost. (Sec.372 IPC),159,0,20,139,1,87.4,5
+"Child Marriage Restraint Act, 1978",2037,15,216,1806,70,88.7,32.4
+Other Crime,24975,482,4588,19905,2030,79.7,44.2
+Total,73792,634,13499,59659,5129,80.8,38

@@ -1,0 +1,40 @@
+S.No,Category,State/UT,Denomination of currency - Rs.1000,Denomination of currency - Rs.500,Denomination of currency - Rs.100,Denomination of currency - Rs.50,Denomination of currency - Others (Indian Currency),Denomination of currency - Foreign Currency (In Rs.),Denomination of currency - Total
+1,State,Andhra Pradesh,0,0,0,0,0,0,0
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0
+3,State,Assam,22000,23500,0,0,0,0,45500
+4,State,Bihar,450000,399500,0,0,0,0,849500
+5,State,Chhattisgarh,0,0,0,0,0,0,0
+6,State,Goa,0,0,0,0,0,0,0
+7,State,Gujarat,0,0,0,0,0,0,0
+8,State,Haryana,0,0,0,0,0,0,0
+9,State,Himachal Pradesh,0,0,0,0,0,0,0
+10,State,Jammu & Kashmir,514000,1223000,13000,0,0,0,1750000
+11,State,Jharkhand,0,1500,0,0,0,0,1500
+12,State,Karnataka,0,7000,0,0,0,0,7000
+13,State,Kerala,0,0,0,0,0,0,0
+14,State,Madhya Pradesh,1000,3000,0,0,0,0,4000
+15,State,Maharashtra,0,0,0,0,0,0,0
+16,State,Manipur,14000,500,1100,50,0,0,15650
+17,State,Meghalaya,1000,0,0,0,0,0,1000
+18,State,Mizoram,0,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,0,0
+20,State,Odisha,0,0,0,0,0,0,0
+21,State,Punjab,0,0,0,0,0,0,0
+22,State,Rajasthan,0,0,0,0,0,0,0
+23,State,Sikkim,0,0,0,0,0,0,0
+24,State,Tamil Nadu,0,0,0,0,0,0,0
+25,State,Telangana,0,0,0,0,0,0,0
+26,State,Tripura,0,0,0,0,0,0,0
+27,State,Uttar Pradesh,108000,78000,23400,0,0,0,209400
+28,State,Uttarakhand,0,0,0,0,0,0,0
+29,State,West Bengal,3916000,2261000,0,0,0,0,6177000
+TOTAL (STATES),State,TOTAL (STATES),5026000,3997000,37500,50,0,0,9060550
+30,UT,A & N Islands,0,0,0,0,0,0,0
+31,UT,Chandigarh,0,0,0,0,0,0,0
+32,UT,D&N Haveli,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0
+34,UT,Delhi UT,0,0,0,0,0,0,0
+35,UT,Lakshadweep,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0,0,0
+TOTAL (UTS),UT,TOTAL (UTS),0,0,0,0,0,0,0
+TOTAL ALL INDIA,TOTAL ALL INDIA,TOTAL ALL INDIA,5026000,3997000,37500,50,0,0,9060550

@@ -1,0 +1,31 @@
+Crime Head (Col. 1),Total No. of Persons under Trial Including those from Previous Year (Col. 2),No of Persons whose - Cases Compounded or Withdrawn (Col. 3),No of Persons whose - Trial Completed (Col. 4),No of Persons whose - Trial Remained Pending (Col. 5),No of Persons Convicted (Col. 6),Percentage of Persons - Whose Trails Remained Pending (col.(5)x 100/ Col(2)} = (Col. 7),Percentage of Persons - Convicted to Trials Completed (col.(6) X100/ Col(4)) = (Col. 8)
+Murder,447669,527,61621,385521,20348,86.1,33
+Attempt to Commit Murder,416222,2094,60073,354055,17505,85.1,29.1
+C.H. not Amounting to Murder,39912,83,6197,33632,2003,84.3,32.3
+Rape - Total,96340,220,16160,79960,4267,83,26.4
+Rape - i) Custodial Rape,27,0,3,24,0,88.9,0
+Rape - ii) Other Rape,96313,220,16157,79936,4267,83,26.4
+Kidnapping & Abduction - Total,148663,782,21034,126847,5807,85.3,27.6
+Kidnapping & Abduction - i) of Women & Girls,96010,596,13509,81905,3535,85.3,26.2
+Kidnapping & Abduction - ii) of Others,52653,186,7525,44942,2272,85.4,30.2
+Dacoity,169182,172,20445,148565,4382,87.8,21.4
+Preparation & Assembly for Dacoity,33037,76,4227,28734,1061,87,25.1
+Robbery,173933,305,21689,151939,6183,87.4,28.5
+Burglary,403980,2323,52793,348864,16085,86.4,30.5
+Theft - Total,892103,6091,118119,767893,40763,86.1,34.5
+Theft - i) Auto Theft,111563,270,16016,95277,6415,85.4,40.1
+Theft - ii) Other Theft,780540,5821,102103,672616,34348,86.2,33.6
+Riots,2685597,57631,373917,2254049,73863,83.9,19.8
+Criminal Breach of Trust,103007,630,9862,92515,2725,89.8,27.6
+Cheating,201324,2164,21229,177931,6048,88.4,28.5
+Counterfeiting,7543,16,939,6588,271,87.3,28.9
+Arson,67839,907,10620,56312,2141,83,20.2
+Hurt,1853194,113375,274876,1464943,79728,79,29
+Dowry Death,77262,703,14401,62158,4691,80.5,32.6
+Molestation,170900,7920,26226,136754,8076,80,30.8
+Sexual Harassment,36038,852,9485,25701,5666,71.3,59.7
+Cruelty by Husband and Relatives,440792,10330,63614,366848,12916,83.2,20.3
+Importation of Girls,313,0,95,218,34,69.6,35.8
+Causing Death by Negligence,169011,1855,28892,138264,13652,81.8,47.3
+Other IPC Crimes,4045370,152833,693741,3198796,315832,79.1,45.5
+Total Cognizable Crimes under IPC,12679231,361889,1910255,10407087,644047,82.1,33.7

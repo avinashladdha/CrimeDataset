@@ -1,0 +1,40 @@
+S. No.,Category,State/UT,Murder (Section 302 IPC),Rape (Section 376 IPC),Unnatural Offences (Section 377 IPC),Cheating (Section 420 IPC),"Forgery (Section 467, 468 and 471 IPC)","Narcotic Drugs & Psychotropic Substances Act, 1985","Passport Act, 1967","Registration of Foreigners Act, 1939","Foreigner Act, 1946","Arms Act, 1959","Explosives and Explosive Substances Act, 1884 & 1908","Copy Right Act, 1957","Information Technology Act, 2000","Unlawful Activities (Prevention) Act, 1967","Counterfeiting currency notes or Bank notes (Section 489A,489B,489C & 489D IPC)",Foreigners Arrested under Other Crimes,Total Foreigners Arrested
+1,State,Andhra Pradesh,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,1,4
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,8
+3,State,Assam,0,0,0,0,0,0,0,11,1,0,0,0,0,0,0,0,12
+4,State,Bihar,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,1,6
+5,State,Chhattisgarh,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2
+6,State,Goa,0,1,0,1,0,28,0,0,14,1,0,0,0,0,0,24,69
+7,State,Gujarat,1,0,0,0,1,0,0,0,3,0,0,0,1,0,0,0,6
+8,State,Haryana,0,6,0,1,0,8,0,0,12,0,0,0,2,0,0,8,37
+9,State,Himachal Pradesh,0,0,0,0,0,6,0,0,3,0,0,0,0,0,0,2,11
+10,State,Jammu & Kashmir,1,0,0,0,0,0,0,12,5,0,0,0,0,0,0,0,18
+11,State,Jharkhand,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,4
+12,State,Karnataka,1,1,0,20,4,9,14,1,30,4,0,0,0,0,0,18,102
+13,State,Kerala,0,0,0,0,1,0,0,6,2,0,0,0,0,0,0,0,9
+14,State,Madhya Pradesh,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2
+15,State,Maharashtra,0,0,3,15,8,23,87,0,6,8,0,0,0,0,0,26,176
+16,State,Manipur,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+17,State,Meghalaya,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,46
+18,State,Mizoram,0,0,0,0,0,34,0,0,11,1,1,0,0,0,0,5,52
+19,State,Nagaland,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+20,State,Odisha,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,3
+21,State,Punjab,0,0,0,3,0,1,3,0,6,0,0,0,0,0,0,9,22
+22,State,Rajasthan,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,3
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,0,0,0,0,0,0,24,14,0,0,0,0,0,0,0,31,69
+25,State,Telangana,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,1,6
+26,State,Tripura,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,11
+27,State,Uttar Pradesh,0,0,0,0,0,3,0,0,6,0,0,0,0,0,0,0,9
+28,State,Uttarakhand,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,5
+29,State,West Bengal,0,0,0,0,1,0,0,0,1180,0,0,0,0,0,1,3,1185
+TOTAL (STATES),State,TOTAL (STATES),3,8,3,42,19,112,143,57,1335,14,1,0,4,0,1,137,1879
+30,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,UT,Chandigarh,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,3,10
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,UT,Delhi UT,3,6,0,7,54,11,0,0,32,10,0,0,0,0,0,45,168
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOTAL (UTS),UT,TOTAL (UTS),3,6,0,7,54,16,0,2,32,10,0,0,0,0,0,48,178
+TOTAL ALL INDIA,TOTAL ALL INDIA,TOTAL ALL INDIA,6,14,3,49,73,128,143,59,1367,24,1,0,4,0,1,185,2057

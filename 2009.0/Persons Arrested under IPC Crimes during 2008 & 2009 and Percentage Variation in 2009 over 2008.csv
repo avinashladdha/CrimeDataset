@@ -1,0 +1,31 @@
+Crime Head,2008,2009,Percentage Variation in 2009 Over 2008,Percentage Share of Arrestees Under Each Crime During 2009
+1 . Murder (sec 302 Ipc),61455,62665,2,2.2
+2 . Attempt To Commit Murder (sec 307 Ipc),66467,64185,-3.4,2.3
+"3 . C.h. Not Amounting Murder (sec 304, 308 Ipc)",6684,6479,-3.1,0.2
+4 . Rape (sec 376 Ipc) - Total,25036,25845,3.2,0.9
+4 . Rape (sec 376 Ipc) - Custodial Rape,0,7,NA,0
+4 . Rape (sec 376 Ipc) - Other Rape,25036,25838,3.2,0.9
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Total",38181,41753,9.4,1.5
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - I) Of Women & Girls",27208,30526,12.2,1.1
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Ii) Of Others",10973,11227,2.3,0.4
+6 . Dacoity (sec 395 - 398 Ipc),17810,17506,-1.7,0.6
+7 . Preparation & Assembly For Dacoity (sec 399-402 Ipc),12494,11065,-11.4,0.4
+"8 . Robbery (sec 392-394, 397, 398 Ipc)",31684,33259,5,1.2
+"9 . Burglary (sec. 449-452,454,455,457-460 Ipc)",67836,68455,0.9,2.4
+10 . Theft (sec 379 - 382 Ipc) - Total,208311,194348,-6.7,6.8
+10 . Theft (sec 379 - 382 Ipc) - I) Auto Theft,47566,53908,13.3,1.9
+10 . Theft (sec 379 - 382 Ipc) - Ii) Other Theft,160745,140440,-12.6,4.9
+"11 . Riots (sec 143-145, 147-151, 153, 153a., 153b, 157, 158, 160 Ipc)",332934,303602,-8.8,10.7
+12 . Criminal Breach Of Trust(sec.406-409 Ipc),19895,19595,-1.5,0.7
+"13 . Cheating (sec 419, 420 Ipc)",65080,67836,4.2,2.4
+"14 . Counterfeiting (sec.231-254,489a-489d)",2676,3007,12.4,0.1
+"15 . Arson (sec 435, 436, 438 Ipc)",11430,11486,0.5,0.4
+"16 . Hurt (sec 323-333, 335-338 Ipc)",502137,493365,-1.7,17.3
+17 . Dowry Deaths (section 304b Ipc),22624,23374,3.3,0.8
+18 . Molestation (section 354 Ipc),48835,47856,-2,1.7
+19 . Sexual Harassment (sec 509 Ipc),14943,14368,-3.8,0.5
+20 . Cruelty By Husband And Relatives (sec 498a Ipc),164861,174395,5.8,6.1
+21 . Importation Of Girls (sec 366b Ipc),125,49,-60.8,0
+22 . Causing Death By Negligence (sec 304a Ipc),77524,82230,6.1,2.9
+23 . Other Ipc Crimes,1083264,1082302,-0.1,38
+24 . Total Cognizable Crimes Under Ipc,2882286,2849025,-1.2,100

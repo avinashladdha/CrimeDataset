@@ -1,0 +1,49 @@
+SL. No.,Category,States/UTs/Cities,Boys,Girls,Total
+1,State,Andhra Pradesh,2181,109,2290
+2,State,Arunachal Pradesh,122,3,125
+3,State,Assam,3196,106,3302
+4,State,Bihar,4219,74,4293
+5,State,Goa,524,110,634
+6,State,Gujarat,13086,737,13823
+7,State,Haryana,2295,46,2341
+8,State,Himachal Pradesh,887,115,1002
+9,State,Jammu & Kashmir,714,68,782
+10,State,Karnataka,1812,98,1910
+11,State,Kerala,674,7,681
+12,State,Madhya Pradesh,10138,408,10546
+13,State,Maharashtra,22588,1814,24402
+14,State,Manipur,537,216,753
+15,State,Meghalaya,81,NA,81
+16,State,Mizoram,143,9,152
+17,State,Nagaland,244,NA,244
+18,State,Orissa,452,3,455
+19,State,Punjab,206,NA,206
+20,State,Rajasthan,3632,165,3797
+21,State,Sikkim,32,2,34
+22,State,Tamil Nadu,2460,243,2703
+23,State,Tripura,262,45,307
+24,State,Uttar Pradesh,93,NA,93
+25,State,West Bengal,1598,67,1665
+Total (States),State,Total (States),72176,4445,76621
+26,UT,A & N Islands,54,3,57
+27,UT,Chandigarh,251,36,287
+28,UT,D & N Haveli,83,5,88
+29,UT,Daman & Diu,1,NA,1
+30,UT,Delhi,2933,316,3249
+31,UT,Lakshadweep,2,NA,2
+32,UT,Pondicherry,87,15,102
+Total (UTs),UT,Total (UTs),3411,375,3786
+Total (All India),Total (All India),Total (All India),75587,4820,80407
+1,City,Ahmedabad,2602,146,2748
+2,City,Bangalore,395,2,397
+3,City,Bombay,938,70,1008
+4,City,Calcutta,25,5,30
+5,City,Delhi,2505,246,2751
+6,City,Hyderabad,61,NA,61
+7,City,Jaipur,899,49,948
+8,City,Kanpur,109,NA,109
+9,City,Lucknow,79,5,84
+10,City,Madras,394,32,426
+11,City,Nagpur,1329,8,1337
+12,City,Pune,2154,352,2506
+Total (Cities),City,Total (Cities),11490,915,12405

@@ -1,0 +1,39 @@
+Sr. No. (Col. 1),Category (Col. 2),States/ UTs (Col. 3),Total No. of Cases for Trial Including Pending Cases from Previous Year (Col. 4),Cases Withdrawn by Govt. (Col. 5),No. of Cases - Compounded or Withdrawn (Col. 6),No. of Cases in which Trials Completed - Convicted (Col. 7),No. of Cases in which Trials Completed - Acquitted or Discharged (Col. 8),No. of Cases in which Trials Completed - Total {(Col.7)+(Col.8))} = (Col. 9),No. of Cases - Pending Trial at the end of the Year (Col. 10),Pendency Percentage (Col. 11),Percentage of Pendency to All India Total (Col. 12),Conviction Rate{(Col.7)/ (Col.9)× 100} = (Col. 13)
+1,State,Andhra Pradesh,6184,0,71,238,1615,1853,4260,68.9,5,12.8
+2,State,Arunachal Pradesh,2,0,0,0,0,0,2,100,0,0
+3,State,Assam,156,0,0,1,25,26,130,83.3,0.2,3.8
+4,State,Bihar,8641,0,62,216,1647,1863,6716,77.7,7.8,11.6
+5,State,Chhattisgarh,1719,0,4,94,233,327,1388,80.7,1.6,28.7
+6,State,Goa,6,0,0,0,0,0,6,100,0,0
+7,State,Gujarat,8547,0,17,43,641,684,7846,91.8,9.2,6.3
+8,State,Haryana,853,0,2,50,225,275,576,67.5,0.7,18.2
+9,State,Himachal Pradesh,234,0,18,12,50,62,154,65.8,0.2,19.4
+10,State,Jammu & Kashmir,7,0,0,1,1,2,5,71.4,0,50
+11,State,Jharkhand,1055,0,2,95,278,373,680,64.5,0.8,25.5
+12,State,Karnataka,6927,3,11,32,1558,1590,5326,76.9,6.2,2
+13,State,Kerala,1255,0,4,28,256,284,967,77.1,1.1,9.9
+14,State,Madhya Pradesh,12848,0,161,1014,1602,2616,10071,78.4,11.8,38.8
+15,State,Maharashtra,6881,5,5,53,767,820,6056,88,7.1,6.5
+16,State,Manipur,0,0,0,0,0,0,0,0,0,0
+17,State,Meghalaya,0,0,0,0,0,0,0,0,0,0
+18,State,Mizoram,0,0,0,0,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0
+20,State,Odisha,6586,0,0,52,668,720,5866,89.1,6.8,7.2
+21,State,Punjab,343,0,0,8,70,78,265,77.3,0.3,10.3
+22,State,Rajasthan,10586,0,103,638,837,1475,9008,85.1,10.5,43.3
+23,State,Sikkim,22,0,0,10,3,13,9,40.9,0,76.9
+24,State,Tamil Nadu,3366,0,1,102,715,817,2548,75.7,3,12.5
+25,State,Tripura,11,0,0,4,6,10,1,9.1,0,40
+26,State,Uttar Pradesh,29839,0,338,3217,2898,6115,23386,78.4,27.3,52.6
+27,State,Uttarakhand,263,0,4,26,30,56,203,77.2,0.2,46.4
+28,State,West Bengal,26,0,0,0,2,2,24,92.3,0,0
+State,State,Total (States),106357,8,803,5934,14127,20061,85493,80.4,99.8,29.6
+29,Union Territory,Andaman & Nicobar Islands,0,0,0,0,0,0,0,0,0,0
+30,Union Territory,Chandigarh,3,0,0,0,0,0,3,100,0,0
+31,Union Territory,Dadra Nagar Haveli,5,0,0,0,0,0,5,100,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,104,0,0,0,3,3,101,97.1,0.1,0
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0
+35,Union Territory,Pondicherry,53,0,0,0,13,13,40,75.5,0,0
+Union Territory,Union Territory,Total (UTs),165,0,0,0,16,16,149,90.3,0.2,0
+Total (All-India),Total (All-India),Total (All-India),106522,8,803,5934,14143,20077,85642,80.4,100,29.6

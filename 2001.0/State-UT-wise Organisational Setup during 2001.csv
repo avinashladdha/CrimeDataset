@@ -1,0 +1,39 @@
+Category,States/UTs,Number of Zones,Number of Ranges,Number of Police Districts,Number of Sub Divisions,Number of Circles,Number of Rural Police Stations,Number of Urban Police Stations,Number of Women Police Stations
+State,Andhra Pradesh,12,9,30,145,488,1207,360,25
+State,Arunachal Pradesh,1,2,13,2,17,52,15,0
+State,Assam,0,5,25,25,49,124,103,1
+State,Bihar,6,11,41,108,196,606,146,0
+State,Chhattisgarh,381,902,17,32,3,159,243,33
+State,Goa,0,0,2,7,0,8,16,1
+State,Gujarat,13,7,23,94,86,388,75,6
+State,Haryana,1,5,18,43,11,153,51,3
+State,Himachal Pradesh,0,3,12,16,0,57,27,0
+State,Jammu & Kashmir,2,6,20,45,0,128,41,3
+State,Jharkhand,NA,NA,NA,NA,NA,NA,NA,NA
+State,Karnataka,12,8,25,118,234,460,317,243
+State,Kerala,2,4,17,49,166,376,62,3
+State,Madhya Pradesh,0,11,48,145,0,608,306,9
+State,Maharashtra,32,5,78,211,4,585,342,0
+State,Manipur,2,4,9,21,0,42,13,1
+State,Meghalaya,0,2,7,10,16,12,15,0
+State,Mizoram,NA,NA,NA,NA,NA,NA,NA,NA
+State,Nagaland,1,4,9,22,15,29,15,0
+State,Orissa,0,7,34,43,90,280,167,7
+State,Punjab,2,5,18,84,47,150,106,4
+State,Rajasthan,0,8,37,0,171,386,323,12
+State,Sikkim,0,0,0,9,0,12,14,0
+State,Tamil Nadu,4,12,38,189,287,811,621,107
+State,Tripura,1,2,4,20,19,33,15,0
+State,Uttar Pradesh,7,17,70,304,376,1104,339,11
+State,Uttaranchal,0,2,13,52,31,61,33,2
+State,West Bengal,4,8,25,78,115,252,198,0
+State,Total (States),483,1049,633,1872,2421,8083,3963,471
+Union Territory,A & N Islands,0,0,2,4,4,13,2,0
+Union Territory,Chandigarh,0,0,0,3,0,0,11,0
+Union Territory,D & N Haveli,0,0,2,1,0,1,1,0
+Union Territory,Daman & Diu,NA,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Delhi,0,3,9,38,0,0,123,0
+Union Territory,Lakshadweep,0,0,1,1,1,9,0,0
+Union Territory,Pondicherry,1,1,1,5,11,18,19,1
+Union Territory,Total (UTs),1,4,15,52,16,41,156,1
+Total (All-India),Total (All-India),484,1053,648,1924,2437,8124,4119,472

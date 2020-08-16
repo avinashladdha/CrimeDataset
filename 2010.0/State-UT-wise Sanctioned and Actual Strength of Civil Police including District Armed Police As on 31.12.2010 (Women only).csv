@@ -1,0 +1,39 @@
+Sr. No.,Category,States/ UTs,DG/ Addl.DG / IG / DIG - Sanctioned,DG/ Addl.DG / IG / DIG - Actual,SSP/SP/Addl.SP/ ASP/ Dy.SP - Sanctioned,SSP/SP/Addl.SP/ ASP/ Dy.SP - Actual,"Inspector, SI & A.S.I. - Sanctioned","Inspector, SI & A.S.I. - Actual",Personnel Below A.S.I. Rank - Sanctioned,Personnel Below A.S.I. Rank - Actual,Grand Total - Sanctioned,Grand Total - Actual
+1,State,Andhra Pradesh,6,11,9,5,103,103,1890,1893,2008,2012
+2,State,Arunachal Pradesh,0,0,0,0,15,13,52,460,67,473
+3,State,Assam,0,0,0,0,22,22,310,164,332,186
+4,State,Bihar,0,3,0,16,4,141,101,994,105,1154
+5,State,Chhattisgarh,0,0,16,30,89,119,1012,1731,1117,1880
+6,State,Goa,0,1,0,2,4,20,211,310,215,333
+7,State,Gujarat,0,2,22,8,479,315,2734,1357,3235,1682
+8,State,Haryana,0,0,0,0,323,169,2720,1749,3043,1918
+9,State,Himachal Pradesh,0,1,0,6,3,36,137,568,140,611
+10,State,Jammu & Kashmir $$,0,1,0,10,0,131,0,922,0,1064
+11,State,Jharkhand *,0,4,0,7,0,94,0,1380,0,1485
+12,State,Karnataka,0,NA,0,NA,0,NA,0,NA,0,NA
+13,State,Kerala,0,0,1,1,95,95,2679,2643,2775,2739
+14,State,Madhya Pradesh,5,7,60,61,196,289,1509,1850,1770,2207
+15,State,Maharashtra@,0,5,0,49,0,293,0,11671,0,12018
+16,State,Manipur,0,0,0,0,357,156,2008,450,2365,606
+17,State,Meghalaya,0,0,0,4,3,18,41,64,44,86
+18,State,Mizoram #,0,0,8,8,223,223,306,306,537,537
+19,State,Nagaland,0,0,2,1,6,8,87,57,95,66
+20,State,Odisha,5,5,16,16,467,467,2793,2793,3281,3281
+21,State,Punjab,0,0,0,0,0,190,0,2144,0,2334
+22,State,Rajasthan,2,0,35,0,116,156,1840,3507,1993,3663
+23,State,Sikkim,0,0,0,9,0,26,0,148,0,183
+24,State,Tamil Nadu,6,6,109,109,1631,1631,11794,8935,13540,10681
+25,State,Tripura,0,0,3,6,127,87,805,608,935,701
+26,State,Uttar Pradesh,4,4,67,67,338,330,2084,2005,2493,2406
+27,State,Uttarakhand,0,0,0,19,8,80,695,1203,703,1302
+28,State,West Bengal,0,1,1,10,387,318,2031,2005,2419,2334
+State,State,Total (States),28,51,349,444,4996,5530,37839,51917,43212,57942
+29,Union Territory,A & N Islands,0,0,0,0,1,20,18,254,19,274
+30,Union Territory,Chandigarh,0,0,0,0,0,37,0,429,0,466
+31,Union Territory,D & N Haveli,0,0,0,0,2,2,7,7,9,9
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,0,2,1,26,645,548,4003,3980,4649,4556
+34,Union Territory,Lakshadweep,0,0,0,0,1,0,7,16,8,16
+35,Union Territory,Puducherry,0,0,0,1,5,5,76,79,81,85
+Union Territory,Union Territory,Total (UTs),0,2,1,27,654,612,4111,4765,4766,5406
+Total (All-India),Total (All-India),Total (All-India),28,53,350,471,5650,6142,41950,56682,47978,63348

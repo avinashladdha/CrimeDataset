@@ -1,0 +1,25 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Percentage of Cases to Total Cases for Investigation in which - Investigation was Refused (Col. 3),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Charge Found False/ Mistake of Fact or of Law etc. (Col. 4),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Final Report True Submitted (Col. 5),Percentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Chargesheets were Laid (Col. 6),Total - Investigation was Completed - (Col. 4+5+6) (Col. 7),Percentage of Cases Pending Investigation  (Col. 8),Chargesheeting Rate (Col. 9)
+1,Murder,0.2,2,13.8,49.7,65.5,34.3,78.3
+2,Attempt to Commit Murder,0.1,3.2,10.1,59.9,73.2,26.7,85.5
+3,C.H. Not Amounting To Murder,0,2.2,12.7,49.6,64.5,35.5,79.7
+4,Rape,0.1,4.8,6.3,61.7,72.8,27.1,90.8
+5,Kidnapping & Abduction,0.4,15.3,13.9,36.3,65.5,34.1,72.3
+5,I)of Women & Girls,0.5,17.3,13.2,36.5,67.1,32.4,73.5
+5,II)of Others,0.2,11,15.4,35.7,62.1,37.7,69.9
+6,Dacoity,0.1,3.2,23.7,27.1,54,45.9,53.4
+7,Preparation & Assembly for Dacoity,0,0.1,5.3,56.9,62.3,37.7,91.5
+8,Robbery,0.2,7.1,27.4,34.8,69.2,30.6,55.9
+9,Burglary,0.3,3.6,46.5,26.5,76.7,23,36.3
+10,Theft,0.4,3.8,45.2,29.3,78.2,21.4,39.3
+11,Riots,0.2,9.4,8.6,59.3,77.4,22.4,87.3
+12,Criminal Breach of Trust,0.6,8.9,16.1,32.7,57.8,41.6,67
+13,Cheating,1.1,14.1,15.5,30.9,60.5,38.4,66.6
+14,Counterfeiting,1.9,1.5,37.3,8.4,47.2,50.9,18.3
+15,Arson,0.8,10.8,24.5,40.5,75.8,23.4,62.3
+16,Hurt/ Grievous Hurt,0.2,3.9,4.3,77.3,85.4,14.4,94.8
+17,Dowry Death,1.3,4.4,3.6,69.3,77.3,21.4,95.1
+18,Molestation,0.2,5.1,3.3,79.8,88.3,11.5,96
+19,Sexual Harassment,0,1.1,2.6,92,95.7,4.3,97.3
+20,Cruelty by Husband and Relatives,0.2,8.4,4.5,72.3,85.3,14.6,94.1
+21,Other IPC Crimes,0.6,5.2,10.1,65.3,80.6,18.8,86.6
+22,Total Cognizable Crimes Under IPC,0.4,5.3,18.8,54.2,78.3,21.3,74.3

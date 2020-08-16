@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts./Cities,Juveniles Sent to Courts,Restored to Guardian,On Probation,Sent to Reformatories/Borstals,Sent to Schools and Institutions,Sent to Adult InstitutionS,Imprisoned,Acquitted or Otherwise Disposed of,Pending Disposal
+1,State,Andhra Pradesh,6472,1310,NA,NA,60,350,135,488,4129
+2,State,Arunachal Pradesh,114,5,NA,NA,NA,NA,1,10,98
+3,State,Assam,2193,6,4,NA,NA,NA,127,373,1683
+4,State,Bihar,1187,81,98,127,41,60,67,201,512
+5,State,Gujarat,28561,NA,63,12,NA,NA,4506,7624,16356
+6,State,Haryana,3743,NA,NA,181,NA,NA,742,275,2545
+7,State,Himachal Pradesh,1172,2,NA,NA,NA,9,35,107,1019
+8,State,Jammu & Kashmir,1625,NA,NA,NA,2,NA,NA,310,1313
+9,State,Karnataka,2490,83,4,2,18,11,605,166,1601
+10,State,Kerala,552,NA,NA,NA,1,5,44,167,335
+11,State,Madhya Pradesh,20108,317,2,1,NA,20,1497,1846,16425
+12,State,Maharashtra,39540,2120,30,333,378,3336,7560,2654,23129
+13,State,Manipur,813,3,NA,NA,NA,NA,NA,275,535
+14,State,Meghalaya,68,3,4,NA,NA,NA,21,NA,40
+15,State,Mizoram,569,NA,14,NA,NA,NA,454,24,77
+16,State,Nagaland,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,State,Orissa,555,9,27,NA,NA,NA,163,100,256
+18,State,Punjab,632,NA,234,23,NA,18,142,179,36
+19,State,Rajasthan,3489,7,672,21,NA,NA,180,190,2419
+20,State,Sikkim,114,3,4,NA,NA,NA,2,5,100
+21,State,Tamil Nadu,30487,6678,250,51,256,200,5955,6598,10499
+22,State,Tripura,130,15,11,NA,NA,NA,3,58,43
+23,State,Uttar Pradesh,541,306,183,NA,NA,30,NA,22,NA
+24,State,West Bengal,1832,2,6,14,NA,NA,338,348,1124
+Total (States),State,Total (States),146987,10950,1606,765,756,4039,22577,22020,84274
+25,UT,A & N Islands,23,NA,NA,NA,NA,NA,14,8,1
+26,UT,Chandigarh,165,NA,11,NA,NA,NA,13,112,29
+27,UT,D & N Haveli,2,NA,1,NA,NA,NA,NA,NA,1
+28,UT,Delhi,4698,14,30,10,11,NA,598,402,3633
+29,UT,"Goa, Daman & Diu",822,81,29,NA,10,NA,44,92,566
+30,UT,Lakshadweep,6,6,NA,NA,NA,NA,NA,NA,NA
+31,UT,Pondicherry,1696,NA,NA,NA,NA,NA,1379,131,186
+Total (UTs),UT,Total (UTs),7412,101,71,10,21,NA,2048,745,4416
+All India,All India,All India,154399,11051,1677,775,777,4039,24625,22765,88690
+1,City,Ahmedabad,6545,49,44,NA,NA,NA,1563,344,4545
+2,City,Bangalore,560,60,NA,NA,NA,4,99,180,217
+3,City,Bombay,2458,825,NA,2,3,3,424,311,890
+4,City,Calcutta,34,NA,6,NA,NA,NA,10,12,6
+5,City,Delhi,4394,11,24,7,9,NA,547,323,3473
+6,City,Hyderabad,5383,42,53,10,2,NA,4829,306,141
+7,City,Jaipur,914,7,663,21,NA,NA,97,107,19
+8,City,Kanpur,28,17,8,NA,NA,1,NA,2,NA
+9,City,Lucknow,36,20,9,NA,NA,3,NA,4,NA
+10,City,Madras,12773,1240,3,4,69,81,4734,310,6332
+11,City,Nagpur,2294,NA,NA,NA,266,231,238,184,1375
+12,City,Pune,4498,1,NA,NA,67,3062,158,370,840
+Total (Cities),City,Total (Cities),39917,2272,810,44,416,3385,12699,2453,17838

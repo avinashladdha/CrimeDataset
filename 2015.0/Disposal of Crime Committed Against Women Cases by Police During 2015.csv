@@ -1,0 +1,41 @@
+CRIME HEAD (Col.1),Cases Pending Investigation from Previous Year (Col.2),Cases Reported During the Year (Col.3),No. of Cases Withdrawn by the Govt. During Investigation (Col.4),Cases Transferred to other Police Station/ Magistrate (Col.5),Cases Not Investigated U/S 157(1)(b) of Cr.PC (Col.6),Total Cases for Investigation (Col.7) = (Col. 2+3-4-5-6) ,Cases Ended as Final Report False (Col.8),Cases Ended as Mistake of Fact or of Law (Col.9),Cases in Ended as Final Report as Non Cognizable Submitted During the Year (Col.10),Cases in Which Charge-sheets were Submitted (Col.11),Cases in Which Charge-sheets were not laid but Final Report as True submitted (Col.12),Total Cases Disposed of by Police (Col.13) = (Col.8+9+10+11+12),Cases Pending Investigation at the End of the Year (Col.14) = (col. 7 - col. 13) ,Charge-Sheeting Rate (Col.15) = {Col.11/(Col.11+Col.12)} x 100,Pendency Percentage (Col.16) = {Col.14/(Col.2+Col.3)} X 100
+1 Rape,16028,34651,14,152,4,50509,2624,505,30,30001,1231,34391,16118,96.1,31.8
+1.1 Custodial Rape,23,95,0,0,0,118,3,1,0,89,3,96,22,96.7,18.6
+1.1.1 Custodial_Gang Rape,1,4,0,0,0,5,0,0,0,2,0,2,3,100,60
+1.1.2 Custodial_Other Rape,22,91,0,0,0,113,3,1,0,87,3,94,19,96.7,16.8
+1.2 Rape other than Custodial,16005,34556,14,152,4,50391,2621,504,30,29912,1228,34295,16096,96.1,31.8
+1.2.1 Rape_Gang Rape,553,2113,0,8,0,2658,318,35,1,1521,86,1961,697,94.6,26.1
+1.2.2 Rape_Others,15452,32443,14,144,4,47733,2303,469,29,28391,1142,32334,15399,96.1,32.2
+2 Attempt to Commit Rape,1300,4437,0,11,0,5726,378,68,13,3174,289,3922,1804,91.7,31.4
+3 Kidnapping & Abduction of Women,35531,59277,17,126,7,94658,8765,7855,446,27206,11451,55723,38935,70.4,41.1
+3.1 Kidnaping & Abduction,10212,18101,2,43,6,28262,3518,2901,99,6448,3343,16309,11953,65.9,42.2
+3.2 Kidnaping & Abduction in Order to Murder,65,117,0,0,0,182,17,8,0,78,24,127,55,76.5,30.2
+3.3 Kidnapping for Ransom,90,98,0,1,0,187,8,2,0,48,10,68,119,82.8,63.3
+3.4 Kidnapping & Abduction of Women to Compel her for Marriage,19621,31778,15,54,1,51329,3341,4078,227,16249,6992,30887,20442,69.9,39.8
+3.5 Kidnapping & Abduction of Women-Other,5543,9183,0,28,0,14698,1881,866,120,4383,1082,8332,6366,80.2,43.2
+4 Dowry Deaths,4673,7634,0,6,1,12300,207,222,24,7150,477,8080,4220,93.7,34.3
+5 Assault on Women with intent to Outrage her Modesty,24780,82422,12,81,5,107104,4583,1025,182,66887,4252,76929,30175,94,28.1
+5.1 Sexual Harassment,5279,24041,3,20,1,29296,1011,234,38,19411,1131,21825,7471,94.5,25.5
+5.2 Assault on Women with Intent to Disrobe,1760,8613,1,5,0,10367,346,117,13,6476,913,7865,2502,87.6,24.1
+5.3 Voyeurism,311,838,0,2,0,1147,34,5,0,718,50,807,340,93.5,29.6
+5.4 Stalking,1294,6266,0,8,2,7550,209,31,3,4487,209,4939,2611,95.5,34.5
+5.5 Others,16136,42664,8,46,2,58744,2983,638,128,35795,1949,41493,17251,94.8,29.3
+6 Insult to the Modesty of Women,3885,8685,1,12,1,12556,337,91,11,7019,476,7934,4622,93.6,36.8
+6.1 At Office Premises,27,119,0,1,0,145,2,0,0,64,9,75,70,87.7,47.9
+6.2 In Places Related to Work,233,714,0,2,0,945,15,10,1,468,35,529,416,93,43.9
+6.3 In Public Transport System,22,315,0,1,0,336,8,3,0,252,22,285,51,92,15.1
+6.4 in Other Places,3603,7537,1,8,1,11130,312,78,10,6235,410,7045,4085,93.8,36.7
+7 Cruelty by Husband or His Relatives,50933,113403,76,345,3,163912,7458,3314,438,90971,9926,112107,51805,90.2,31.5
+8 Importation of Girls from Foreign Country,24,6,0,0,0,30,1,0,0,9,3,13,17,75,56.7
+9 Abetment of Suicides of Women,1669,4060,1,6,3,5719,137,77,7,3190,80,3491,2228,97.6,38.9
+"10 Dowry Prohibition Act, 1961",5153,9894,0,94,0,14953,361,293,32,7162,1015,8863,6090,87.6,40.5
+"11 Indecent Representation of Women (Prohibition) Act, 1986",39,40,0,1,0,78,0,0,1,32,4,37,41,88.9,51.9
+12 Commission of Sati Prevention Act 1987,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+"13 Protection of Women from Domestic Violence Act, 2005",108,461,0,0,0,569,10,6,0,418,9,443,126,97.9,22.1
+14 Immoral Traffic (Prevention) Act,791,2424,0,2,0,3213,4,4,0,2122,15,2145,1068,99.3,33.2
+14.1 Under Section 5,264,1193,0,2,0,1455,2,3,0,969,7,981,474,99.3,32.5
+14.2 Under Section 6,17,79,0,0,0,96,0,0,0,60,1,61,35,98.4,36.5
+14.3 Under Section 7,38,176,0,0,0,214,0,0,0,163,0,163,51,100,23.8
+14.4 Under Section 8,13,288,0,0,0,301,0,0,0,222,1,223,78,99.6,25.9
+14.5 Other Sections under ITP Act,459,688,0,0,0,1147,2,1,0,708,6,717,430,99.2,37.5
+Total Crimes against Women,144914,327394,121,836,24,471327,24865,13460,1184,245341,29228,314078,157249,89.4,33.3

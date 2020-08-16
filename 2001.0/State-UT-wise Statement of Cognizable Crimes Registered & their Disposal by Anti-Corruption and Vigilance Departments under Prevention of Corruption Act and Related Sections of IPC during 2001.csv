@@ -1,0 +1,39 @@
+Category,States/UTs,Pending Investigation from Previous Year,Cases Regd. during the Year,Total Cases for Investigation,Cases Investigated,Cases not Investigated or Investigation Dropped,Cases Transferred to Local Police,Cases Declared False Etc. during Year,Cases Chargesheeted,Cases Pending for Dept. Sanction for Prosecution,Cases Sent Up for Trial and also Reported for Dept. Action,Cases Reported for Regular Departmental Action,Cases Reported for Suitable Action,Cases in which Chargesheet not Laid but Final Report Submitted,Cases Pending Investigation at the End of Year,Cases Resulted in Recovery or Seizure,Value of Property Recovered/ Seized (in Rs.'000),Percentage of Cases Chargesheeted to Total Cases Investigated,Cases Pending Trial from the Previous Year,Cases Sent Up for Trial during the Year,Total Cases for Trial,Cases Withdrawn/ Discharged or Otherwise Disposed of,Trials Completed during the Year,Cases Convicted,Cases Acquitted or Discharged,Pending Trial at the end of the Year,Percentage of Cases Convicted to Trials Completed,Total Amount of Fine Imposed during the Year (in Rs.'000)
+State,Andhra Pradesh,285,226,511,209,14,1,0,150,13,1,40,0,47,302,154,439.8,71.8,526,150,676,5,41,21,20,630,51.2,121.3
+State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Assam,31,17,48,48,0,0,1,8,16,8,0,0,1,39,0,0,16.7,22,8,30,0,1,0,1,29,0,0
+State,Bihar,232,17,249,249,0,0,0,17,36,18,0,0,0,171,5,155.5,6.8,326,17,343,2,3,3,0,338,100,0
+State,Chhattisgarh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+State,Goa,4,10,14,14,0,0,0,3,0,1,0,0,0,11,0,0,21.4,18,3,21,0,1,0,1,20,0,0
+State,Gujarat,130,199,329,194,1,0,4,183,76,6,2,0,10,91,158,2484.9,94.3,1430,183,1613,4,97,18,79,1512,18.6,121.5
+State,Haryana,135,110,245,239,53,1,9,77,27,61,0,0,11,102,21,1045.5,32.2,319,77,396,19,34,4,30,343,11.8,15
+State,Himachal Pradesh,151,45,196,196,0,3,0,30,30,25,0,2,13,149,6,43.5,15.3,74,30,104,0,20,4,16,84,20,6.5
+State,Jammu & Kashmir,308,48,356,125,0,7,0,38,35,0,45,0,0,317,0,0,30.4,391,38,429,3,33,5,28,393,15.2,67
+State,Jharkhand,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+State,Karnataka,322,195,517,517,0,0,20,96,142,22,1,0,103,200,103,37800.6,18.6,1127,96,1223,5,168,15,153,1050,8.9,50
+State,Kerala,462,129,591,591,0,0,30,62,115,0,15,0,30,474,0,0,10.5,235,62,297,0,50,43,7,247,86,1722
+State,Madhya Pradesh,401,231,632,632,0,0,0,143,229,0,0,0,26,234,28,18035.1,22.6,582,143,725,7,151,52,99,567,34.4,5157.2
+State,Maharashtra,505,497,1002,1002,2,6,6,472,199,1,8,0,27,491,32,7993.1,47.1,2321,472,2793,3,287,97,190,2503,33.8,1061.5
+State,Manipur,12,1,13,13,0,0,0,0,0,0,0,0,0,9,0,0,0,11,0,11,0,0,0,0,11,0,0
+State,Meghalaya,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Mizoram,0,2,2,2,0,0,0,0,1,0,0,0,0,2,0,0,0,9,0,9,1,0,0,0,8,0,0
+State,Nagaland,3,1,4,4,0,0,0,2,2,0,0,0,0,4,0,0,50,0,2,2,0,0,0,0,2,0,0
+State,Orissa,330,293,623,623,0,0,1,161,29,120,157,4,155,317,121,10909.9,25.8,1620,161,1781,7,43,9,34,1731,20.9,2630.8
+State,Punjab,343,243,586,174,0,7,0,174,100,2,0,0,0,341,0,0,100,880,174,1054,47,133,40,93,874,30.1,127.6
+State,Rajasthan,1128,444,1572,1572,0,0,3,267,232,0,139,0,114,1191,216,553.8,17,650,267,917,3,180,67,113,734,37.2,567
+State,Sikkim,34,25,59,59,1,1,1,4,0,0,0,0,12,33,0,0,6.8,17,4,21,0,6,3,3,15,50,8
+State,Tamil Nadu,131,43,174,174,0,0,2,5,8,0,4,3,22,130,4,4296.8,2.9,140,5,145,0,8,0,8,137,0,0
+State,Tripura,0,2,2,2,0,2,0,0,0,0,0,0,0,2,0,13,0,0,0,0,0,0,0,0,0,0,0
+State,Uttar Pradesh,28,122,150,122,1,0,0,51,65,25,1,0,7,155,3,21,41.8,147,51,198,2,3,0,3,193,0,0
+State,Uttaranchal,13,4,17,13,0,0,0,2,0,1,1,2,1,13,1,0.5,15.4,6,2,8,0,2,1,1,6,50,0
+State,West Bengal,25,3,28,28,0,0,0,2,0,2,0,0,0,26,1,0.5,7.1,23,2,25,0,0,0,0,25,0,40
+State,Total (States),5013,2908,7921,6802,72,28,77,1947,1355,293,413,11,579,4804,853,83793.5,28.6,10874,1947,12821,108,1261,382,879,11452,30.3,11695.4
+Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+Union Territory,Chandigarh,7,8,15,15,1,0,0,3,0,0,0,0,0,11,0,0,20,10,3,13,0,1,0,1,12,0,0
+Union Territory,D & N Haveli,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,4,0,1,0,1,3,0,0
+Union Territory,Daman & Diu,2,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Delhi,111,70,181,181,0,0,4,89,9,44,74,0,4,84,58,116,49.2,311,89,400,1,61,4,57,338,6.6,2
+Union Territory,Lakshadweep,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,3,0,0,0,0,3,0,0
+Union Territory,Pondicherry,6,3,9,9,0,0,0,2,0,0,0,0,0,7,0,0,22.2,5,2,7,0,0,0,0,7,0,0
+Union Territory,Total (UTs),127,82,209,207,1,0,4,94,9,44,74,0,4,106,58,116,45.4,334,94,428,1,63,4,59,364,6.3,2
+Total (All-India),Total (All-India),5140,2990,8130,7009,73,28,81,2041,1364,337,487,11,583,4910,911,83909.6,29.1,11208,2041,13249,109,1324,386,938,11816,29.2,11697.4

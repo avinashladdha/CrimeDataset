@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,Number of Cases Reported,Below 16 Years,Between 16 to 30 Years,Above 30 Years
+1,State,Andhra Pradesh ,192,46,115,31
+2,State,Assam,281,79,154,48
+3,State,Bihar,516,75,361,80
+4,State,Gujarat,92,14,70,8
+5,State,Haryana,80,8,54,18
+6,State,Himachal Pradesh,17,8,9,NA
+7,State,Jammu and Kashmir,141,13,90,38
+8,State,Karnataka ,106,28,65,13
+9,State,Kerala,75,23,48,4
+10,State,Madhya Pradesh,1066,261,611,194
+11,State,Maharashtra,516,156,318,62
+12,State,Manipur,14,4,8,2
+13,State,Meghalaya,13,NA,13,NA
+14,State,Nagaland,7,1,5,1
+15,State,Orissa,124,18,94,12
+16,State,Punjab,88,25,46,17
+17,State,Rajasthan,298,47,197,54
+18,State,Sikkim ,7,NA,2,5
+19,State,Tamil Nadu,180,30,137,13
+20,State,Tripura,19,5,14,NA
+21,State,Uttar Pradesh,942,147,642,153
+22,State,West Bengal ,504,92,358,54
+Total (States),State,Total (States),5278,1080,3411,807
+23,UT,A & N Islands,1,1,NA,NA
+24,UT,Arunachal Pradesh,9,2,7,NA
+25,UT,Chandigarh,3,1,2,NA
+26,UT,D & N Haveli,NA,NA,NA,NA
+27,UT,Delhi,79,23,47,9
+28,UT,"Goa, Daman & Diu",5,3,2,NA
+29,UT,Lakshadweep,NA,NA,NA,NA
+30,UT,Mizoram,29,11,15,3
+31,UT,Pondicherry,5,1,4,NA
+Total (UTs),UT,Total (UTs),131,42,77,12
+Total (All-India),Total (All-India),Total (All-India),5409,1122,3488,819
+1,City,Ahmedabad ,5,3,2,NA
+2,City,Bangalore ,19,3,16,NA
+3,City,Bombay,74,4,65,5
+4,City,Calcutta,24,6,18,NA
+5,City,Delhi,78,23,46,9
+6,City,Hyderabad,8,NA,8,NA
+7,City,Kanpur,45,30,3,12
+8,City,Madras,10,6,4,NA
+9,City,Pune,12,6,5,1
+10,City,Jaipur,10,4,6,NA
+11,City,Lucknow,18,2,15,1
+12,City,Nagpur,26,9,17,NA
+Total (Cities),City,Total (Cities),329,96,205,28

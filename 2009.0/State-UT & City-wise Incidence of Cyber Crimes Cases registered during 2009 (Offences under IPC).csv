@@ -1,0 +1,75 @@
+Sr. No.,Category,States/ UTs/Cities,Offences by / Against Public Servant,False electronic evidence,Destruction of electronic evidence,Forgery,Criminal Breach of Trust / Fraud,Counterfeiting - Property mark,Counterfeiting - Tampering,Counterfeiting - Currency / Stamps,Total
+1,State,Andhra Pradesh,0,0,0,5,3,0,0,0,8
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0
+3,State,Assam,0,0,2,0,0,0,0,0,2
+4,State,Bihar,0,0,0,0,0,0,0,0,0
+5,State,Chhattisgarh,0,0,0,32,11,0,3,0,46
+6,State,Goa,0,0,1,0,3,0,0,0,4
+7,State,Gujarat,0,0,0,13,2,1,0,0,16
+8,State,Haryana,0,0,0,0,0,0,0,0,0
+9,State,Himachal Pradesh,0,0,0,0,0,0,0,0,0
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0
+11,State,Jharkhand,0,0,0,0,0,0,0,0,0
+12,State,Karnataka,0,0,0,0,0,0,0,0,0
+13,State,Kerala,0,0,0,6,1,0,0,0,7
+14,State,Madhya Pradesh,0,0,0,1,0,0,0,0,1
+15,State,Maharashtra,0,0,0,67,30,0,0,11,108
+16,State,Manipur,0,0,0,0,0,0,0,0,0
+17,State,Meghalaya,0,0,0,0,0,0,0,0,0
+18,State,Mizoram,0,0,0,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,0,0,0,0
+20,State,Orissa,0,0,0,0,9,0,0,2,11
+21,State,Punjab,0,0,0,1,19,0,0,8,28
+22,State,Rajasthan,0,0,0,0,1,0,0,0,1
+23,State,Sikkim,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,0,0,0,8,11,0,0,0,19
+25,State,Tripura,0,0,0,0,0,0,0,0,0
+26,State,Uttar Pradesh,0,0,0,3,0,0,0,0,3
+27,State,Uttarakhand,0,0,0,0,0,0,0,0,0
+28,State,West Bengal,0,0,0,10,0,0,0,0,10
+State,State,Total (States),0,0,3,146,90,1,3,21,264
+29,Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0
+30,Union Territory,Chandigarh,0,0,0,0,0,0,0,0,0
+31,Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,0,0,0,12,0,0,0,0,12
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,0,0,0,0,0,0
+Union Territory,Union Territory,Total (UTs),0,0,0,12,0,0,0,0,12
+Total (All-India),Total (All-India),Total (All-India),0,0,3,158,90,1,3,21,276
+36,City,Agra,0,0,0,1,0,0,0,0,1
+37,City,Ahmedabad,0,0,0,13,1,0,0,0,14
+38,City,Allahabad,0,0,0,1,0,0,0,0,1
+39,City,Amritsar,0,0,0,3,0,0,0,0,3
+40,City,Asansol,0,0,0,0,0,0,0,0,0
+41,City,Bengaluru,0,0,0,0,0,0,0,0,0
+42,City,Bhopal,0,0,0,3,3,0,0,0,6
+43,City,Chennai,0,0,0,3,10,0,0,0,13
+44,City,Coimbatore,0,0,0,2,1,0,0,0,3
+45,City,Delhi (city),0,0,0,12,0,0,0,0,12
+46,City,Dhanbad,0,0,0,0,0,0,0,0,0
+47,City,Faridabad,0,0,0,0,0,0,0,0,0
+48,City,Hyderabad,0,0,0,0,0,0,0,0,0
+49,City,Indore,0,0,0,0,0,0,0,0,0
+50,City,Jabalpur,0,0,0,0,0,0,0,0,0
+51,City,Jaipur,0,0,0,0,0,0,0,0,0
+52,City,Jamshedpur,0,0,0,0,0,0,0,0,0
+53,City,Kanpur,0,0,0,0,0,0,0,0,0
+54,City,Kochi,0,0,0,0,1,0,0,0,1
+55,City,Kolkata,0,0,0,6,0,0,0,0,6
+56,City,Lucknow,0,0,0,0,0,0,0,0,0
+57,City,Ludhiana,0,0,0,0,0,0,0,0,0
+58,City,Madurai,0,0,0,0,0,0,0,0,0
+59,City,Meerut,0,0,0,0,0,0,0,0,0
+60,City,Mumbai,0,0,0,25,10,0,0,0,35
+61,City,Nagpur,0,0,0,2,0,0,0,0,2
+62,City,Nasik,0,0,0,37,20,0,0,11,68
+63,City,Patna,0,0,0,0,0,0,0,0,0
+64,City,Pune,0,0,0,3,0,0,0,0,3
+65,City,Rajkot,0,0,0,0,0,0,0,0,0
+66,City,Surat,0,0,0,0,0,0,0,0,0
+67,City,Vadodara,0,0,0,0,0,0,0,0,0
+68,City,Varanasi,0,0,0,0,0,0,0,0,0
+69,City,Vijayawada,0,0,0,0,0,0,0,0,0
+70,City,Vishakhapatnam,0,0,0,0,0,0,0,0,0
+City,City,Total (Cities),0,0,0,111,46,0,0,11,168

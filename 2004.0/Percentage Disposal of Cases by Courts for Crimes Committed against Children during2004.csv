@@ -1,0 +1,14 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 4),Percentage of Cases to Total Cases for Trial - No. of Cases - in which Trials were Completed - Convicted (Col. 5),Percentage of Cases to Total Cases for Trial - No. of Cases - in which Trials were Completed - Acquitted or Discharged (Col. 6),Percentage of Cases to Total Cases for Trial - No. of Cases - in which Trials were Completed - Total {(Col. 5) + (Col. 6)} = (Col. 7),Percentage of Cases to Total Cases for Trial - Pending Trial (Col. 8),Conviction Rate (Col. 5/ Col. 7 × 100) = (Col. 9)
+1,Infanticide,0,0.5,12,14.2,26.2,73.2,45.8
+2,Other Murder,0,0.7,8.1,11.3,19.4,79.9,42
+3,Rape,0,3.2,5.8,10.9,16.7,80.1,34.8
+4,Kid. & Abduction,0,0.8,5.2,11,16.3,82.9,32.2
+5,Foeticide,0,0,3.9,6.6,10.5,89.5,37.5
+6,Abetment of Suicide,0,2.6,2.6,11.8,14.5,82.9,18.2
+7,Exposure and Abandonment,0,0.9,2,6.3,8.3,90.8,24.6
+8,Procuration Minor Girl,0,0.5,4.3,9.5,13.7,85.8,31
+9,Buying of Girls for Prost.,0,0,3,12.1,15.2,84.8,20
+10,Selling of Girls for Prost,0,0,0,4,4,96,0
+11,Child Marriage Restraint Act,0,0,6,7.2,13.2,86.8,45.3
+12,Other Crime,0,3.5,6.5,10.9,17.5,79,37.3
+13,Total,0,2.4,6.1,10.8,17,80.6,36.1

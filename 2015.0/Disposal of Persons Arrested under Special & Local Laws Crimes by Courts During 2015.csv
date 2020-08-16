@@ -1,0 +1,71 @@
+Crime Head,Persons in Custody During the Stage of Trial at the Beginning of the year - Male,Persons in Custody During the Stage of Trial at the Beginning of the year - Female,Persons on Bail During the Stage of Trial at the Beginning of the year - Male,Persons on Bail During the Stage of Trial at the Beginning of the year - Female,Total Number of Persons under Trial During the Year - Male,Total Number of Persons under Trial During the Year - Female,Persons Against whom Cases were Compounded by Courts - Male,Persons Against whom Cases were Compounded by Courts - Female,Persons Against whom Cases were Withdrawn - Male,Persons Against whom Cases were Withdrawn - Female,Persons in whose Cases Trials were Completed During the Year - Male,Persons in whose Cases Trials were Completed During the Year - Female,Persons Convicted - Male,Persons Convicted - Female,Persons Acquitted - Male,Persons Acquitted - Female,Persons Discharged by Court - Male,Persons Discharged by Court - Female,Persons in Custody During the stage of Trial at the end of the year - Male,Persons in Custody During the stage of Trial at the end of the year - Female,Persons on Bail During the stage of Trial at the end of the year - Male,Persons on Bail During the stage of Trial at the end of the year - Female
+"1 Arms Act, 1959",70655,3,279909,43,407199,69,224,0,32,0,45395,10,29970,5,15215,4,210,1,71771,5,289777,54
+"2 Narcotic Drugs & Psychotropic Substances Act, 1985",41577,692,115101,1325,215821,3524,642,1,1645,6,39783,918,29081,598,9736,312,966,8,43751,865,130000,1734
+"3 Gambling Act, 1867",137420,114,789849,1336,1292127,2406,819,0,4156,56,294498,585,248301,359,44861,225,1336,1,149064,343,843590,1422
+"4 Excise Act, 1944",60571,833,354524,6042,619123,12450,684,3,149,1,158789,4547,128135,3294,30043,1223,611,30,64705,1014,394796,6885
+5 Prohibition Act,354302,122435,1407121,215165,2164428,449488,675,11,4658,183,306601,57989,210315,23298,92255,33890,4031,801,324958,138097,1527536,253208
+6 Explosives and Explosive Substances Act,5375,3,25020,29,35549,52,62,0,2,0,4207,15,2507,10,1669,4,31,1,5024,3,26254,34
+"7 Immoral Traffic (Prevention) Act, 1956",3496,646,30447,6702,39323,9569,13,4,6,0,3308,1341,1416,574,1876,765,16,2,4292,757,31704,7467
+7.1 Under Section 5,1154,253,8296,2075,11627,3166,3,0,0,0,1094,351,446,127,636,222,12,2,1296,244,9234,2571
+7.2 Under Section 6,129,69,724,248,1000,396,0,0,0,0,83,53,59,30,24,23,0,0,149,30,768,313
+7.3 Under Section 7,59,10,2521,382,2974,494,0,0,0,0,77,26,30,8,47,18,0,0,17,1,2880,467
+7.4 Under Section 8,1,0,1806,509,2027,729,0,2,0,0,68,133,56,94,12,39,0,0,13,43,1946,551
+7.5 Other Sections under ITP Act,2153,314,17100,3488,21695,4784,10,2,6,0,1986,778,825,315,1157,463,4,0,2817,439,16876,3565
+"8 Indian Railways Act, 1989",796,0,5564,20,6644,20,66,0,34,2,328,3,196,0,132,3,0,0,841,0,5375,15
+"9 Registration of Foreigners Act, 1939",2263,69,6100,97,8744,191,3,0,0,0,415,19,268,14,146,5,1,0,2759,120,5567,52
+"10 Protection of Civil Rights Act, 1955",196,1,1477,17,1791,21,0,0,0,0,173,0,3,0,152,0,18,0,99,0,1519,21
+10.1 PCR Act for crimes committed against SCs,189,1,1426,17,1721,19,0,0,0,0,172,0,3,0,151,0,18,0,93,0,1456,19
+10.2 PCR Act for crimes committed against STs,4,0,35,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,36,0
+10.3 PCR Act for crimes committed against Others,3,0,16,0,31,2,0,0,0,0,1,0,0,0,1,0,0,0,3,0,27,2
+"11 Passport Act, 1967",1867,386,4653,148,7254,601,1,0,0,0,453,20,305,17,148,3,0,0,1326,75,5474,506
+"12 Essential Commodities Act, 1955",8231,5,60329,165,75177,221,34,0,49,0,5358,21,1355,4,3966,16,37,1,7204,9,62532,191
+"13 Antiquities & Art Treasures Act, 1972",81,0,395,0,551,1,2,0,0,0,30,1,10,0,20,1,0,0,57,0,462,0
+"14 Dowry Prohibition Act, 1961",11488,664,40359,5141,64200,8969,844,158,203,114,7358,1323,1495,336,5807,973,56,14,11797,762,43998,6612
+"15 Indecent Representation of Women (Prohibition) Act, 1986",71,0,1191,0,1324,0,1,0,0,0,184,0,57,0,126,0,1,0,67,0,1072,0
+"16 Copyright Act, 1957",5551,0,31258,43,43201,57,18,0,7,0,5485,5,2785,1,2668,4,32,0,5957,2,31734,50
+17 Protection of Children from Sexual Offences Act,4849,29,5585,23,26566,244,1,0,15,0,2470,31,1067,5,1392,26,11,0,7102,32,16978,181
+"18 SC/ST (Prevention of Atrocities) Act, 1989)",17878,122,73876,1132,104064,1704,655,0,221,4,11647,230,2023,16,9520,213,104,1,15271,93,76270,1377
+18.1 POA Act for crimes committed against SCs,16088,84,67490,981,94638,1460,501,0,217,4,10223,192,1870,13,8282,178,71,1,13906,59,69791,1205
+18.2 POA Act for crimes committed against STs,1790,38,6386,151,9426,244,154,0,4,0,1424,38,153,3,1238,35,33,0,1365,34,6479,172
+"19 Forest Act, 1927",2566,4,27412,76,35178,83,28,0,9,0,4722,6,3226,1,1487,3,9,2,1931,1,28488,76
+"20 Prohibition of Child Marriage Act, 2006",303,26,1459,238,2300,382,0,0,10,6,206,27,46,7,159,20,1,0,242,22,1842,327
+"21 Protection of Women from Domestic Violence Act, 2005",82,3,640,75,1197,85,0,0,1,0,60,4,27,0,33,4,0,0,191,2,945,79
+"22 Information Technology Act, 2000",292,4,2766,65,6460,169,58,0,6,0,619,15,248,2,348,10,23,3,943,52,4834,102
+"23 Official Secrets Act, 1923",11,1,13,0,39,1,0,0,0,0,7,0,4,0,3,0,0,0,11,0,21,1
+"24 Electricity Act, 2003",3559,10,33144,225,85507,376,83,0,21,3,23080,172,17831,166,4875,6,374,0,5857,12,56466,189
+"25 Wildlife Protection Act, 1972",355,1,1934,14,3374,22,0,0,8,0,359,2,203,0,145,2,11,0,467,1,2540,19
+"26 Bonded Labour System (Abolition) Act, 1976",29,0,157,0,279,0,0,0,1,0,16,0,4,0,11,0,1,0,31,0,231,0
+26.1 Against SCs,4,0,8,0,26,0,0,0,1,0,6,0,0,0,6,0,0,0,3,0,16,0
+26.2 Against STs,17,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,2,0
+26.3 Against others,8,0,149,0,234,0,0,0,0,0,10,0,4,0,5,0,1,0,11,0,213,0
+"27 Environmental (Protection) Act, 1986",37,0,213,2,559,2,2,0,0,0,38,0,9,0,26,0,3,0,50,0,469,2
+"28 Air (Prevention & Control of Pollution) Act, 1981",10,0,85,0,138,0,0,0,0,0,8,0,3,0,5,0,0,0,2,0,128,0
+"29 Water (Prevention & Control of Pollution) Act, 1974",26,0,45,0,83,0,0,0,0,0,66,0,14,0,52,0,0,0,0,0,17,0
+"30 National Security Act, 1980",171,0,62,0,639,0,0,0,0,0,235,0,203,0,32,0,0,0,264,0,140,0
+"31 Unlawful Activities (Prevention) Act, 1967",1606,7,949,1,2740,11,0,0,1,0,107,0,23,0,84,0,0,0,836,3,1796,8
+"32 Young Persons (Harmful Publications) Act, 1956",0,0,24,0,24,0,0,0,0,0,4,0,1,0,3,0,0,0,0,0,20,0
+"33 Railway Property (Unlawful Possession) Act, 1966",0,0,4,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0
+"34 Prevention of Damage to Public Property Act, 1984",523,1,8000,39,14616,113,8,0,6,0,2119,18,671,3,1419,15,29,0,806,2,11677,93
+"35 Transplantation of Human Organs Act, 1994",0,0,5,0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,9,1,6,0
+"36 Trade Marks Act, 1999",8,0,252,4,458,4,4,0,0,0,14,0,4,0,10,0,0,0,25,0,415,4
+"37 Prevention of Insults to National Honour Act, 1971",6,0,126,4,188,9,0,0,0,0,17,0,3,0,14,0,0,0,4,0,167,9
+"38 State Emblem (Prohibition of Improper Use) Act, 2005",0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"39 Lotteries (Regulation) Act, 1998",81,0,686,0,4317,6,9,0,0,0,2645,5,2513,5,127,0,5,0,96,0,1567,1
+"40 Citizenship Act, 1955",1,0,4,0,17,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,15,1
+"41 Foreigners Act, 1946",2498,108,2542,125,7612,733,0,0,0,0,1504,86,1431,86,72,0,1,0,2874,335,3234,312
+"42 Place of Worship (Special Provisions) Act, 1991",7,0,12,0,56,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,5,0
+"43 Religious Institution (Prevention of Misuse) Act, 1988",0,0,2,0,3,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0
+"44 Representation of People Act, 1951",135,0,689,10,2858,11,2,0,0,0,130,0,25,0,92,0,13,0,128,0,2598,11
+"45 Emigration Act, 1983",0,0,31,0,56,0,0,0,0,0,12,0,4,0,8,0,0,0,0,0,44,0
+"46 Juvenile Justice (Care and Protection of Children) Act, 2000",180,5,1280,81,2704,210,10,2,1,0,335,22,176,14,159,8,0,0,226,23,2132,163
+"47 Infant Substitutes Regulation Act, 2003",0,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"48 Anti-Hijacking Act, 1982",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"49 Atomic Energy Act, 1962",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"50 Weapons of Mass Destruction (Proh. of Unlawful Activities) Act, 2005",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"51 Suppression of Unlawful Acts against Safety of Civil Aviation Act, 1982",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"52 Safety of Maritime Navigation Act, 2002",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"53 Employment of Manual Scavengers and Construction of Dry Latrines (P) Act, 1993",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"54 Pre-Natal Diagnostic Techniques (Reg and Prev of Misuse) Act, 1994",1,2,45,6,99,17,0,0,0,0,7,2,2,0,5,2,0,0,19,8,73,7
+"55 The Maritime Zones of India (Reg of Fishing by Foreign Vessels) Act, 1981",0,0,437,0,456,0,0,0,0,0,13,0,12,0,1,0,0,0,7,0,436,0
+56 Other SLL Crimes,265212,5870,2770149,21802,6395724,37336,3117,15,1865,121,2895408,14339,2810049,11909,82256,2383,3103,47,255314,3342,3240020,19519
+Total Cognizable SLL Crimes,1004366,132044,6085929,260195,11680794,529159,8066,194,13106,496,3818215,81756,3496021,40724,311160,40120,11034,912,986435,145981,6854972,300732

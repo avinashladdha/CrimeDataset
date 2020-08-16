@@ -1,0 +1,59 @@
+SI.No.,State/UT/City,DG /Addl.DG /IG /DIG - Sanctioned,DG/Addl.DG / IG/DIG - Actual,SSP/SP/Addl.SP./ASP /Dy. SP. - Sanctioned,SSP/SP/Addl.SP./ASP/Dy. SP. - Actual,"Inspector ,SI & A.S.I. - Sanctioned","Inspector ,SI & A.S.I. - Actual",Officers below A.S.I. - Sanctioned,Officers below A.S.I. - Actual,Grand Total - Sanctioned,Grand Total - Actual
+1,Andhra Pradesh,0,0,0,0,0,0,0,0,0,0
+2,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0
+3,Assam,0,0,0,0,3,3,162,162,165,165
+4,Bihar*,0,0,0,0,0,0,0,0,0,0
+5,Goa,0,0,0,0,0,0,0,16,0,16
+6,Gujarat,0,0,0,0,0,0,0,0,0,0
+7,Haryana,0,0,0,0,0,0,0,0,0,0
+8,Himachal Pradesh,0,0,0,2,0,4,0,138,0,144
+9,Jammu & Kashmir**,0,0,6,1,24,34,768,616,798,651
+10,Karnataka,0,0,0,0,0,0,0,0,0,0
+11,Kerala,0,0,0,0,4,0,876,0,880,0
+12,Madhya Pradesh,0,0,0,0,14,14,128,118,142,132
+13,Maharashtra,0,0,0,0,0,0,0,0,0,0
+14,Manipur,0,0,0,0,0,0,0,0,0,0
+15,Meghalaya,0,0,0,0,0,0,0,0,0,0
+16,Mizoram,0,0,0,0,0,0,0,0,0,0
+17,Nagaland,0,0,0,0,0,0,9,9,9,9
+18,Orissa,0,0,0,0,0,0,0,0,0,0
+19,Punjab,0,0,0,0,0,0,0,0,0,0
+20,Rajasthan,0,0,0,0,0,0,0,0,0,0
+21,Sikkim,0,0,0,0,0,0,0,0,0,0
+22,Tamil Nadu,0,0,0,0,0,0,0,0,0,0
+23,Tripura,0,0,0,0,4,2,36,23,40,25
+24,Uttar Pradesh,0,0,0,0,0,0,0,0,0,0
+25,West Bengal,0,0,1,1,0,0,0,0,1,1
+Total States,Total States,0,0,7,4,49,57,1979,1082,2035,1143
+26,A & N Islands,0,0,0,0,0,1,0,21,0,22
+27,Chandigarh,0,0,0,0,0,0,0,0,0,0
+28,D & N Haveli,0,0,0,0,0,0,0,0,0,0
+29,Daman & DIU,0,0,0,0,0,0,0,0,0,0
+30,Delhi,0,0,0,0,1,7,51,40,52,47
+31,Lakshadweep,0,0,0,0,0,0,0,0,0,0
+32,Pondicherry,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Total (UTs),0,0,0,0,1,8,51,61,52,69
+Total (All -India),Total (All -India),0,0,7,4,50,65,2030,1143,2087,1212
+33,Ahmedabad,0,0,0,0,0,0,0,0,0,0
+34,Bangalore,0,0,0,0,0,0,0,0,0,0
+35,Bhopal,0,0,0,0,0,0,0,0,0,0
+36,Calcutta,0,0,0,0,0,0,0,0,0,0
+37,Chennai,0,0,0,0,0,0,0,0,0,0
+38,Coimbatore,0,0,0,0,1,7,51,40,52,47
+39,Delhi,0,0,0,0,0,0,0,0,0,0
+40,Hyderabad,0,0,0,0,0,0,0,0,0,0
+41,Indore,0,0,0,0,0,0,0,0,0,0
+42,Jaipur,0,0,0,0,0,0,0,0,0,0
+43,Kanpur,0,0,0,0,0,0,0,0,0,0
+44,Kochi,0,0,0,0,0,0,0,0,0,0
+45,Lucknow,0,0,0,0,0,0,0,0,0,0
+46,Ludhiana,0,0,0,0,0,0,0,0,0,0
+47,Madurai,0,0,0,0,0,0,0,0,0,0
+48,Mumbai,0,0,0,0,0,0,0,0,0,0
+49,Nagpur,0,0,0,0,0,0,0,0,0,0
+50,Patna,0,0,0,0,0,0,0,0,0,0
+51,Pune,0,0,0,0,0,0,0,0,0,0
+52,Surat,0,0,0,0,0,0,0,0,0,0
+53,Vadodra,0,0,0,0,0,0,0,0,0,0
+54,Varanasi,0,0,0,0,0,0,0,0,0,0
+55,Vishakhapatnam,0,0,0,0,0,0,0,0,0,0

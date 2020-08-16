@@ -1,0 +1,59 @@
+SI.No.,Category,States/UT/City,Total value of Propery - Stolen,Total value of Propery - Recovered,Percentage Recovery
+1,State,Andhra Pradesh,3472.8,1486,42.8
+2,State,Arunachal Pradesh,219.3,82.4,37.6
+3,State,Assam,1890.5,361.7,19.1
+4,State,Bihar,2877.2,560,19.5
+5,State,Goa,583.1,87.1,14.9
+6,State,Gujarat,10256.9,1833,17.9
+7,State,Haryana,2810.2,1480.7,52.7
+8,State,Himachal Pradesh,544.9,265.2,48.7
+9,State,Jammu & Kashmir,799.2,369.2,46.2
+10,State,Karnataka,6185.1,2283.6,36.9
+11,State,Kerala,3158.7,815.4,25.8
+12,State,Madhya Pradesh,4864.6,1999.3,41.1
+13,State,Maharashtra,45254.8,5732.6,12.7
+14,State,Manipur,319.2,25.6,8
+15,State,Meghalaya,119.3,17.9,15
+16,State,Mizoram,471,73.7,15.6
+17,State,Nagaland,315.3,81.6,25.9
+18,State,Orissa,1663.8,474.5,28.5
+19,State,Punjab,7178.7,2893.6,40.3
+20,State,Rajasthan,4418.1,2569.5,58.2
+21,State,Sikkim,58.3,26.9,46.1
+22,State,Tamil Nadu,9387.2,4855.2,51.7
+23,State,Tripura,57.3,7.9,13.8
+24,State,Uttar Pradesh,10789.7,2877.6,26.7
+25,State,West Bengal,2166.4,648.8,29.9
+Total States,State,Total States,119861.7,31909,26.6
+26,UT,A & N Islands,47.9,27.9,58.2
+27,UT,Chandigarh,328.9,147.2,44.8
+28,UT,D & N Haveli,59.2,35.5,60
+29,UT,Daman & DIU,37.3,11.1,29.8
+30,UT,Delhi,10807.4,1355,12.5
+31,UT,Lakshadweep,0.4,0,0
+32,UT,Pondicherry,73.4,27.7,37.8
+Total (UTs),UT,Total (UTs),11354.5,1604.5,14.1
+Total (All -India),Total (All -India),Total (All -India),131216.2,33513.5,25.5
+33,City,Ahmedabad,1636.4,390.5,23.9
+34,City,Bangalore,3581.4,1410.9,39.4
+35,City,Bhopal,240.9,94.7,39.3
+36,City,Bombay,32351.1,268902,8.3
+37,City,Calcutta,1112.8,401.5,36.1
+38,City,Coimbatore,246.8,94,38.1
+39,City,Delhi,10211.5,1285.6,12.6
+40,City,Hyderabad,665.4,250.6,37.7
+41,City,Indore,542.2,251.3,46.3
+42,City,Jaipur,644.3,334.8,52
+43,City,Kanpur,613.6,162.8,26.4
+44,City,Kochi,289.1,85.7,29.6
+45,City,Lucknow,1092.1,75.2,6.9
+46,City,Ludhiana,416.7,176.5,42.4
+47,City,Madras,6034.2,3098.6,51.4
+48,City,Madurai,213.6,63.4,29.7
+49,City,Nagpur,595.3,98.1,16.5
+50,City,Patna,324.2,81.5,25.1
+51,City,Pune,1698.6,483.6,28.5
+52,City,Surat,1368.6,160,11.7
+53,City,Vadodra,368.9,129.9,35.2
+54,City,Varanasi,156.6,62,39.6
+55,City,Vishakhapatnam,228.3,74.5,32.6

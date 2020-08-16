@@ -1,0 +1,28 @@
+Sr. No.,Crime Head,Male,Female,Total,Percentage to Total - Male,Percentage to Total - Female
+1,Arms Act,80181,98,80279,99.9,0.1
+2,Narcotic Drugs & Psychotropic Substances Act,33355,1189,34544,96.6,3.4
+3,Gambling Act,351615,1027,352642,99.7,0.3
+4,Excise Act,180422,5534,185956,97,3
+5,Prohibition Act,322443,93709,416152,77.5,22.5
+6,Explosives & Explosive Substances Act,4825,25,4850,99.5,0.5
+7,Immoral Traffic (P) Act,3341,3434,6775,49.3,50.7
+8,Indian Railways Act,85,0,85,100,0
+9,The foreigners Act,2184,265,2449,89.2,10.8
+10,Protection of Civil Rights Act - Total,350,3,353,99.2,0.8
+10,Protection of Civil Rights Act (i) Pcr Act for Scs,339,3,342,99.1,0.9
+10,Protection of Civil Rights Act (ii) Pcr Act for Sts,11,0,11,100,0
+11,Indian Passport Act,1337,160,1497,89.3,10.7
+12,Essential Commodities Act,11661,134,11795,98.9,1.1
+13,Terrorist & Disruptive Activities Act,0,0,0,0,0
+14,Antiquities & Art Treasures Act,102,0,102,100,0
+15,Dowry Prohibition Act,10040,2040,12080,83.1,16.9
+16,Prohibition of Child Marriage Act ##,168,36,204,82.4,17.6
+17,Indecent Representation of Women (P) Act,595,363,958,62.1,37.9
+18,Copyright Act,9641,27,9668,99.7,0.3
+19,Sati Prevention Act,0,0,0,0,0
+20,SC/ST (prevention of Atrocities) Act - Total,17944,737,18681,96.1,3.9
+20,SC/ST (prevention of Atrocities) Act (i) Prevention of Attrocities Act for Scs,16169,632,16801,96.2,3.8
+20,SC/ST (prevention of Atrocities) Act (ii) Prevention of Attrocities Act for Sts,1775,105,1880,94.4,5.6
+21,Forest Act,8111,8,8119,99.9,0.1
+22,Other SLL Crimes ++,3654680,40946,3695626,98.9,1.1
+Total Cognizable Crimes Under SLL,Total Cognizable Crimes Under SLL,4693080,149735,4842815,96.9,3.1

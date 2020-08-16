@@ -1,0 +1,13 @@
+Crime Head (Col.1),Cases Pending Trial from the Previous Year (Col.2),Cases Sent for Trial During the Year (Col.3),No. of Cases Withdrawn by the Govt. (Col.4),No. of Cases Disposed by Plea Bargaining (Col.5),Total no. of Cases for Trial During the Year (Col.6) = (Col.2+3 - Col.4 - Col. 5),Cases Compounded or Withdrawn (Col.7),Cases in Which Trials were Completed (Col.8) = (Col. 9+10),Cases Convicted (Col.9),Cases Acquitted or Discharged (Col.10),Cases Pending Trial at the End of the Year (Col.11) = {Col.6 - (Col.7+8)},Conviction Rate (Col.12) = (Col.9/Col.8)' x 100 ,Cases Pendency Percentage (Col.13) = {Col.11/(Col.2+Col.3)} x 100 
+1 Procuration of Minor Girls,2457,1348,0,0,3805,17,334,37,297,3454,11.1,90.8
+2 Importation of Girls from Foreign Country,1,1,0,0,2,0,0,0,0,2,NA,100
+3 Buying of Minors for Prostitution,153,10,0,0,163,0,1,1,0,162,100,99.4
+4 Selling of Minors for Prostitution,404,119,0,0,523,0,25,9,16,498,36,95.2
+"5 Immoral Traffic (Prevention) Act, 1956",323,48,0,0,371,0,17,6,11,354,35.3,95.4
+5.1 Under ITP Section 5,94,23,0,0,117,0,11,5,6,106,45.5,90.6
+5.2 Under ITP Section 6,10,1,0,0,11,0,0,0,0,11,NA,100
+5.3 Under ITP Section 7,75,4,0,0,79,0,0,0,0,79,NA,100
+5.4 Under ITP Section 8,5,2,0,0,7,0,0,0,0,7,NA,100
+5.5 Other Section of ITP Act,139,18,0,0,157,0,6,1,5,151,16.7,96.2
+6 Human Trafficking (Sec.370 & 370 A),7,132,0,0,139,0,7,2,5,132,28.6,95
+Total Child Trafficking,3345,1658,0,0,5003,17,384,55,329,4602,14.3,92

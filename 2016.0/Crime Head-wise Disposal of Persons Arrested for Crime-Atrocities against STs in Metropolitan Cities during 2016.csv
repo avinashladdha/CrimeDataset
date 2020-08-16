@@ -1,0 +1,30 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Persons Arrested - Male (Col.4),Persons Arrested - Female (Col.5),Persons Arrested - Total (Col.6),Persons Chargesheeted - Male (Col.7),Persons Chargesheeted - Female (Col.8),Persons Chargesheeted - Total (Col.9),Persons Convicted - Male (Col.10),Persons Convicted - Female (Col.11),Persons Convicted - Total (Col.12),Persons Acquitted/Discharged - Male (Col.13),Persons Acquitted/Discharged - Female (Col.14),Persons Acquitted/Discharged - Total (Col.15)
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.1. Murder,22,0,22,21,0,21,2,0,2,8,0,8
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.2. Attempt to Commit Murder,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.3. Grievous Hurt,1,0,1,1,0,1,3,0,3,4,0,4
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.3.1. Hurt,1,0,1,1,0,1,3,0,3,4,0,4
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.3.2. Acid Attack & Attempt to Acid Attack,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4. Assault on Women with Intent to Outrage her Modesty,14,0,14,14,0,14,1,0,1,3,0,3
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.1. Sexual Harassment,0,0,0,0,0,0,1,0,1,1,0,1
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.2. Assault on Women with Intent to Disrobe,13,0,13,13,0,13,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.3. Voyeurism,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.4. Stalking,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.5. Other Sexual Harassment,1,0,1,1,0,1,0,0,0,2,0,2
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.5. Insult to the Modesty of Women,3,0,3,3,0,3,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6. Kidnapping & Abduction,5,0,5,6,0,6,4,0,4,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.1. Kidnaping & Abduction,0,0,0,1,0,1,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.2. Kidnaping & Abduction in order to Murder,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.3. Kidnapping for Ransom,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.4. Kidnapping & Abduction of Women to Compel her for Marriage,1,0,1,1,0,1,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.5. Other Kidnapping,4,0,4,4,0,4,4,0,4,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.7. Rape,16,0,16,12,0,12,2,0,2,7,0,7
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.8. Attempt to Commit Rape,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.9. Riots,1,0,1,30,0,30,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.10. Robbery,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.11. Dacoity,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.12. Arson,0,0,0,0,0,0,0,0,0,0,0,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.13. Other IPC Crimes *,72,5,77,59,4,63,8,0,8,11,0,11
+2,SC / ST (Prevention of Atrocities) Act,2. SC / ST (Prevention of Atrocities) Act,26,2,28,13,1,14,0,0,0,10,0,10
+Total of SC/ST (Prevention of Atrocities) Act (1+2),Total of SC/ST (Prevention of Atrocities) Act (1+2),Total of SC/ST (Prevention of Atrocities) Act (1+2),160,7,167,159,5,164,20,0,20,43,0,43
+3,"Protection of Civil Rights Act, 1955","3. Protection of Civil Rights Act, 1955",0,0,0,0,0,0,0,0,0,0,0,0
+Total Crime/Atrocities Against SCs (1+2+3),"Protection of Civil Rights Act, 1955",Total Crime/Atrocities Against SCs (1+2+3),160,7,167,159,5,164,20,0,20,43,0,43

@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,Arrested & Sent to Court,Sent to Home After Advice or Admonitio,Released on Probation and Placed Under Care of - Parents/ Guardians,Released on Probation and Placed Under Care of - Fit instt.,Sent to Special Homes,Dealt With Fine,Acquitted or Otherwise Disosed of,Pending Disposal
+1,State,Andhra Pradesh,2486,264,299,94,120,365,516,828
+2,State,Arunachal Pradesh,71,8,16,0,0,12,15,20
+3,State,Assam,1500,18,51,26,26,0,91,1288
+4,State,Bihar,3310,1103,535,160,40,170,268,1034
+5,State,Goa,73,9,2,0,6,5,46,5
+6,State,Gujarat,2928,65,87,46,76,369,971,1314
+7,State,Haryana,197,11,0,0,0,0,170,16
+8,State,Himachal Pradesh,171,25,50,30,6,0,16,44
+9,State,Jammu & Kashmir,137,0,0,0,0,0,1,136
+10,State,Karnataka,479,83,90,23,41,54,21,167
+11,State,Kerala,87,1,0,6,1,0,20,59
+12,State,Madhya Pradesh,3452,585,726,115,305,417,349,955
+13,State,Maharashtra,4856,822,337,715,358,282,176,2166
+14,State,Manipur,152,15,55,22,0,27,0,33
+15,State,Meghalaya,50,0,1,0,15,0,20,14
+16,State,Mizoram,24,0,15,0,7,0,0,2
+17,State,Nagaland,54,4,6,0,0,0,8,36
+18,State,Orissa,296,0,40,10,0,63,47,136
+19,State,Punjab,146,18,24,0,0,56,24,24
+20,State,Rajasthan,1096,32,119,35,24,3,27,856
+21,State,Sikkim,74,74,0,0,0,0,0,0
+22,State,Tamil Nadu,14162,75,6885,513,38,1936,413,4302
+23,State,Tripura,195,0,14,0,0,0,181,0
+24,State,Uttar Pradesh,122,15,5,1,12,0,57,32
+25,State,West Bengal,103,8,30,0,4,10,16,35
+Total (States),State,Total (States),36221,3235,9387,1796,1079,3769,3453,13502
+26,UT,A & N Islands,20,6,0,0,0,0,4,10
+27,UT,Chandigarh,10,0,8,0,0,0,0,2
+28,UT,D & N Haveli,5,0,0,0,0,0,0,5
+29,UT,Daman & Diu,4,0,0,0,0,0,1,3
+30,UT,Delhi,98,0,3,13,0,3,0,79
+31,UT,Lakshadweep,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,34,12,4,0,3,0,0,15
+Total (UTs),UT,Total (UTs),171,18,15,13,3,3,5,114
+Total (All-India),Total (All-India),Total (All-India),36392,3253,9402,1809,1082,3772,3458,13616
+33,City,Ahmedabad,407,50,80,12,5,173,36,51
+34,City,Bangalore,149,22,58,7,14,0,1,47
+35,City,Bombay,513,43,235,87,0,60,35,53
+36,City,Calcutta,27,8,7,0,4,0,6,2
+37,City,Delhi,98,0,3,13,0,3,0,79
+38,City,Hyderabad,46,21,25,0,0,0,0,0
+39,City,Jaipur,5,5,0,0,0,0,0,0
+40,City,Kanpur,7,5,0,0,2,0,0,0
+41,City,Lucknow,6,1,0,0,0,0,0,5
+42,City,Madras,978,0,266,0,0,527,97,88
+43,City,Nagpur,203,0,0,0,31,0,0,172
+44,City,Pune,446,69,99,107,64,47,32,28

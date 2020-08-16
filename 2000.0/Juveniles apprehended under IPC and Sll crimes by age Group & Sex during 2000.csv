@@ -1,0 +1,52 @@
+SI.No,Crime Head,7-12 Years - Boys,7-12 years - Girls,12-16 Years - Boys,12-16 years - Girls,16-18 Years - Girls only,Overall age Group - Boys,Overall age Group - Girls,Total (Boys + Girls )
+1,Murder,23,3,212,32,47,235,82,317
+2,Attempt to Commit Murder,19,1,169,6,29,188,36,224
+3,C.H. Not Amounting To Murder,2,0,22,1,2,24,3,27
+4,Rape,17,1,193,3,6,210,10,220
+5,Kidnapping & Abduction,2,0,69,6,17,71,23,94
+5,I)Of Women & Girls,2,0,43,4,12,45,16,61
+5,II)Of Others,0,0,26,2,5,26,7,33
+6,Dacoity,3,0,40,0,0,43,0,43
+7,Preparation & Assembly for Dacoity,0,0,9,0,0,9,0,9
+8,Robbery,15,0,73,6,0,88,6,94
+9,Burglary,337,9,1361,17,45,1698,71,1769
+10,Theft,350,42,2233,99,182,2583,323,2906
+10,I) Auto Theft,18,2,241,0,3,259,5,264
+10,II) Other Theft,332,40,1992,99,179,2324,318,2642
+11,Riots,44,7,480,21,279,524,307,831
+12,Criminal Breach of Trust,0,0,20,1,4,20,5,25
+13,Cheating,6,0,31,7,3,37,10,47
+14,Counterfeiting,0,0,3,0,0,3,0,3
+15,Arson,7,0,22,3,1,29,4,33
+16,Hurt,182,25,1164,115,461,1346,601,1947
+17,Dowry Deaths,0,0,12,9,72,12,81,93
+18,Molestation,19,0,145,1,6,164,7,171
+19,Sexual Harassment,4,0,34,0,3,38,3,41
+20,Cruelty by Husband and Relatives,6,9,75,26,282,81,317,398
+21,Importation of Girls,0,0,0,0,0,0,0,0
+22,Other IPC Crimes,258,24,1532,246,688,1790,958,2748
+23,Total Cognizable Crimes Under IPC,1294,121,7899,599,2127,9193,2847,12040
+1,Arms Act,3,0,32,0,1,35,1,36
+2,Narcotic Drugs & Psychotropic Substances Act,0,1,11,0,10,11,11,22
+3,Gambling Act,14,0,195,0,0,209,0,209
+4,Excise Act,2,1,103,2,22,105,25,130
+5,Prohibition Act,20,1,181,23,418,201,442,643
+6,Explosive & Explosive Substances Act,0,0,3,0,0,3,0,3
+7,Immoral Traffic (P) Act,0,0,1,1,84,1,85,86
+8,Indian Railways Act,0,0,78,0,0,78,0,78
+9,Registration of Foregners Act,0,0,0,0,14,0,14,14
+10,Protection Of Civil Rights Act,0,0,0,0,5,0,5,5
+11,Indian Passport Act,3,1,0,4,2,3,7,10
+12,Essential Commodities Act,0,0,4,0,0,4,0,4
+13,Terrorist & Disruptive Actvites Act,0,0,0,0,0,0,0,0
+14,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0
+15,Dowry Prohibition Act,0,0,0,0,3,0,3,3
+16,Child Marriage Restraint Act,0,0,0,0,5,0,5,5
+17,Indecent Representation of Women (P)Act,0,0,0,0,25,0,25,25
+18,Copy Rights Act,0,0,4,0,1,4,1,5
+19,Sati Prevention Act,0,0,0,0,0,0,0,0
+20,SC/ST (Prevention of Atrocities ) Act,0,0,22,0,9,22,9,31
+21,Forest Act,0,0,2,0,0,2,0,2
+22,Other SLL Crimes,1800,31,2183,42,575,3983,648,4631
+23,Total cognizable Crimes Under Sll,1842,35,2819,72,1174,4661,1281,5942
+C.Grang Total (A+B),C.Grang Total (A+B),3136,156,10718,671,3301,13854,4128,17982

@@ -1,0 +1,43 @@
+SL. No.,Category,States/U.Ts./Cities,Boys,Girls,Total
+1,State,Andhra Pradesh,1843,24,1867
+2,State,Assam,310,NA,310
+3,State,Bihar,84,NA,84
+4,State,Gujarat,12530,568,13098
+5,State,Haryana,1461,NA,1461
+6,State,Himachal Pradesh,72,7,79
+7,State,Jammu and Kashmir,NA,NA,NA
+8,State,Karnataka,1349,2229,3578
+9,State,Kerala,19,NA,19
+10,State,Madhya Pradesh,4199,8,4207
+11,State,Maharashtra,23193,695,23888
+12,State,Manipur,11,8,19
+13,State,Meghalaya,89,19,108
+14,State,Nagaland,NA,NA,NA
+15,State,Orissa,85,2,87
+16,State,Punjab,1053,8,1061
+17,State,Rajasthan,228,10,238
+18,State,Tamil Nadu,19811,1726,21537
+19,State,Tripura,NA,NA,NA
+20,State,Uttar Pradesh,205,NA,205
+21,State,West Bengal,2080,333,2413
+Total (States),State,Total (States),68622,5637,74259
+22,UT,A & N Islands,126,65,191
+23,UT,Arunachal Pradesh,NA,NA,NA
+24,UT,Chandigarh,111,1,112
+25,UT,D & N Haveli,2,NA,2
+26,UT,Delhi,768,34,802
+27,UT,"Goa, Daman & Diu",1515,10,1525
+28,UT,Lakshadweep,NA,NA,NA
+29,UT,Mizoram,NA,NA,NA
+30,UT,Pondicherry,103,NA,103
+Total (UTs),UT,Total (UTs),2625,110,2735
+Total (All-India),Total (All-India),Total (All-India),71247,5747,76994
+1,City,Ahmedabad,4002,146,4148
+2,City,Bangalore,766,2110,2876
+3,City,Bombay,1654,250,1904
+4,City,Calcutta,147,20,167
+5,City,Delhi,768,34,802
+6,City,Hyderabad,1814,19,1833
+7,City,Kanpur,33,NA,33
+8,City,Madras,15416,1084,16500
+Total (Cities),City,Total (Cities),24600,3663,28263

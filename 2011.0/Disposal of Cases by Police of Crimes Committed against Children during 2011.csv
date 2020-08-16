@@ -1,0 +1,14 @@
+Sl. No (Col.1),Crime Head (Col.2),Total No. of Cases For investig-ation including Pending Cases from previous year (Col.3),Cases Withdrawn by Govt. (Col.4),No. of Cases in which investigation Refused (Col.5),No. of Cases in which investigation Completed - Charge Found False / Mistakeof Fact or Law Etc. (Col.6),No. of Cases in which investigation Completed - Final Report True Submitted (Col.7),No. of Cases in which investigation Completed - Charge Sheets Submitted (Col.8),No. of Cases in which investigation Completed - Total (Col.9) = {(Col.6) + (Col.7) + (Col.8)},No. of Cases Pending investigation at the end of the year (Col.10)
+1,Infanticide (sec.315 Ipc),91,0,0,2,32,35,69,22
+2,Murder  (sec.302 Ipc) ,2095,0,3,56,184,1179,1419,673
+3,Rape  (sec.376 Ipc) ,9398,0,10,256,169,6002,6427,2961
+4,"Kidnapping .& Abduction  ((sec.363-369,371-373 Ipc) ",21072,167,50,3159,3009,7302,13470,7385
+5,"Foeticide  (sec.315,316 Ipc) ",179,0,0,12,85,30,127,52
+6,Abetment To Suicide  (sec.305 Ipc) ,84,0,0,4,5,53,62,22
+7,Exposure And Abandonment  (sec. 317 Ipc) ,975,2,0,29,588,73,690,283
+8,Procuration Minor Girls  (sec. 366a Ipc) ,1324,0,1,93,51,652,796,527
+9,Buying of Girls For Prost. (sec.373 Ipc)  ,82,0,0,0,0,26,26,56
+10,Selling of Girls For Prost.  (sec.372 Ipc) ,277,0,0,5,19,58,82,195
+11,Prohibition of Child Marriage Act 2006  ,146,0,0,7,4,81,92,54
+12,Other Crimes  ,8565,0,0,164,454,6201,6819,1746
+13,Total  ,44288,169,64,3787,4600,21692,30079,13976

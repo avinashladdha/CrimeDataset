@@ -1,0 +1,36 @@
+SL. No.,Category,State/UT/City,Estimated Mid-Year Population (In Lakhs),Murder - Incidence,Murder - Rate,Murder - Percentage Contribution to All-India,Dacoity - Incidence,Dacoity - Rate,Dacoity - Percentage Contribution to All-India,Robbery - Incidence,Robbery - Rate,Robbery - Percentage Contribution to All-India,Arson - Incidence,Arson - Rate,Arson - Percentage Contribution to All-India,Kidnapping & Abduction - Incidence,Kidnapping & Abduction - Rate,Kidnapping & Abduction - Percentage Contribution to All-India,Rape - Incidence,Rape - Rate,Rape - Percentage Contribution to All-India,Protection of Civil Rights Act - Incidence,Protection of Civil Rights Act - Rate,Protection of Civil Rights Act - Percentage Contribution to All-India,Others - Incidence,Others - Rate,Others - Percentage Contribution to All-India,Total - Incidence,Total - Rate,Total - Percentage Contribution to All-India
+1,State,Andhra Pradesh ,693.4,14,0,13.3,0,0,0,1,0,4.8,0,0,0,3,0,6.8,18,0,5.5,5,0,3.3,75,0.1,2.5,117,0.2,3.2
+2,State,Arunachal Pradesh ,9.2,0,0,0,1,0.1,11.1,0,0,0,0,0,0,0,0,0,1,0.1,0.3,0,0,0,0,0,0,1,0.1,0
+3,State,Assam,235.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,State,Bihar,909.5,6,0,5.7,0,0,0,7,0,33.3,1,0,3.8,5,0,11.4,5,0,1.5,0,0,0,79,0.1,2.7,106,0.1,2.9
+5,State,Goa,12.2,0,0,0,3,0.2,33.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,State,Gujarat,430.9,21,0,20,0,0,0,1,0,4.8,2,0,7.7,12,0,27.3,35,0.1,10.7,2,0,1.3,277,0.6,9.3,352,0.8,9.6
+7,State,Haryana,173.4,0,0,0,2,0,22.2,0,0,0,0,0,0,0,0,0,1,0,0.3,0,0,0,4,0,0.1,5,0,0.1
+8,State,Himachal Pradesh,54,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4.5,1,0,0.3,2,0,1.3,0,0,0,5,0.1,0.1
+9,State,Jammu & Kashmir,81.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0.1,2,0,0.1
+10,State,Karnataka ,466.7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0.6,5,0,3.3,26,0.1,0.9,34,0.1,0.9
+11,State,Kerala,300.7,2,0,1.9,0,0,0,0,0,0,1,0,3.8,1,0,2.3,8,0,2.4,3,0,2,75,0.2,2.5,90,0.3,2.5
+12,State,Madhya Pradesh,694.1,28,0,26.7,0,0,0,4,0,19,11,0,42.3,8,0,18.2,198,0.3,60.4,31,0,20.7,1221,1.8,41.1,1501,2.2,41.1
+13,State,Maharashtra,826.3,17,0,16.2,0,0,0,7,0,33.3,7,0,26.9,7,0,15.9,35,0,10.7,27,0,18,179,0.2,6,281,0.3,7.7
+14,State,Manipur,19.4,0,0,0,2,0.1,22.2,0,0,0,0,0,0,1,0,2.3,0,0,0,0,0,0,0,0,0,1,0.1,0
+15,State,Meghalaya,18.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.2,0.1,3,0.2,0.1
+16,State,Mizoram,7.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0.4,0.1,3,0.4,0.1
+17,State,Nagaland,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,State,Orissa,330.6,3,0,2.9,0,0,0,0,0,0,0,0,0,1,0,2.3,4,0,1.2,4,0,2.7,43,0.1,1.4,55,0.2,1.5
+19,State,Punjab,210.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,State,Rajasthan,462.8,6,0,5.7,0,0,0,0,0,0,4,0,15.4,1,0,2.3,16,0,4.9,35,0.1,23.3,890,1.9,30,953,2.1,26.1
+21,State,Sikkim ,4.4,2,0,1.9,1,0.2,11.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,4.1,0.6,20,4.5,0.5
+22,State,Tamil Nadu,571.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0.1,23.3,1,0,0,36,0.1,1
+23,State,Tripura,29.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Uttar Pradesh,1450.6,3,0,2.9,0,0,0,1,0,4.8,0,0,0,0,0,0,2,0,0.6,0,0,0,63,0,2.1,69,0,1.9
+25,State,West Bengal ,708.7,2,0,1.9,0,0,0,0,0,0,0,0,0,2,0,4.5,2,0,0.6,1,0,0.7,0,0,0,7,0,0.2
+Total (States),State,Total (States),8714.3,105,0,100,9,0,100,21,0,100,26,0,100,43,0,97.7,328,0,100,150,0,100,2959,0.3,99.7,3641,0.4,99.7
+26,UT,A & N Islands,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,UT,Chandigarh,7.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,UT,D & N Haveli,1.5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2.3,0,0,0,0,0,0,10,6.7,0.3,11,7.3,0.3
+29,UT,Daman & Diu,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,UT,Delhi,102.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,UT,Lakshadweep,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,8.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),UT,Total (UTs),124,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2.3,0,0,0,0,0,0,10,0.1,0.3,11,0.1,0.3
+Total (All-India),Total (All-India),Total (All-India),8838.3,105,0,100,9,0,100,21,0,100,26,0,100,44,0,100,328,0,100,150,0,100,2969,0.3,100,3652,0.4,100

@@ -1,0 +1,40 @@
+S. No.,Category,State/UT,Below 18 Yrs - Male,Below 18 Yrs - Female,Below 18 Yrs - Total,Above 18 Yrs - Male,Above 18 Yrs - Female,Above 18 Yrs - Total,Total - Male,Total - Female,Total - Total
+1,State,Andhra Pradesh,0,44,44,0,311,311,0,355,355
+2,State,Arunachal Pradesh,0,2,2,0,1,1,0,3,3
+3,State,Assam,34,96,130,52,67,119,86,163,249
+4,State,Bihar,183,13,196,8,32,40,191,45,236
+5,State,Chhattisgarh,60,78,138,77,54,131,137,132,269
+6,State,Goa,0,2,2,0,84,84,0,86,86
+7,State,Gujarat,137,348,485,31,112,143,168,460,628
+8,State,Haryana,5,8,13,47,89,136,52,97,149
+9,State,Himachal Pradesh,2,2,4,0,113,113,2,115,117
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0
+11,State,Jharkhand,18,72,90,7,58,65,25,130,155
+12,State,Karnataka,113,219,332,113,567,680,226,786,1012
+13,State,Kerala,18,65,83,39,111,150,57,176,233
+14,State,Madhya Pradesh,62,35,97,4,19,23,66,54,120
+15,State,Maharashtra,78,94,172,1,972,973,79,1066,1145
+16,State,Manipur,2,7,9,3,9,12,5,16,21
+17,State,Meghalaya,0,1,1,0,7,7,0,8,8
+18,State,Mizoram,0,2,2,0,0,0,0,2,2
+19,State,Nagaland,0,0,0,0,0,0,0,0,0
+20,State,Odisha,98,108,206,173,133,306,271,241,512
+21,State,Punjab,47,1,48,1,1,2,48,2,50
+22,State,Rajasthan,1823,696,2519,56,279,335,1879,975,2854
+23,State,Sikkim,0,1,1,0,0,0,0,1,1
+24,State,Tamil Nadu,122,195,317,263,869,1132,385,1064,1449
+25,State,Telangana,0,7,7,22,361,383,22,368,390
+26,State,Tripura,2,4,6,3,1,4,5,5,10
+27,State,Uttar Pradesh,748,74,822,8,28,36,756,102,858
+28,State,Uttarakhand,1,2,3,2,18,20,3,20,23
+29,State,West Bengal,426,2687,3113,169,882,1051,595,3569,4164
+Total (States),State,Total (States),3979,4863,8842,1079,5178,6257,5058,10041,15099
+30,UT,A & N Islands,0,0,0,0,5,5,0,5,5
+31,UT,Chandigarh,0,1,1,0,0,0,0,1,1
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,1,1,0,9,9,0,10,10
+34,UT,Delhi,144,46,190,27,47,74,171,93,264
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0,0,0,0,0
+Total (UTs),UT,Total (UTs),144,48,192,27,61,88,171,109,280
+Total (All India),Total (All India),Total (All India),4123,4911,9034,1106,5239,6345,5229,10150,15379

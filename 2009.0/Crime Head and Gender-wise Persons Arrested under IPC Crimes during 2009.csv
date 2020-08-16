@@ -1,0 +1,31 @@
+Crime Head,Male,Female,Total,Percentage to Total - Male,Percentage to Total - Female
+1 . Murder (sec 302 Ipc),58658,4007,62665,93.6,6.4
+2 . Attempt To Commit Murder (sec 307 Ipc),61437,2748,64185,95.7,4.3
+"3 . C.h. Not Amounting Murder (sec 304, 308 Ipc)",6366,113,6479,98.3,1.7
+4 . Rape (sec 376 Ipc) - Total,25096,749,25845,97.1,2.9
+4 . Rape (sec 376 Ipc) - Custodial Rape,7,0,7,100,0
+4 . Rape (sec 376 Ipc) - Other Rape,25089,749,25838,97.1,2.9
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Total",39722,2031,41753,95.1,4.9
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - I) Of Women & Girls",28860,1666,30526,94.5,5.5
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Ii) Of Others",10862,365,11227,96.7,3.3
+6 . Dacoity (sec 395 - 398 Ipc),17217,289,17506,98.3,1.7
+7 . Preparation & Assembly For Dacoity (sec 399-402 Ipc),10924,141,11065,98.7,1.3
+"8 . Robbery (sec 392-394, 397, 398 Ipc)",33008,251,33259,99.2,0.8
+"9 . Burglary (sec. 449-452,454,455,457-460 Ipc)",67186,1269,68455,98.1,1.9
+10 . Theft (sec 379 - 382 Ipc) - Total,187357,6991,194348,96.4,3.6
+10 . Theft (sec 379 - 382 Ipc) - I) Auto Theft,53829,79,53908,99.9,0.1
+10 . Theft (sec 379 - 382 Ipc) - Ii) Other Theft,133528,6912,140440,95.1,4.9
+"11 . Riots (sec 143-145, 147-151, 153, 153a., 153b, 157, 158, 160 Ipc)",286458,17144,303602,94.4,5.6
+12 . Criminal Breach Of Trust(sec.406-409 Ipc),18972,623,19595,96.8,3.2
+"13 . Cheating (sec 419, 420 Ipc)",64587,3249,67836,95.2,4.8
+"14 . Counterfeiting (sec.231-254,489a-489d)",2948,59,3007,98,2
+"15 . Arson (sec 435, 436, 438 Ipc)",11157,329,11486,97.1,2.9
+"16 . Hurt (sec 323-333, 335-338 Ipc)",459107,34258,493365,93.1,6.9
+17 . Dowry Deaths (section 304b Ipc),18192,5182,23374,77.8,22.2
+18 . Molestation (section 354 Ipc),46576,1280,47856,97.3,2.7
+19 . Sexual Harassment (sec 509 Ipc),14209,159,14368,98.9,1.1
+20 . Cruelty By Husband And Relatives (sec 498a Ipc),133044,41351,174395,76.3,23.7
+21 . Importation Of Girls (sec 366b Ipc),38,11,49,77.6,22.4
+22 . Causing Death By Negligence (sec 304a Ipc),81971,259,82230,99.7,0.3
+23 . Other Ipc Crimes,1025501,56801,1082302,94.8,5.2
+24 . Total Cognizable Crimes Under Ipc,2669731,179294,2849025,93.7,6.3

@@ -1,0 +1,75 @@
+Sl. No.,Category,States/ UTs/Cities,Motives - Revenge / Settling scores,Motives - Greed/ Money,Motives - Extortion,Motives - Cause Disrepute,Motives - Prank/ Satisfaction of Gaining Control,Motives - Fraud / Illegal Gain,Motives - Eve Teasing / Harassment,Motives - Others,Motives - Total,Suspects - Foreign National /Group,Suspects - Disgrunted Employee / Employee,Suspects - Cracker / Student / Professional learners,Suspects - Business Competitor,Suspects - Neighbours / Friends & Relatives,Suspects - Others,Suspects - Total
+1,State,Andhra Pradesh,1,2,0,8,0,16,0,76,103,0,2,1,0,0,100,103
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,State,Assam,0,0,0,0,0,0,1,1,2,0,0,0,0,1,1,2
+4,State,Bihar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,State,Chhattisgarh,1,9,0,7,0,2,0,1,20,1,11,0,4,3,1,20
+6,State,Goa,0,3,0,0,0,0,3,0,6,0,2,0,0,0,4,6
+7,State,Gujarat,0,9,0,0,0,15,1,8,33,1,0,0,0,0,32,33
+8,State,Haryana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,State,Himachal Pradesh,0,0,0,0,0,2,3,1,6,1,0,0,0,1,4,6
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,State,Jharkhand,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,State,Karnataka,0,54,0,0,0,0,3,0,57,1,0,0,0,3,53,57
+13,State,Kerala,2,17,0,10,0,5,13,20,67,2,0,3,4,7,51,67
+14,State,Madhya Pradesh,0,2,0,0,0,2,5,2,11,0,0,1,0,0,10,11
+15,State,Maharashtra,6,6,0,0,0,16,10,1,39,0,4,2,0,10,23,39
+16,State,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,State,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,State,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,State,Orissa,0,0,0,0,0,15,0,0,15,0,0,0,0,0,15,15
+21,State,Punjab,0,8,0,0,0,7,9,23,47,2,6,0,0,1,38,47
+22,State,Rajasthan,0,0,0,0,0,0,4,0,4,0,0,0,0,0,4,4
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,2,3,0,0,0,15,3,2,25,0,1,0,0,4,20,25
+25,State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,State,Uttar Pradesh,0,0,0,0,0,2,0,0,2,0,0,0,0,0,2,2
+27,State,Uttarakhand,0,1,0,0,0,0,1,0,2,0,0,0,0,0,2,2
+28,State,West Bengal,0,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+State,State,Total (States),12,114,0,25,0,97,56,137,441,8,26,7,8,30,362,441
+29,Union Territory,A & N Islands,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+30,Union Territory,Chandigarh,4,3,0,0,0,0,0,2,9,0,3,0,0,1,5,9
+31,Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,0,0,0,0,0,5,7,0,12,0,0,1,3,1,7,12
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Union Territory,Union Territory,Total (UTs),4,3,0,0,0,5,7,4,23,0,3,1,3,2,14,23
+Total (All-India),Total (All-India),Total (All-India),16,117,0,25,0,102,63,141,464,8,29,8,11,32,376,464
+36,City,Agra,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1
+37,City,Ahmedabad,0,0,0,0,0,15,0,8,23,0,0,0,0,0,23,23
+38,City,Allahabad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,City,Amritsar,0,0,0,0,0,0,1,2,3,1,0,0,0,1,1,3
+40,City,Asansol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,City,Bengaluru,0,54,0,0,0,0,3,0,57,1,0,0,0,3,53,57
+42,City,Bhopal,0,0,0,0,0,0,2,2,4,0,0,0,0,0,4,4
+43,City,Chennai,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+44,City,Coimbatore,1,2,0,0,0,8,0,2,13,2,0,4,1,1,5,13
+45,City,Delhi (city),0,0,0,0,0,5,7,0,12,0,0,1,3,1,7,12
+46,City,Dhanbad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,City,Faridabad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,City,Hyderabad,0,0,0,0,0,2,0,16,18,0,0,0,0,0,18,18
+49,City,Indore,0,2,0,0,0,2,3,0,7,0,0,1,0,0,6,7
+50,City,Jabalpur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,City,Jaipur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,City,Jamshedpur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,City,Kanpur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,City,Kochi,0,3,0,0,0,0,4,5,12,0,0,0,2,4,6,12
+55,City,Kolkata,0,0,0,0,0,0,0,2,2,0,0,0,0,0,2,2
+56,City,Lucknow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,City,Ludhiana,0,0,0,0,0,2,4,0,6,0,0,0,0,0,6,6
+58,City,Madurai,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,City,Meerut,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,City,Mumbai,6,0,0,0,0,5,0,1,12,0,0,1,0,7,4,12
+61,City,Nagpur,0,0,0,0,0,1,1,0,2,0,0,0,0,0,2,2
+62,City,Nasik,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,City,Patna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,City,Pune,0,3,0,0,0,1,5,0,9,0,1,0,0,1,7,9
+65,City,Rajkot,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+66,City,Surat,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+67,City,Vadodara,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2,2
+68,City,Varanasi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,City,Vijayawada,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,City,Vishakhapatnam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+City,City,Total (Cities),7,68,0,0,0,42,30,39,186,5,1,7,6,18,149,186

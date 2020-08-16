@@ -1,0 +1,39 @@
+Sl. No.,Category,States/ UTs,Total No. of Cases Reported,Sex-Wise / Age Group-Wise - Upto 10 Years (Male),Sex-Wise / Age Group-Wise - Upto 10 Years (Female),Sex-Wise / Age Group-Wise - 10 - 15 Years (Male),Sex-Wise / Age Group-Wise - 10 - 15 Years (Female),Sex-Wise / Age Group-Wise - 15 - 18 Years (Male),Sex-Wise / Age Group-Wise - 15 - 18 Years (Female),Sex-Wise / Age Group-Wise - 18 - 30 Years (Male),Sex-Wise / Age Group-Wise - 18 - 30 Years (Female),Sex-Wise/Age Group-Wise - 30- 50 Years (Male),Sex-Wise/Age Group-Wise - 30- 50 Years (Female),Sex-Wise/Age Group-Wise - Above 50 Years (Male),Sex-Wise/Age Group-Wise - Above 50 Years (Female),Sex-Wise/Age Group-Wise - Total (Male),Sex-Wise/Age Group-Wise - Total (Female),Grand Total
+1,State,Andhra Pradesh,1970,11,15,16,132,16,243,322,875,185,129,32,5,582,1399,1981
+2,State,Arunachal Pradesh,79,0,0,0,13,0,2,16,30,15,2,1,0,32,47,79
+3,State,Assam,2239,0,1,0,4,0,2,329,1046,116,736,5,0,450,1789,2239
+4,State,Bihar,3047,17,4,41,80,65,289,910,1368,209,46,16,2,1258,1789,3047
+5,State,Chhattisgarh,273,3,5,3,35,11,39,18,108,4,47,0,0,39,234,273
+6,State,Goa,36,1,4,1,4,0,17,2,6,3,1,1,0,8,32,40
+7,State,Gujarat,1323,17,16,26,94,5,368,142,530,73,65,2,0,265,1073,1338
+8,State,Haryana,854,12,2,5,39,19,27,108,565,47,38,6,2,197,673,870
+9,State,Himachal Pradesh,151,1,2,1,25,3,57,7,53,3,3,0,0,15,140,155
+10,State,Jammu & Kashmir,704,1,1,0,0,1,0,36,569,8,93,0,0,46,663,709
+11,State,Jharkhand,792,6,0,9,5,16,38,229,362,96,26,5,0,361,431,792
+12,State,Karnataka,758,11,9,1,21,2,69,172,353,90,33,13,3,289,488,777
+13,State,Kerala,253,2,5,9,7,2,62,39,77,34,15,4,1,90,167,257
+14,State,Madhya Pradesh,929,14,7,9,68,15,151,100,484,60,33,5,0,203,743,946
+15,State,Maharashtra,1379,44,25,40,145,28,420,155,420,107,66,13,2,387,1078,1465
+16,State,Manipur,176,3,1,23,24,7,30,25,58,41,8,17,0,116,121,237
+17,State,Meghalaya,56,0,0,0,4,7,10,12,12,9,2,0,0,28,28,56
+18,State,Mizoram,9,0,2,0,0,0,0,5,1,1,0,0,0,6,3,9
+19,State,Nagaland,44,0,0,0,0,0,3,14,4,15,1,7,0,36,8,44
+20,State,Orissa,908,1,1,1,2,3,4,98,599,36,155,7,1,146,762,908
+21,State,Punjab,718,15,12,4,47,5,105,95,360,54,27,8,1,181,552,733
+22,State,Rajasthan,2358,12,12,15,102,33,330,268,1195,153,205,18,21,499,1865,2364
+23,State,Sikkim,4,0,0,0,0,0,4,0,1,0,0,0,0,0,5,5
+24,State,Tamil Nadu,1375,7,5,1,34,7,227,67,796,114,116,11,2,207,1180,1387
+25,State,Tripura,146,2,0,3,3,3,26,20,80,20,1,4,0,52,110,162
+26,State,Uttar Pradesh,5428,8,2,62,263,175,1714,527,2059,209,401,10,0,991,4439,5430
+27,State,Uttarakhand,247,1,0,4,6,3,14,12,168,5,35,0,0,25,223,248
+28,State,West Bengal,2332,0,1,31,55,75,34,285,1782,34,41,0,0,425,1913,2338
+State,State,Total (States),28588,189,132,305,1212,501,4285,4013,13961,1741,2325,185,40,6934,21955,28889
+29,Union Territory,A & N Islands,17,0,0,3,1,0,8,0,1,2,2,0,0,5,12,17
+30,Union Territory,Chandigarh,50,2,2,1,12,0,20,6,9,0,0,1,0,10,43,53
+31,Union Territory,D & N Haveli,17,1,1,0,3,0,6,2,1,2,0,1,0,6,11,17
+32,Union Territory,Daman & Diu,4,0,0,0,0,0,0,4,0,0,0,0,0,4,0,4
+33,Union Territory,Delhi,1567,161,137,116,277,52,487,93,232,30,7,3,2,455,1142,1597
+34,Union Territory,Lakshadweep,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+35,Union Territory,Puducherry,17,4,0,1,3,0,6,1,0,1,0,1,0,8,9,17
+Union Territory,Union Territory,Total (UTs),1673,168,140,121,296,52,527,106,244,35,9,6,2,488,1218,1706
+Total (All India),Total (All India),Total (All India),30261,357,272,426,1508,553,4812,4119,14205,1776,2334,191,42,7422,23173,30595

@@ -1,0 +1,36 @@
+SL. No.,Category,Crime Head,1984,1985,1986,1987,1988
+1,A. IPC Crimes,Murder,2.3,2.4,2.5,2.3,2.3
+2,A. IPC Crimes,Attempt to Commit Murder,*,*,*,*,2.6
+3,A. IPC Crimes,C.H. Not Amounting to Murder,1.9,2,2.1,2.3,2.2
+4,A. IPC Crimes,Rape,1.4,1.4,1.4,1.3,1.4
+5,A. IPC Crimes,Kidnapping & Abduction,1.2,1.3,1.3,1.4,1.3
+5,A. IPC Crimes,I) Of Women & Girls,*,*,*,*,1.3
+5,A. IPC Crimes,II) Of Others,*,*,*,*,1.5
+6,A. IPC Crimes,Dacoity,3.5,3.9,4,3.5,3.5
+7,A. IPC Crimes,Preparation & Assembly for Dacoity,*,*,*,*,4.1
+8,A. IPC Crimes,Robbery,1.2,1.3,1.4,1.3,1.3
+9,A. IPC Crimes,Burglary,0.7,0.7,0.7,0.7,0.8
+10,A. IPC Crimes,Theft,0.6,0.7,0.7,0.7,0.7
+11,A. IPC Crimes,Riots,5.7,5.9,6,6.1,5.7
+12,A. IPC Crimes,Criminal Breach of Trust,0.9,0.8,0.9,0.9,1
+13,A. IPC Crimes,Cheating,0.9,0.9,0.9,0.9,0.9
+14,A. IPC Crimes,Counterfeiting,1.2,0.5,0.6,0.5,0.5
+15,A. IPC Crimes,Other IPC Crimes,1.5,1.5,1.5,1.5,1.7
+16,A. IPC Crimes,Total Cognizable Crimes Under IPC,1.5,1.6,1.6,1.6,1.7
+1,B. LSL Crimes,Arms Act,1,1,1,1.1,1.1
+2,B. LSL Crimes,Narcotic Drugs & Psychotropic Substances Act,1,1,1,1.1,0.9
+3,B. LSL Crimes,Gambling Act,1.8,1.7,1.9,1.9,2.1
+4,B. LSL Crimes,Excise Act,1,1,1.1,1.1,1.1
+5,B. LSL Crimes,Prohibition Act,1,1,1,0.9,1
+6,B. LSL Crimes,Explosive & Explosive Substances Act,1.1,1.5,1.2,1.2,1.2
+7,B. LSL Crimes,Immoral Traffic (Prevention) Act,1.1,1.1,1.2,1.2,1.1
+8,B. LSL Crimes,Indian Railways Act,1,1.2,1.3,1.5,0.9
+9,B. LSL Crimes,Foreigner's Registration Act,*,*,*,*,0.7
+10,B. LSL Crimes,Protection Of Civil Rights Act,*,*,*,*,2.1
+11,B. LSL Crimes,Indian Passport Act,*,*,*,*,1.3
+12,B. LSL Crimes,Essential Commodities Act,*,*,*,*,1.2
+13,B. LSL Crimes,Terrorist & Disruptive Activites Act,*,*,*,*,2.4
+14,B. LSL Crimes,Antiquity & Art Treasure Act,*,*,*,*,0.1
+15,B. LSL Crimes,Dowry Prohibition Act,*,*,*,*,2
+16,B. LSL Crimes,Other LSL Crimes not Included Above,1.1,1.1,1.1,1,1
+17,B. LSL Crimes,Total Cognizable Crimes Under LSL,1.1,1.1,1.1,1,1

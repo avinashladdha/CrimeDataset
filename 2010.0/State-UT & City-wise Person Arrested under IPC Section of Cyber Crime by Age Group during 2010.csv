@@ -1,0 +1,75 @@
+Sr. No.,Category,States/ UTs/ Cities,Below - 18 years,Between - 18 – 30 - years,Between - 30 – 45 - years,Between - 45 – 60 - years,Above - 60 years,Total
+1,State,Andhra Pradesh,0,26,59,41,0,126
+2,State,Arunachal Pradesh,0,0,0,0,0,0
+3,State,Assam,0,0,0,0,0,0
+4,State,Bihar,0,0,0,0,0,0
+5,State,Chhattisgarh,0,10,26,8,0,44
+6,State,Goa,0,0,0,0,0,0
+7,State,Gujarat,0,8,8,2,0,18
+8,State,Haryana,0,0,0,0,0,0
+9,State,Himachal Pradesh,0,0,0,0,0,0
+10,State,Jammu & Kashmir,0,0,0,0,0,0
+11,State,Jharkhand,0,0,0,0,0,0
+12,State,Karnataka,1,10,10,1,0,22
+13,State,Kerala,0,2,2,0,0,4
+14,State,Madhya Pradesh,0,5,5,0,0,10
+15,State,Maharashtra,0,29,26,8,1,64
+16,State,Manipur,0,0,0,0,0,0
+17,State,Meghalaya,0,0,0,0,0,0
+18,State,Mizoram,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,0
+20,State,Odisha,0,3,0,0,0,3
+21,State,Punjab,0,7,32,3,0,42
+22,State,Rajasthan,0,2,1,0,0,3
+23,State,Sikkim,0,0,0,0,0,0
+24,State,Tamil Nadu,0,8,7,2,0,17
+25,State,Tripura,0,0,0,0,0,0
+26,State,Uttar Pradesh,0,15,9,0,0,24
+27,State,Uttarakhand,0,1,2,0,0,3
+28,State,West Bengal,0,4,6,4,0,14
+State,State,Total (States),1,130,193,69,1,394
+29,Union Territory,A & N Islands,0,0,0,0,0,0
+30,Union Territory,Chandigarh,0,0,0,0,0,0
+31,Union Territory,D & N Haveli,0,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0
+33,Union Territory,Delhi,0,0,0,0,0,0
+34,Union Territory,Lakshadweep @,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,0,0,0
+Union Territory,Union Territory,Total (UTs),0,0,0,0,0,0
+Total (All-India),Total (All-India),Total (All-India),1,130,193,69,1,394
+36,City,Agra,0,2,0,0,0,2
+37,City,Ahmedabad,0,6,8,2,0,16
+38,City,Allahabad,0,1,2,0,0,3
+39,City,Amritsar,0,0,0,0,0,0
+40,City,Asansol,0,0,0,0,0,0
+41,City,Bengaluru,0,3,0,0,0,3
+42,City,Bhopal,0,0,0,0,0,0
+43,City,Chennai,0,8,3,2,0,13
+44,City,Coimbatore,0,0,3,0,0,3
+45,City,Delhi,0,0,0,0,0,0
+46,City,Dhanbad,0,0,0,0,0,0
+47,City,Faridabad,0,0,0,0,0,0
+48,City,Hyderabad,0,0,1,0,0,1
+49,City,Indore,0,4,4,0,0,8
+50,City,Jabalpur,0,0,0,0,0,0
+51,City,Jaipur,0,0,0,0,0,0
+52,City,Jamshedpur,0,0,0,0,0,0
+53,City,Kanpur,0,2,2,0,0,4
+54,City,Kochi,0,2,2,0,0,4
+55,City,Kolkata,0,4,6,4,0,14
+56,City,Lucknow,0,0,0,0,0,0
+57,City,Ludhiana,0,1,0,0,0,1
+58,City,Madurai,0,0,0,0,0,0
+59,City,Meerut,0,0,0,0,0,0
+60,City,Mumbai,0,13,10,3,0,26
+61,City,Nagpur,0,0,0,0,0,0
+62,City,Nasik,0,0,0,0,0,0
+63,City,Patna,0,0,0,0,0,0
+64,City,Pune,0,13,4,1,1,19
+65,City,Rajkot,0,0,0,0,0,0
+66,City,Surat,0,0,0,0,0,0
+67,City,Vadodara,0,0,0,0,0,0
+68,City,Varanasi,0,0,0,0,0,0
+69,City,Vijayawada,0,0,0,0,0,0
+70,City,Vishakhapatnam,0,0,1,0,0,1
+City,City,Total (Cities),0,59,46,12,1,118

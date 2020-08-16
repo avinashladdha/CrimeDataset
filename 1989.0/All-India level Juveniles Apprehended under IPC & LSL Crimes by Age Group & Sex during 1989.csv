@@ -1,0 +1,37 @@
+SL. No.,Category,Crime Head,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Girls Only,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+1,IPC Crimes,Murder,25,2,298,15,59,323,76,399
+2,IPC Crimes,Attempt to Commit Murder,12,1,180,7,41,192,49,241
+3,IPC Crimes,C.H. Not Amounting to Murder,1,0,28,0,0,29,0,29
+4,IPC Crimes,Rape,8,1,168,4,15,176,20,196
+5,IPC Crimes,Kidnapping & Abduction,5,0,111,13,38,116,51,167
+5,IPC Crimes,I) Of Women & Girls,4,0,84,12,36,88,48,136
+5,IPC Crimes,II) Of Others,1,0,27,1,2,28,3,31
+6,IPC Crimes,Dacoity,4,0,243,2,0,247,2,249
+7,IPC Crimes,Preparation & Assembly for Dacoity,1,0,17,0,0,18,0,18
+8,IPC Crimes,Robbery,10,3,224,1,20,234,24,258
+9,IPC Crimes,Burglary,244,14,1727,35,354,1971,403,2374
+10,IPC Crimes,Theft,555,89,3798,134,737,4353,960,5313
+11,IPC Crimes,Riots,185,19,2330,72,216,2515,307,2822
+12,IPC Crimes,Criminal Breach of Trust,1,0,20,1,3,21,4,25
+13,IPC Crimes,Cheating,0,0,51,2,24,51,26,77
+14,IPC Crimes,Counterfeiting,0,0,0,0,0,0,0,0
+15,IPC Crimes,Other IPC Crimes,431,33,4004,263,773,4435,1069,5504
+A,IPC Crimes,Total Cognizable Crimes Under IPC,1482,162,13199,549,2280,14681,2991,17672
+1,LSL Crimes,Arms Act,1,0,178,1,1,179,2,181
+2,LSL Crimes,Narcotic Drugs & Psychotropic Substances Act,1,0,13,1,8,14,9,23
+3,LSL Crimes,Gambling Act,44,0,1088,4,227,1132,231,1363
+4,LSL Crimes,Excise Act,5,0,147,9,149,152,158,310
+5,LSL Crimes,Prohibition Act,101,5,1257,143,2244,1358,2392,3750
+6,LSL Crimes,Explosive & Explosive Substances Act,0,0,66,0,0,66,0,66
+7,LSL Crimes,Immoral Traffic (Prevention) Act,0,0,0,1,430,0,431,431
+8,LSL Crimes,Indian Railways Act,36,2,102,1,27,138,30,168
+9,LSL Crimes,Foreigner's Registration Act,0,0,13,2,0,13,2,15
+10,LSL Crimes,Protection Of Civil Rights Act,0,0,14,0,7,14,7,21
+11,LSL Crimes,Indian Passport Act,0,0,5,0,10,5,10,15
+12,LSL Crimes,Essential Commodities Act,0,0,37,0,0,37,0,37
+13,LSL Crimes,Terrorist & Disruptive Activites Act,2,0,324,2,2,326,4,330
+14,LSL Crimes,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0
+15,LSL Crimes,Dowry Prohibition Act,0,0,25,0,0,25,0,25
+16,LSL Crimes,Other LSL Crimes,2936,35,3701,146,5167,6637,5348,11985
+B,LSL Crimes,Total Cognizable Crimes Under LSL,3126,42,6970,310,8272,10096,8624,18720
+C,Grand Total (A+B),Grand Total (A+B),4608,204,20169,859,10552,24777,11615,36392

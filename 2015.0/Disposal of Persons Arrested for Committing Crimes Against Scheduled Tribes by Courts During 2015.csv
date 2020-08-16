@@ -1,0 +1,64 @@
+CRIME HEAD,Persons in Custody during the Stage of Trial at the Beginning of the year - Male,Persons in Custody during the Stage of Trial at the Beginning of the year - Female,Persons on Bail during the Stage of Trial at the Beginning of the year - Male,Persons on Bail during the Stage of Trial at the Beginning of the year - Female,Total Number of Persons under Trial During the Year * - Male,Total Number of Persons under Trial During the Year * - Female,Persons Against whom Cases were Compounded by Courts - Male,Persons Against whom Cases were Compounded by Courts - Female,Persons Against whom Cases were Withdrawn - Male,Persons Against whom Cases were Withdrawn - Female,Persons in whose Cases Trials were Completed During the Year - Male,Persons in whose Cases Trials were Completed During the Year - Female,Persons Convicted - Male,Persons Convicted - Female,Persons Acquitted - Male,Persons Acquitted - Female,Persons Discharged by Court - Male,Persons Discharged by Court - Female,Persons in Custody during the stage of Trial at the end of the year - Male,Persons in Custody during the stage of Trial at the end of the year - Female,Persons on Bail During the stage of Trial at the end of the year - Male,Persons on Bail During the stage of Trial at the end of the year - Female
+"1 Protection of Civil Rights Act, 1955",4,0,35,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,36,0
+2.1 Murder,529,2,883,10,1691,13,0,0,1,0,136,1,42,0,94,1,0,0,458,3,1096,9
+2.2 Attempt to Commit Murder,65,1,274,2,577,5,0,0,0,0,30,0,9,0,21,0,0,0,103,1,444,4
+2.3 Rape,1408,4,2014,13,4672,32,0,0,0,0,785,4,155,0,610,4,20,0,1608,5,2279,23
+2.4 Attempt to Commit Rape,7,0,21,0,44,0,0,0,0,0,3,0,1,0,2,0,0,0,2,0,39,0
+2.5 Assault on Women with Intent to Outrage her Modesty,260,0,993,7,2163,13,4,0,0,0,420,0,97,0,323,0,0,0,303,0,1436,13
+2.5.1 Sexual Harassment,47,0,288,2,682,2,1,0,0,0,138,0,24,0,114,0,0,0,123,0,420,2
+2.5.2 Assault on Women with Intent to Disrobe,10,0,30,0,88,1,0,0,0,0,12,0,3,0,9,0,0,0,16,0,60,1
+2.5.3 Voyeurism,0,0,2,0,6,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5,0
+2.5.4 Stalking,15,0,19,0,51,0,0,0,0,0,20,0,4,0,16,0,0,0,2,0,29,0
+2.5.5 Other Sexual Harassment,188,0,654,5,1336,10,3,0,0,0,249,0,66,0,183,0,0,0,162,0,922,10
+2.6 Insult to the Modesty of women,0,0,32,0,50,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,46,0
+2.7 Kidnapping & Abduction,325,8,402,2,896,13,0,0,0,0,106,4,15,0,91,4,0,0,286,4,504,5
+2.7.1 Kidnaping & Abduction,66,1,55,0,156,2,0,0,0,0,17,0,5,0,12,0,0,0,54,2,85,0
+2.7.2 Kidnaping & Abduction in Order to Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2.7.3 Kidnapping for Ransom,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+2.7.4 Kidnapping & Abduction of Women to Compel Her for Marriage,89,0,174,2,347,3,0,0,0,0,36,0,5,0,31,0,0,0,81,0,230,3
+2.7.5 Other Kidnapping,170,7,170,0,390,8,0,0,0,0,53,4,5,0,48,4,0,0,151,2,186,2
+2.8 Dacoity,40,0,155,5,205,5,0,0,0,0,17,0,0,0,17,0,0,0,39,0,149,5
+2.8.1 Dacoity with Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2.8.2 Other Dacoity,40,0,155,5,205,5,0,0,0,0,17,0,0,0,17,0,0,0,39,0,149,5
+2.9 Robbery,32,0,63,0,103,0,0,0,0,0,15,0,3,0,12,0,0,0,29,0,59,0
+2.10 Arson,76,0,430,8,533,8,0,0,0,0,47,0,7,0,40,0,0,0,82,0,404,8
+2.11 Grievous Hurt,517,5,2296,29,3095,35,9,0,0,0,357,19,64,2,286,17,7,0,486,3,2243,13
+2.11.1 Hurt,515,5,2296,29,3093,35,9,0,0,0,357,19,64,2,286,17,7,0,486,3,2241,13
+2.11.2 Acid attack,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+2.11.3 Attempt to Acid Attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2.12 Riots,182,2,1284,64,2121,81,0,0,0,0,309,16,24,0,284,16,1,0,148,2,1664,63
+2.13 Other IPC crimes,1618,20,10335,198,14974,331,64,5,10,0,2020,55,432,7,1571,48,17,0,1546,17,11334,254
+2.14 SC / ST (Prevention of Atrocities) Act,1790,38,6386,151,9426,244,154,0,4,0,1424,38,153,3,1238,35,33,0,1365,34,6479,172
+2 Total of SC/ST (Prevention of Atrocities) Act,6849,80,25568,489,40550,780,231,5,15,0,5671,137,1002,12,4591,125,78,0,6457,69,28176,569
+3.1 Murder,126,4,114,12,459,32,0,0,0,0,70,2,24,1,46,1,0,0,224,10,165,20
+3.2 Attempt to Commit Murder,46,0,102,4,255,8,0,0,0,0,27,0,4,0,23,0,0,0,88,2,140,6
+3.3 Rape,70,1,210,4,487,10,1,0,0,0,110,0,25,0,85,0,0,0,139,1,237,9
+3.4 Attempt to Commit Rape,0,0,26,5,40,5,0,0,0,0,7,0,1,0,6,0,0,0,0,0,33,5
+3.5 Assault on Women with Intent to Outrage Her Modesty,88,0,518,23,985,45,9,0,5,0,144,5,66,3,77,2,1,0,129,0,698,40
+3.5.1 Sexual Harassment,9,0,24,0,71,2,0,0,0,0,8,0,3,0,5,0,0,0,13,0,50,2
+3.5.2 Assault on Women with Intent to Disrobe,7,0,22,0,99,7,1,0,0,0,7,0,5,0,2,0,0,0,13,0,78,7
+3.5.3 Voyeurism,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+3.5.4 Stalking,0,0,4,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0
+3.5.5 Other Sexual Harassment,72,0,468,23,791,36,8,0,5,0,129,5,58,3,70,2,1,0,102,0,547,31
+3.6 Insult to the Modesty of Women,0,0,41,0,63,0,5,0,0,0,9,0,1,0,8,0,0,0,4,0,45,0
+3.7 Kidnapping & Abduction,40,4,220,2,385,10,0,0,0,0,83,3,12,0,71,3,0,0,75,4,227,3
+3.7.1 Kidnaping & Abduction,13,0,27,0,91,1,0,0,0,0,11,0,1,0,10,0,0,0,44,1,36,0
+3.7.2 Kidnaping & Abduction in Order to Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.7.3 Kidnapping for Ransom,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.7.4 Kidnapping & Abduction of Women to Compel Her for Marriage,15,1,143,2,214,6,0,0,0,0,54,3,11,0,43,3,0,0,15,0,145,3
+3.7.5 Other Kidnapping,12,3,50,0,80,3,0,0,0,0,18,0,0,0,18,0,0,0,16,3,46,0
+3.8 Dacoity,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+3.8.1 Dacoity with Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.8.2 Other Dacoity,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+3.9 Robbery,48,0,71,0,138,0,0,0,0,0,4,0,1,0,3,0,0,0,63,0,71,0
+3.10 Arson,55,0,109,14,226,16,1,0,0,0,32,7,0,0,32,7,0,0,57,0,136,9
+3.11 Grievous Hurt,15,0,242,16,369,22,2,0,1,0,10,0,8,0,2,0,0,0,33,0,323,22
+3.11.1 Grievous Hurt,15,0,242,16,369,22,2,0,1,0,10,0,8,0,2,0,0,0,33,0,323,22
+3.11.2 Acid attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.11.3 Attempt to Acid Attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3.12 Riots,9,0,1340,116,1673,152,5,0,0,0,72,4,52,4,20,0,0,0,70,2,1526,146
+3.13 Other IPC Crimes,347,12,6076,738,9724,1030,234,28,137,0,1800,119,952,67,840,52,8,0,593,15,6960,868
+3 Total IPC Crimes against STs,845,21,9069,934,14808,1330,257,28,143,0,2368,140,1146,75,1213,65,9,0,1479,34,10561,1128
+"4 Employment of Manual Scavengers and Construction of Dry Latrines(P) Act, 1993",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5 Other SLL Crime against STs,53,0,167,0,649,5,0,2,0,0,63,0,30,0,33,0,0,0,55,1,531,2
+Total Crimes against Scheduled Tribes,7751,101,34839,1423,56046,2115,488,35,158,0,8102,277,2178,87,5837,190,87,0,7994,104,39304,1699

@@ -1,0 +1,39 @@
+Sr. No. (Col 1),Category (Col 2),States/ UTs (Col 3),Age Groups - 18-25 Years (Col 4),Age Groups - 25-35 Years (Col 5),Age Groups - 35-45 Years (Col 6),Age Groups - 45-55 Years (Col 7),Age Groups - Above 55 Years (Col 8),Age Groups - Total (Col 4 to Col 8) = (Col 9)
+1,State,Andhra Pradesh,2,23,18,12,0,55
+2,State,Arunachal Pradesh,0,0,0,0,0,0
+3,State,Assam,0,1,12,4,1,18
+4,State,Bihar,1,2,6,8,0,17
+5,State,Chhattisgarh,1,7,6,0,1,15
+6,State,Goa,0,0,0,0,0,0
+7,State,Gujarat,3,19,18,15,3,58
+8,State,Haryana,0,10,14,7,1,32
+9,State,Himachal Pradesh,0,0,0,1,0,1
+10,State,Jammu & Kashmir,27,43,18,8,0,96
+11,State,Jharkhand,7,10,9,4,4,34
+12,State,Karnataka,0,5,4,8,2,19
+13,State,Kerala,0,0,0,0,0,0
+14,State,Madhya Pradesh,1,10,17,11,0,39
+15,State,Maharashtra,2,23,22,13,0,60
+16,State,Manipur,2,1,0,0,0,3
+17,State,Meghalaya,0,8,1,0,0,9
+18,State,Mizoram,0,0,0,0,0,0
+19,State,Nagaland,0,1,2,0,0,3
+20,State,Orissa,0,1,5,0,1,7
+21,State,Punjab,6,17,31,19,0,73
+22,State,Rajasthan,1,17,10,4,1,33
+23,State,Sikkim,0,0,0,0,0,0
+24,State,Tamil Nadu,0,8,22,13,0,43
+25,State,Tripura,34,6,2,0,0,42
+26,State,Uttar Pradesh,4,13,41,19,3,80
+27,State,Uttaranchal,0,0,0,0,0,0
+28,State,West Bengal,3,11,10,3,0,27
+State,State,Total (States),94,236,268,149,17,764
+29,Union Territory,A & N Islands,0,0,0,0,0,0
+30,Union Territory,Chandigarh,0,1,1,0,0,2
+31,Union Territory,D & N Haveli,0,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0
+33,Union Territory,Delhi,1,5,7,1,0,14
+34,Union Territory,Lakshadweep,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,1,0,1
+Union Territory,Union Territory,Total (UTs),1,6,8,2,0,17
+Total (All-India),Total (All-India),Total (All-India),95,242,276,151,17,781

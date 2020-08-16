@@ -1,0 +1,22 @@
+Category,Crime Head,Persons Arrested,Persons Chargesheeted,Persons convicted,Persons Acquitted,Persons Discharged
+IPC- Cases,Murder,10,11,0,0,0
+IPC- Cases,Culpable Homicide not Amounting to Murder,1,0,0,0,0
+IPC- Cases,Attempt to Commit Murder,0,0,0,1,0
+IPC- Cases,Attempt to Commit Culpable Homicide,6,6,0,0,0
+IPC- Cases,Grievous Hurt,5,3,0,0,0
+IPC- Cases,Assault on Women with Intent to Outrage her Modesty,40,34,2,2,0
+IPC- Cases,Kidnapping & Abduction,2,1,0,1,0
+IPC- Cases,Human Trafficking,2,1,0,0,0
+IPC- Cases,Rape,31,31,0,4,0
+IPC- Cases,Theft,12,11,1,6,2
+IPC- Cases,Extortion,2,2,0,0,0
+IPC- Cases,Robbery,10,6,1,0,0
+IPC- Cases,Dacoity,3,3,0,0,0
+IPC- Cases,Cheating,3,3,0,0,0
+IPC- Cases,Forgery,2,1,0,1,0
+IPC- Cases,Insult to the Modesty of Women,10,8,0,0,0
+IPC- Cases,Other IPC *,53,43,22,6,0
+IPC- Cases,Total,192,164,26,21,2
+SLL - Cases,"Immoral Traffic (Prevention) Act, 1956",7,10,0,0,0
+SLL - Cases,Other SLL,9,9,0,4,0
+Grand Total,Total Crimes Against Foreigners,208,183,26,25,2

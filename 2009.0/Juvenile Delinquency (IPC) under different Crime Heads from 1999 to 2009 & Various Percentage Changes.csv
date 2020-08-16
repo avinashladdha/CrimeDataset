@@ -1,0 +1,31 @@
+Crime Head,Year - 1999,Year - 2004,Year - 2005,Year - 2006,Year - 2007,Year - 2008,Quinquennial Average (2004-2008) (Q.A),2009,Percentage Change in 2009 [(+) Increase / (-) Decrease] Over - 1999,Percentage Change in 2009 [(+) Increase / (-) Decrease] Over - Q.A,Percentage Change in 2009 [(+) Increase / (-) Decrease] Over - 2008,Note of Year - 1999,Note of Percentage Change in 2009 [(+) Increase / (-) Decrease] Over - 1999,Note of Percentage Change in 2009 [(+) Increase / (-) Decrease] Over - Q.A,Note of Percentage Change in 2009 [(+) Increase / (-) Decrease] Over - 2008
+1 . Murder (sec 302 Ipc),250,472,522,605,672,743,603,844,237.6,40,13.6,NA,NA,NA,NA
+2 . Attempt To Commit Murder (sec 307 Ipc),179,443,374,489,547,563,483,603,236.9,24.8,7.1,NA,NA,NA,NA
+"3 . C.h. Not Amounting Murder (sec 304, 308 Ipc)",21,19,58,36,41,23,35,25,19,-29.4,8.7,NA,NA,NA,NA
+4 . Rape (sec 376 Ipc) - Total,159,568,586,656,746,776,666,798,401.9,19.7,2.8,NA,NA,NA,NA
+4 . Rape (sec 376 Ipc) - Custodial Rape,NA,0,0,0,0,0,0,0,NA,0,0,*,@,NA,NA
+4 . Rape (sec 376 Ipc) - Other Rape,NA,568,586,656,746,776,666,798,NA,19.7,2.8,*,@,NA,NA
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Total",83,232,246,271,301,354,281,396,377.1,41,11.9,NA,NA,NA,NA
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - I) Of Women & Girls",66,167,191,208,205,242,203,275,316.7,35.7,13.6,NA,NA,NA,NA
+"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Ii) Of Others",17,65,55,63,96,112,78,121,611.8,54.7,8,NA,NA,NA,NA
+6 . Dacoity (sec 395 - 398 Ipc),25,121,120,99,144,161,129,150,500,16.3,-6.8,NA,NA,NA,NA
+7 . Preparation & Assembly For Dacoity (sec 399-402 Ipc),2,46,58,74,87,68,67,72,3500,8.1,5.9,NA,NA,NA,NA
+"8 . Robbery (sec 392-394, 397, 398 Ipc)",68,224,230,321,409,500,337,481,607.4,42.8,-3.8,NA,NA,NA,NA
+"9 . Burglary (sec. 449-452,454,455,457-460 Ipc)",1344,2138,2270,2675,2603,2702,2478,2431,80.9,-1.9,-10,NA,NA,NA,NA
+10 . Theft (sec 379 - 382 Ipc) - Total,2172,4554,4846,5316,5606,5615,5187,5253,141.9,1.3,-6.4,NA,NA,NA,NA
+10 . Theft (sec 379 - 382 Ipc) - I) Auto Theft,158,748,904,1072,1068,1319,1022,1512,857,47.9,14.6,NA,NA,NA,NA
+10 . Theft (sec 379 - 382 Ipc) - Ii) Other Theft,2010,3806,3942,4244,4538,4296,4165,3741,86.1,-10.2,-12.9,NA,NA,NA,NA
+"11 . Riots (sec 143-145, 147-151, 153, 153a., 153b, 157, 158, 160 Ipc)",509,982,934,988,1440,1574,1184,1422,179.4,20.1,-9.7,NA,NA,NA,NA
+12 . Criminal Breach Of Trust(sec.406-409 Ipc),13,43,30,15,40,53,36,17,30.8,-53,-67.9,NA,NA,NA,NA
+"13 . Cheating (sec 419, 420 Ipc)",31,149,106,94,111,135,119,108,248.4,-9.2,-20,NA,NA,NA,NA
+"14 . Counterfeiting (sec.231-254,489a-489d)",7,9,7,8,12,17,11,11,57.1,3.8,-35.3,NA,NA,NA,NA
+"15 . Arson (sec 435, 436, 438 Ipc)",40,44,60,36,63,75,56,79,97.5,42.1,5.3,NA,NA,NA,NA
+"16 . Hurt (sec 323-333, 335-338 Ipc)",1472,3226,2979,3585,3810,4257,3571,3646,147.7,2.1,-14.4,NA,NA,NA,NA
+17 . Dowry Deaths (section 304b Ipc),52,51,102,60,70,68,70,87,67.3,23.9,27.9,NA,NA,NA,NA
+18 . Molestation (section 354 Ipc),116,460,478,488,476,560,492,474,308.6,-3.7,-15.4,NA,NA,NA,NA
+19 . Sexual Harassment (sec 509 Ipc),27,186,137,148,129,132,146,153,466.7,4.5,15.9,NA,NA,NA,NA
+20 . Cruelty By Husband And Relatives (sec 498a Ipc),273,206,275,219,302,239,248,284,4,14.4,18.8,NA,NA,NA,NA
+21 . Importation Of Girls (sec 366b Ipc),0,0,0,0,0,0,0,0,NA,NA,NA,NA,@,@,@
+22 . Death Due to Negligence (sec 304a Ipc),NA,60,65,163,108,165,112,165,NA,47.1,0,*,NA,NA,NA
+23 . Other Ipc Crimes,2045,4996,4456,4742,5148,5755,5019,6427,214.3,28,11.7,NA,NA,NA,NA
+Total Cognizable Crimes Under Ipc,8888,19229,18939,21088,22865,24535,21331,23926,169.2,12.2,-2.5,NA,NA,NA,NA

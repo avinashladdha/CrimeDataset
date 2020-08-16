@@ -1,0 +1,41 @@
+SL. No.,Category,States/U.Ts./Cities,Boys,Girls,Total
+1,State,Andhra Pradesh,3849,31,3880
+2,State,Assam,284,NA,284
+3,State,Bihar,332,NA,332
+4,State,Gujarat,17215,824,18039
+5,State,Haryana,1244,1,1245
+6,State,Himachal Pradesh,224,10,234
+7,State,Jammu and Kashmir,NA,NA,NA
+8,State,Karnataka,521,598,1119
+9,State,Kerala,3,NA,3
+10,State,Madhya Pradesh,3361,17,3378
+11,State,Maharashtra,21647,514,22161
+12,State,Manipur,27,NA,27
+13,State,Meghalaya,39,8,47
+14,State,Nagaland,NA,NA,NA
+15,State,Orissa,125,NA,125
+16,State,Punjab,768,NA,768
+17,State,Rajasthan,240,NA,240
+18,State,Tamil Nadu,16092,1525,17617
+19,State,Tripura,NA,NA,NA
+20,State,Uttar Pradesh,414,1,415
+21,State,West Bengal,2165,279,2444
+Total (States),State,Total (States),68550,3808,72358
+22,UT,A & N Islands,150,43,193
+23,UT,Chandigarh,150,NA,150
+24,UT,D & N Haveli,NA,NA,NA
+25,UT,Delhi,742,14,756
+26,UT,"Goa, Daman & Diu",930,NA,930
+27,UT,Lakshadweep,NA,NA,NA
+28,UT,Pondicherry,128,NA,128
+Total (UTs),UT,Total (UTs),2100,57,2157
+Total (All-India),Total (All-India),Total (All-India),70650,3865,74515
+1,City,Ahmedabad,4024,96,4120
+2,City,Bangalore,93,431,524
+3,City,Bombay,2650,1,2651
+4,City,Calcutta,108,16,124
+5,City,Delhi,742,14,756
+6,City,Hyderabad,79,3853,3932
+7,City,Kanpur,33,NA,33
+8,City,Madras,9132,1071,10203
+Total (Cities),City,Total (Cities),16861,5482,22343

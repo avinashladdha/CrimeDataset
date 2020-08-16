@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Total Juveniles Apprehended (Col.4),Juveniles Apprehended for First Time (Col.5),Apprehended Juveniles Convicted in Past (Col.6),Percentage Juveniles Convicted in Past (Col.7)
+1,State,Andhra Pradesh,1229,1137,92,7.5
+2,State,Arunachal Pradesh,80,80,0,0
+3,State,Assam,480,473,7,1.5
+4,State,Bihar,2626,2382,244,9.3
+5,State,Chhattisgarh,2394,2304,90,3.8
+6,State,Goa,26,25,1,3.8
+7,State,Gujarat,2085,2030,55,2.6
+8,State,Haryana,1358,1327,31,2.3
+9,State,Himachal Pradesh,263,262,1,0.4
+10,State,Jammu & Kashmir,319,315,4,1.3
+11,State,Jharkhand,142,123,19,13.4
+12,State,Karnataka,627,606,21,3.3
+13,State,Kerala,1060,963,97,9.2
+14,State,Madhya Pradesh,8464,8011,453,5.4
+15,State,Maharashtra,7712,7330,382,5
+16,State,Manipur,12,12,0,0
+17,State,Meghalaya,93,88,5,5.4
+18,State,Mizoram,63,53,10,15.9
+19,State,Nagaland,25,25,0,0
+20,State,Odisha,1285,1271,14,1.1
+21,State,Punjab,157,154,3,1.9
+22,State,Rajasthan,2943,2820,123,4.2
+23,State,Sikkim,39,31,8,20.5
+24,State,Tamil Nadu,2810,2711,99,3.5
+25,State,Telangana,1182,1091,91,7.7
+26,State,Tripura,42,42,0,0
+27,State,Uttar Pradesh,1587,1543,44,2.8
+28,State,Uttarakhand,151,89,62,41.1
+29,State,West Bengal,838,825,13,1.6
+Total (States),State,Total (States),40092,38123,1969,4.9
+30,UT,A & N Islands,13,13,0,0
+31,UT,Chandigarh,141,97,44,31.2
+32,UT,D&N Haveli,10,10,0,0
+33,UT,Daman & Diu,8,8,0,0
+34,UT,Delhi,3808,3540,268,7
+35,UT,Lakshadweep,0,0,0,NA
+36,UT,Puducherry,99,91,8,8.1
+Total (UTs),UT,Total (UTs),4079,3759,320,7.8
+Total (All India),Total (All India),Total (All India),44171,41882,2289,5.2

@@ -1,0 +1,31 @@
+Crime Head,Incidence - Year - 1992,Rate of Crime - Year - 1992,Incidence - Year - 1997,Rate of Crime - Year - 1997,Incidence - Year - 1998,Rate of Crime - Year - 1998,Incidence - Year - 1999,Rate of Crime - Year - 1999,Incidence - Year - 2000,Rate of Crime - Year - 2000,Incidence - Year - 2001,Rate of Crime - Year - 2001,Incidence - Quinquennial Avg.1997-2001 (Q.A.),Rate of Crime - Quinquennial Avg.1997-2001 (Q.A.),Incidence - 2002,Rate of Crime - 2002,Percentage Change in 2002 [(+) Increase/ (-) Decrease] over - 1992,Percentage Change in 2004 [(+) Increase/ (-) Decrease] over - Q.A,Percentage Change in 2004 [(+) Increase/ (-) Decrease] over - 2001,Note of Incidence - Year - 1992,Note of Rate of Crime - Year - 1992,Note of - Rate of Crime - 1997,Note of - Incidence - 1997,Note of Incidence - Year - 1998,Note of Rate of Crime - Year - 1998,Note of Incidence - Year - 1999,Note of Rate of Crime - Year - 1999,Note of Incidence - Year - 2000,Note of - Rate of Crime - 2000,Note of - Incidence - Quinquennial Avg.1997-2001 (Q.A.),Note of - Rate of Crime - Quinquennial Avg.1997-2001 (Q.A.)
+Murder,40105,4.6,37543,3.9,38584,4,37170,3.8,37399,3.7,36202,3.5,37380,3.8,35290,3.4,-12,-5.6,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Attempt to Commit Murder,31202,3.6,29322,3.1,30577,3.1,29628,3,30743,3.1,31523,3.1,30359,3.1,30380,2.9,-2.6,0.1,-3.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+C.H. not Amounting to Murder,4621,0.5,3869,0.4,3681,0.4,3912,0.4,3773,0.4,3367,0.3,3720,0.4,3624,0.3,-21.6,-2.6,7.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rape - Total,11708,1.3,15330,1.6,15151,1.6,15468,1.6,16496,1.6,16075,1.6,15704,1.6,16373,1.6,39.8,4.3,1.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rape - i) Custodial Rape,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,NA,NA,3,0,NA,NA,0,*,*,*,*,*,*,*,*,*,*,*,*
+Rape - ii) Other Rape,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16075,1.6,NA,NA,16370,1.6,NA,NA,1.8,*,*,*,*,*,*,*,*,*,*,*,*
+Kidnapping & Abduction - Total,20518,2.4,21898,2.3,23520,2.4,23236,2.4,22871,2.3,22487,2.2,22802,2.3,21850,2.1,6.5,-4.2,-2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kidnapping & Abduction - i) of Women & Girls,13996,1.6,15617,1.6,16351,1.7,15962,1.6,15023,1.5,14645,1.4,15520,1.6,14506,1.4,3.6,-6.5,-0.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kidnapping & Abduction ii) of Others,6522,0.8,6281,0.7,7169,0.7,7274,0.7,7848,0.8,7842,0.8,7283,0.7,7344,0.7,12.6,0.8,-6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dacoity,11308,1.3,7867,0.8,8091,0.8,7079,0.7,6825,0.7,6154,0.6,7203,0.7,6101,0.6,-46,-15.3,-0.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Preparation & Assembly for Dacoity,1297,0.1,1049,0.1,1266,0.1,1501,0.2,1505,0.2,1614,0.2,1387,0.1,1841,0.2,41.9,32.7,14.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Robbery,26444,3,22141,2.3,23603,2.4,21332,2.2,20926,2.1,19901,1.9,21581,2.2,18764,1.8,-29,-13.1,-5.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Burglary,127281,14.7,113319,11.9,119260,12.3,111296,11.3,105391,10.5,101182,9.9,110090,11.2,96461,9.2,-24.2,-12.4,-4.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Theft - Total,350582,40.4,277077,29,287967,29.7,271907,27.6,258588,25.8,252803,24.6,269668,27.3,247462,23.6,-29.4,-8.2,-2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Theft - i) Auto Theft,NA,NA,NA,NA,NA,NA,59685,6,58415,5.8,63713,6.2,NA,NA,66668,6.3,NA,NA,4.6,*,*,*,*,*,*,NA,NA,NA,NA,*,*
+Theft - ii) Other Theft,NA,NA,NA,NA,NA,NA,212154,21.5,200173,20,189090,18.4,NA,NA,180794,17.2,NA,NA,-4.4,*,*,*,*,*,*,NA,NA,NA,NA,*,*
+Riots,104749,12.1,91812,9.6,90767,9.3,80838,8.2,80456,8,76222,7.4,84019,8.5,68945,6.6,-34.2,-17.9,-9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Criminal Breach of Trust,17925,2.1,15077,1.6,16157,1.7,15454,1.6,14581,1.5,14798,1.4,15213,1.5,14027,1.3,-21.7,-7.8,-5.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cheating,29397,3.4,35228,3.7,38271,3.9,41403,4.2,41701,4.2,44727,4.4,40266,4.1,46271,4.4,57.4,14.9,3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Counterfeiting,5133,0.6,2228,0.2,1353,0.1,1347,0.1,2299,0.2,1683,0.2,1782,0.2,1522,0.1,-70.3,-14.6,-9.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Arson,NA,NA,12363,1.3,12913,1.3,11218,1.1,10392,1,10534,1,11484,1.2,11820,1.1,NA,2.9,12.2,*,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hurt,NA,NA,228497,23.9,235870,24.3,236313,24,240580,24,271487,26.4,242549,24.5,265025,25.2,NA,9.3,-2.4,*,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dowry Deaths,NA,NA,6006,0.6,6975,0.7,6699,0.7,6995,0.7,6851,0.7,6705,0.7,6822,0.6,NA,1.7,-0.4,*,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Molestation,NA,NA,30764,3.2,30959,3.2,32311,3.3,32940,3.3,34124,3.3,32220,3.3,33943,3.2,NA,5.3,-0.5,*,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sexual Harassment (Eve Teasing),NA,NA,5796,0.6,8053,0.8,8858,0.9,11024,1.1,9746,0.9,8695,0.9,10155,1,NA,16.8,4.2,*,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cruelty by Husband and Relatives,NA,NA,36592,3.8,41375,4.3,43823,4.4,45778,4.6,49170,4.8,43348,4.4,49237,4.7,NA,13.6,0.1,*,*,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Importation of Girls,NA,NA,NA,NA,NA,NA,1,0,64,0,114,0,NA,NA,76,0,NA,NA,-33.3,*,*,*,*,*,*,NA,NA,NA,NA,NA,NA
+Causing Death by Negligence,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57182,5.6,NA,NA,64044,6.1,NA,NA,12,*,*,*,*,*,*,*,*,*,*,*,*
+Other IPC Crimes,907071,104.5,726042,76,744422,76.7,763835,77.4,779757,77.8,701362,68.3,743084,75.2,730297,69.5,-19.5,-1.7,4.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,*,*
+Total Cognizable Crimes under IPC,1689341,194.7,1719820,180,1778815,183.2,1764629,178.9,1771084,176.7,1769308,172.3,1760731,178.2,1780330,169.5,5.4,1.1,0.6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

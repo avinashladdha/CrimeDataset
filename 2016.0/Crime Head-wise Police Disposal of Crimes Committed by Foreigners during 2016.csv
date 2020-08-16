@@ -1,0 +1,17 @@
+Category (Col.1),Crime Head (Col.2),Cases Pending Investigation from Previous Year (Col.3),Cases Reported During the Year (Col.4),Total Cases for Investigation During the Year (Col.5) = (Col.3+ Col.4),Final Report Submitted (Col.6),Chargesheets Submitted (Col.7),Total Cases Disposed (Col.8) = (7+8),Cases Pending Investigation at the End of the Year (Col.9),ChargeSheeting Rate (Col.10) = (Col.7/ Col.8) * 100,Pendency Percentage (Col.11) = (Col.9/ Col.5) * 100
+IPC Cases,1. Murder,1,11,12,0,9,9,3,100,25
+IPC Cases,2. Rape,6,12,18,1,9,10,8,90,44.4
+IPC Cases,3. Unnatural Offences,0,1,1,0,1,1,0,100,0
+IPC Cases,4. Cheating,45,75,120,7,51,58,62,87.9,51.7
+IPC Cases,5. Forgery,47,53,100,0,30,30,70,100,69.3
+IPC Cases,6. Counterfeiting Currency Notes or Bank Notes,4,4,8,0,4,4,4,100,50
+SLL Cases,"7. Foreigners Act, 1946",162,656,818,13,672,685,133,98.1,16.3
+SLL Cases,8. Narcotic Drugs & Psychotropic Substances Act,52,88,140,1,69,70,70,98.6,50
+SLL Cases,"9. Passport Act, 1967",62,58,120,0,42,42,78,100,65
+SLL Cases,"10. Registration of Foreigners Act, 1939",97,29,126,0,44,44,82,100,65.1
+SLL Cases,"11. Arms Act, 1959",35,23,58,4,6,10,48,60,82.8
+SLL Cases,"12. Information Technology Act, 2000",8,16,24,2,2,4,20,50,83.3
+SLL Cases,13. Explosives and Explosive Substances Act,0,2,2,0,1,1,1,100,50
+SLL Cases,"14. Copyright Act, 1957",1,0,1,0,0,0,1,NA,100
+SLL Cases,15. Other Crimes (IPC+SLL),89,198,287,8,181,189,98,95.8,34
+Total Crimes Committed by Foreigners,Total Crimes Committed by Foreigners,609,1226,1835,36,1121,1157,678,96.9,36.9

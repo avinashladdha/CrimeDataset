@@ -1,0 +1,39 @@
+Sr. No.,Category,States/ UTs,"No. of Cases Registered (U/S 224, 225 B)",No of Persons Escaped in Above Cases,Persons Escaped from Lockup,Persons Escaped Outside the Lockup,Escapees from Lock Up Rearrested,Other Escapees Rearrested,No. of Cases in Which Final Report Submitted,No. of Persons Charged Sheeted for offence of Escape,Disposal by Courts No. Tried - Cases Involved,Disposal by Courts No. Tried - No of Persons,Disposal by Courts No. Convicted - Cases Involved,Disposal by Courts No. Convicted - No of Persons,Disposal by Courts No. Acquitted - Cases Involved,Disposal by Courts No. Acquitted - No of Persons,Disposal by Courts No. Pending for Trial - Cases Involved,Disposal by Courts No. Pending for Trial - No of Persons,No. of Persons Awarded Imprisonment on Charges of Escape - Upto 3 Years,No. of Persons Awarded Imprisonment on Charges of Escape - More Than 3 Years
+1,State,Andhra Pradesh,96,96,8,88,13,51,18,45,90,178,22,32,68,146,38,30,2,5
+2,State,Arunachal Pradesh,3,8,8,0,7,0,0,1,0,0,0,0,0,0,0,0,0,0
+3,State,Assam,44,56,7,49,0,0,0,4,13,20,7,9,6,11,109,0,0,0
+4,State,Bihar,72,83,24,59,23,31,9,53,1,1,1,1,0,0,11,14,0,0
+5,State,Chhattisgarh,30,26,3,23,11,16,11,21,5,5,4,4,1,1,12,16,0,0
+6,State,Goa,1,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0
+7,State,Gujarat,49,55,13,42,9,30,8,39,0,0,0,0,0,0,26,31,4,0
+8,State,Haryana,29,31,5,26,6,15,8,20,12,29,4,5,8,24,40,99,3,0
+9,State,Himachal Pradesh,9,12,5,7,2,11,6,8,0,0,0,0,0,0,31,17,0,0
+10,State,Jammu & Kashmir,7,7,3,4,3,4,2,4,1,1,0,0,1,1,2,2,0,0
+11,State,Jharkhand,14,14,5,9,4,3,0,12,2,2,2,2,0,0,19,15,0,0
+12,State,Karnataka,23,35,4,31,4,14,3,18,1,1,1,1,0,0,11,14,1,0
+13,State,Kerala,56,60,6,54,6,47,50,53,4,4,4,4,0,0,46,49,4,0
+14,State,Madhya Pradesh,140,168,36,132,29,114,121,144,7,8,7,8,0,0,114,136,3,5
+15,State,Maharashtra,98,103,10,93,4,62,8,45,22,26,7,8,15,18,583,999,8,0
+16,State,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,State,Meghalaya,4,4,0,4,1,2,0,2,0,0,0,0,0,0,2,2,0,0
+18,State,Mizoram,4,4,0,4,0,4,0,4,0,0,0,0,0,0,4,4,0,0
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,State,Orissa,55,59,13,46,11,21,6,31,0,0,0,0,0,0,0,31,0,0
+21,State,Punjab,67,72,10,62,7,31,21,30,7,10,4,7,3,3,44,50,7,6
+22,State,Rajasthan,159,180,7,173,6,128,20,134,0,0,0,0,0,0,119,134,0,0
+23,State,Sikkim,4,4,1,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,39,39,8,31,8,23,29,29,7,7,7,7,0,0,22,22,7,0
+25,State,Tripura,3,3,0,3,0,3,0,3,3,3,3,3,0,0,0,0,3,0
+26,State,Uttar Pradesh,106,133,17,116,15,68,7,105,0,0,0,0,0,0,94,105,0,0
+27,State,Uttarakhand,7,9,3,6,3,3,0,6,0,0,0,0,0,0,4,6,0,0
+28,State,West Bengal,33,42,9,33,7,11,9,10,3,3,3,3,0,0,6,4,5,2
+State,State,Total (States),1152,1304,205,1099,180,695,336,822,178,298,76,94,102,204,1338,1781,47,18
+29,Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Union Territory,Chandigarh,5,5,0,5,0,4,1,1,0,0,0,0,0,0,1,1,0,0
+31,Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,14,16,0,16,0,12,8,12,1,1,1,1,0,0,7,11,1,0
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Union Territory,Total (UTs),19,21,0,21,0,16,9,13,1,1,1,1,0,0,8,12,1,0
+Total (All-India),Total (All-India),Total (All-India),1171,1325,205,1120,180,711,345,835,179,299,77,95,102,204,1346,1793,48,18

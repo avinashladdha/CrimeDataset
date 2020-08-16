@@ -1,0 +1,38 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Cases Pending Investigation from Previous Year (Col.4),Cases Reported during the Year (Col.5),Total Cases for Investigation (Col.6) = (Col.4+5),Cases withdrawn by Govt. (Col.7),Cases Transferred to other PS/ Magistrate (Col.8),Cases not Investigated U/S 157(1) (b) of Cr.PC (Col.9),Final Report - True but Insufficient Evidence (Col.10),Final Report - False (Col.11),Final Report - Mistake of Fact (Col.12),Final Report - Non-Cognizable (Col.13),Final Report - Total (Col.14) = (Col.10 + Col.11+ Col.12+ Col.13),Cases in which Chargesheets were Submitted (Col.15),Total Cases Disposed off by Police (Col.16) = (Col. 9+ Col.14+ Col.15),Cases Pending Investigation at the End of the Year (Col.17) = (Col. 6 - (Col.7 + Col.16)),Chargesheeting Rate (Col.18) = (Col.15/ Col.16) * 100,Pendency Percentage (Col.19) = (Col.17/ (Col.6)) * 100
+1,IPC Cases,Dowry Deaths,228,506,734,0,1,0,34,11,11,1,57,426,483,251,88.2,34.2
+2,IPC Cases,Abetment of Suicides of Women,438,360,798,0,0,0,22,8,6,0,36,218,254,544,85.8,68.2
+3,IPC Cases,Causing Miscarriage Without Womens Consent,6,86,92,0,0,0,15,0,0,0,15,46,61,31,75.4,33.7
+4,IPC Cases,Deaths Caused by Act Done with Intent to Cause Miscarriage,2,0,2,0,0,0,0,0,2,0,2,0,2,0,0,0
+5,IPC Cases,Acid Attack & Attempt to Acid Attack,17,29,46,0,0,0,4,1,2,0,7,19,26,20,73.1,43.5
+6,IPC Cases,Cruelty by Husband or his Relatives,12044,12218,24262,5,33,1,1688,302,832,2,2824,8732,11557,12700,75.6,52.3
+7,IPC Cases,Kidnapping & Abduction of Women,8639,9256,17895,4,12,0,2567,891,3218,2,6678,2822,9500,8391,29.7,46.9
+7.1,IPC Cases,Kidnaping & Abduction,6257,6492,12749,4,10,0,1719,770,2632,1,5122,786,5908,6837,13.3,53.6
+7.2,IPC Cases,K & A in order to Murder,3,0,3,0,0,0,0,0,0,0,0,0,0,3,NA,100
+7.3,IPC Cases,Kidnapping for Ransom,16,9,25,0,0,0,2,2,1,0,5,6,11,14,54.5,56
+7.4,IPC Cases,K & A of women to compel her for Marriage,1099,1937,3036,0,0,0,658,64,123,1,846,1660,2506,530,66.2,17.5
+7.5,IPC Cases,K & A of Women Other,1264,818,2082,0,2,0,188,55,462,0,705,370,1075,1007,34.4,48.4
+8,IPC Cases,Human Trafficking,67,35,102,0,0,0,2,0,0,0,2,65,67,35,97,34.3
+9,IPC Cases,Rape,2376,4935,7311,1,30,0,126,165,59,0,350,4486,4836,2474,92.8,33.8
+9.1,IPC Cases,Rape,2295,4784,7079,1,30,0,120,153,57,0,330,4364,4694,2384,93,33.7
+9.2,IPC Cases,Gang Rape,81,149,230,0,0,0,6,12,2,0,20,120,140,90,85.7,39.1
+9.3,IPC Cases,Custodial Rape,0,2,2,0,0,0,0,0,0,0,0,2,2,0,100,0
+10,IPC Cases,Attempt to Commit Rape,67,64,131,0,1,0,17,1,0,0,18,59,77,54,76.6,41.2
+11,IPC Cases,Unnatural Offences,36,108,144,0,1,0,10,0,1,0,11,66,77,67,85.7,46.5
+12,IPC Cases,Assault on Women with Intent to Outrage her Modesty,7671,10458,18129,1,15,0,723,243,145,10,1121,8576,9697,8431,88.4,46.5
+12.1,IPC Cases,Assault on Women,3875,4621,8496,0,6,0,268,180,93,5,546,3955,4501,3995,87.9,47
+12.2,IPC Cases,Sexual Harassment,2077,3231,5308,1,5,0,271,40,33,3,347,2701,3048,2259,88.6,42.6
+12.3,IPC Cases,Assault on Women with Intent to Disrobe,530,859,1389,0,1,0,54,11,8,1,74,606,680,709,89.1,51
+12.4,IPC Cases,Voyeurism,83,131,214,0,0,0,12,2,0,1,15,108,123,91,87.8,42.5
+12.5,IPC Cases,Stalking,1106,1616,2722,0,3,0,118,10,11,0,139,1206,1345,1377,89.7,50.6
+13,IPC Cases,Insult to the modesty of women,2313,1917,4230,0,1,0,374,25,38,0,437,1526,1963,2267,77.7,53.6
+14,SLL Cases,"Dowry Prohibition Act, 1961",522,875,1397,0,30,3,56,30,12,0,98,677,778,619,87,44.3
+15,SLL Cases,Immoral Traffic(Prevention) Act,408,751,1159,0,2,0,4,0,1,0,5,623,628,531,99.2,45.8
+15.1,SLL Cases,Procuring/Inducing a person for sake of Prostitution(Sec.5),232,478,710,0,2,0,2,0,1,0,3,342,345,365,99.1,51.4
+15.2,SLL Cases,Detaining a person in premises where prostitution is carried on(Sec.6),1,25,26,0,0,0,0,0,0,0,0,18,18,8,100,30.8
+15.3,SLL Cases,Prostitution in the vicinity of Public Places (Sec.7),27,54,81,0,0,0,1,0,0,0,1,56,57,24,98.2,29.6
+15.4,SLL Cases,Seducing or Soliciting for Prostitution(Sec.8),61,147,208,0,0,0,0,0,0,0,0,139,139,69,100,33.2
+15.5,SLL Cases,Other Sections under ITP Act,87,47,134,0,0,0,1,0,0,0,1,68,69,65,98.6,48.5
+16,SLL Cases,"Protection of Women from Domestic Violence Act, 2005",11,7,18,0,0,0,1,0,0,0,1,4,5,13,80,72.2
+17,SLL Cases,Publishing or Transmitting of Sexually Explicit Material (Sec.67A IT Act),258,156,414,0,0,0,63,2,9,0,74,55,129,285,42.6,68.8
+18,SLL Cases,"Indecent Representation of Women (Prohibition) Act, 1986",10,0,10,0,0,0,0,0,0,0,0,9,9,1,100,10
+Total Crime Against Women,Total Crime Against Women,Total Crime Against Women,35113,41761,76874,11,126,4,5706,1679,4336,15,11736,28409,40149,36714,70.8,47.8

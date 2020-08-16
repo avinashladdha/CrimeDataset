@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts/Cities,Number of Cases in which Property was Stolen,Value of Property Stolen in Lakhs,Value of Property Recovered in Lakhs,Percentage of Value of Property Recovered to Value of Property Stolen
+1,State,Andhra Pradesh,1693,6.2,2.29,36.9
+2,State,Assam,325,1.83,0.19,10.4
+3,State,Bihar,2246,7.15,0.4,5.6
+4,State,Gujarat,570,1.39,0.14,10.1
+5,State,Haryana,186,2.03,0.36,17.7
+6,State,Jammu & Kashmir,24,0.28,0.01,3.6
+7,State,Kerala,275,0.83,0.12,14.5
+8,State,Madhya Pradesh,768,2.58,0.27,10.5
+9,State,Maharashtra,1657,7.31,0.66,9
+10,State,Mysore,278,0.79,0.21,26.6
+11,State,Nagaland,NA,NA,NA,NA
+12,State,Orissa,782,3.35,0.14,4.2
+13,State,Punjab,231,1.9,0.22,11.6
+14,State,Rajasthan,245,0.54,0.2,37
+15,State,Tamil Nadu,1613,3.24,1.41,43.5
+16,State,Uttar Pradesh,3341,26.07,4.75,18.2
+17,State,West Bengal,669,4.07,0.35,8.6
+Total (States),State,Total (States),14903,69.56,11.72,16.8
+18,UT,A & N Islands,NA,NA,NA,NA
+19,UT,Chandigarh,12,0.06,NA,NA
+20,UT,Dadra & N. Haveli,1,NA,NA,NA
+21,UT,Delhi,78,0.37,0.01,2.7
+22,UT,"Goa, Daman & Diu",3,NA,NA,NA
+23,UT,Himachal Pradesh,2,0.01,NA,NA
+24,UT,Lakshadweep,NA,NA,NA,NA
+25,UT,Manipur,56,3.29,NA,NA
+26,UT,Pondicherry,10,0.01,NA,NA
+27,UT,Tripura,14,0.02,NA,NA
+Total (UTs),UT,Total (UTs),176,3.76,0.01,2.7
+Total (All-India),Total (All-India),Total (All-India),15079,73.32,11.73,16
+1,City,Ahmedabad,4,0.01,NA,NA
+2,City,Bangalore,23,0.03,0.01,33.3
+3,City,Bombay,169,0.66,0.09,13.6
+4,City,Calcutta,29,0.23,0.03,13
+5,City,Delhi,51,0.33,NA,NA
+6,City,Hyderabad,133,0.46,0.06,13
+7,City,Kanpur,4,0.1,NA,NA
+8,City,Madras,18,0.02,0.01,50
+Total (Cities),City,Total (Cities),431,1.75,0.2,11.4

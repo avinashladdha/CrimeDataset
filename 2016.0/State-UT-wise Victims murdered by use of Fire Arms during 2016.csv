@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Number of Victims Murdered By - Fire Arms (Col.4) = (Col.5+6),Number of Victims Murdered By - Licensed Fire Arms (Col.5),Number of Victims Murdered By - Unlicensed Fire Arms* (Col.6)
+1,State,Andhra Pradesh,0,0,0
+2,State,Arunachal Pradesh,3,2,1
+3,State,Assam,1,0,1
+4,State,Bihar,959,2,957
+5,State,Chhattisgarh,17,9,8
+6,State,Goa,1,1,0
+7,State,Gujarat,15,7,8
+8,State,Haryana,136,33,103
+9,State,Himachal Pradesh,9,3,6
+10,State,Jammu & Kashmir,49,8,41
+11,State,Jharkhand,792,14,778
+12,State,Karnataka,2,2,0
+13,State,Kerala,1,0,1
+14,State,Madhya Pradesh,83,18,65
+15,State,Maharashtra,43,4,39
+16,State,Manipur,8,4,4
+17,State,Meghalaya,5,3,2
+18,State,Mizoram,0,0,0
+19,State,Nagaland,2,1,1
+20,State,Odisha,2,1,1
+21,State,Punjab,48,22,26
+22,State,Rajasthan,23,0,23
+23,State,Sikkim,0,0,0
+24,State,Tamil Nadu,3,0,3
+25,State,Telangana,2,0,2
+26,State,Tripura,0,0,0
+27,State,Uttar Pradesh,1483,181,1302
+28,State,Uttarakhand,0,0,0
+29,State,West Bengal,58,2,56
+Total (States),State,Total (States),3745,317,3428
+30,UT,A & N Islands,3,0,3
+31,UT,Chandigarh,1,0,1
+32,UT,D&N Haveli,0,0,0
+33,UT,Daman & Diu,0,0,0
+34,UT,Delhi UT,26,5,21
+35,UT,Lakshadweep,0,0,0
+36,UT,Puducherry,0,0,0
+Total (UTs),UT,Total (UTs),30,5,25
+Total (All-India),Total (All-India),Total (All-India),3775,322,3453

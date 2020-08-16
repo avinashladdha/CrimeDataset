@@ -1,0 +1,39 @@
+Sr. No.,Category,State/UT,Arms Act,NDPS Act,Gambling Act,Excise Act,Prohibition Act,Exp. & Exp.Sub.Act,I.T. (P) Act,Railways Act,The Foreigners Act,P.C.R. Act - Total,P.C.R. Act - For SCs,P.C.R. Act - For STs,Indian Passport Act,Essential Commodities Act,TADA Act,Antiquities & Art Treasures Act,Dowry Prohibition Act,Prohibition of Child Marriage Act,Indecent Rep. of Women (Proh.) Act,Copy Right Act,Sati Prevention Act,SC / ST (P) of Atrocities Act - Total,SC / ST (P) of Atrocities Act - For SCs,SC / ST (P) of Atrocities Act - For STs,Forest Act,Other SLL Crimes,Total Cog. Crimes Under SLL
+1,State,Andhra Pradesh++,12.3,12.1,71.8,34.1,44.1,8.4,29,100,42.9,0,0,0,33.3,8.1,NA,0,6.1,0,94.6,12.5,NA,7.8,7.8,8.1,50,99.1,90.6
+2,State,Arunachal Pradesh,66.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33.3,55.6
+3,State,Assam,11.4,31.1,1.9,0,0,0,0,NA,NA,NA,NA,NA,53.3,0,0,NA,0,NA,NA,0,NA,0,0,NA,0,6.6,8.8
+4,State,Bihar,36.9,42.9,32.6,23.6,1.7,24.8,27.3,58.8,50,NA,NA,NA,NA,24.4,NA,NA,19.3,0,NA,13.8,NA,9.8,9.5,22.2,24.2,47.3,28.2
+5,State,Chhattisgarh,19.1,55.9,97.9,72.3,NA,86,25,50,0,NA,NA,NA,NA,36.5,NA,NA,33.3,75,NA,26.7,NA,20.6,18.2,22.7,33.3,99.5,97.3
+6,State,Goa,40,16.7,2.1,NA,NA,0,75,NA,95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,98.4,77.8
+7,State,Gujarat,20.9,24.5,73.1,NA,70.1,62.2,16.7,96.6,100,0,0,NA,100,11.3,NA,0,0,44.4,NA,4.9,NA,2.4,3,0,0,70.7,70
+8,State,Haryana,30.4,52.6,81.5,68.3,NA,44.1,8.9,71.4,88,NA,NA,NA,0,24.3,NA,NA,14.3,NA,NA,13.7,NA,12.7,12.7,NA,NA,49.8,65.5
+9,State,Himachal Pradesh,10,32.3,56.3,43.9,NA,25,25,NA,50,0,0,NA,NA,7.1,NA,NA,0,NA,NA,0,NA,6.9,6.9,NA,11.8,48.4,41.3
+10,State,Jammu & Kashmir,1.5,12.3,93,67.5,NA,0,0,NA,80,NA,NA,NA,NA,50.3,0,NA,NA,NA,NA,0,NA,NA,NA,NA,16.7,15.7,40.4
+11,State,Jharkhand,48.9,45,44.9,51.8,0,38,41.7,NA,NA,NA,NA,NA,NA,34.7,NA,NA,40,NA,NA,40.9,NA,20.3,21.4,18.3,47.7,31.2,40.1
+12,State,Karnataka,27.8,19,91.7,19.3,NA,15.5,48,0,91.4,0,0,0,3.1,5.7,NA,0,5.7,0,NA,13.2,NA,8.1,8.2,7.1,7.7,36.8,52.4
+13,State,Kerala,14,76.6,95.9,NA,93.7,40.1,68.1,0,66.7,NA,NA,NA,72,15.6,NA,NA,NA,50,45.5,31.8,NA,0,0,NA,NA,91.1,91.2
+14,State,Madhya Pradesh,42.5,53.6,96.7,97.2,NA,53,51.6,70.3,50,NA,NA,NA,NA,50.5,NA,NA,36.1,40,NA,57.6,NA,25.5,29.4,20.7,51.1,98.2,91.6
+15,State,Maharashtra,4.2,57.3,9.4,NA,1,11.8,46.6,13,54.5,0,0,NA,90,1.6,NA,NA,5.9,22.2,NA,2.9,NA,2.1,2.1,2.1,2.6,63,17.9
+16,State,Manipur,100,42.9,100,NA,NA,NA,NA,NA,90.9,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,55
+17,State,Meghalaya,43.8,73.3,100,NA,NA,0,0,NA,88.5,NA,NA,NA,0,0,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,36.4,56
+18,State,Mizoram,81.3,94.5,NA,NA,94.4,100,100,NA,100,NA,NA,NA,94.1,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,96.3,95
+19,State,Nagaland,76.1,97.4,NA,93.3,93.9,81.8,100,NA,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,98,95.2
+20,State,Odisha,7.8,30.4,45.3,8.4,0,10.3,0,NA,NA,0,0,NA,NA,12.3,NA,NA,13.2,0,0,7.7,NA,13.9,12.7,17.9,0,10.7,11.6
+21,State,Punjab,68.8,73.7,92.2,80.1,0,57.1,31.8,33.3,NA,NA,NA,NA,100,21.7,NA,NA,50,0,NA,33.9,NA,25,25,NA,0,55.9,77.4
+22,State,Rajasthan,87.7,73,99.2,93.2,NA,94,71.8,89.2,83.3,100,100,NA,50,64.1,0,0,0,NA,81.1,67.6,NA,34.6,56.6,8.6,96.1,92,93.7
+23,State,Sikkim,0,0,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,97.1,95.7
+24,State,Tamil Nadu,75.9,56.9,99.1,NA,88.8,71.2,54,18.2,16.7,0,0,NA,33,76.4,NA,NA,41.2,NA,44.4,59.8,NA,36.2,36.6,0,0,91.4,89.8
+25,State,Tripura,11.1,50,57.1,NA,NA,0,NA,NA,100,NA,NA,NA,80.6,4.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,36.7
+26,State,Uttar Pradesh,83,80.2,92.7,91.7,NA,71.8,72.7,91.4,50,64.7,64.7,NA,72.7,67.6,NA,71.4,55.9,100,NA,67.3,NA,58.5,58.5,75,77.3,97.6,96.9
+27,State,Uttarakhand,93.8,85.8,93.7,95.4,NA,50,100,100,85.7,NA,NA,NA,80,85.7,NA,NA,50,NA,NA,75,NA,37.5,37.5,NA,78.1,99.9,99.4
+28,State,West Bengal,5.1,20.5,16.4,52,0,2.5,50,0,75,NA,NA,NA,27.8,4.5,NA,NA,3,NA,0,22.6,NA,0,0,0,0,25.7,28.3
+State,State,Total (states),70.3,70.5,77.8,81.5,62.1,56.8,45.6,78.2,78.2,16.8,18.4,0,48.5,34.5,0,16.1,20.8,35.3,87.1,43.4,0,28.8,30.7,13.9,83.4,96.4,90.5
+29,Union Territory,A & N Islands,NA,NA,100,100,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100,100
+30,Union Territory,Chandigarh,40,32.9,100,97.6,NA,NA,0,NA,50,NA,NA,NA,NA,20,NA,NA,0,NA,NA,7.1,NA,NA,NA,NA,NA,93.6,87.1
+31,Union Territory,D & N Haveli,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,100
+32,Union Territory,Daman & Diu,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0
+33,Union Territory,Delhi,56.4,81.4,90.9,65.6,100,93.3,68.6,100,72.7,0,0,NA,93.8,61.8,NA,75,0,NA,0,55,NA,21.4,21.4,NA,NA,76.7,66.4
+34,Union Territory,Lakshadweep,NA,NA,NA,NA,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33.3,77.8
+35,Union Territory,Puducherry,42.9,0,96.6,NA,NA,0,100,NA,NA,0,0,NA,NA,100,NA,NA,0,NA,NA,23.5,NA,50,50,NA,NA,96.8,89.9
+Union Territory,Union Territory,Total (UTs),55.9,76.6,94.5,88.2,100,82.4,66.7,100,69.2,0,0,0,93.8,69.5,0,75,0,0,0,46.5,0,25,25,0,0,93.4,84.9
+Total (AllIndia),Total (AllIndia),Total (AllIndia),69.8,70.7,77.9,82.1,62.1,57,46,78.3,78,15.9,17.3,0,50.2,34.8,0,22.9,20.8,35.3,86.7,43.4,0,28.8,30.7,13.9,83.4,96.4,90.5

@@ -1,0 +1,39 @@
+Sr. No.,States/UTs,Number of Victims upto 10 Years - Male,Number of Victims upto 10 Years - Female,Number of Victims upto 10 Years - Total,Number of Victims - 10-15 Years - Male,Number of Victims - 10-15 Years - Female,Number of Victims - 10-15 Years - Total,Number of Victims - 15-18 Years - Male,Number of Victims - 15-18 Years - Female,Number of Victims - 15-18 Years - Total,Number of Victims - 18-30 Years - Male,Number of Victims - 18-30 Years - Female,Number of Victims - 18-30 Years - Total,Number of Victims - 30-50 Years - Male,Number of Victims - 30-50 Years - Female,Number of Victims - 30-50 Years - Total,Number of Victims above 50 Years - Male,Number of Victims above 50 Years - Female,Number of Victims above 50 Years - Total,Number of Victims - Total of All Age Groups - Male,Number of Victims - Total of All Age Groups - Female,Number of Victims - Total of All Age Groups - Total
+State,Andhra Pradesh,35,38,73,59,15,74,88,43,131,827,269,1096,952,175,1127,215,67,282,2176,607,2783
+State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,31,10,41,32,4,36,4,2,6,67,16,83
+State,Assam,17,4,21,30,8,38,169,23,192,577,45,622,368,37,405,67,11,78,1228,128,1356
+State,Bihar,2,0,2,2,0,2,156,40,196,1484,191,1675,1406,123,1529,227,12,239,3277,366,3643
+State,Chhattisgarh,30,38,68,12,14,26,30,38,68,341,214,555,553,182,735,142,63,205,1108,549,1657
+State,Goa,1,0,1,0,0,0,0,0,0,11,4,15,10,8,18,2,1,3,24,13,37
+State,Gujarat,50,57,107,11,9,20,18,8,26,335,132,467,416,131,547,87,26,113,917,363,1280
+State,Haryana,24,12,36,11,1,12,47,15,62,291,67,358,264,42,306,38,6,44,675,143,818
+State,Himachal Pradesh,3,1,4,0,1,1,1,1,2,29,11,40,42,19,61,8,6,14,83,39,122
+State,Jammu & Kashmir,8,2,10,37,13,50,160,27,187,385,68,453,468,53,521,167,24,191,1225,187,1412
+State,Jharkhand,4,0,4,3,0,3,121,39,160,470,126,596,482,102,584,136,24,160,1216,291,1507
+State,Karnataka,42,38,80,9,13,22,36,24,60,450,250,700,434,201,635,130,51,181,1101,577,1678
+State,Kerala,27,36,63,8,5,13,9,8,17,88,25,113,146,58,204,55,24,79,333,156,489
+State,Madhya Pradesh,32,41,73,25,13,38,129,37,166,693,281,974,854,219,1073,70,31,101,1803,622,2425
+State,Maharashtra,113,76,189,28,28,56,39,41,80,740,555,1295,743,290,1033,219,78,297,1882,1068,2950
+State,Manipur,0,2,2,0,0,0,8,0,8,137,2,139,70,3,73,10,1,11,225,8,233
+State,Meghalaya,0,0,0,0,0,0,0,0,0,112,4,116,50,2,52,1,0,1,163,6,169
+State,Mizoram,0,0,0,0,0,0,3,0,3,8,9,17,6,3,9,2,0,2,19,12,31
+State,Nagaland,0,0,0,1,0,1,3,2,5,64,0,64,36,0,36,3,0,3,107,2,109
+State,Orissa,0,0,0,2,0,2,43,13,56,350,140,490,304,81,385,46,26,72,745,260,1005
+State,Punjab,7,3,10,9,1,10,35,21,56,268,90,358,222,77,299,43,11,54,584,203,787
+State,Rajasthan,10,8,18,14,4,18,32,15,47,389,108,497,481,81,562,101,32,133,1027,248,1275
+State,Sikkim,1,0,1,0,0,0,0,0,0,7,1,8,3,5,8,2,0,2,13,6,19
+State,Tamil Nadu,3,5,8,8,8,16,136,113,249,391,174,565,463,191,654,136,34,170,1137,525,1662
+State,Tripura,0,0,0,6,0,6,15,2,17,90,3,93,100,2,102,20,2,22,231,9,240
+State,Uttar Pradesh,29,10,39,93,65,158,189,103,292,3098,626,3724,2726,417,3143,722,102,824,6857,1323,8180
+State,Uttaranchal,2,2,4,3,2,5,3,1,4,52,72,124,184,29,213,27,4,31,271,110,381
+State,West Bengal,1,0,1,2,0,2,2,1,3,676,213,889,552,132,684,82,12,94,1315,358,1673
+State,Total (States),441,373,814,373,200,573,1472,615,2087,12394,3690,16084,12367,2667,15034,2762,650,3412,29809,8195,38004
+Union Territory,A & N Islands,0,0,0,1,0,1,0,0,0,3,4,7,3,2,5,0,0,0,7,6,13
+Union Territory,Chandigarh,0,0,0,0,0,0,0,0,0,4,1,5,5,1,6,1,3,4,10,5,15
+Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,3,0,3
+Union Territory,Daman & Diu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Delhi,13,12,25,10,2,12,12,9,21,231,74,305,128,41,169,28,14,42,422,152,574
+Union Territory,Lakshadweep,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+Union Territory,Pondicherry,0,0,0,0,0,0,0,1,1,5,5,10,7,4,11,3,0,3,15,10,25
+Union Territory,Total (UTs),13,13,26,11,3,14,12,10,22,244,84,328,145,48,193,32,17,49,457,175,632
+Total (All-India),Total (All-India),454,386,840,384,203,587,1484,625,2109,12638,3774,16412,12512,2715,15227,2794,667,3461,30266,8370,38636

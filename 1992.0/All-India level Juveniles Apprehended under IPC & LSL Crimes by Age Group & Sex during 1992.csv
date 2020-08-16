@@ -1,0 +1,37 @@
+SL. No.,Crime Head,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Girls Only,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+1,Murder,29,0,279,32,38,308,70,178
+2,Attempt to Commit Murder,20,2,223,3,39,243,44,287
+3,C.H. Not Amounting to Murder,2,0,15,1,6,17,7,24
+4,Rape,5,0,138,2,7,143,9,152
+5,Kidnapping & Abduction,1,0,71,3,25,72,28,100
+5,I) Of Women & Girls,1,0,53,3,17,54,20,74
+5,II) Of Others,0,0,18,0,8,18,8,26
+6,Dacoity,9,0,54,0,4,63,4,67
+7,Preparation & Assembly for Dacoity,0,0,3,0,0,3,0,3
+8,Robbery,7,0,67,0,2,74,2,76
+9,Burglary,243,7,1388,15,36,1631,58,1689
+10,Theft,414,76,2617,89,334,3031,499,3530
+11,Riots,101,12,1054,53,257,1155,322,1477
+12,Criminal Breach of Trust,0,0,18,0,2,18,2,20
+13,Cheating,9,0,34,0,8,43,8,51
+14,Counterfeiting,0,0,0,0,0,0,0,0
+15,Other IPC Crimes,499,44,4030,324,776,4529,1144,5673
+A,Total Cognizable Crimes Under IPC,1340,141,10062,525,1559,11402,2225,13427
+1,Arms Act,4,0,79,0,6,83,6,89
+2,Narcotic Drugs & Psychotropic Substances Act,0,0,10,0,13,10,13,23
+3,Gambling Act,18,0,644,0,2,662,2,664
+4,Excise Act,1,0,84,3,47,85,50,135
+5,Prohibition Act,62,8,576,25,1192,638,1225,1863
+6,Explosive & Explosive Substances Act,0,0,18,0,0,18,0,18
+7,Immoral Traffic (P) Act,0,0,16,0,156,16,156,172
+8,Indian Railways Act,0,0,18,0,0,18,0,18
+9,Registration of Foreigners Act,1,0,7,0,7,8,7,15
+10,Protection Of Civil Rights Act,0,0,1,1,2,1,3,4
+11,Indian Passport Act,0,0,0,0,0,0,0,0
+12,Essential Commodities Act,0,0,0,0,0,0,0,0
+13,Terrorist & Disruptive Activites Act,0,0,0,0,0,0,0,0
+14,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0
+15,Dowry Prohibition Act,0,0,11,4,0,11,4,15
+16,Other LSL Crimes,1857,4,2737,46,171,4594,221,4815
+B,Total Cognizable Crimes Under LSL,1943,12,4201,79,1596,6144,1687,7831
+Grand Total (A + B),Grand Total (A + B),3282,153,14263,604,3155,17546,3912,21358

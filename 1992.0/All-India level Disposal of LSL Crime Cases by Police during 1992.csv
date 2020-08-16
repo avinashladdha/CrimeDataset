@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total Number of Cases for Investigation Including Pending Cases (Col. 3),Number of Cases in which - Investigation was Refused (Col. 4),Number of Cases in which - Investigation was Completed - Charge Found False / Mistake of Law etc. (Col. 5),Number of Cases in which - Investigation was Completed - Final Report True Submitted (Col. 6),Number of Cases in which - Investigation was Completed - Chargesheets were Laid (Col. 7),Number of Cases in which - Investigation was Completed - Total (Col. 5+6+7) (Col. 8),Number of Cases Pending Investigation (Col. 9)
+1,Arms Act,72418,10,243,1386,60407,62036,10372
+2,Narcotic Drugs & Psychotropic Substances Act,32639,423,108,464,19026,19598,12618
+3,Gambling Act,173269,0,61,234,167156,167451,5818
+4,Excise Act,108742,1551,894,1254,90414,92562,14629
+5,Prohibition Act,751210,3653,4094,14092,602903,621089,126468
+6,Explosive & Explosive Substances Act,12504,123,178,1030,6713,7921,4460
+7,Immoral Traffic (P) Act,13350,80,11,5,12855,12871,399
+8,Indian Railways Act,28190,559,258,863,25148,26269,1362
+9,Registration of Foreigners Act,2308,47,16,64,1896,1976,285
+10,Protection Of Civil Rights Act,5254,66,781,95,3475,4351,837
+11,Indian Passport Act,1509,11,119,58,1127,1304,194
+12,Essential Commodities Act,11605,22,310,669,5976,6955,4628
+13,Terrorist & Disruptive Activites Act,8101,4,28,3167,733,3928,4169
+14,Antiquity & Art Treasure Act,45,1,1,3,33,37,7
+15,Dowry Prohibition Act,2868,21,172,205,1478,1855,992
+16,Other LSL Crimes,2583873,1115,6419,15158,2483876,2505453,77305
+17,Total Cognizable Crimes Under LSL,3807885,7686,13693,38747,3483216,3535656,264543

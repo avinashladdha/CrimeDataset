@@ -1,0 +1,93 @@
+Sr. No.,Category,State/UT,Incidence of Total Cognizable Crimes,Percentage Contribution to All-India Total,Estimated mid- Year Population (In Lakhs),Rate of Total Cognizable Crimes,Rank of * Criminality
+1,State,Andhra Pradesh,189780,8.2,846.65,224.2,11
+2,State,Arunachal Pradesh,2286,0.1,13.83,165.3,20
+3,State,Assam,66714,2.9,311.69,214,13
+4,State,Bihar,135896,5.8,1038.04,130.9,24
+5,State,Chhattisgarh,57218,2.5,255.4,224,12
+6,State,Goa,3449,0.1,14.58,236.6,9
+7,State,Gujarat,123371,5.3,603.83,204.3,16
+8,State,Haryana,60741,2.6,253.53,239.6,8
+9,State,Himachal Pradesh,14312,0.6,68.57,208.7,14
+10,State,Jammu & Kashmir,24504,1.1,125.49,195.3,17
+11,State,Jharkhand,35838,1.5,329.66,108.7,27
+12,State,Karnataka,137600,5.9,611.31,225.1,10
+13,State,Kerala,172137,7.4,333.88,515.6,1
+14,State,Madhya Pradesh,217094,9.3,725.98,299,5
+15,State,Maharashtra,204902,8.8,1123.73,182.3,18
+16,State,Manipur,3218,0.1,27.22,118.2,26
+17,State,Meghalaya,2755,0.1,29.64,92.9,31
+18,State,Mizoram,1821,0.1,10.91,166.9,19
+19,State,Nagaland,1083,0,19.81,54.7,35
+20,State,Odisha,61277,2.6,419.47,146.1,23
+21,State,Punjab,34883,1.5,277.04,125.9,25
+22,State,Rajasthan,165622,7.1,686.21,241.4,7
+23,State,Sikkim,596,0,6.08,98,29
+24,State,Tamil Nadu,192879,8.3,721.39,267.4,6
+25,State,Tripura,5803,0.2,36.71,158.1,21
+26,State,Uttar Pradesh,195135,8.4,1995.81,97.8,30
+27,State,Uttarakhand,8774,0.4,101.17,86.7,33
+28,State,West Bengal,143197,6.2,913.48,156.8,22
+State,State,Total (states),2262885,97.3,11901.11,190.1,NA
+29,Union Territory,A & N Islands,793,0,3.8,208.7,15
+30,Union Territory,Chandigarh,3542,0.2,10.55,335.7,3
+31,Union Territory,D & N Haveli,372,0,3.43,108.5,28
+32,Union Territory,Daman & Diu,224,0,2.43,92.2,32
+33,Union Territory,Delhi,53353,2.3,167.53,318.5,4
+34,Union Territory,Lakshadweep,44,0,0.64,68.8,34
+35,Union Territory,Puducherry,4362,0.2,12.44,350.6,2
+Union Territory,Union Territory,Total (UTs),62690,2.7,200.82,312.2,NA
+Total (All-India),Total (All-India),Total (All-India),2325575,100,12101.93,192.2,NA
+36,City,Agra,8380,1.8,17.46,480,11
+37,City,Ahmedabad,20203,4.2,63.52,318.1,21
+38,City,Allahabad,2702,0.6,12.17,222,37
+39,City,Amritsar,1807,0.4,11.84,152.6,47
+40,City,Asansol,3381,0.7,12.43,272,30
+41,City,Aurangabad,3781,0.8,11.89,318,22
+42,City,Bengaluru,30283,6.4,84.99,356.3,17
+43,City,Bhopal,12570,2.6,18.83,667.6,5
+44,City,Chandigarh(c),3299,0.7,10.26,321.5,20
+45,City,Chennai,21346,4.5,86.96,245.5,35
+46,City,Coimbatore,4030,0.8,21.51,187.4,42
+47,City,Delhi (city),47212,9.9,163.15,289.4,26
+48,City,Dhanbad,1482,0.3,11.95,124,52
+49,City,Durg-bhilainagar,7267,1.5,10.64,683,3
+50,City,Faridabad,5357,1.1,14.05,381.3,15
+51,City,Ghaziabad,5488,1.2,23.59,232.6,36
+52,City,Gwalior,7816,1.6,11.02,709.3,2
+53,City,Hyderabad,15657,3.3,77.49,202.1,39
+54,City,Indore,14504,3.1,21.67,669.3,4
+55,City,Jabalpur,6560,1.4,12.68,517.4,9
+56,City,Jaipur,18897,4,30.73,614.9,6
+57,City,Jamshedpur,2362,0.5,13.37,176.7,45
+58,City,Jodhpur,4270,0.9,11.38,375.2,16
+59,City,Kannur,2389,0.5,16.43,145.4,48
+60,City,Kanpur,7661,1.6,29.2,262.4,31
+61,City,Kochi,34658,7.3,21.18,1636.4,1
+62,City,Kolkata,17152,3.6,141.13,121.5,53
+63,City,Kollam,6440,1.4,11.1,580.2,7
+64,City,Kota,4176,0.9,10.01,417.2,13
+65,City,Kozhikode,4026,0.8,20.31,198.2,40
+66,City,Lucknow,8891,1.9,29.01,306.5,24
+67,City,Ludhiana,2792,0.6,16.14,173,46
+68,City,Madurai,2873,0.6,14.62,196.5,41
+69,City,Malappuram,2429,0.5,16.99,143,49
+70,City,Meerut,4353,0.9,14.25,305.5,25
+71,City,Mumbai,32647,6.9,184.14,177.3,44
+72,City,Nagpur,8063,1.7,24.98,322.8,19
+73,City,Nasik,4512,0.9,15.63,288.7,27
+74,City,Patna,9292,2,20.47,453.9,12
+75,City,Pune,12622,2.7,50.5,249.9,33
+76,City,Raipur,6222,1.3,11.23,554.1,8
+77,City,Rajkot,3939,0.8,13.91,283.2,28
+78,City,Ranchi,3761,0.8,11.27,333.7,18
+79,City,Srinagar,2756,0.6,12.73,216.5,38
+80,City,Surat,8446,1.8,45.85,184.2,43
+81,City,Thiruvananthapuram,6670,1.4,16.87,395.4,14
+82,City,Thrissur,4864,1,18.55,262.2,32
+83,City,Tiruchirapalli,3496,0.7,14.05,248.8,34
+84,City,Vadodara,5727,1.2,18.17,315.2,23
+85,City,Varanasi,2020,0.4,14.35,140.8,51
+86,City,Vasai Virar,1727,0.4,12.21,141.4,50
+87,City,Vijayawada,7225,1.5,14.91,484.6,10
+88,City,Vishakhapatnam,4886,1,17.3,282.4,29
+City,City,Total (cities),475369,100,1611.07,295.1,NA

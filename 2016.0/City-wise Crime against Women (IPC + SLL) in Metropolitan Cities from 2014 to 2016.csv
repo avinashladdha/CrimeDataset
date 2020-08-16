@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Cases Reported - 2014 (Col.3),Cases Reported - 2015 (Col.4),Cases Reported - 2016 (Col.5),Percentage City Share To Total (2016) (Col.6),Rank Based on Incidence/ % share (2016) (Col.7),City Population (in Lakhs) (2016)+ (Col.8),Rate of Total Cognizable Crimes (2016)++ (Col.9),Rank Based on Crime Rate (2016) (Col.10)
+1,Ahmedabad (Gujarat),1371,1067,1126,2.7,11,30,37.5,13
+2,Bengaluru (Karnataka),3100,3109,3412,8.2,3,40.6,84,9
+3,Chennai (Tamil Nadu),906,533,544,1.3,16,43.1,12.6,18
+4,Coimbatore (Tamil Nadu),105,109,102,0.2,19,10.7,9.5,19
+5,Delhi,13260,14766,13803,33.1,1,75.8,182.1,1
+6,Ghaziabad (Uttar Pradesh),1027,904,1031,2.5,14,11,93.7,7
+7,Hyderabad (Telangana),2128,2450,2419,5.8,4,37.6,64.3,11
+8,Indore (Madhya Pradesh),941,929,1055,2.5,12,10.4,101.4,6
+9,Jaipur (Rajasthan),2428,2201,2090,5,7,14.5,144.1,3
+10,Kanpur (Uttar Pradesh),859,817,1050,2.5,13,13.4,78.4,10
+11,Kochi (Kerala),464,408,392,0.9,17,10.8,36.3,14
+12,Kolkata (West Bengal),2353,1927,1693,4.1,8,67.9,24.9,17
+13,Kozhikode (Kerala),343,363,352,0.8,18,10.6,33.2,15
+14,Lucknow (Uttar Pradesh),1260,1461,2205,5.3,5,13.8,159.8,2
+15,Mumbai (Maharashtra),3974,4819,5128,12.3,2,85.2,60.2,12
+16,Nagpur (Maharashtra),814,1312,1379,3.3,9,12.2,113,5
+17,Patna (Bihar),1031,1340,1284,3.1,10,9.6,133.8,4
+18,Pune (Maharashtra),1327,1984,2131,5.1,6,23.9,89.2,8
+19,Surat (Gujarat),694,502,565,1.4,15,19.7,28.7,16
+Total Cities,Total Cities,38385,41001,41761,100,NA,540.8,77.2,NA

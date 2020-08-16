@@ -1,0 +1,28 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Investigation in Which - Investigation Refused (Col. 4),Percentage of Cases to Total Cases for Investigation in Which - Investigation was Completed (Col. 5) - Charge Found False /Mistake of Fact or Law Etc.,Percentage of Cases to Total Cases for Investigation in Which - Investigation was Completed (Col. 6) - Final Report True Submitted,Percentage of Cases to Total Cases for Investigation in Which - Investigation was Completed (Col. 7) - Charge Sheets Submitted,Percentage of Cases to Total Cases for Investigation in Which - Investigation was Completed (Col. 8) - Total = Col. {(5)+(6)+(7)},Percentage of Cases Pending Investigation at the end of the year (Col. 9),Charge Sheeting Rate (Col. 10) = Col. ((7)/((6) + (7)) × 100)
+1,Arms Act,0,0,0.1,1,84,85.2,14.8,98.8
+2,Narcotic Drugs & Psychotropic Substances Act,0,0,0.3,1.5,69,70.8,29.1,97.8
+3,Gambling Act,0,0,0,0.2,93,93.2,6.8,99.8
+4,Excise Act,0,0.1,0.1,0.4,90.4,90.9,9,99.6
+5,Prohibition Act,0,0.1,1.1,3.1,76.7,81,18.9,96.1
+6,Explosive & Explosive Substances Act,0,0.1,0.9,7,48,56,44,87.3
+7,Immoral Traffic (P) Act,0,0,0.4,0.6,63.7,64.7,35.3,99
+8,Indian Railways Act,0,0,1,22.4,29.4,52.7,47.3,56.8
+9,The Foreigners Act,0,0,0.3,1.1,65.9,67.3,32.7,98.4
+10,Protection of Civil Rights Act - Total,0,1.2,10.7,16.7,41.7,69,29.8,71.4
+10,Protection of Civil Rights Act - (I) PCR Act for SCs,0,1.2,10.2,16.3,42.4,69,29.8,72.2
+10,Protection of Civil Rights Act - (II) PCR Act for STs,0,0,28.6,28.6,14.3,71.4,28.6,33.3
+11,Indian Passport Act,0,0,0.7,5.8,33.9,40.5,59.5,85.3
+12,Essential Commodities Act,0,0,1.3,4.3,59.4,65,35,93.2
+13,Terrorist & Disruptive Activities Act,0,0,0,0,2.7,7,97.3,100
+14,Antiquity & Art Treasure Act,0,2.5,7.4,9.9,32.1,49.4,48.1,76.5
+15,Dowry Prohibition Act,0.1,0.3,3.7,5.5,48.1,57.3,42.2,89.7
+16,Prohibition of Child Marriage Act,0,0,6.3,4.2,31.3,41.7,58.3,88.2
+17,Indecent Representation of Women (p) Act,0,0,0.3,0.5,94.8,95.6,4.4,99.5
+18,Copyrights Act,0,0,0.4,1.7,68.4,70.6,29.4,97.5
+19,Sati Prevention Act,0,0,0,0,0,0,0,0
+20,SC/ST (Prevention of Atrocities) Act - Total,0,0.1,15.8,7.8,40.3,63.9,36,83.7
+20,SC/ST (Prevention of Atrocities) Act - (I) Prevention of Attrocities Act for SCs,0,0.1,15.7,8.1,40,63.8,36.1,83.2
+20,SC/ST (Prevention of Atrocities) Act - (II) Prevention of Attrocities Act for STs,0,0.6,16.6,5.1,43.4,65.1,34.3,89.5
+21,Forest Act,0,0.4,1.5,5,82.3,88.8,10.8,94.3
+22,Other Sll Crimes,0,0,1.2,5.9,91.2,98.4,1.6,93.9
+23,Total Cognizable Crimes Under Sll,0,0,1.2,5.1,88.9,95.1,4.9,94.6

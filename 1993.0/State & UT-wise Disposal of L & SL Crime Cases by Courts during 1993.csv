@@ -1,0 +1,36 @@
+SL. No. (Col. 1),State/UT (Col. 2),Total no. of cases for trial including pending cases (Col. 3),No. of cases - Compounded or Withdrawn (Col. 4),No. of cases - in which Trials were completed - Convicted (Col. 5),No. of cases - in which Trials were completed - Acquitted or Discharged (Col. 6),No. of cases - in which Trials were completed - Total (Col. 5+6) (Col. 7),No. of cases - Pending Trial (Col. 8),Pendenc Percentage (Col. 9),Percentage of Pendenc to All-India Total (Col. 10)
+1,Andhra Pradesh,731118,1102,691972,12409,704381,25635,3.5,0.9
+2,Arunachal Pradesh,202,0,9,2,11,191,94.6,0
+3,Assam,9144,162,610,1224,1834,7148,78.2,0.3
+4,Bihar,30902,1387,2567,2645,5212,24303,78.6,0.9
+5,Goa,6677,2,1623,87,1710,4965,74.4,0.2
+6,Gujarat,806094,2087,63293,87312,150605,653402,81.1,24
+7,Haryana,77173,1,11578,7465,19043,58129,75.3,2.1
+8,Himachal Pradesh,17371,68,925,2377,3302,14001,80.6,0.5
+9,Jammu & Kashmir,5816,1,253,271,524,5291,91,0.2
+10,Karnataka,521908,9929,356521,15465,371986,139993,26.8,5.1
+11,Kerala,11324,111,3038,1531,4569,6644,58.7,0.2
+12,Madhya Pradesh,326905,120,218151,5438,223589,103196,31.6,3.8
+13,Maharashtra,1214104,8666,282017,65638,347655,857783,70.7,31.5
+14,Manipur,3253,3,1878,0,1878,1372,42.2,0.1
+15,Meghalaya,713,0,205,1,206,507,71.1,0
+16,Mizoram,725,0,295,27,322,403,55.6,0
+17,Nagaland,1024,3,185,2,187,834,81.4,0
+18,Orissa,11380,2,1164,2553,3717,7661,67.3,0.3
+19,Punjab,44189,614,9897,6086,15983,27592,62.4,1
+20,Rajasthan,65128,323,8592,2128,10720,54085,83,2
+21,Sikkim,583,0,422,13,435,148,25.4,0
+22,Tamil Nadu,1045887,6933,707483,77445,784928,254026,24.3,9.3
+23,Tripura,234,1,18,35,53,180,76.9,0
+24,Uttar Pradesh,689743,2359,219776,62132,281908,405476,58.8,14.9
+25,West Bengal,376047,71782,283434,3322,286756,17509,4.7,0.6
+Total (States),Total (States),5997644,105656,2865906,355608,3221514,2670474,44.5,98
+26,A & N Islands,5157,0,2953,29,2982,2175,42.2,0.1
+27,Chandigarh,634,0,318,52,370,264,41.6,0
+28,D & N Haveli,65,0,28,3,31,34,52.3,0
+29,Daman & Diu,25,0,1,5,6,19,76,0
+30,Delhi,43078,0,7116,3631,10747,32331,75.1,1.2
+31,Lakshadweep,10,0,8,0,8,2,20,0
+32,Pondicherry,71213,0,51072,22,51094,20119,28.3,0.7
+Total (UTs),Total (UTs),120182,0,61496,3742,65238,54944,45.7,2
+Total (All -India),Total (All -India),6117826,105656,2927402,359350,3286752,2725418,44.5,100

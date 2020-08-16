@@ -1,0 +1,39 @@
+S. No.,City,Murder (Sec 302 IPC) - I ,Murder (Sec 302 IPC) - V ,C.H. Not Amounting To Murder (Sec 304 IPC) - I ,C.H. Not Amounting To Murder (Sec 304 IPC) - V ,Attempt to Commit Murder (Sec 307 IPC) - I ,Attempt to Commit Murder (Sec 307 IPC) - V ,Attempt to Commit Culpable Homicide (Sec 308 IPC) - I ,Attempt to Commit Culpable Homicide (Sec 308 IPC) - V ,"Grievous Hurt (Sec.325, 326, 326A & 326B IPC) - I ","Grievous Hurt (Sec.325, 326, 326A & 326B IPC) - V ",Rape (Sec. 376 IPC) - I ,Rape (Sec. 376 IPC) - V ,Extortion (Sec.384 & 385 -389 IPC) - I ,Extortion (Sec.384 & 385 -389 IPC) - V ,Robbery (Sec 392 to 394 IPC) - I ,Robbery (Sec 392 to 394 IPC) - V ,Dacoity (Sec 395 to 398 IPC) - I ,Dacoity (Sec 395 to 398 IPC) - V ,Cheating (Section 420 IPC)  - I ,Cheating (Section 420 IPC)  - V ,Other IPC Crimes * - I ,Other IPC Crimes * - V ,Total cognizable IPC crimes Against senior Citizens** - I ,Total cognizable IPC crimes Against senior Citizens** - V 
+1,"Ahmedabad 
+(Gujarat)",6,6,1,1,0,0,0,0,0,0,0,0,1,1,12,12,0,0,6,6,336,336,362,362
+2,"Bengaluru 
+(Karnataka)",12,12,3,3,1,1,0,0,1,1,0,0,0,0,46,46,2,2,27,27,64,66,156,158
+3,"Chennai 
+(Tamil Nadu)",10,10,2,2,9,9,0,0,0,0,0,0,4,4,11,11,0,0,41,41,133,134,210,211
+4,"Coimbatore 
+(Tamil Nadu)",3,3,0,0,0,0,0,0,0,0,0,0,0,0,16,16,0,0,12,12,202,202,233,233
+5,Delhi,17,18,1,1,5,5,3,3,8,8,0,0,4,4,91,91,0,0,108,108,405,405,642,643
+6,"Ghaziabad 
+(Uttar Pradesh)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,"Hyderabad 
+(Telangana)",6,6,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,4,4,27,29,40,42
+8,"Indore
+(Madhya Pradesh)",5,6,1,1,0,0,0,0,1,1,1,1,0,0,4,4,0,0,5,5,41,41,58,59
+9,"Jaipur 
+(Rajasthan)",3,3,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,28,28,76,76,108,108
+10,"Kanpur  
+(Uttar Pradesh)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,"Kochi 
+(Kerala)",0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,2,0,0,0,0,10,10,13,13
+12,"Kolkata 
+(West Bengal)",6,6,4,4,1,1,1,1,1,1,0,0,1,1,7,7,0,0,0,0,5,5,26,26
+13,"Kozhikode 
+(Kerala)",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,3,3,10,10,15,15
+14,"Lucknow 
+(Uttar Pradesh)",6,6,1,1,0,0,0,0,0,0,0,0,0,0,3,3,0,0,9,9,82,82,101,101
+15,"Mumbai 
+(Maharashtra)",9,9,2,2,5,5,0,0,51,51,0,0,8,8,108,108,2,2,336,337,697,700,1218,1222
+16,"Nagpur 
+(Maharashtra)",5,5,0,0,1,1,0,0,6,6,0,0,1,1,31,31,1,1,15,15,131,131,191,191
+17,"Patna 
+(Bihar)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,"Pune 
+(Maharashtra)",1,1,0,0,1,1,0,0,7,7,0,0,3,3,39,40,1,1,53,53,84,86,189,192
+19,"Surat 
+(Gujarat)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,89,91,16,16,25,25,4,4,76,76,1,1,22,22,373,374,6,6,647,648,2303,2313,3562,3576

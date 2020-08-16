@@ -1,0 +1,19 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total Number of Cases for Investigation Including Pending Cases (Col. 3),Number of Cases in which - Investigation was Refused (Col. 4),Number of Cases in which - Investigation was Completed - Charge Found False/ Mistake of Law Etc. (Col. 5),Number of Cases in which - Investigation was Completed - Final Report True Submitted (Col. 6),Number of Cases in which - Investigation was Completed - Chargesheets were Laid (Col. 7),Number of Cases in which - Investigation was Completed - Total [Col. 5+6+7] (Col. 8),Number of Cases Pending Investigation (Col. 9)
+1,Murder,41082,104,1198,5179,20989,27366,13612
+2,Attempt to Commit Murder,25346,40,1144,2596,15975,19715,5591
+3,C.H. Not Amounting to Murder,5338,9,200,633,2835,3668,1661
+4,Rape,12067,25,836,725,7244,8805,3237
+5,Kidnapping & Abduction,22382,85,4356,2841,8058,15255,7042
+5,I) Of Women & Girls,19860,68,3895,2421,7084,13400,6392
+5,II) Of Others,2522,17,461,420,974,1855,650
+6,Dacoity,14927,52,874,2946,5013,8833,6042
+7,Preparation & Assembly for Dacoity,1153,0,40,96,756,892,261
+8,Robbery,28846,141,3042,6747,10912,20701,8004
+9,Burglary,154803,515,7025,69435,45845,122305,31983
+10,Theft,394634,3890,18067,170461,123547,312075,78669
+11,Riots,124733,299,13535,9301,73377,96213,28221
+12,Criminal Breach of Trust,30269,238,2675,3793,10688,17156,12875
+13,Cheating,36323,243,4634,5867,11935,22436,13644
+14,Counterfeiting,2522,323,170,596,287,1053,1146
+15,Other IPC Crimes not Including Above,874797,2801,52198,77125,593709,723032,148964
+16,Total Cognizable Crimes Under IPC,1769222,8765,109994,358341,931170,1399505,360952

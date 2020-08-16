@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Cases Pending Trial from the Previous Year (Col.3),Cases Sent for Trial During the Year (Col.4),Total Cases for Trial During the Year (Col.5) = (Col.3+4),No. of Cases Withdrawn by the Govt. (Col.6),No. of Cases Disposed by Plea Bargaining (Col.7),Cases Compounded (Col.8),Cases in Which Trials were Completed (Col.9) = (Col. 10+11),Cases Convicted (Col.10),Cases Acquitted or Discharged (Col.11),Cases Disposed off by Courts (Col.12) = (Col.6+Col.7 +Col.8+Col.9),Cases Pending Trial at the End of the Year (Col.13) = (Col.5 NA Col.12),Conviction Rate (Col.14) = (Col.10/ Col.9) * 100,Pendency Percentage (Col.15) = (Col.13/ Col.5) * 100
+1,Ahmedabad (Gujarat),105831,16024,121855,0,0,0,9026,4855,4171,9026,112829,53.8,92.6
+2,Bengaluru (Karnataka),9400,2006,11406,0,0,24,1232,447,785,1256,10150,36.3,89
+3,Chennai (Tamil Nadu),19579,93255,112834,0,0,1,91972,87450,4522,91973,20861,95.1,18.5
+4,Coimbatore (Tamil Nadu),1016,6995,8011,0,0,23,6875,6641,234,6898,1113,96.6,13.9
+5,Delhi,23488,6178,29666,0,0,24,3754,2173,1581,3778,25888,57.9,87.3
+6,Ghaziabad (Uttar Pradesh),32199,2829,35028,0,0,0,1622,1512,110,1622,33406,93.2,95.4
+7,Hyderabad (Telangana),4308,1128,5436,0,2,199,636,169,467,837,4599,26.6,84.6
+8,Indore (Madhya Pradesh),3638,2671,6309,0,0,0,2885,2643,242,2885,3424,91.6,54.3
+9,Jaipur (Rajasthan),18164,6575,24739,7,0,4,2344,2263,81,2355,22384,96.5,90.5
+10,Kanpur (Uttar Pradesh),28889,2290,31179,0,0,0,15982,15641,341,15982,15197,97.9,48.7
+11,Kochi (Kerala),103049,38072,141121,0,0,2,21494,21112,382,21496,119625,98.2,84.8
+12,Kolkata (West Bengal),3599,1615,5214,0,0,0,306,196,110,306,4908,64.1,94.1
+13,Kozhikode (Kerala),12244,9350,21594,0,0,0,9300,9201,99,9300,12294,98.9,56.9
+14,Lucknow (Uttar Pradesh),64508,1975,66483,0,0,0,1165,1078,87,1165,65318,92.5,98.2
+15,Mumbai (Maharashtra),50865,18463,69328,47,0,1864,11868,7920,3948,13779,55549,66.7,80.1
+16,Nagpur (Maharashtra),84266,25373,109639,3,0,36,15902,13845,2057,15941,93698,87.1,85.5
+17,Patna (Bihar),7216,2252,9468,0,0,0,382,79,303,382,9086,20.7,96
+18,Pune (Maharashtra),160076,3076,163152,3,0,65,917,158,759,985,162167,17.2,99.4
+19,Surat (Gujarat),286446,37095,323541,0,0,0,8259,6879,1380,8259,315282,83.3,97.4
+Total Cities,Total Cities,1018781,277222,1296003,60,2,2242,205921,184262,21659,208225,1087778,89.5,83.9

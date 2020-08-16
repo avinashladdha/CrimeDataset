@@ -1,0 +1,30 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Cases Pending Investigation from Previous Year (Col.4),Cases Reported during the Year (Col.5),Total Cases for Investigation (Col.6) = (Col. 4+5),Cases Withdrawn by Govt. (Col.7),Cases Transferred to other PS or Magistrate (Col.8),Cases not Investigated U/S 157(1) (b) of Cr.PC (Col.9),Final Report - True but Insufficient Evidence (Col.10),Final Report - False (Col.11),Final Report - Mistake of Fact (Col.12),Final Report - Non-Cognizable (Col.13),Final Report - Total (Col.14) = (Col.10+ Col.11+ Col.12+ Col.13),Cases in which Chargesheets were Submitted (Col.15),Total Cases Disposed off by Police (Col.16) = (Col. 8+9+14+ 15),Cases Pending Investigation at the End of the Year (Col.17) = (Col. 6 - (Col.7+ Col.16)),Chargesheeting Rate (Col.18) = (Col.15/ Col.16) * 100,Pendency Percentage (Col.19) = (Col.17/ (Col.6)) * 100
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.1. Murder,0,7,7,0,0,0,0,0,0,0,0,5,5,2,100,28.6
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.2. Attempt to Commit Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.3. Grievous Hurt,2,0,2,0,0,0,0,0,0,0,0,1,1,1,100,50
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.3.1. Hurt,2,0,2,0,0,0,0,0,0,0,0,1,1,1,100,50
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.3.2. Acid Attack & Attempt to Acid Attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4. Assault on Women with Intent to Outrage her Modesty,2,3,5,0,0,0,0,1,0,0,1,2,3,2,66.7,40
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.1. Sexual Harassment,0,1,1,0,0,0,0,0,0,0,0,0,0,1,NA,100
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.2. Assault on Women with Intent to Disrobe,0,1,1,0,0,0,0,0,0,0,0,1,1,0,100,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.3. Voyeurism,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.4. Stalking,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.4.5. Other Sexual Harassment,2,1,3,0,0,0,0,1,0,0,1,1,2,1,50,33.3
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.5. Insult to the Modesty of Women,0,1,1,0,0,0,0,0,0,0,0,1,1,0,100,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6. Kidnapping & Abduction,1,2,3,0,0,0,0,0,0,0,0,3,3,0,100,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.1. Kidnaping & Abduction,1,0,1,0,0,0,0,0,0,0,0,1,1,0,100,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.2. Kidnaping & Abduction in order to Murder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.3. Kidnapping for Ransom,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.4. Kidnapping & Abduction of Women to Compel her for Marriage,0,1,1,0,0,0,0,0,0,0,0,1,1,0,100,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.6.5. Other Kidnapping,0,1,1,0,0,0,0,0,0,0,0,1,1,0,100,0
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.7. Rape,4,20,24,0,0,0,0,3,0,0,3,10,13,11,76.9,45.8
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.8. Attempt to Commit Rape,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.9. Riots,2,0,2,0,0,0,0,0,0,0,0,1,1,1,100,50
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.10. Robbery,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.11. Dacoity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.12. Arson,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1,SC/ST POA ACT r/w (in Conjunction with) Sections of IPC,1.13. Other IPC Crimes *,61,99,160,0,4,0,7,48,19,0,74,36,114,46,31.6,28.8
+2,SC / ST (Prevention of Atrocities) Act,2. SC / ST (Prevention of Atrocities) Act,26,27,53,1,1,0,2,9,2,0,13,10,24,28,41.7,52.8
+Total of SC/ST (Prevention of Atrocities) Act (1+2),Total of SC/ST (Prevention of Atrocities) Act (1+2),Total of SC/ST (Prevention of Atrocities) Act (1+2),98,159,257,1,5,0,9,61,21,0,91,69,165,91,41.8,35.4
+3,"Protection of Civil Rights Act, 1955","3. Protection of Civil Rights Act, 1955",0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+Total Crime/Atrocities Against SCs (1+2+3),Total Crime/Atrocities Against SCs (1+2+3),Total Crime/Atrocities Against SCs (1+2+3),98,159,257,1,5,0,9,61,21,0,91,69,165,91,41.8,35.4

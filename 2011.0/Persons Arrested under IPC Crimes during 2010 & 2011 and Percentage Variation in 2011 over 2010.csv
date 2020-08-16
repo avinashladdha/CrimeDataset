@@ -1,0 +1,31 @@
+Sl. No.,Crime Head,2010,2011,Percentage Variation in 2011 over 2010,Percentage Share of Arrestees Under Each Crime During 2011
+1,Murder (sec.302 IPC),62466,70593,13,2.2
+2,Attempt to commit murder (sec. 307 IPC),65709,76074,15.8,2.4
+3,"C.H. not amounting murder (sec. 304, 308 IPC)",7179,7088,-1.3,0.2
+4,Rape(sec. 376 IPC),27074,28878,6.7,0.9
+5,Rape(sec. 376 IPC) - custodial rape,10,1,-90,0
+6,Rape(sec. 376 IPC) - other rape,27064,28877,6.7,0.9
+7,"Kidnapping & abduction (sec. 363-369,371-373 IPC)",45498,57483,26.3,1.8
+8,"Kidnapping & abduction (sec. 363-369,371-373 IPC) - of women & girls",34250,45363,32.4,1.4
+9,"Kidnapping & abduction (sec. 363-369,371-373 IPC) - of others",11248,12120,7.8,0.4
+10,Dacoity(sec. 395-398 IPC),17321,17008,-1.8,0.5
+11,Preparation & assembly for dacoity (sec. 399-402 IPC),10411,11379,9.3,0.4
+12,"Robbery(sec. 392-394,397,398 IPC)",35128,35546,1.2,1.1
+13,"Burglary(sec. 449-452,454,455,457-460 IPC)",68292,68368,0.1,2.2
+14,Theft(sec. 379-382 IPC),194066,204207,5.2,6.5
+15,Theft(sec. 379-382 Ipc) - Auto Theft,54588,57592,5.5,1.8
+16,Theft(sec. 379-382 Ipc) - Other Theft,139478,146615,5.1,4.7
+17,"Riots(sec. 143-145,147-151,153,153a,153b,157,158,160 IPC)",318915,353986,11,11.3
+18,Criminal breach of trust (sec. 406-409 IPC),20438,24044,17.6,0.8
+19,"Cheating(sec. 419,420 IPC)",77762,92864,19.4,3
+20,"Counterfeiting(sec. 231-254,489a-489d IPC)",2232,2130,-4.6,0.1
+21,"Arson(sec. 435,436,438 IPC)",10667,12380,16.1,0.4
+22,"Hurt(sec. 323-333,335-338 IPC)",499778,515898,3.2,16.4
+23,Dowry deaths (sec. 304b IPC),23280,24578,5.6,0.8
+24,Molestation (sec. 354 IPC),50024,53767,7.5,1.7
+25,Sexual harassment (sec. 509 IPC),10404,9880,-5,0.3
+26,Cruelty by husband and relatives (sec. 498a IPC),180413,180701,0.2,5.7
+27,Importation of girls (sec. 366b IPC),81,221,172.8,0
+28,Death due to negligence (304a IPC),88070,90313,2.5,2.9
+29,Other IPC crimes,1131914,1208459,6.8,38.4
+30,Total cognizable crimes under IPC,2947122,3145845,6.7,100

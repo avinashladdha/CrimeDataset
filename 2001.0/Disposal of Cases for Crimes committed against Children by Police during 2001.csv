@@ -1,0 +1,15 @@
+Crime Head (Col. 1),Total No. of Cases for Investigation including Pending Cases (Col. 2),Cases Withdrawn by Govt. (Col. 3),No. of Cases in which Investigation was Refused (Col. 4),No. of Cases in which Investigation was Completed - Charge Found False/Mistake of Fact or Law Etc. (Col. 5),No. of Cases in which Investigation was Completed - Final Report True Submitted (Col. 6),No. of Cases in which Investigation was Completed - Charge Sheets were Submitted (Col. 7),No. of Cases in which Investigation was Completed - Total (Col. 8) = (Col. 5) + (Col. 6) + (Col. 7),No. of Cases Pending Investigation (Col. 9)
+Murder - Total,1284,0,5,33,233,788,1054,225
+Murder - Infanticide,139,0,0,3,52,71,126,13
+Murder - Other Murder,1145,0,5,30,181,717,928,212
+Rape,2285,0,1,35,90,1843,1968,316
+Kid. & Abduction,3172,0,2,526,469,1656,2651,519
+Foeticide,57,0,0,3,24,21,48,9
+Abetment of Suicide,30,0,0,4,3,16,23,7
+Exposure and Abandonment,775,0,1,8,513,143,664,110
+Procuration Minor Girl,152,0,0,6,22,93,121,31
+Buying Girls for Prost.,7,0,0,0,2,3,5,2
+Selling Girs for Prost.,10,0,0,0,1,8,9,1
+Child Marriage Restraint Act,106,0,1,13,3,76,92,13
+Other Crime,4065,0,1,124,406,3048,3578,486
+Total,11943,0,11,752,1766,7695,10213,1719

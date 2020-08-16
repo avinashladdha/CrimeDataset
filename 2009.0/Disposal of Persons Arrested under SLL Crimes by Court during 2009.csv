@@ -1,0 +1,28 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Persons Under Trial Including those from Previous Year (Col. 3),No of Persons Whose (Col. 4) - Cases Compounded or Withdrawn,No of Persons Whose (Col. 5) - Trial Completed,No of Persons Whose (Col. 6) - Trial Remained Pending,No of Persons Convicted (Col. 7),Percentage of Persons (Col. 8) - Whose Trials Remained Pending = Col. ((6)× 100/(3)},Percentage of Persons (Col. 9) - Convicted To Trials Completed = Col. ((7) × 100 / Col(5)),Note of Percentage of Persons - Convicted To Trials Completed (Col.(7) × 100 / Col(5))
+1,Arms Act,447924,514,80265,367145,53854,82,67.1,NA
+2,Narcotic Drugs & Psychotropic Substances Act,170908,125,29874,140909,19427,82.4,65,NA
+3,Gambling Act,1209032,3253,312280,893499,259954,73.9,83.2,NA
+4,Excise Act,664721,678,170346,493697,135325,74.3,79.4,NA
+5,Prohibition Act,2427135,7412,366629,2053094,191707,84.6,52.3,NA
+6,Explosives & Explosive Substances Act,33575,51,4556,28968,2349,86.3,51.6,NA
+7,Immoral Traffic (p) Act,43000,61,5950,36989,2388,86,40.1,NA
+8,Indian Railways Act,13531,2,1066,12463,857,92.1,80.4,NA
+9,Registration of foreigners Act,11702,47,1253,10402,957,88.9,76.4,NA
+10,Protection of Civil Rights Act - Total,3504,11,579,2914,105,83.2,18.1,NA
+10,Protection of Civil Rights Act - (i) Pcr Act for Scs,3450,11,567,2872,105,83.2,18.5,NA
+10,Protection of Civil Rights Act - (ii) Pcr Act for Sts,54,0,12,42,0,77.8,0,NA
+11,Indian Passport Act,7482,36,1457,5989,1079,80,74.1,NA
+12,Essential Commodities Act,71036,78,6997,63961,2457,90,35.1,NA
+13,Terrorist & Disruptive Activities Act,5385,0,51,5334,4,99.1,7.8,NA
+14,Antiquities & Art Treasures Act,343,0,35,308,6,89.8,17.1,NA
+15,Dowry Prohibition Act,39946,802,7541,31603,1560,79.1,20.7,NA
+16,Child Marriage Restraint Act,1770,43,303,1424,105,80.5,34.7,NA
+17,Indecent Representation of Women (p) Act,2339,0,965,1374,822,58.7,85.2,NA
+18,Copyright Act,42081,66,6158,35857,2471,85.2,40.1,NA
+19,Sati Prevention Act,25,7,0,18,0,72,NA,@
+20,Sc/st (prevention of Atrocities) Act - Total,99286,915,18491,79880,5159,80.5,27.9,NA
+20,Sc/st (prevention of Atrocities) Act - (i) Prevention of Attrocities Act for Scs,90256,871,17126,72259,4910,80.1,28.7,NA
+20,Sc/st (prevention of Atrocities) Act - (ii) Prevention of Attrocities Act for Sts,9030,44,1365,7621,249,84.4,18.2,NA
+21,forest Act,31920,12,7044,24864,4995,77.9,70.9,NA
+22,Other Sll Crimes,5735518,17342,3548633,2169543,3216081,37.8,90.6,NA
+23,Total Cognizable Crimes Under Sll,11062163,31455,4570473,6460235,3901662,58.4,85.4,NA

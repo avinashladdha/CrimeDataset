@@ -1,0 +1,12 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn By Govt. (Col. 3),Percentage of Cases to Total Cases for Investigation in Which (Col. 4) - Investigation Refused,Percentage of Cases to Total Cases for Investigation in Which Investigation Completed (Col. 5) - Charge Found False / Mistake Of Fact Or Law Etc.,Percentage of Cases to Total Cases for Investigation in Which Investigation Completed (Col. 6) - Final Report True Submitted,Percentage of Cases to Total Cases for Investigation in Which Investigation Completed (Col. 7) - Charge Sheets Submitted,Percentage of Cases to Total Cases for Investigation in Which Investigation Completed (Col. 8) - Total = Col. {(5) +(6) +(7)},No. of Cases Pending Investigation at the end of the year (Col. 9),Chargesheeting Rate (Col. 10) = Col. (7 / 6 +7 × 100)
+1,Murder (Sec. 302 IPC),0,0,3,0.5,67.7,71.2,28.8,99.3
+2,Rape (Sec.376 IPC),0,0,2.5,1.2,73.8,77.6,22.4,98.4
+3,"Kidnapping & Abduction (Sec. 363-369, 371-373 IPC)",0,0,4.5,2.3,56.8,63.6,36.4,96.2
+4,Dacoity (Sec.395-398 IPC),0,0,22.2,0,22.2,44.4,55.6,100
+5,"Robbery (392-394, 397398 IPC)",0,0,0,11.1,50,61.1,38.9,81.8
+6,"Arson (Sec.435, 436, 438 IPC)",0,0,8.3,6.3,60.4,75,25,90.6
+7,"Hurt (Sec.323-333, 335-338 IPC)",0,0.2,12.8,3.6,66.5,82.9,16.9,94.9
+8,"Pcr Act, 1955 for Sts",0,0,14.3,0,57.1,71.4,28.6,100
+9,"Sc/st Prev. of Atrocities Act, 1989 for Sts",0,0.2,13,2.2,46,61.2,38.6,95.5
+10,Other Crimes Against Sts,0,0.5,23.6,2.4,54.6,80.6,19,95.8
+11,Total,0,0.3,16.3,2.4,57,75.6,24.1,96

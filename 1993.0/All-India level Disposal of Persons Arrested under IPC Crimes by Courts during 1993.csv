@@ -1,0 +1,19 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total no. of persons under trial including those from previous year (Col. 3),No. of persons whose - Cases compounded or withdrawn (Col. 4),No. of persons whose - Trial completed (Col. 5),No. of persons whose - Trial remained pending (Col. 6),No. of Persons Convicted (Col. 7),Percentage of Persons - Whose trials remainded pending (Col. 6*100/Col. 3) (Col. 8),Percentage of Persons - Convicted to trials completed (Col. 7*100/Col. 5) (Col. 9)
+1,Murder,351160,593,53249,297318,20738,84.7,38.9
+2,Attempt to Commit Murder,284578,2149,45155,237274,15626,83.4,34.6
+3,C.H. Not Amounting to Murder,36511,244,6050,30217,2605,82.8,43.1
+4,Rape,60438,233,10006,50199,2956,83.1,29.5
+5,Kidnapping & Abduction,104972,970,15741,88261,5083,84.1,32.3
+5,I) Of Women & Girls,79647,799,10715,68133,3446,85.5,32.2
+5,II) Of Others,25325,171,5026,20128,1637,79.5,32.6
+6,Dacoity,161204,352,20598,140254,5037,87,24.5
+7,Preparation & Assembly for Dacoity,22650,2,3320,19328,1231,85.3,37.1
+8,Robbery,139791,409,20744,118638,6979,84.9,33.6
+9,Burglary,394406,3975,69518,320913,27512,81.4,39.6
+10,Theft,905403,11968,144871,748564,60721,82.7,41.9
+11,Riots,2484451,77948,324290,2082213,86719,83.8,26.7
+12,Criminal Breach of Trust,89266,1417,11597,76252,3695,85.4,31.9
+13,Cheating,117220,1724,14863,100633,5390,85.8,36.3
+14,Counterfeiting,3770,85,731,2954,209,78.4,28.6
+15,Other IPC Crimes,4738589,217873,823353,3697363,335242,78,40.7
+16,Total Cognizable Crimes Under IPC,9894409,319942,1564086,8010381,597943,81,37.1

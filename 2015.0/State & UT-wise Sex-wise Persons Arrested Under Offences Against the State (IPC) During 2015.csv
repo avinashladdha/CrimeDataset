@@ -1,0 +1,40 @@
+S. No. (Col. 1),Category (Col. 2),State/UT (Col. 3),"Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Offences Against State (Total) - Male (Col. 4)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Offences Against State (Total) - Female (Col. 5)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Offences Against State (Total) - Total (Col. 6)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Sedition (Section 124A IPC) - Male (Col. 7)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Sedition (Section 124A IPC) - Female (Col. 8)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Sedition (Section 124A IPC) - Total (Col. 9)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Others (Section 121, 121A, 122 & 123 IPC) - Male (Col. 10)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Others (Section 121, 121A, 122 & 123 IPC) - Female (Col. 11)","Offences Against State (Section 121, 121A, 122, 123, 124-A IPC) - Others (Section 121, 121A, 122 & 123 IPC) - Total (Col. 12)",Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC) - Male (Col. 13),Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC) - Female (Col. 14),Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC) - Total (Col. 15),"Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Promoting Enmity Between Different Groups on Ground of Religion, Race, Place of Birth, etc. (Section 153A IPC) - Male (Col. 16)","Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Promoting Enmity Between Different Groups on Ground of Religion, Race, Place of Birth, etc. (Section 153A IPC) - Female (Col. 17)","Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Promoting Enmity Between Different Groups on Ground of Religion, Race, Place of Birth, etc. (Section 153A IPC) - Total (Col. 18)","Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Imputation, Assertions Prejudicial to National Integration (Section 153B IPC) - Male (Col. 19)","Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Imputation, Assertions Prejudicial to National Integration (Section 153B IPC) - Female (Col. 20)","Offences Promoting Enmity Between Different Groups (Section 153A & 153B IPC)* - Imputation, Assertions Prejudicial to National Integration (Section 153B IPC) - Total (Col. 21)",Total Offences Against the State - Male (Col. 22),Total Offences Against the State - Female (Col. 23),Total Offences Against the State - Total (Col. 24)
+1,State,Andhra Pradesh,1,0,1,0,0,0,1,0,1,79,1,80,67,1,68,12,0,12,80,1,81
+2,State,Arunachal Pradesh,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+3,State,Assam,27,0,27,0,0,0,27,0,27,0,0,0,0,0,0,0,0,0,27,0,27
+4,State,Bihar,50,0,50,40,0,40,10,0,10,12,0,12,12,0,12,0,0,0,62,0,62
+5,State,Chhattisgarh,8,0,8,0,0,0,8,0,8,0,0,0,0,0,0,0,0,0,8,0,8
+6,State,Goa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,State,Gujarat,5,0,5,1,0,1,4,0,4,16,0,16,16,0,16,0,0,0,21,0,21
+8,State,Haryana,3,0,3,3,0,3,0,0,0,19,3,22,17,3,20,2,0,2,22,3,25
+9,State,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,State,Jharkhand,0,0,0,0,0,0,0,0,0,10,0,10,10,0,10,0,0,0,10,0,10
+12,State,Karnataka,4,0,4,4,0,4,0,0,0,124,0,124,124,0,124,0,0,0,128,0,128
+13,State,Kerala,5,0,5,3,0,3,2,0,2,66,0,66,61,0,61,5,0,5,71,0,71
+14,State,Madhya Pradesh,6,0,6,0,0,0,6,0,6,23,0,23,8,0,8,15,0,15,29,0,29
+15,State,Maharashtra,0,0,0,0,0,0,0,0,0,212,20,232,209,20,229,3,0,3,212,20,232
+16,State,Manipur,6,0,6,0,0,0,6,0,6,0,0,0,0,0,0,0,0,0,6,0,6
+17,State,Meghalaya,27,0,27,0,0,0,27,0,27,0,0,0,0,0,0,0,0,0,27,0,27
+18,State,Mizoram,6,0,6,0,0,0,6,0,6,0,0,0,0,0,0,0,0,0,6,0,6
+19,State,Nagaland,16,0,16,0,0,0,16,0,16,0,0,0,0,0,0,0,0,0,16,0,16
+20,State,Odisha,0,0,0,0,0,0,0,0,0,10,0,10,10,0,10,0,0,0,10,0,10
+21,State,Punjab,10,0,10,10,0,10,0,0,0,6,0,6,5,0,5,1,0,1,16,0,16
+22,State,Rajasthan,9,0,9,9,0,9,0,0,0,56,0,56,56,0,56,0,0,0,65,0,65
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,8,0,8,8,0,8,0,0,0,8,0,8
+24,State,Tamil Nadu,0,0,0,0,0,0,0,0,0,53,0,53,53,0,53,0,0,0,53,0,53
+25,State,Telangana,0,0,0,0,0,0,0,0,0,45,0,45,45,0,45,0,0,0,45,0,45
+26,State,Tripura,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+27,State,Uttar Pradesh,0,0,0,0,0,0,0,0,0,155,0,155,143,0,143,12,0,12,155,0,155
+28,State,Uttarakhand,0,0,0,0,0,0,0,0,0,7,0,7,7,0,7,0,0,0,7,0,7
+29,State,West Bengal,52,1,53,3,0,3,49,1,50,15,0,15,12,0,12,3,0,3,67,1,68
+TOTAL (STATES),State,TOTAL (STATES),237,1,238,73,0,73,164,1,165,916,24,940,863,24,887,53,0,53,1153,25,1178
+30,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,UT,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,UT,Delhi UT,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOTAL (UTS),UT,TOTAL (UTS),0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+TOTAL ALL INDIA,TOTAL ALL INDIA,TOTAL ALL INDIA,237,1,238,73,0,73,164,1,165,917,24,941,864,24,888,53,0,53,1154,25,1179

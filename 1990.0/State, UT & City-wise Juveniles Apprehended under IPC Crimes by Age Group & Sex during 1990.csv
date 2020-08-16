@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Girls Only,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+1,State,Andhra Pradesh,50,1,460,17,55,690,73,763
+2,State,Arunachal Pradesh,4,0,25,0,18,29,18,47
+3,State,Assam,47,12,588,22,41,635,75,710
+4,State,Bihar,97,0,1628,113,146,1725,259,1984
+5,State,Goa,11,0,26,5,7,37,12,49
+6,State,Gujarat,170,12,696,86,268,866,366,1232
+7,State,Haryana,53,0,1155,0,35,1208,35,1243
+8,State,Himachal Pradesh,8,0,64,18,28,72,46,118
+9,State,Jammu & Kashmir,0,0,4,0,10,4,10,14
+10,State,Karnataka,36,1,308,12,60,344,73,417
+11,State,Kerala,3,0,124,4,3,127,7,134
+12,State,Madhya Pradesh,497,40,2347,58,304,2844,402,3246
+13,State,Maharashtra,474,73,2635,312,350,3109,735,3844
+14,State,Manipur,0,0,0,0,4,0,4,4
+15,State,Meghalaya,20,0,75,0,5,95,5,100
+16,State,Mizoram,0,0,18,0,14,18,14,32
+17,State,Nagaland,0,0,158,0,5,158,5,163
+18,State,Orissa,1,0,178,1,0,179,1,180
+19,State,Punjab,0,0,65,0,0,65,0,65
+20,State,Rajasthan,55,1,757,61,48,812,110,922
+21,State,Sikkim,0,0,2,0,1,2,1,3
+22,State,Tamil Nadu,129,10,664,25,165,793,200,993
+23,State,Tripura,0,0,209,8,22,209,30,239
+24,State,Uttar Pradesh,4,0,101,0,0,105,0,105
+25,State,West Bengal,5,1,24,2,0,29,3,32
+Total (States),State,Total (States),1664,151,12491,744,1589,14155,2484,16639
+26,UT,A & N Islands,0,0,1,2,5,1,7,8
+27,UT,Chandigarh,0,0,7,1,1,7,2,9
+28,UT,D & N Haveli,0,0,4,0,0,4,0,4
+29,UT,Daman & Diu,0,0,2,0,0,2,0,2
+30,UT,Delhi,0,0,86,2,23,86,25,111
+31,UT,Lakshadweep,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,22,0,42,1,0,64,1,65
+Total (UTs),UT,Total (UTs),22,0,142,6,29,164,35,199
+Total (All -India),Total (All -India),Total (All -India),1686,151,12633,750,1618,14319,2519,16838
+33,City,Ahmedabad,17,1,74,20,56,91,77,168
+34,City,Bangalore,13,0,130,0,25,143,25,168
+35,City,Bombay,0,0,533,74,14,533,88,621
+36,City,Calcutta,5,1,7,2,0,12,3,15
+37,City,Delhi,0,0,86,2,23,86,25,111
+38,City,Hyderabad,7,0,50,1,0,57,1,58
+39,City,Jaipur,1,0,41,0,0,42,0,42
+40,City,Kanpur,0,0,0,0,0,0,0,0
+41,City,Lucknow,1,0,13,0,0,14,0,14
+42,City,Madras,0,0,22,5,30,22,35,57
+43,City,Nagpur,10,0,42,1,1,52,2,54
+44,City,Pune,16,0,43,2,2,59,4,63

@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Violent Crimes (Col.3),City Share of Violent Crimes (Col.4),Rank Based on Incidence/ % share (Col.5),Actual Population (In Lakhs)+ (Col.6),Rate of Violent Crimes ++ (Col.7),Rank Based on Crime Rate (Col.8)
+1,Ahmedabad (Gujarat),1107,2.4,11,63.5,17.4,14
+2,Bengaluru (Karnataka),3967,8.6,4,85,46.7,6
+3,Chennai (Tamil Nadu),705,1.5,16,87,8.1,19
+4,Coimbatore (Tamil Nadu),220,0.5,19,21.5,10.2,17
+5,Delhi,15297,33,1,163.1,93.8,2
+6,Ghaziabad (Uttar Pradesh),775,1.7,15,23.6,32.8,11
+7,Hyderabad (Andhra Pradesh),1162,2.5,10,77.5,15,16
+8,Indore (Madhya Pradesh),951,2.1,13,21.7,43.8,7
+9,Jaipur (Rajasthan),1292,2.8,8,30.7,42.1,8
+10,Kanpur (Uttar Pradesh),959,2.1,12,29.2,32.8,10
+11,Kochi (Kerala),326,0.7,18,21.2,15.4,15
+12,Kolkata (West Bengal),1284,2.8,9,141.1,9.1,18
+13,Kozhikode (Kerala),437,0.9,17,20.3,21.5,12
+14,Lucknow (Uttar Pradesh),1632,3.5,7,29,56.3,5
+15,Mumbai (Maharashtra),6096,13.2,2,184.1,33.1,9
+16,Nagpur (Maharashtra),1644,3.5,6,25,65.8,3
+17,Patna (Bihar),4547,9.8,3,20.5,221.8,1
+18,Pune (Maharashtra),3065,6.6,5,50.5,60.7,4
+19,Surat (Gujarat),858,1.9,14,45.8,18.7,13
+Total Cities,Total Cities,46324,100,NA,1140.3,40.6,NA

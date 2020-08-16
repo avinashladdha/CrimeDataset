@@ -1,0 +1,39 @@
+S. No.,City,Persons Arrested -Male,Persons Arrested -Female,Persons Arrested -Total,Persons Chargesheeted-Male,Persons Chargesheeted-Female,Persons Chargesheeted-Total,Persons Convicted-Male,Persons Convicted-Female,Persons Convicted-Total,Persons Acquitted/ Discharged-Male,Persons Acquitted/ Discharged-Female,Persons Acquitted/ Discharged-Total
+1,"Ahmedabad 
+(Gujarat)",316,17,333,293,17,310,0,0,0,0,0,0
+2,"Bengaluru 
+(Karnataka)",156,21,177,101,12,113,2,0,2,3,0,3
+3,"Chennai 
+(Tamil Nadu)",138,29,167,101,10,111,42,5,47,27,3,30
+4,"Coimbatore 
+(Tamil Nadu)",230,0,230,203,0,203,123,0,123,1,0,1
+5,Delhi,478,2,480,442,1,443,44,0,44,42,0,42
+6,"Ghaziabad 
+(Uttar Pradesh)",0,0,0,0,0,0,0,0,0,0,0,0
+7,"Hyderabad 
+(Telangana)",19,2,21,16,0,16,0,0,0,1,0,1
+8,"Indore 
+(Madhya Pradesh)",89,0,89,87,0,87,10,0,10,6,0,6
+9,"Jaipur 
+(Rajasthan)",39,0,39,39,0,39,0,0,0,0,0,0
+10,"Kanpur  
+(Uttar Pradesh)",0,0,0,0,0,0,0,0,0,0,0,0
+11,"Kochi 
+(Kerala)",12,2,14,14,2,16,0,0,0,0,0,0
+12,"Kolkata 
+(West Bengal)",32,0,32,17,0,17,0,0,0,0,0,0
+13,"Kozhikode 
+(Kerala)",21,0,21,17,0,17,0,0,0,3,0,3
+14,"Lucknow 
+(Uttar Pradesh)",47,0,47,28,0,28,0,0,0,0,0,0
+15,"Mumbai 
+(Maharashtra)",635,40,675,567,29,596,46,1,47,13,0,13
+16,"Nagpur 
+(Maharashtra)",184,4,188,148,3,151,0,0,0,9,0,9
+17,"Patna 
+(Bihar)",0,0,0,0,0,0,0,0,0,0,0,0
+18,"Pune 
+(Maharashtra)",145,5,150,104,4,108,0,0,0,16,0,16
+19,"Surat 
+(Gujarat)",0,0,0,0,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,2541,122,2663,2177,78,2255,267,6,273,121,3,124

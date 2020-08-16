@@ -1,0 +1,75 @@
+Sr. No.,Category,States/ UTs/Cities,IT ACT - 2008,IT ACT - 2009,IT ACT - % Variation,IPC Section - 2008,IPC Section - 2009,IPC Section - % Variation,Note of IT ACT - % Variation,Note of IPC Section - % Variation
+1,State,Andhra Pradesh,25,30,20,78,8,-89.7,NA,NA
+2,State,Arunachal Pradesh,0,1,NA,0,0,NA,@,@
+3,State,Assam,1,2,100,1,2,100,NA,NA
+4,State,Bihar,0,0,NA,0,0,NA,@,@
+5,State,Chhattisgarh,1,4,300,19,46,142.1,NA,NA
+6,State,Goa,6,8,33.3,0,4,NA,NA,@
+7,State,Gujarat,17,20,17.6,16,16,0,NA,NA
+8,State,Haryana,0,0,NA,0,0,NA,@,@
+9,State,Himachal Pradesh,6,6,0,0,0,NA,NA,@
+10,State,Jammu & Kashmir,0,0,NA,0,0,NA,@,@
+11,State,Jharkhand,0,0,NA,0,0,NA,@,@
+12,State,Karnataka,57,97,70.2,0,0,NA,NA,@
+13,State,Kerala,65,64,-1.5,2,7,250,NA,NA
+14,State,Madhya Pradesh,9,16,77.8,2,1,-50,NA,NA
+15,State,Maharashtra,37,53,43.2,2,108,5300,NA,NA
+16,State,Manipur,0,1,NA,0,0,NA,@,@
+17,State,Meghalaya,0,0,NA,0,0,NA,@,@
+18,State,Mizoram,0,0,NA,0,0,NA,@,@
+19,State,Nagaland,0,0,NA,0,0,NA,@,@
+20,State,Orissa,3,2,-33.3,12,11,-8.3,NA,NA
+21,State,Punjab,11,28,154.5,36,28,-22.2,NA,NA
+22,State,Rajasthan,4,27,575,0,1,NA,NA,@
+23,State,Sikkim,0,0,NA,0,0,NA,@,@
+24,State,Tamil Nadu,21,18,-14.3,4,19,375,NA,NA
+25,State,Tripura,0,0,NA,0,0,NA,@,@
+26,State,Uttar Pradesh,2,14,600,0,3,NA,NA,@
+27,State,Uttarakhand,2,7,250,0,0,NA,NA,@
+28,State,West Bengal,0,13,NA,2,10,400,@,NA
+State,State,Total (States),267,411,53.9,174,264,51.7,NA,NA
+29,Union Territory,A & N Islands,0,0,NA,1,0,-100,@,NA
+30,Union Territory,Chandigarh,8,4,-50,1,0,-100,NA,NA
+31,Union Territory,D & N Haveli,0,0,NA,0,0,NA,@,@
+32,Union Territory,Daman & Diu,0,0,NA,0,0,NA,@,@
+33,Union Territory,Delhi,12,5,-58.3,0,12,NA,NA,@
+34,Union Territory,Lakshadweep,0,0,NA,0,0,NA,@,@
+35,Union Territory,Puducherry,1,0,-100,0,0,NA,NA,@
+Union Territory,Union Territory,Total (UTs),21,9,-57.1,2,12,500,NA,NA
+Total (All-India),Total (All-India),Total (All-India),288,420,45.8,176,276,56.8,NA,NA
+36,City,Agra,1,3,200,0,1,NA,NA,@
+37,City,Ahmedabad,8,10,25,15,14,-6.7,NA,NA
+38,City,Allahabad,0,4,NA,0,1,NA,@,@
+39,City,Amritsar,1,4,300,2,3,50,NA,NA
+40,City,Asansol,0,0,NA,0,0,NA,@,@
+41,City,Bengaluru,57,97,70.2,0,0,NA,NA,@
+42,City,Bhopal,2,6,200,2,6,200,NA,NA
+43,City,Chennai,1,2,100,0,13,NA,NA,@
+44,City,Coimbatore,13,6,-53.8,0,3,NA,NA,@
+45,City,Delhi (city),12,5,-58.3,0,12,NA,NA,@
+46,City,Dhanbad,0,0,NA,0,0,NA,@,@
+47,City,Faridabad,0,0,NA,0,0,NA,@,@
+48,City,Hyderabad,1,0,-100,17,0,-100,NA,NA
+49,City,Indore,7,5,-28.6,0,0,NA,NA,@
+50,City,Jabalpur,0,0,NA,0,0,NA,@,@
+51,City,Jaipur,0,0,NA,0,0,NA,@,@
+52,City,Jamshedpur,0,0,NA,0,0,NA,@,@
+53,City,Kanpur,0,1,NA,0,0,NA,@,@
+54,City,Kochi,12,6,-50,0,1,NA,NA,@
+55,City,Kolkata,0,0,NA,2,6,200,@,NA
+56,City,Lucknow,0,0,NA,0,0,NA,@,@
+57,City,Ludhiana,4,5,25,2,0,-100,NA,NA
+58,City,Madurai,0,0,NA,0,0,NA,@,@
+59,City,Meerut,0,0,NA,0,0,NA,@,@
+60,City,Mumbai,11,4,-63.6,1,35,3400,NA,NA
+61,City,Nagpur,2,2,0,0,2,NA,NA,@
+62,City,Nasik,0,4,NA,0,68,NA,@,@
+63,City,Patna,0,0,NA,0,0,NA,@,@
+64,City,Pune,9,5,-44.4,0,3,NA,NA,@
+65,City,Rajkot,0,0,NA,1,0,-100,@,NA
+66,City,Surat,1,2,100,0,0,NA,NA,@
+67,City,Vadodara,2,3,50,0,0,NA,NA,@
+68,City,Varanasi,0,0,NA,0,0,NA,@,@
+69,City,Vijayawada,0,4,NA,0,0,NA,@,@
+70,City,Vishakhapatnam,0,0,NA,0,0,NA,@,@
+City,City,Total (Cities),144,178,23.6,42,168,300,NA,NA

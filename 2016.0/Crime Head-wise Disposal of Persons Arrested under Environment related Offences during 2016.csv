@@ -1,0 +1,7 @@
+Category (Col.1),Crime Head (Col.2),Persons Arrested - Male (Col.3),Persons Arrested - Female (Col.4),Persons Arrested - Total (Col.5),Persons Chargesheeted - Male (Col.6),Persons Chargesheeted - Female (Col.7),Persons Chargesheeted - Total (Col.8),Persons Convicted - Male (Col.9),Persons Convicted - Female (Col.10),Persons Convicted - Total (Col.11),Persons Acquitted - Male (Col.12),Persons Acquitted - Female (Col.13),Persons Acquitted - Total (Col.14),Persons Discharged - Male (Col.15),Persons Discharged - Female (Col.16),Persons Discharged - Total (Col.17)
+Environment Related Offences,"Forest Act, 1927",6463,6,6469,5810,5,5815,3219,0,3219,1013,5,1018,16,0,16
+Environment Related Offences,"Wildlife Protection Act, 1972",1714,8,1722,1260,1,1261,214,0,214,109,1,110,0,0,0
+Environment Related Offences,"Environmental (Protection) Act, 1986",136,1,137,126,1,127,40,0,40,4,0,4,2,0,2
+Environment Related Offences,"Air (Prevention & Control of Pollution) Act, 1981",35,0,35,72,0,72,0,0,0,1,0,1,0,0,0
+Environment Related Offences,"Water (Prevention & Control of Pollution) Act, 1974",24,0,24,14,0,14,4,0,4,5,0,5,0,0,0
+Total Environment Related Offences,Total Environment Related Offences,8372,15,8387,7282,7,7289,3477,0,3477,1132,6,1138,18,0,18

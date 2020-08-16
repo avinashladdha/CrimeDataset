@@ -1,0 +1,75 @@
+Sr. No.,Category,States/ UTs/ Cities,IT Act - 2005,IT Act - 2006,IT Act - Variation,IPC Section - 2005,IPC Section - 2006,IPC Section - Variation
+1,State,Andhra Pradesh,14,14,0,68,102,50
+2,State,Arunachal Pradesh,0,0,NA,0,0,NA
+3,State,Assam,1,1,0,0,0,NA
+4,State,Bihar,0,0,NA,0,0,NA
+5,State,Chhattisgarh,18,0,-100,28,30,7.1
+6,State,Goa,0,0,NA,0,0,NA
+7,State,Gujarat,2,5,150,153,1,-99.3
+8,State,Haryana,8,1,-87.5,1,1,0
+9,State,Himachal Pradesh,0,0,NA,0,0,NA
+10,State,Jammu & Kashmir,0,0,NA,0,0,NA
+11,State,Jharkhand,0,0,NA,0,0,NA
+12,State,Karnataka,38,27,-28.9,0,0,NA
+13,State,Kerala,3,12,300,0,0,NA
+14,State,Madhya Pradesh,0,5,NA,0,126,NA
+15,State,Maharashtra,26,35,34.6,1,4,300
+16,State,Manipur,0,0,NA,0,0,NA
+17,State,Meghalaya,0,2,NA,0,0,NA
+18,State,Mizoram,0,0,NA,0,0,NA
+19,State,Nagaland,0,0,NA,0,0,NA
+20,State,Orissa,6,0,-100,0,0,NA
+21,State,Punjab,7,12,71.4,43,26,-39.5
+22,State,Rajasthan,18,4,-77.8,0,0,NA
+23,State,Sikkim,0,0,NA,0,0,NA
+24,State,Tamil Nadu,22,8,-63.6,0,0,NA
+25,State,Tripura,0,0,NA,0,0,NA
+26,State,Uttar Pradesh,4,0,-100,0,0,NA
+27,State,Uttarakhand,0,3,NA,0,0,NA
+28,State,West Bengal,0,6,NA,0,3,NA
+State,State,Total (States),167,135,-19.2,294,293,-0.3
+29,Union Territory,A & N Islands,0,0,NA,0,11,NA
+30,Union Territory,Chandigarh,2,2,0,0,0,NA
+31,Union Territory,D & N Haveli,0,0,NA,0,0,NA
+32,Union Territory,Daman & Diu,0,0,NA,0,0,NA
+33,Union Territory,Delhi,10,5,-50,8,7,-12.5
+34,Union Territory,Lakshadweep,0,0,NA,0,0,NA
+35,Union Territory,Puducherry,0,0,NA,0,0,NA
+Union Territory,Union Territory,Total (UTs),12,7,-41.7,8,18,125
+Total (All-India),Total (All-India),Total (All-India),179,142,-23.5,302,311,3
+36,City,Agra,1,0,-100,0,0,NA
+37,City,Ahmedabad,2,0,-100,7,1,-85.7
+38,City,Allahabad,0,0,NA,0,0,NA
+39,City,Amritsar,0,0,NA,0,0,NA
+40,City,Asansol,0,0,NA,0,0,NA
+41,City,Bangalore,38,27,-28.9,0,0,NA
+42,City,Bhopal,0,5,NA,0,126,NA
+43,City,Chennai,20,7,-65,0,0,NA
+44,City,Coimbatore,0,0,NA,0,0,NA
+45,City,Delhi (City),10,5,-50,8,7,-12.5
+46,City,Dhanbad,0,0,NA,0,0,NA
+47,City,Faridabad,3,1,-66.7,0,0,NA
+48,City,Hyderabad,0,0,NA,0,0,NA
+49,City,Indore,0,0,NA,0,0,NA
+50,City,Jabalpur,0,0,NA,0,0,NA
+51,City,Jaipur,0,0,NA,0,0,NA
+52,City,Jamshedpur,0,0,NA,0,0,NA
+53,City,Kanpur,0,0,NA,0,0,NA
+54,City,Kochi,0,3,NA,0,1,NA
+55,City,Kolkata,0,6,NA,0,3,NA
+56,City,Lucknow,0,0,NA,0,0,NA
+57,City,Ludhiana,0,3,NA,0,0,NA
+58,City,Madurai,0,0,NA,0,0,NA
+59,City,Meerut,0,0,NA,0,0,NA
+60,City,Mumbai,7,9,28.6,1,2,100
+61,City,Nagpur,3,3,0,0,1,NA
+62,City,Nasik,0,2,NA,0,0,NA
+63,City,Patna,0,0,NA,0,0,NA
+64,City,Pune,9,10,11.1,0,1,NA
+65,City,Rajkot,0,0,NA,0,0,NA
+66,City,Surat,0,2,NA,146,0,-100
+67,City,Vadodara,0,1,NA,0,0,NA
+68,City,Varanasi,0,0,NA,0,0,NA
+69,City,Vijayawada,1,5,400,1,0,-100
+70,City,Vishakhapatnam,0,0,NA,0,0,NA
+Total (Cities),Total (Cities),Total (Cities),94,89,-5.3,163,142,-12.9

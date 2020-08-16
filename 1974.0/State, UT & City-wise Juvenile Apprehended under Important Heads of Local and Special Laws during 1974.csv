@@ -1,0 +1,43 @@
+SL. No.,Category,States/U.Ts./Cities,Arms Act,Opium Act,Gambling Act,Excise Act,Prohibition Act,Explosive & Explosive Substances Act,Suppression of Immoral Traffic Act,Motor Vehicles Act,Prevention of Corruption Act,Customs Act,Indian Railways Act,Other Offences,Grand Total
+1,State,Andhra Pradesh,NA,NA,49,NA,NA,NA,36,NA,NA,NA,NA,1867,1867
+2,State,Assam,11,NA,76,21,NA,NA,NA,NA,NA,NA,141,310,310
+3,State,Bihar,NA,NA,59,3,NA,NA,NA,NA,NA,NA,1,84,84
+4,State,Gujarat,2,NA,4860,NA,4856,NA,1,NA,NA,NA,27,13098,13098
+5,State,Haryana,112,12,446,644,NA,NA,NA,NA,NA,NA,10,1461,1461
+6,State,Himachal Pradesh,NA,2,NA,59,NA,NA,NA,NA,1,NA,NA,79,79
+7,State,Jammu and Kashmir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,State,Karnataka,NA,NA,346,73,NA,NA,1487,NA,NA,NA,8,1664,3578
+9,State,Kerala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,19
+10,State,Madhya Pradesh,18,11,2490,300,52,5,NA,495,NA,NA,34,802,4207
+11,State,Maharashtra,6,NA,9353,NA,7919,NA,10,NA,NA,NA,46,6554,23888
+12,State,Manipur,1,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,6,19
+13,State,Meghalaya,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,96,108
+14,State,Nagaland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,State,Orissa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,87,87
+16,State,Punjab,86,139,239,559,NA,NA,NA,NA,NA,NA,11,27,1061
+17,State,Rajasthan,13,22,114,21,2,NA,NA,NA,NA,NA,NA,66,238
+18,State,Tamil Nadu,NA,NA,1362,1569,2009,2,596,NA,NA,NA,NA,15999,21537
+19,State,Tripura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,State,Uttar Pradesh,70,10,43,14,NA,NA,NA,NA,NA,NA,21,47,205
+21,State,West Bengal,NA,NA,175,72,NA,NA,NA,NA,NA,NA,1104,1062,2413
+Total (States),State,Total (States),319,196,19624,3347,14838,7,2130,495,1,NA,1403,31899,74259
+22,UT,A & N Islands,NA,NA,3,186,NA,NA,NA,NA,NA,NA,NA,2,191
+23,UT,Arunachal Pradesh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,UT,Chandigarh,NA,5,28,14,NA,NA,NA,NA,NA,NA,NA,65,112
+25,UT,D & N Haveli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2
+26,UT,Delhi,172,19,327,192,NA,NA,20,NA,NA,NA,12,60,802
+27,UT,"Goa, Daman & Diu",NA,NA,1525,NA,NA,NA,NA,NA,NA,NA,NA,NA,1525
+28,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,UT,Mizoram,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,UT,Pondicherry,NA,NA,20,NA,NA,NA,NA,NA,NA,NA,NA,83,103
+Total (UTs),UT,Total (UTs),172,24,1903,392,NA,NA,20,NA,NA,NA,12,212,2735
+Total (All-India),Total (All-India),Total (All-India),491,220,21527,3739,14838,7,2150,495,1,NA,1415,32111,76994
+1,City,Ahmedabad,NA,NA,1757,NA,739,NA,1,NA,NA,NA,NA,1651,4148
+2,City,Bangalore,NA,NA,40,6,NA,NA,1412,NA,NA,NA,NA,1418,2876
+3,City,Bombay,NA,NA,804,NA,2,NA,NA,NA,NA,NA,NA,1098,1904
+4,City,Calcutta,NA,NA,63,72,NA,NA,NA,NA,NA,NA,NA,32,167
+5,City,Delhi,172,19,327,192,NA,NA,20,NA,NA,NA,12,60,802
+6,City,Hyderabad,NA,NA,49,NA,NA,NA,36,NA,NA,NA,NA,1748,1833
+7,City,Kanpur,24,5,2,2,NA,NA,NA,NA,NA,NA,NA,NA,33
+8,City,Madras,NA,NA,1320,408,1114,NA,303,NA,NA,NA,NA,13355,16500
+Total (Cities),City,Total (Cities),196,24,4362,680,1855,NA,1772,NA,NA,NA,12,19362,28263

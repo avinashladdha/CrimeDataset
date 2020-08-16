@@ -1,0 +1,31 @@
+Crime Head,1997,1998,1999,2000,2001,Note of 1997,Note of 1998,Note of 1999,Note of 2000
+Murder,2.2,2.2,2.1,2.1,2,NA,NA,NA,NA
+Attempt to Commit Murder,1.7,1.7,1.7,1.7,1.8,NA,NA,NA,NA
+C.H. not Amounting to Murder,0.2,0.2,0.2,0.2,0.2,NA,NA,NA,NA
+Rape - Total,0.9,0.9,0.9,0.9,0.9,NA,NA,NA,NA
+Rape - (i) Custodial Rape,NA,NA,NA,NA,0,*,*,*,*
+Rape - (ii) Other Rape,NA,NA,NA,NA,0.9,*,*,*,*
+Kidnapping & Abduction - Total,1.3,1.3,1.3,1.3,1.3,NA,NA,NA,NA
+Kidnapping & Abduction - (i) of Women & Girls,0.9,0.9,0.9,0.8,0.8,NA,NA,NA,NA
+Kidnapping & Abduction - (ii) of Others,0.4,0.4,0.4,0.4,0.4,NA,NA,NA,NA
+Dacoity,0.5,0.5,0.4,0.4,0.3,NA,NA,NA,NA
+Preparation & Assembly for Dacoity,0.1,0.1,0.1,0.1,0.1,NA,NA,NA,NA
+Robbery,1.3,1.3,1.2,1.2,1.1,NA,NA,NA,NA
+Burglary,6.6,6.7,6.3,6,5.7,NA,NA,NA,NA
+Theft - Total,16.1,16.2,15.4,14.6,14.3,NA,NA,NA,NA
+Theft - (i) Auto Theft,NA,NA,3.4,3.3,3.6,*,*,NA,NA
+Theft - (ii) Other Theft,NA,NA,12,11.3,10.7,*,*,NA,NA
+Riots,5.3,5.1,4.6,4.5,4.3,NA,NA,NA,NA
+Criminal Breach of Trust,0.9,0.9,0.9,0.8,0.8,NA,NA,NA,NA
+Cheating,2,2.2,2.3,2.4,2.5,NA,NA,NA,NA
+Counterfeiting,0.1,0.1,0.1,0.1,0.1,NA,NA,NA,NA
+Arson,0.7,0.7,0.6,0.6,0.6,NA,NA,NA,NA
+Hurt,13.3,13.3,13.4,13.6,15.3,NA,NA,NA,NA
+Dowry Death,0.3,0.4,0.4,0.4,0.4,NA,NA,NA,NA
+Molestation,1.8,1.7,1.8,1.9,1.9,NA,NA,NA,NA
+Sexual Harassment,0.3,0.5,0.5,0.6,0.6,NA,NA,NA,NA
+Cruelty by Husband and Relatives,2.1,2.3,2.5,2.6,2.8,NA,NA,NA,NA
+Importation of Girls,NA,NA,0,0,0,*,*,NA,NA
+Causing Death by Negligence,NA,NA,NA,NA,3.2,*,*,*,*
+Other IPC Crimes,42.2,41.8,43.3,44,39.6,NA,NA,NA,NA
+Total Cognizable Crimes under IPC,100,100,100,100,100,NA,NA,NA,NA

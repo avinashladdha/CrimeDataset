@@ -1,0 +1,36 @@
+SI.No. (1),States/UT/City(2),investigation Stage - Cases pending Investigation from previous Year (3),investigation Stage - Cases reported during the Year (4),investigation Stage - cases withdrawn by govt. during investigation (5),investigation Stage - cases not investigated or in which investigation was Refused (6),investigation Stage - cases Declared false on Account of mistake of Fact or Law (7),investagation Stage - cases in which charge sheets were submitted (8),investigation Stage - cases in which charge sheets were not laid but final report submitted during the year (9),Invetigation Stage - Total cases (col. 8+9) (10),Investigation Stage - Cases pending investigation at the end of the year (11),Trial Stage cases - pending trial from previous year (12),Trial stage cases - sent for trial during the year (13),Trial stage cases - withdrawn by govt. during trial (14),Trial Stage - Total cases for trial during the year (15),Trial stage - cases compounded or with drawn (16),Trial stage - Cases in which trial were completed (17),Trial stage - cases Convicted (18),Trial stage - cases acquitted or Diascharged (19),Trial Stage - Pending trial at the end Year (20)
+1,Andhra Pradesh,2,2,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0
+2,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Assam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Bihar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Goa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Gujarat,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0
+7,Haryana,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,Himachal Pradesh,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+9,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Karnataka,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Kerala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Maharashtra,0,0,0,0,0,0,0,0,0,4,0,0,4,0,0,0,0,4
+14,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Orissa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Punjab,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Tamil Nadu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Uttar Pradesh,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1
+25,West Bengal,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1
+Total States,Total States,3,4,0,0,2,1,1,2,3,7,1,0,8,0,1,0,1,7
+26,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Daman & DIU,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Delhi,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+31,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Pondicherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Total (UTs),0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+Total (All-India),Total (All-India),3,4,0,0,2,1,1,2,3,8,1,0,9,0,1,0,1,8

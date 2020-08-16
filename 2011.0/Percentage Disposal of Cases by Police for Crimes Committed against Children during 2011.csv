@@ -1,0 +1,14 @@
+Sl. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt (Col. 3),Percentage of Cases to Total Cases for Investigation in Which Investigation Refused (Col. 4),Percentage of Cases to Total Cases for Investigation in Which Investigation Completed - Charge Found False / Mistake of Fact or Law (Col. 5),Percentage of Cases to Total Cases for Investigation in Which Investigation Completed - Final Report True Submitted (Col. 6),Percentage of Cases to Total Cases for Investigation in Which Investigation Completed - Charge Sheet Submitted (Col. 7),Percentage of Cases to Total Cases for Investigation in Which Investigation Completed - Total (Col. 8) = Col. (5+6+7),No. of Cases Pending Investigation at the end of the year (Col. 9),Charge Sheeting Rate (Col. 10) = Col. (7/6+7*100)
+1,Infanticide (Sec.315 IPC),0,0,2.2,35.2,38.5,75.8,24.2,52.2
+2,Murder (Sec.302 IPC),0,0.1,2.7,8.8,56.3,67.7,32.1,86.5
+3,Rape (Sec.376 IPC),0,0.1,2.7,1.8,63.9,68.4,31.5,97.3
+4,"Kidnapping .& Abduction ((Sec.363-369,371-373 IPC)",0.8,0.2,15,14.3,34.7,63.9,35,70.8
+5,"Foeticide (Sec.315,316 IPC)",0,0,6.7,47.5,16.8,70.9,29.1,26.1
+6,Abetment to Suicide (Sec.305 IPC),0,0,4.8,6,63.1,73.8,26.2,91.4
+7,Exposure and Abandonment (Sec. 317 IPC),0.2,0,3,60.3,7.5,70.8,29,11
+8,Procuration Minor Girls (Sec. 366A IPC),0,0.1,7,3.9,49.2,60.1,39.8,92.7
+9,Buying of Girls for Prost. (Sec.373 IPC),0,0,0,0,31.7,31.7,68.3,100
+10,Selling of Girls for Prost. (Sec.372 IPC),0,0,1.8,6.9,20.9,29.6,70.4,75.3
+11,Prohibition of Child Marriage Act 2006,0,0,4.8,2.7,55.5,63,37,95.3
+12,Other Crimes,0,0,1.9,5.3,72.4,79.6,20.4,93.2
+13,Total,0.4,0.1,8.6,10.4,49,67.9,31.6,82.5

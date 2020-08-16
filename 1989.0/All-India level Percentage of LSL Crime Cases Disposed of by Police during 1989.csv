@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Perentage of Cases to Total Cases for Investigation in which - Investigation was Refused (Col. 3),Perentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Charge Found False/ Mistake of Law etc. (Col. 4),Perentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Final Report True Submitted (Col. 5),Perentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Chargesheets were Laid (Col. 6),Perentage of Cases to Total Cases for Investigation in which - Investigation was Completed - Total [Col. 4+5+6] (Col. 7),Percentage of Cases Pending Investigation (Col. 8)
+1,Arms Act,0,0.4,1.6,84.6,86.6,13.3
+2,Narcotic Drugs & Psychotropic Substances Act,0.6,0.4,1.3,66.9,68.5,30.9
+3,Gambling Act,0,0,0.1,96.6,96.7,3.2
+4,Excise Act,0.5,0.4,0.5,85,85.9,13.5
+5,Prohibition Act,1.1,1.3,2.7,78.5,82.4,16.5
+6,Explosive & Explosive Substances Act,0.2,1.7,7.9,44.9,54.6,45.2
+7,Immoral Traffic (Prevention) Act,0,0,0.1,92,92.1,7.9
+8,Indian Railways Act,4.8,1.2,3.5,88.5,93.3,1.9
+9,Foreigner's Registration Act,0,1.1,0.5,84.9,86.6,13.4
+10,Protection Of Civil Rights Act,0.3,13.5,3.1,71,87.7,12
+11,Indian Passport Act,0,2,4.1,54.7,60.8,39.2
+12,Essential Commodities Act,0.1,2.4,3.5,73.8,79.7,20.1
+13,Terrorist & Disruptive Activites Act,0.2,0.4,13.3,15.1,28.8,71
+14,Antiquity & Art Treasure Act,0,7.1,28.6,28.6,64.3,35.7
+15,Dowry Prohibition Act,1.1,9.2,8.4,54.8,72.4,26.6
+16,Other L & SL Crimes,0.2,2.5,0.6,93.5,96.7,3.2
+17,Total Cognizable Crimes Under L & SL,0.4,2.1,1.1,89.6,92.8,6.8

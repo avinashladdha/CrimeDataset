@@ -1,0 +1,12 @@
+Sr. No. (Col.1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),No. of Cases - Compounded or Withdrawn (Col. 4),No. of Cases - Convicted (Col. 5),No. of Cases - Acquitted or Discharged (Col. 6),No. of Cases - Total {(Col.5)+(Col.6)} = (Col. 7),No. of Cases - Pending Trial at the end of the Year (Col. 8),Conviction Rate {(Col5)/ (Col7)× 100} (Col. 9)
+1,Murder (Sec.302 IPC),0,0,8.6,9.4,18,82,47.7
+2,Rape (Sec. 376 IPC),0,0,6.3,13.8,20.1,79.9,31.4
+3,"Kidnapping & Abduction (Sec.363-369, 371-373 IPC)",0.1,0,7.2,12.3,19.5,80.5,36.9
+4,Dacoity (Sec.395-398 IPC),0,0.8,0.8,14.7,15.5,83.7,5
+5,"Robbery ( Sec.392-394, 397,398 IPC)",0,0,3.1,13.4,16.5,83.5,18.9
+6,"Arson (Sec.435, 436, 438 IPC)",0,0,4.6,10.7,15.2,84.8,30
+7,"Hurt (Sec.323-333, 335-338 IPC)",0,1,5,14.3,19.3,79.7,25.7
+8,"PCR Act, 1955 for SCs",0,0.1,3,15.2,18.3,81.6,16.7
+9,"SC/ST Prev. of Atrocities Act, 1989 for SCs",0,0.8,4.2,12.1,16.3,82.9,25.8
+10,Other Crimes Against SCs,0,0.8,7,14.4,21.4,77.9,32.6
+11,Total,0,0.8,5.6,13.3,18.8,80.4,29.6

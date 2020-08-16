@@ -1,0 +1,56 @@
+S. No.,Category,Crime Head,Below 18 Years - Male,Below 18 Years - Female,Below 18 Years - Total,18 Years & Above – Below 30 Years - Male,18 Years & Above – Below 30 Years - Female,18 Years & Above – Below 30 Years - Total,30 Years & Above – Below 45 Years - Male,30 Years & Above – Below 45 Years - Female,30 Years & Above – Below 45 Years - Total,45 Years & Above – Below 60 Years - Male,45 Years & Above – Below 60 Years - Female,45 Years & Above – Below 60 Years - Total,60 Years & Above - Male,60 Years & Above - Female,60 Years & Above - Total,Total of Overall Age-Group - Male,Total of Overall Age-Group - Female,Total of Overall Age-Group - Total
+1,A. Women - Related Acts,"Dowry Prohibition Act, 1961",0,0,0,7992,1218,9210,8937,1752,10689,3664,1085,4749,250,165,415,20843,4220,25063
+2,A. Women - Related Acts,"Immoral Traffic (Prevention) Act, 1956",0,0,0,2063,881,2944,2278,780,3058,426,155,581,37,10,47,4804,1826,6630
+3,A. Women - Related Acts,"Protection of Women from Domestic Violence Act, 2005",0,0,0,196,2,198,274,2,276,65,10,75,4,3,7,539,17,556
+4,A. Women - Related Acts,"Indecent Representation of Women (Prohibition) Act, 1986",0,0,0,32,4,36,19,2,21,0,0,0,0,0,0,51,6,57
+Total (A),A. Women - Related Acts,Total (A),0,0,0,10283,2105,12388,11508,2536,14044,4155,1250,5405,291,178,469,26237,6069,32306
+5,B. Children - Related Act,"Juvenile Justice (Care and Protection of Children) Act, 2000",225,0,225,523,32,555,977,91,1068,444,30,474,47,4,51,2216,157,2373
+6,B. Children - Related Act,"Prohibition of Child Marriage Act, 2006",1,2,3,222,12,234,259,98,357,87,39,126,14,6,20,583,157,740
+7,B. Children - Related Act,"Pre-Natal Diagnostic Techniques (Reg and Prev of Misuse) Act, 1994",0,1,1,35,12,47,85,35,120,35,15,50,0,0,0,155,63,218
+Total (B),B. Children - Related Act,Total (B),226,3,229,780,56,836,1321,224,1545,566,84,650,61,10,71,2954,377,3331
+8,C. Scheduled Castes and Scheduled Tribes – Related Acts,"SC/ST (Prevention of Atrocities) Act, 1989)",17,2,19,4379,134,4513,5555,279,5834,1699,102,1801,125,11,136,11775,528,12303
+9,C. Scheduled Castes and Scheduled Tribes – Related Acts,"Protection of Civil Rights Act, 1955",0,0,0,36,5,41,48,3,51,8,1,9,0,0,0,92,9,101
+Total (C),C. Scheduled Castes and Scheduled Tribes – Related Acts,Total (C),17,2,19,4415,139,4554,5603,282,5885,1707,103,1810,125,11,136,11867,537,12404
+10,D. Offences against State - Related Acts,"Prevention of Damage to Public Property Act, 1984",68,0,68,5378,32,5410,5528,77,5605,1915,26,1941,74,4,78,12963,139,13102
+11,D. Offences against State - Related Acts,"Unlawful Activities (Prevention) Act, 1967",1,0,1,503,7,510,390,16,406,76,1,77,5,0,5,975,24,999
+12,D. Offences against State - Related Acts,"Official Secrets Act, 1923",0,0,0,19,0,19,20,0,20,2,0,2,0,0,0,41,0,41
+Total (D),D. Offences against State - Related Acts,Total (D),69,0,69,5900,39,5939,5938,93,6031,1993,27,2020,79,4,83,13979,163,14142
+13,E. Arms/Explosive - Related Acts,"Arms Act, 1959",243,0,243,33742,10,33752,20352,18,20370,6128,17,6145,399,2,401,60864,47,60911
+14,E. Arms/Explosive - Related Acts,Explosives and Explosive Substances Act,7,0,7,2250,15,2265,2714,33,2747,807,14,821,72,1,73,5850,63,5913
+Total (E),E. Arms/Explosive - Related Acts,Total (E),250,0,250,35992,25,36017,23066,51,23117,6935,31,6966,471,3,474,66714,110,66824
+15,F. Information Technology / Intellectual Property – Related Acts,"Information Technology Act, 2000",24,1,25,3312,36,3348,2138,41,2179,389,7,396,16,0,16,5879,85,5964
+16,F. Information Technology / Intellectual Property – Related Acts,"Copyright Act, 1957",1,0,1,2423,5,2428,2662,8,2670,707,5,712,21,0,21,5814,18,5832
+17,F. Information Technology / Intellectual Property – Related Acts,"Trade Marks Act, 1999",0,0,0,26,0,26,75,0,75,29,0,29,7,0,7,137,0,137
+Total (F),F. Information Technology / Intellectual Property – Related Acts,Total (F),25,1,26,5761,41,5802,4875,49,4924,1125,12,1137,44,0,44,11830,103,11933
+18,G. Liquor & Drug - Related Acts,Prohibition Act (State),169,7,176,141086,24733,165819,187971,51032,239003,93471,31128,124599,10902,3047,13949,433599,109947,543546
+19,G. Liquor & Drug - Related Acts,"Excise Act, 1944",241,2,243,103953,2072,106025,101760,3679,105439,38453,1634,40087,3279,141,3420,247686,7528,255214
+20,G. Liquor & Drug - Related Acts,"Narcotic Drugs & Psychotropic Substances Act, 1985",191,4,195,28704,363,29067,21132,924,22056,6806,459,7265,597,69,666,57430,1819,59249
+Total (G),G. Liquor & Drug - Related Acts,Total (G),601,13,614,273743,27168,300911,310863,55635,366498,138730,33221,171951,14778,3257,18035,738715,119294,858009
+21,H. Other Regulatory & Enforcement Acts,"Gambling Act, 1867",258,0,258,160476,185,160661,171020,452,171472,68836,207,69043,7988,21,8009,408578,865,409443
+22,H. Other Regulatory & Enforcement Acts,"Electricity Act, 2003",13,0,13,27716,185,27901,46361,414,46775,36259,230,36489,1577,20,1597,111926,849,112775
+23,H. Other Regulatory & Enforcement Acts,"Lotteries (Regulation) Act, 1998",0,0,0,1041,2,1043,1527,8,1535,784,2,786,220,0,220,3572,12,3584
+Total (H),H. Other Regulatory & Enforcement Acts,Total (H),271,0,271,189233,372,189605,218908,874,219782,105879,439,106318,9785,41,9826,524076,1726,525802
+24,I. Environment - Related Acts,"Forest Act, 1927",6,1,7,2704,1,2705,2896,2,2898,833,0,833,24,2,26,6463,6,6469
+25,I. Environment - Related Acts,"Wildlife Protection Act, 1972",4,0,4,703,1,704,835,4,839,162,3,165,10,0,10,1714,8,1722
+26,I. Environment - Related Acts,"Environmental (Protection) Act, 1986",0,0,0,37,0,37,76,0,76,22,1,23,1,0,1,136,1,137
+27,I. Environment - Related Acts,"Air (Prevention & Control of Pollution) Act, 1981",0,0,0,16,0,16,17,0,17,2,0,2,0,0,0,35,0,35
+28,I. Environment - Related Acts,"Water (Prevention & Control of Pollution) Act, 1974",0,0,0,5,0,5,14,0,14,5,0,5,0,0,0,24,0,24
+Total (I),I. Environment - Related Acts,Total (I),10,1,11,3465,2,3467,3838,6,3844,1024,4,1028,35,2,37,8372,15,8387
+29,J. Foreigner & Passport - Related Acts,"Foreigners Act, 1946",23,3,26,1585,428,2013,1318,398,1716,346,54,400,29,1,30,3301,884,4185
+30,J. Foreigner & Passport - Related Acts,"Passport Act, 1967",8,2,10,333,59,392,371,44,415,229,8,237,22,0,22,963,113,1076
+31,J. Foreigner & Passport - Related Acts,"Emigration Act, 1983",0,0,0,28,3,31,68,8,76,22,0,22,0,0,0,118,11,129
+32,J. Foreigner & Passport - Related Acts,"Registration of Foreigners Act, 1939",1,0,1,26,0,26,53,3,56,9,0,9,3,0,3,92,3,95
+33,J. Foreigner & Passport - Related Acts,"Citizenship Act, 1955",0,0,0,11,2,13,24,3,27,2,0,2,0,0,0,37,5,42
+Total (J),J. Foreigner & Passport - Related Acts,Total (J),32,5,37,1983,492,2475,1834,456,2290,608,62,670,54,1,55,4511,1016,5527
+34,K. Railways - Related Acts,"Indian Railways Act, 1989",3,0,3,335,0,335,43,0,43,15,0,15,0,0,0,396,0,396
+35,K. Railways - Related Acts,"Railway Property (Unlawful Possession) Act, 1966",0,0,0,3,0,3,5,0,5,0,0,0,0,0,0,8,0,8
+Total (K),K. Railways - Related Acts,Total (K),3,0,3,338,0,338,48,0,48,15,0,15,0,0,0,404,0,404
+36,L. Miscellaneous Acts,"Essential Commodities Act, 1955",4,0,4,1910,9,1919,3225,16,3241,1122,4,1126,63,3,66,6324,32,6356
+37,L. Miscellaneous Acts,"Representation of People Act, 1951",1,0,1,271,1,272,399,11,410,116,6,122,1,0,1,788,18,806
+38,L. Miscellaneous Acts,"Bonded Labour System (Abolition) Act, 1976",0,0,0,44,0,44,110,9,119,18,1,19,0,0,0,172,10,182
+39,L. Miscellaneous Acts,"Antiquities & Art Treasures Act, 1972",0,0,0,104,0,104,48,0,48,4,0,4,1,0,1,157,0,157
+40,L. Miscellaneous Acts,"Prevention of Insults to National Honour Act, 1971",2,0,2,41,0,41,42,0,42,14,0,14,0,0,0,99,0,99
+41,L. Miscellaneous Acts,"Transplantation of Human Organs Act, 1994",0,0,0,4,0,4,28,0,28,0,0,0,0,0,0,32,0,32
+Total (L),L. Miscellaneous Acts,Total (L),7,0,7,2374,10,2384,3852,36,3888,1274,11,1285,65,3,68,7572,60,7632
+42,Other SLL Crimes *,Other SLL Crimes *,801,8,809,365498,4250,369748,319026,5709,324735,133642,2077,135719,14815,110,14925,833782,12154,845936
+Total Cognizable SLL Crimes,Total Cognizable SLL Crimes,Total Cognizable SLL Crimes,2312,33,2345,899765,34699,934464,910680,65951,976631,397653,37321,434974,40603,3620,44223,2251013,141624,2392637

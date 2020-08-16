@@ -1,0 +1,38 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Cases Pending Trial from the Previous Year (Col.4),Cases sent for Trial during the Year (Col.5),Total Cases for Trial during the Year (Col.6) = (Col.4+5),Number of Cases withdrawn by the Govt. (Col.7),Number of Cases Disposed by Plea Bargaining (Col.8),Cases Compounded (Col.9),Cases in which Trials were Completed (Col.10) = (Col.11+ Col.12),Cases Convicted (Col.11),Cases Acquitted or Discharged (Col.12),Total Cases Disposed off by Courts (Col.13) = (Col.7+ Col.8+ Col.9+ Col.10),Total Cases Pending Trial at the End of the Year (Col.14) = (Col.6-Col.13),Conviction Rate (Col.15) = (Col.11/ Col.10) * 100,Pendency Percentage (Col.16) = (Col.14/ Col.6) * 100
+1,IPC Cases,Dowry Deaths,2506,426,2932,0,0,1,271,106,165,272,2660,39.1,90.7
+2,IPC Cases,Abetment of Suicides of Women,566,218,784,0,0,0,49,6,43,49,735,12.2,93.8
+3,IPC Cases,Causing Miscarriage Without Womens Consent,1,46,47,0,0,0,0,0,0,0,47,NA,100
+4,IPC Cases,Deaths Caused by Act Done with Intent to Cause Miscarriage,2,0,2,0,0,0,2,0,2,2,0,0,0
+5,IPC Cases,Acid Attack & Attempt to Acid Attack,33,19,52,0,0,0,4,2,2,4,48,50,92.3
+6,IPC Cases,Cruelty by Husband or his Relatives,40518,8732,49250,1,1,582,2723,259,2464,3307,45943,9.5,93.3
+7,IPC Cases,Kidnapping & Abduction of Women,8374,2822,11196,0,0,5,472,104,368,477,10719,22,95.7
+7.1,IPC Cases,Kidnaping & Abduction,3958,786,4744,0,0,3,222,49,173,225,4519,22.1,95.3
+7.2,IPC Cases,Kidnaping & Abduction in order to Murder,50,0,50,0,0,0,0,0,0,0,50,NA,100
+7.3,IPC Cases,Kidnapping for Ransom,116,6,122,0,0,0,0,0,0,0,122,NA,100
+7.4,IPC Cases,Kidnapping & Abduction of Women to Compel her for Marriage,2798,1660,4458,0,0,2,161,29,132,163,4295,18,96.3
+7.5,IPC Cases,Kidnapping & Abduction of Women-Other,1452,370,1822,0,0,0,89,26,63,89,1733,29.2,95.1
+8,IPC Cases,Human Trafficking,95,65,160,0,0,0,11,6,5,11,149,54.5,93.1
+9,IPC Cases,Rape,10964,4486,15450,0,0,12,1383,331,1052,1395,14055,23.9,91
+9.1,IPC Cases,Rape,10714,4364,15078,0,0,12,1358,320,1038,1370,13708,23.6,90.9
+9.2,IPC Cases,Gang Rape,250,120,370,0,0,0,25,11,14,25,345,44,93.2
+9.3,IPC Cases,Custodial Rape,0,2,2,0,0,0,0,0,0,0,2,NA,100
+10,IPC Cases,Attempt to Commit Rape,122,59,181,0,0,0,14,5,9,14,167,35.7,92.3
+11,IPC Cases,Unnatural Offences,29,66,95,0,0,0,4,1,3,4,91,25,95.8
+12,IPC Cases,Assault on Women with Intent to Outrage her Modesty,26292,8576,34868,1,1,229,2271,708,1563,2502,32366,31.2,92.8
+12.1,IPC Cases,Assault on Women,15596,3955,19551,1,1,168,1309,331,978,1479,18072,25.3,92.4
+12.2,IPC Cases,Sexual Harassment,7886,2701,10587,0,0,42,554,213,341,596,9991,38.4,94.4
+12.3,IPC Cases,Assault on Women with Intent to Disrobe,869,606,1475,0,0,4,115,46,69,119,1356,40,91.9
+12.4,IPC Cases,Voyeurism,227,108,335,0,0,2,21,7,14,23,312,33.3,93.1
+12.5,IPC Cases,Stalking,1714,1206,2920,0,0,13,272,111,161,285,2635,40.8,90.2
+13,IPC Cases,Insult to the Modesty of Women,7163,1526,8689,1,0,102,554,224,330,657,8032,40.4,92.4
+14,SLL Cases,"Dowry Prohibition Act, 1961",2976,677,3653,0,0,7,435,7,428,442,3211,1.6,87.9
+15,SLL Cases,Immoral Traffic (Prevention) Act,2725,623,3348,0,0,2,230,137,93,232,3116,59.6,93.1
+15.1,SLL Cases,Procuring/Inducing a Person for sake of Prostitution (Sec 5),774,342,1116,0,0,0,100,64,36,100,1016,64,91
+15.2,SLL Cases,Detaining a Person in Premises where prostitution is carried on(Sec 6),12,18,30,0,0,0,5,3,2,5,25,60,83.3
+15.3,SLL Cases,Prostitution in the Vicinity of Public Places(Sec 7),387,56,443,0,0,0,15,9,6,15,428,60,96.6
+15.4,SLL Cases,Seducing or Soliciting for Prostitution (Sec.8),453,139,592,0,0,1,38,31,7,39,553,81.6,93.4
+15.5,SLL Cases,Other Sections under ITP Act,1099,68,1167,0,0,1,72,30,42,73,1094,41.7,93.7
+16,SLL Cases,"Protection of Women from Domestic Violence Act, 2005",12,4,16,0,0,0,3,1,2,3,13,33.3,81.3
+17,SLL Cases,Publishing or Transmitting of Sexually Explicit Material (Sec 67A IT Act),47,55,102,0,0,0,5,3,2,5,97,60,95.1
+18,SLL Cases,"Indecent Representation of Women (Prohibition) Act, 1986",220,9,229,0,0,0,5,4,1,5,224,80,97.8
+Total Crime Against Women,Total Crime Against Women,Total Crime Against Women,102645,28409,131054,3,2,940,8436,1904,6532,9381,121673,22.6,92.8

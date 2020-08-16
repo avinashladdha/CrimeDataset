@@ -1,0 +1,39 @@
+Sr. No.,Category,States/ UTs,Number of Victims - Upto 10 Years - Male,Number of Victims - Upto 10 Years - Female,Number of Victims - Upto 10 Years - Total,Number of Victims - 10-15 Years - Male,Number of Victims - 10-15 Years - Female,Number of Victims - 10-15 Years - Total,Number of Victims - 15-18 Years - Male,Number of Victims - 15-18 Years - Female,Number of Victims - 15-18 Years - Total,Number of Victims - 18-30 Years - Male,Number of Victims - 18-30 Years - Female,Number of Victims - 18-30 Years - Total,Number of Victims - 30-50 Years - Male,Number of Victims - 30-50 Years - Female,Number of Victims - 30-50 Years - Total,Number of Victims - Above 50 Years - Male,Number of Victims - Above 50 Years - Female,Number of Victims - Above 50 Years - Total,Number of Victims - Total of All Age Groups - Male,Number of Victims - Total of All Age Groups - Female,Number of Victims - Total of All Age Groups - Total
+1,State,Andhra Pradesh,12,18,30,12,6,18,22,7,29,668,379,1047,777,299,1076,184,91,275,1675,800,2475
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,30,1,31,28,0,28,0,0,0,58,1,59
+3,State,Assam,0,0,0,0,0,0,4,0,4,784,62,846,398,35,433,40,0,40,1226,97,1323
+4,State,Bihar,13,9,22,21,5,26,51,27,78,1419,439,1858,878,174,1052,125,18,143,2507,672,3179
+5,State,Chhattisgarh,24,15,39,9,2,11,27,7,34,231,124,355,349,134,483,117,44,161,757,326,1083
+6,State,Goa,2,1,3,0,0,0,0,1,1,8,14,22,13,12,25,3,3,6,26,31,57
+7,State,Gujarat,24,34,58,9,6,15,4,2,6,266,120,386,375,129,504,56,34,90,734,325,1059
+8,State,Haryana,2,0,2,4,2,6,9,2,11,331,96,427,357,106,463,83,15,98,786,221,1007
+9,State,Himachal Pradesh,0,4,4,1,1,2,2,1,3,31,10,41,46,14,60,14,9,23,94,39,133
+10,State,Jammu & Kashmir,1,0,1,0,0,0,3,0,3,98,26,124,104,16,120,10,4,14,216,46,262
+11,State,Jharkhand,3,1,4,1,1,2,5,0,5,609,119,728,736,72,808,81,8,89,1435,201,1636
+12,State,Karnataka,12,16,28,14,9,23,5,7,12,363,335,698,558,246,804,121,66,187,1073,679,1752
+13,State,Kerala,25,17,42,7,4,11,1,5,6,60,20,80,109,45,154,58,18,76,260,109,369
+14,State,Madhya Pradesh,42,18,60,20,11,31,25,11,36,672,277,949,761,231,992,257,77,334,1777,625,2402
+15,State,Maharashtra,63,79,142,11,15,26,20,18,38,681,490,1171,721,294,1015,216,104,320,1712,1000,2712
+16,State,Manipur,2,2,4,1,1,2,3,1,4,56,5,61,78,7,85,16,2,18,156,18,174
+17,State,Meghalaya,0,0,0,2,0,2,3,3,6,69,16,85,25,2,27,7,1,8,106,22,128
+18,State,Mizoram,0,0,0,0,0,0,0,0,0,8,3,11,20,0,20,0,0,0,28,3,31
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,21,9,30,18,0,18,1,0,1,40,9,49
+20,State,Odisha,1,3,4,0,1,1,8,0,8,336,215,551,343,201,544,118,40,158,806,460,1266
+21,State,Punjab,18,15,33,15,6,21,20,8,28,251,92,343,312,68,380,42,14,56,658,203,861
+22,State,Rajasthan,16,13,29,16,8,24,36,8,44,424,150,574,473,114,587,124,35,159,1089,328,1417
+23,State,Sikkim,2,1,3,0,0,0,0,0,0,7,3,10,4,2,6,1,0,1,14,6,20
+24,State,Tamil Nadu,36,45,81,8,6,14,5,5,10,364,214,578,611,224,835,246,93,339,1270,587,1857
+25,State,Tripura,6,4,10,2,3,5,0,3,3,34,22,56,42,21,63,7,4,11,91,57,148
+26,State,Uttar Pradesh,33,38,71,89,56,145,85,71,156,1816,443,2259,1347,266,1613,354,81,435,3724,955,4679
+27,State,Uttarakhand,1,1,2,1,1,2,1,0,1,72,38,110,56,10,66,13,1,14,144,51,195
+28,State,West Bengal,3,2,5,3,5,8,6,4,10,708,409,1117,660,248,908,88,25,113,1468,693,2161
+State,State,Total (States),341,336,677,246,149,395,345,191,536,10417,4131,14548,10199,2970,13169,2382,787,3169,23930,8564,32494
+29,Union Territory,Andaman & Nicobar Islands,2,1,3,0,0,0,0,0,0,3,3,6,5,4,9,0,0,0,10,8,18
+30,Union Territory,Chandigarh,1,0,1,0,0,0,0,0,0,11,1,12,6,2,8,1,0,1,19,3,22
+31,Union Territory,Dadra Nagar Haveli,1,0,1,0,0,0,0,0,0,1,3,4,1,3,4,1,0,1,4,6,10
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,1,1,2,3,0,3,0,0,0,4,1,5
+33,Union Territory,Delhi,17,13,30,17,4,21,28,2,30,243,48,291,117,41,158,23,18,41,445,126,571
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union Territory,Pondicherry,0,1,1,0,0,0,0,0,0,13,3,16,14,5,19,2,1,3,29,10,39
+Union Territory,Union Territory,Total (UTs),21,15,36,17,4,21,28,2,30,272,59,331,146,55,201,27,19,46,511,154,665
+Total (All-India),Total (All-India),Total (All-India),362,351,713,263,153,416,373,193,566,10689,4190,14879,10345,3025,13370,2409,806,3215,24441,8718,33159

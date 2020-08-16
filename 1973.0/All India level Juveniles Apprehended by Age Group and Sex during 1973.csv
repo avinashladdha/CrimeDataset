@@ -1,0 +1,28 @@
+SL. No.,Category,Heads of Crime,Between 7-12 Years - Boys,Between 7-12 Years - Girls,Between 12-16 Years - Boys,Between 12-16 Years - Girls,Between 16-18 Years - Boys,Between 16-18 Years - Girls,Between 18-21 Years - Boys,Between 18-21 Years - Girls,Overall Age Groups - Boys,Overall Age Groups - Girls,Total
+1,IPC Crime,Murder,15,NA,100,8,201,9,649,20,965,37,1002
+2,IPC Crime,Culpable Homicide Not Amounting to Murder,3,NA,11,NA,4,NA,32,1,50,1,51
+3,IPC Crime,Rape,8,NA,33,NA,56,NA,157,NA,254,NA,254
+4,IPC Crime,Kidnapping & Abduction,4,NA,10,4,96,20,268,15,378,39,417
+5,IPC Crime,Dacoity,1,1,86,1,151,4,766,5,1004,11,1015
+6,IPC Crime,Robbery,10,10,34,2,110,3,509,36,663,51,714
+7,IPC Crime,Burglary,468,30,1683,53,1711,18,4533,70,8395,171,8566
+8,IPC Crime,Thefts,1220,118,3698,182,3670,81,9283,175,17871,556,18427
+9,IPC Crime,Riots,55,2,706,39,1561,116,5707,104,8029,261,8290
+10,IPC Crime,Criminal Breach of Trust,4,NA,41,NA,46,NA,192,2,283,2,285
+11,IPC Crime,Cheating,1,NA,15,NA,67,3,235,1,318,4,322
+12,IPC Crime,Counterfeiting,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,IPC Crime,Total Cognizable Crime,2026,178,7430,348,10396,372,31689,788,51541,1686,53227
+1,Crime Under Local & Special Laws,Arms Act,3,NA,15,NA,50,NA,1429,NA,1497,NA,1497
+2,Crime Under Local & Special Laws,Opium Act,7,NA,15,NA,44,NA,99,NA,165,NA,165
+3,Crime Under Local & Special Laws,Gambling Act,160,7,1256,1,4561,20,15196,53,21173,81,21254
+4,Crime Under Local & Special Laws,Excise Act,395,119,745,81,541,41,1500,48,3181,289,3470
+5,Crime Under Local & Special Laws,Prohibition Act,272,16,882,32,1476,39,11055,889,13685,976,14661
+6,Crime Under Local & Special Laws,Explosive & Explosive Substances Act,NA,NA,NA,NA,2,NA,2,NA,4,NA,4
+7,Crime Under Local & Special Laws,Suppression of Immoral Traffic Act,NA,NA,2,1,24,126,56,759,82,886,968
+8,Crime Under Local & Special Laws,Motor Vehicles Act,5,NA,2,NA,2,NA,372,NA,381,NA,381
+9,Crime Under Local & Special Laws,Prevention of Corruption Act,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,Crime Under Local & Special Laws,Customs Act,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,Crime Under Local & Special Laws,Indian Railways Act,1203,100,295,23,146,12,182,3,1826,138,1964
+12,Crime Under Local & Special Laws,Other Offences,5032,440,4984,358,6003,96,12638,600,28657,1494,30151
+13,Crime Under Local & Special Laws,Total Local & Special Laws,7077,682,8196,496,12849,334,42529,2352,70651,3864,74515
+Grand Total (IPC + Local & Special Laws),Grand Total (IPC + Local & Special Laws),Grand Total,9103,860,15626,844,23245,706,74218,3140,122192,5550,127742

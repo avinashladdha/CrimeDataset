@@ -1,0 +1,159 @@
+Crime Category,CRIME HEAD,Below 12 Years - Boys,Below 12 Years - Girls,Below 12 Years - Total,12 Years & Above – Below 16 Years - Boys,12 Years & Above – Below 16 Years - Girls,12 Years & Above – Below 16 Years - Total,16 Years & Above – Below 18 Years - Boys,16 Years & Above – Below 18 Years - Girls,16 Years & Above – Below 18 Years - Total,Overall age group - Boys,Overall age group - Girls,Grand Total (Boys+Girls)
+IPC,1 Murder,13,0,13,264,19,283,773,23,796,1050,42,1092
+IPC,2 Attempt to commit Murder,9,1,10,337,5,342,993,15,1008,1339,21,1360
+IPC,3 Culpable Homicide not Amounting to Murder,1,0,1,15,0,15,25,0,25,41,0,41
+IPC,4 Attempt to commit Culpable Homicide,0,0,0,24,0,24,65,0,65,89,0,89
+IPC,5 Rape,14,0,14,489,1,490,1334,3,1337,1837,4,1841
+IPC,5.1 Custodial Rape,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,5.1.1 Gang Rape,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,5.1.2 Other Rape,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,5.2 Rape other than Custodial,14,0,14,489,1,490,1334,3,1337,1837,4,1841
+IPC,5.2.1 Gang Rape,0,0,0,37,0,37,96,0,96,133,0,133
+IPC,5.2.2 Other Rape,14,0,14,452,1,453,1238,3,1241,1704,4,1708
+IPC,6 Attempt to commit Rape,0,0,0,20,0,20,58,0,58,78,0,78
+IPC,7 Kidnapping & Abduction,11,0,11,283,5,288,1197,12,1209,1491,17,1508
+IPC,7.1 Kidnapping & Abduction,7,0,7,99,4,103,352,4,356,458,8,466
+IPC,7.2 Kidnaping & Abduction in Order to Murder,0,0,0,1,0,1,6,0,6,7,0,7
+IPC,7.3 Kidnapping for Ransom,0,0,0,5,0,5,17,1,18,22,1,23
+IPC,7.4 Kidnapping & Abduction of Women to Compel her for Marriage,4,0,4,106,0,106,617,5,622,727,5,732
+IPC,7.5 Other Kidnapping,0,0,0,72,1,73,205,2,207,277,3,280
+IPC,8 Dacoity,0,0,0,45,0,45,255,1,256,300,1,301
+IPC,8.1 Dacoity with Murder,0,0,0,0,0,0,1,0,1,1,0,1
+IPC,8.2 Other Dacoity,0,0,0,45,0,45,254,1,255,299,1,300
+IPC,9 Making Preparation and Assembly for Committing Dacoity,0,0,0,6,0,6,54,0,54,60,0,60
+IPC,10 Robbery,22,0,22,431,0,431,1385,0,1385,1838,0,1838
+IPC,11 Criminal Trespass/Burglary,77,4,81,1267,21,1288,2253,10,2263,3597,35,3632
+IPC,11.1 Criminal Trespass/Burglary,60,3,63,901,19,920,1710,8,1718,2671,30,2701
+IPC,11.2 House Trespass & House Breaking,17,1,18,366,2,368,543,2,545,926,5,931
+IPC,12 Theft,187,6,193,2719,53,2772,4925,46,4971,7831,105,7936
+IPC,12.1 Auto Theft,29,0,29,843,0,843,1807,0,1807,2679,0,2679
+IPC,12.2 Other Thefts,158,6,164,1876,53,1929,3118,46,3164,5152,105,5257
+IPC,13 Unlawful Assembly,1,0,1,48,2,50,144,5,149,193,7,200
+IPC,14 Riots,20,0,20,322,19,341,1312,43,1355,1654,62,1716
+IPC,14.1 Communal,0,0,0,6,0,6,62,2,64,68,2,70
+IPC,14.2 Industrial,1,0,1,1,0,1,0,0,0,2,0,2
+IPC,14.3 Political,1,0,1,2,0,2,18,0,18,21,0,21
+IPC,14.4 Caste Conflict,0,0,0,4,0,4,28,0,28,32,0,32
+IPC,14.4.1 SC/STs Vs. Non-SCs/STs,0,0,0,3,0,3,14,0,14,17,0,17
+IPC,14.4.2 Other Caste Riots,0,0,0,1,0,1,14,0,14,15,0,15
+IPC,14.5 Agrarian,0,0,0,4,0,4,11,1,12,15,1,16
+IPC,14.6 Students,0,0,0,0,0,0,70,0,70,70,0,70
+IPC,14.7 Sectarian,0,0,0,0,0,0,4,0,4,4,0,4
+IPC,14.8 Other Riots,18,0,18,305,19,324,1119,40,1159,1442,59,1501
+IPC,15 Criminal Breach of Trust,0,0,0,10,0,10,25,0,25,35,0,35
+IPC,16 Cheating,1,0,1,21,1,22,84,2,86,106,3,109
+IPC,17 Forgery,0,0,0,4,0,4,8,0,8,12,0,12
+IPC,18 Counterfeiting,0,0,0,1,0,1,11,0,11,12,0,12
+IPC,18.1 Offences related to Counterfeit Coin,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,18.2 Counterfeiting Government Stamp,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,18.3 Counterfeit currency & Bank notes,0,0,0,1,0,1,11,0,11,12,0,12
+IPC,18.3.1 Counterfeiting Currency Notes or Bank Notes,0,0,0,0,0,0,5,0,5,5,0,5
+IPC,18.3.2 Using Forged or Counterfeit Currency/Bank Notes,0,0,0,1,0,1,5,0,5,6,0,6
+IPC,18.3.3 Possession of Forged or Counterfeiting Currency / Bank Notes,0,0,0,0,0,0,1,0,1,1,0,1
+IPC,18.3.4 Make/Possess Materials for Forging or Counterfeiting Currency/Bank Notes,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,18.3.5 Make/Use Documents Resembling Currency Notes/Bank Notes,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,19 Arson,0,1,1,6,0,6,60,0,60,66,1,67
+IPC,20 Grievous Hurt,13,2,15,310,21,331,902,21,923,1225,44,1269
+IPC,20.1 Grievous Hurt,13,2,15,310,21,331,901,21,922,1224,44,1268
+IPC,20.2 Acid attack,0,0,0,0,0,0,1,0,1,1,0,1
+IPC,20.3 Attempt to Acid Attack,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,21 Dowry Deaths,4,0,4,37,8,45,49,28,77,90,36,126
+IPC,22 Assault on Women with Intent to Outrage her Modesty,13,1,14,395,2,397,1182,5,1187,1590,8,1598
+IPC,22.1 Sexual Harassment,1,0,1,139,0,139,391,0,391,531,0,531
+IPC,22.2 Assault on Women with Intent to Disrobe,0,1,1,19,0,19,72,2,74,91,3,94
+IPC,22.3 Voyeurism,0,0,0,4,0,4,18,0,18,22,0,22
+IPC,22.4 Stalking,0,0,0,29,0,29,135,0,135,164,0,164
+IPC,22.5 Others,12,0,12,204,2,206,566,3,569,782,5,787
+IPC,23 Insult to the Modesty of Women,1,0,1,24,0,24,111,0,111,136,0,136
+IPC,23.1 At Office Premises,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,23.2 Places related to work other than Office,0,0,0,1,0,1,6,0,6,7,0,7
+IPC,23.3 In Public Transport System,0,0,0,0,0,0,3,0,3,3,0,3
+IPC,23.4 in Other Places,1,0,1,23,0,23,102,0,102,126,0,126
+IPC,24 Cruelty by Husband or his Relatives,0,1,1,12,1,13,91,8,99,103,10,113
+IPC,25 Importation of Girls from Foreign Country,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,26 Causing Death by Negligence,2,0,2,60,2,62,269,3,272,331,5,336
+IPC,26.1 Deaths due to Negligent Driving/Act,2,0,2,59,1,60,249,3,252,310,4,314
+IPC,26.2 Deaths due to Other Causes,0,0,0,1,1,2,20,0,20,21,1,22
+IPC,27 Offences against State,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,27.1 Sedition,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,27.2 Other Offences against State,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,28 Offences Promoting Enmity Between Different Groups,0,0,0,3,0,3,10,0,10,13,0,13
+IPC,28.1 Promoting Enmity on Ground of Religion Race and Place of Birth,0,0,0,3,0,3,10,0,10,13,0,13
+IPC,28.2 Imputation & Assertions Prejudicial to National Integration,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,29 Extortion,0,0,0,20,0,20,81,0,81,101,0,101
+IPC,30 Disclosure of Identity of Victims,0,0,0,0,0,0,0,0,0,0,0,0
+IPC,31 Causing Injuries under Rash Driving / Road Rage,6,2,8,233,5,238,1340,19,1359,1579,26,1605
+IPC,32 Human Trafficking (Section 370 & 370A IPC),0,0,0,0,0,0,3,0,3,3,0,3
+IPC,33 Unnatural Offences,11,0,11,100,0,100,96,0,96,207,0,207
+IPC,34 Other IPC crimes,107,20,127,2753,113,2866,8354,293,8647,11214,426,11640
+IPC,Total Cognizable IPC Crimes,513,38,551,10259,278,10537,27449,537,27986,38221,853,39074
+SLL,"1 Arms Act, 1959",0,0,0,31,0,31,166,0,166,197,0,197
+SLL,"2 Narcotic Drugs & Psychotropic Substances Act, 1985",3,0,3,25,1,26,120,2,122,148,3,151
+SLL,"3 Gambling Act, 1867",0,0,0,25,0,25,237,0,237,262,0,262
+SLL,"4 Excise Act, 1944",1,0,1,28,0,28,134,0,134,163,0,163
+SLL,5 Prohibition Act,1,4,5,10,14,24,99,3,102,110,21,131
+SLL,6 Explosives and Explosive Substances Act,1,0,1,5,0,5,15,0,15,21,0,21
+SLL,"7 Immoral Traffic (Prevention) Act, 1956",0,0,0,0,0,0,4,5,9,4,5,9
+SLL,7.1 Under Section 5,0,0,0,0,0,0,3,3,6,3,3,6
+SLL,7.2 Under Section 6,0,0,0,0,0,0,1,0,1,1,0,1
+SLL,7.3 Under Section 7,0,0,0,0,0,0,0,1,1,0,1,1
+SLL,7.4 Under Section 8,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,7.5 Other Sections under ITP Act,0,0,0,0,0,0,0,1,1,0,1,1
+SLL,"8 Indian Railways Act, 1989",0,0,0,0,0,0,5,0,5,5,0,5
+SLL,"9 Registration of Foreigners Act, 1939",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"10 Protection of Civil Rights Act, 1955",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,10.1 PCR Act for Crimes Committed against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,10.2 PCR Act For Crimes Committed Against Sts,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,10.3 PCR Act for Crimes Committed against Others,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"11 Passport Act, 1967",0,0,0,1,1,2,1,4,5,2,5,7
+SLL,"12 Essential Commodities Act, 1955",0,0,0,4,0,4,2,0,2,6,0,6
+SLL,"13 Antiquities & Art Treasures Act, 1972",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"14 Dowry Prohibition Act, 1961",0,0,0,0,0,0,5,0,5,5,0,5
+SLL,"15 Indecent Representation of Women (Prohibition) Act, 1986",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"16 Copyright Act, 1957",0,0,0,2,0,2,13,0,13,15,0,15
+SLL,17 Protection of Children from Sexual Offences Act,5,0,5,150,1,151,337,1,338,492,2,494
+SLL,"18 SC/ST (Prevention of Atrocities) Act, 1989)",0,0,0,10,1,11,29,1,30,39,2,41
+SLL,18.1 POA Act for crimes committed against SCs,0,0,0,9,1,10,29,1,30,38,2,40
+SLL,18.2 POA Act for crimes committed against STs,0,0,0,1,0,1,0,0,0,1,0,1
+SLL,"19 Forest Act, 1927",0,0,0,0,0,0,1,0,1,1,0,1
+SLL,"20 Prohibition of Child Marriage Act, 2006",0,0,0,0,0,0,1,0,1,1,0,1
+SLL,"21 Protection of Women from Domestic Violence Act, 2005",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"22 Information Technology Act, 2000",0,0,0,3,0,3,20,0,20,23,0,23
+SLL,"23 Official Secrets Act, 1923",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"24 Electricity Act, 2003",2,0,2,3,0,3,15,0,15,20,0,20
+SLL,"25 Wildlife Protection Act, 1972",0,0,0,1,0,1,3,0,3,4,0,4
+SLL,"26 Bonded Labour System (Abolition) Act, 1976",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,26.1 Against SCs,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,26.2 Against STs,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,26.3 Against others,0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"27 Environmental (Protection) Act, 1986",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"28 Air (Prevention & Control of Pollution) Act, 1981",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"29 Water (Prevention & Control of Pollution) Act, 1974(as amended in 1988)",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"30 National Security Act, 1980",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"31 Unlawful Activities (Prevention) Act, 1967",0,0,0,4,0,4,1,0,1,5,0,5
+SLL,"32 Young Persons (Harmful Publications) Act, 1956",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"33 Railway Property (Unlawful Possession) Act, 1966",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"34 Prevention of Damage to Public Property Act, 1984",0,0,0,15,0,15,24,0,24,39,0,39
+SLL,"35 Transplantation of Human Organs Act, 1994",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"36 Trade Marks Act, 1999",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"37 Prevention of Insults to National Honour Act, 1971",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"38 State Emblem (Prohibition of Improper Use) Act, 2005",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"39 Lotteries (Regulation) Act, 1998",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"40 Citizenship Act, 1955",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"41 Foreigners Act, 1946",2,0,2,9,0,9,18,0,18,29,0,29
+SLL,"42 Place of Worship (Special Provisions) Act, 1991",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"43 Religious Institution (Prevention of Misuse) Act, 1988",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"44 Representation of People Act, 1951",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"45 Emigration Act, 1983",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"46 Juvenile Justice (Care and Protection of Children) Act, 2000",20,3,23,78,9,87,13,5,18,111,17,128
+SLL,"47 Infant Substitutes Regulation Act, 2003",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"48 Anti-Hijacking Act, 1982",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"49 Atomic Energy Act, 1962",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"50 Weapons of Mass Destruction (Proh. of Unlawful Activities) Act, 2005",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"51 Suppression of Unlawful Acts against Safety of Civil Aviation Act, 1982",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"52 Safety of Maritime Navigation Act, 2002",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"53 Employment of Manual Scavengers and Construction of Dry Latrines (P) Act, 1993",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"54 Pre-Natal Diagnostic Techniques (Reg and Prev of Misuse) Act, 1994",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,"55 The Maritime Zones of India (Reg of Fishing by Foreign Vessels) Act, 1981",0,0,0,0,0,0,0,0,0,0,0,0
+SLL,56 Other SLL crimes,9,0,9,84,0,84,452,9,461,545,9,554
+SLL,Total Cognizable SLL Crimes,44,7,51,488,27,515,1715,30,1745,2247,64,2311

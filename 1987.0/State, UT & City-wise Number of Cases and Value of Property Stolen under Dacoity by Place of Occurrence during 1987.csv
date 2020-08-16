@@ -1,0 +1,49 @@
+SL. No.,Category,States/U.Ts/Cities,Residential Premises - Number of Cases Reported,Residential Premises - Value of Property Stolen,Highways - Number of Cases Reported,Highways - Value of Property Stolen,River and Sea - Number of Cases Reported,River and Sea - Value of Property Stolen,Railways - Number of Cases Reported,Railways - Value of Property Stolen,Banks - Number of Cases Reported,Banks - Value of Property Stolen,Commercial Estbls. - Number of Cases Reported,Commercial Estbls. - Value of Property Stolen,Other Places - Number of Cases Reported,Other Places - Value of Property Stolen,Total - Number of Cases Reported,Total - Value of Property Stolen
+1,State,Andhra Pradesh,192,22.8,113,21.93,NA,NA,5,0.29,1,NA,NA,NA,112,19.61,423,64.63
+2,State,Arunachal Pradesh,4,0.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.33,10,0.72
+3,State,Assam,292,26.1,26,5.13,1,0.1,NA,NA,2,46.86,10,0.92,47,41.09,378,120.11
+4,State,Bihar,1736,56.85,288,17.33,17,4.3,70,8.98,15,26.87,49,0.47,984,1.79,3159,116.59
+5,State,Goa,3,0.2,3,0.24,NA,NA,NA,NA,NA,NA,NA,NA,5,0.06,11,0.5
+6,State,Gujarat,46,6.19,38,8.07,NA,NA,3,3.07,2,2.57,8,2.39,101,84.61,198,106.9
+7,State,Haryana,16,4.83,8,0.55,NA,NA,NA,NA,NA,NA,2,0,13,12.33,39,17.71
+8,State,Himachal Pradesh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.02,3,7.34,4,7.36
+9,State,Jammu & Kashmir,2,0.03,1,0.21,NA,NA,NA,NA,NA,NA,NA,NA,15,1.44,18,1.68
+10,State,Karnataka,77,10.57,10,1.03,NA,NA,2,14.77,NA,NA,3,0.03,78,7.17,170,33.57
+11,State,Kerala,9,4.34,2,3.72,2,0.2,NA,NA,1,0.51,NA,NA,42,33.45,56,42.22
+12,State,Madhya Pradesh,73,9.47,87,7.68,NA,NA,7,0.04,NA,NA,64,0.35,96,29.7,327,47.24
+13,State,Maharashtra,194,40.77,119,11.06,NA,NA,1,0.26,25,25.69,NA,NA,338,67.28,677,145.06
+14,State,Manipur,8,3.32,2,1.12,NA,NA,NA,NA,NA,NA,NA,NA,16,0.02,26,4.46
+15,State,Meghalaya,25,7.79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.01,31,7.8
+16,State,Mizoram,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0.03,1,0.03
+17,State,Nagaland,3,7.18,3,0.04,NA,NA,NA,NA,NA,NA,1,0.01,13,5,20,12.23
+18,State,Orissa,141,17.67,5,0.29,NA,NA,4,1.89,NA,NA,NA,NA,41,4.35,191,24.2
+19,State,Punjab,87,14.15,4,1.48,NA,NA,NA,NA,5,571.6,2,2.11,53,5.37,151,594.71
+20,State,Rajasthan,50,8.23,2,0.01,NA,NA,NA,NA,NA,NA,NA,NA,38,9.05,90,17.29
+21,State,Sikkim,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,State,Tamil Nadu,39,6.73,10,0.94,NA,NA,NA,NA,1,0.5,NA,NA,32,13.36,82,21.53
+23,State,Tripura,26,0.72,5,0.22,NA,NA,NA,NA,NA,NA,5,0.32,13,0.91,49,2.17
+24,State,Uttar Pradesh,2108,262.14,198,21.58,NA,NA,22,1.94,1,0.03,NA,NA,742,44.78,3071,330.47
+25,State,West Bengal,462,53.33,65,16.16,NA,NA,33,3.53,6,10.03,25,11.04,226,8.08,817,102.17
+Total (States),State,Total (States),5593,563.8,989,118.79,20,4.51,147,34.77,59,684.66,170,17.66,3020,397.16,9999,1821.35
+26,UT,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Chandigarh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA
+28,UT,D & N Haveli,2,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.09
+29,UT,Daman & Diu,2,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.03
+30,UT,Delhi,18,2.79,NA,NA,NA,NA,NA,NA,NA,NA,2,0.08,3,0.63,32,3.5
+31,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,UT,Pondicherry,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total (UTs),UT,Total (UTs),22,2.91,NA,NA,NA,NA,NA,NA,NA,NA,2,0.08,4,0.63,37,3.62
+Total (All India),Total (All India),Total (All India),5615,566.71,989,118.79,20,4.51,147,34.77,59,684.66,172,17.74,3020,397.79,10036,1824.97
+1,City,Ahmedabad,2,0.71,NA,NA,NA,NA,NA,NA,1,1.32,2,1.84,3,1.59,8,5.46
+2,City,Bangalore,7,0.77,1,0.04,NA,NA,NA,NA,NA,NA,1,0.02,4,2.64,13,3.47
+3,City,Bombay,14,16.92,2,0.6,NA,NA,NA,NA,NA,NA,19,21.63,30,34.46,65,73.37
+4,City,Calcutta,8,8.33,12,7.69,NA,NA,NA,NA,1,6.75,5,9.11,4,1.11,30,32.99
+5,City,Delhi,8,1.49,NA,NA,NA,NA,NA,NA,NA,NA,2,0.08,3,0.63,13,2.2
+6,City,Hyderabad,7,1.72,NA,NA,NA,NA,NA,NA,NA,NA,1,5,1,0,9,6.72
+7,City,Jaipur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.3,2,0.3
+8,City,Kanpur,17,6195,1,14,NA,NA,NA,NA,NA,NA,NA,NA,63,130.4,81,6339.4
+9,City,Lucknow,12,0.6,3,0.2,NA,NA,NA,NA,NA,NA,NA,NA,12,NA,27,0.8
+10,City,Madras,2,0.34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0.34
+11,City,Nagpur,3,0.02,NA,NA,NA,NA,NA,NA,NA,NA,2,0.17,10,0.4,15,0.59
+12,City,Pune,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.11,6,0.11
+Total (Cities),City,Total (Cities),80,6225.9,19,22.29,NA,NA,NA,NA,2,8.07,32,37.85,138,171.64,271,6465.75

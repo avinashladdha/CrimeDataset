@@ -1,0 +1,38 @@
+S. No.,Category,Crime Head,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Total
+1,IPC Cases,Dowry Deaths,16639,3906,20545,13542,2773,16315,3042,358,3400,6131,1088,7219,56,11,67
+2,IPC Cases,Abetment of Suicides of Women,6143,1091,7234,5206,1017,6223,275,30,305,1912,283,2195,14,1,15
+3,IPC Cases,Causing Miscarriage Without Womens Consent,697,14,711,377,15,392,0,0,0,18,2,20,0,0,0
+4,IPC Cases,Deaths Caused by Act Done with Intent to Cause Miscarriage,199,0,199,128,0,128,0,0,0,2,0,2,0,0,0
+5,IPC Cases,Acid Attack,225,8,233,205,6,211,12,0,12,20,2,22,0,0,0
+6,IPC Cases,Cruelty by Husband or his Relatives,160034,38817,198851,136319,31734,168053,11773,1738,13511,69157,12918,82075,1838,360,2198
+7,IPC Cases,Kidnapping & Abduction of Women,59118,1349,60467,39460,1056,40516,4349,80,4429,12806,349,13155,139,5,144
+7.1,IPC Cases,Kidnaping & Abduction,8144,247,8391,7714,298,8012,803,31,834,2479,75,2554,45,0,45
+7.2,IPC Cases,Kidnaping & Abduction in order to Murder,139,0,139,113,0,113,7,0,7,5,0,5,0,0,0
+7.3,IPC Cases,Kidnapping for Ransom,131,1,132,89,1,90,1,0,1,27,1,28,0,0,0
+7.4,IPC Cases,Kidnapping & Abduction of Women to Compel her for Marriage,44272,929,45201,26172,601,26773,3212,48,3260,8133,213,8346,73,4,77
+7.5,IPC Cases,Kidnapping & Abduction of Women-Other **,6432,172,6604,5372,156,5528,326,1,327,2162,60,2222,21,1,22
+8,IPC Cases,Human Trafficking,862,164,1026,691,182,873,42,14,56,83,10,93,4,0,4
+9,IPC Cases,Rape,47619,1178,48797,42515,1010,43525,6217,72,6289,17047,362,17409,202,9,211
+9.1,IPC Cases,Rape,42852,1096,43948,38685,942,39627,5577,69,5646,15866,345,16211,194,9,203
+9.2,IPC Cases,Gang Rape,4752,82,4834,3798,68,3866,632,3,635,1155,17,1172,8,0,8
+9.3,IPC Cases,Custodial Rape,15,0,15,32,0,32,8,0,8,26,0,26,0,0,0
+10,IPC Cases,Attempt to Commit Rape,5921,44,5965,5068,34,5102,277,1,278,1169,13,1182,48,0,48
+11,IPC Cases,Unnatural Offences,487,15,502,264,12,276,7,0,7,16,0,16,0,0,0
+12,IPC Cases,Assault on Women with Intent to Outrage her Modesty,106152,4223,110375,92451,3277,95728,9471,70,9541,31914,1019,32933,1363,20,1383
+12.1,IPC Cases,Assault on Women,46687,2830,49517,43038,2347,45385,5069,61,5130,21287,808,22095,792,18,810
+12.2,IPC Cases,Sexual Harassment,36954,819,37773,31077,500,31577,3361,9,3370,6471,99,6570,471,1,472
+12.3,IPC Cases,Assault on Women with Intent to Disrobe,12859,414,13273,10396,311,10707,514,0,514,2564,80,2644,46,1,47
+12.4,IPC Cases,Voyeurism,1160,24,1184,969,17,986,47,0,47,192,6,198,20,0,20
+12.5,IPC Cases,Stalking,8492,136,8628,6971,102,7073,480,0,480,1400,26,1426,34,0,34
+13,IPC Cases,Insult to the Modesty of Women,8353,315,8668,7728,274,8002,945,13,958,3386,74,3460,194,0,194
+14,SLL Cases,"Dowry Prohibition Act, 1961",20843,4220,25063,16904,3496,20400,1032,167,1199,4946,1038,5984,9,2,11
+15,SLL Cases,Immoral Traffic (Prevention) Act,3780,1397,5177,3181,1190,4371,563,160,723,844,305,1149,13,20,33
+15.1,SLL Cases,Procuring/Inducing a Person for sake of Prostitution (Sec 5),2057,627,2684,1626,485,2111,266,52,318,326,118,444,11,20,31
+15.2,SLL Cases,Detaining a Person in Premises where prostitution is carried on(Sec 6),235,121,356,182,82,264,28,14,42,32,3,35,0,0,0
+15.3,SLL Cases,Prostitution in the Vicinity of Public Places(Sec 7),236,63,299,212,54,266,17,6,23,27,11,38,0,0,0
+15.4,SLL Cases,Seducing or Soliciting for Prostitution(Sec 8),156,197,353,145,153,298,22,39,61,19,19,38,0,0,0
+15.5,SLL Cases,Other Sections under ITP Act,1096,389,1485,1016,416,1432,230,49,279,440,154,594,2,0,2
+16,SLL Cases,"Protection of Women from Domestic Violence Act, 2005",539,17,556,503,12,515,28,0,28,44,2,46,1,0,1
+17,SLL Cases,Publishing or Transmitting of Sexually Explicit Material (Sec 67A IT Act),792,18,810,466,6,472,11,0,11,52,0,52,1,0,1
+18,SLL Cases,"Indecent Representation of Women (Prohibition) Act, 1986",51,6,57,61,7,68,24,1,25,30,0,30,0,0,0
+Total Crime Against Women,Total Crime Against Women,Total Crime Against Women,438454,56782,495236,365069,46101,411170,38068,2704,40772,149577,17465,167042,3882,428,4310

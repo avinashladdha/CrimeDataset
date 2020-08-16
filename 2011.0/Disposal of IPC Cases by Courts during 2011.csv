@@ -1,0 +1,31 @@
+Sl. No. (Col.1),Crime Head (Col.2),Total No. of Cases for Trial Including Pending Cases from previous year (Col.3),Cases With - drawn by Govt. (Col.4),No. of Cases Compounded or Withdrawn (Col.5),No. of Cases in Which Trials Were Completed - Convicted (Col.6),No. of Cases in Which Trials Were Completed - Acquitted or Discharged (Col.7),No. of Cases in Which Trials Were Completed - Total (Col.8) = {(Col.6) + (Col.7)},Pending Trial at the end of the year (Col.9)
+1,Murder (sec.302 IPC),180821,2,75,8718,13908,22626,158120
+2,Attempt to Commit Murder (sec. 307 IPC),149950,5,241,6324,14722,21046,128663
+3,"C.h. not Amounting Murder (sec.304 , 308 IPC)",18773,0,21,1115,1735,2850,15902
+4,Rape (sec. 376 IPC),95065,3,166,4072,11351,15423,79476
+5,Rape (sec. 376 IPC) - Custodial Rape,9,0,0,0,1,1,8
+6,Rape (sec. 376 IPC) - Other Rape,95056,3,166,4072,11350,15422,79468
+7,"Kidnapping & Abduction (sec.363-369,371-373 IPC)",110096,0,341,4001,10680,14681,95074
+8,"Kidnapping & Abduction (sec.363-369,371-373 IPC) - of Women & Girls",82654,0,292,3174,8110,11284,71078
+9,"Kidnapping & Abduction (sec.363-369,371-373 IPC) - of Others",27442,0,49,827,2570,3397,23996
+10,Dacoity (sec.395-398 IPC),30941,1,9,740,2218,2958,27974
+11,Preparation & Assembly Fordacoity (sec.399 To 402 IPC),15585,0,2,375,1466,1841,13742
+12,"Robbery (sec.392-394, 397,398 IPC)",106927,3,111,3417,8168,11585,95231
+13,"Burglary (sec.449-452,454,455,457-460 IPC)",284816,9,1473,12085,24526,36611,246732
+14,Theft (sec.379 – 382 IPC),870660,116,7971,36673,68106,104779,757910
+15,Theft (sec.379 – 382 IPC) - Auto Theft,206018,103,1406,10340,15363,25703,178909
+16,Theft (sec.379 – 382 IPC) - Other Theft,664642,13,6565,26333,52743,79076,579001
+17,"Riots (sec.143-145, 147-151, 153,153a,153b,157,158,160 IPC)",444779,236,9030,9139,33290,42429,393320
+18,Criminal Breach of Trust (sec.406-409 IPC),93039,8,425,2476,5463,7939,84675
+19,"Cheating (sec.419,420 IPC)",266908,6,2494,6905,18201,25106,239308
+20,"Counterfeiting (sec.231-254, 489a-489d IPC)",6952,2,27,308,546,854,6071
+21,"Arson (sec.435,436,438 IPC)",35717,4,259,856,3856,4712,30746
+22,"Hurt (sec.323-333,335-338 IPC)",1333179,856,48487,57125,120536,177661,1107031
+23,Dowry Deaths (sec.304b IPC),35805,0,86,2163,3887,6050,29669
+24,Molestation (sec. 354 IPC),192860,85,5440,6969,18174,25143,162277
+25,Sexual Harassment (sec.509 IPC),34564,1,1431,3676,4358,8034,25099
+26,Cruelty By Husband And Relative (sec. 498a IPC),387690,27,7450,8167,32171,40338,339902
+27,Importation of Girls (sec.366b IPC),358,0,0,5,59,64,294
+28,Causing Death by Negligence (sec. 304a IPC),395500,75,2935,17379,38879,56258,336307
+29,Other IPC Crimes,3848176,5103,76446,305308,276929,582237,3189493
+30,Total Cognizable Crimes Under IPC,8939161,6542,164920,497996,713229,1211225,7563016

@@ -1,0 +1,49 @@
+SL. No.,Crimes,Crime Head,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Girls Only,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+1,A. IPC Crime,Murder,45,7,222,16,37,267,60,327
+2,A. IPC Crime,Attempt to Commit Murder,35,3,173,9,23,208,35,243
+3,A. IPC Crime,C.H. Not Amounting To Murder,3,0,7,1,13,10,14,24
+4,A. IPC Crime,Rape,3,0,154,0,7,157,7,164
+5,A. IPC Crime,Kidnapping & Abduction,36,1,63,7,32,99,40,139
+5,A. IPC Crime,I)of Women & Girls,0,1,10,7,26,10,34,44
+5,A. IPC Crime,II)of Others,36,0,53,0,6,89,6,95
+6,A. IPC Crime,Dacoity,15,0,40,0,0,55,0,55
+7,A. IPC Crime,Preparation & Assembly for Dacoity,0,0,0,0,0,0,0,0
+8,A. IPC Crime,Robbery,14,0,95,1,9,109,10,119
+9,A. IPC Crime,Burglary,274,4,1418,29,41,1692,74,1766
+10,A. IPC Crime,Theft,526,61,2233,83,256,2759,400,3159
+11,A. IPC Crime,Riots,167,3,580,43,368,747,414,1161
+12,A. IPC Crime,Criminal Breach of Trust,1,0,7,0,1,8,1,9
+13,A. IPC Crime,Cheating,9,0,49,3,1,58,4,62
+14,A. IPC Crime,Counterfeiting,0,0,0,0,0,0,0,0
+15,A. IPC Crime,Arson,12,1,19,0,8,31,9,40
+16,A. IPC Crime,Hurt/ Grievous Hurt,140,11,1088,118,388,1228,517,1745
+17,A. IPC Crime,Dowry Death,0,0,4,5,43,4,48,52
+18,A. IPC Crime,Molestation,1,0,122,0,1,123,1,124
+19,A. IPC Crime,Sexual Harassment,0,0,8,3,3,8,6,14
+20,A. IPC Crime,Cruelty by Husband and Relatives,1,1,50,27,189,51,217,268
+21,A. IPC Crime,Other IPC Crimes,292,47,1840,181,1122,2132,1350,3482
+22,A. IPC Crime,Total Cognizable Crimes Under IPC,1574,139,8172,526,2542,9746,3207,12953
+1,B. SLL Crime,Arms Act,9,0,32,0,2,41,2,43
+2,B. SLL Crime,Narcotic Drugs & Psychotropic Substances Act,1,0,16,4,4,17,8,25
+3,B. SLL Crime,Gambling Act,11,0,296,0,0,307,0,307
+4,B. SLL Crime,Excise Act,5,0,184,2,148,189,150,339
+5,B. SLL Crime,Prohibition Act,22,5,212,42,785,234,832,1066
+6,B. SLL Crime,Explosive & Explosive Substances Act,0,0,2,0,0,2,0,2
+7,B. SLL Crime,Immoral Traffic (P) Act,3,0,1,3,129,4,132,136
+8,B. SLL Crime,Indian Railways Act,1,0,15,0,0,16,0,16
+9,B. SLL Crime,Registration of Foreigners Act,0,1,0,0,0,0,1,1
+10,B. SLL Crime,Protection Of Civil Rights Act,0,0,3,0,0,3,0,3
+11,B. SLL Crime,Indian Passport Act,6,3,9,3,0,15,6,21
+12,B. SLL Crime,Essential Commodities Act,0,0,0,0,3,0,3,3
+13,B. SLL Crime,Terrorist & Disruptive Actvites Act,0,0,0,0,0,0,0,0
+14,B. SLL Crime,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0
+15,B. SLL Crime,Dowry Prohibition Act,1,1,3,3,23,4,27,31
+16,B. SLL Crime,Child Marriage Restraint Act,0,0,0,0,2,0,2,2
+17,B. SLL Crime,Indecent Representation of Women (P)Act,0,0,0,0,0,0,0,0
+18,B. SLL Crime,Copy Right Act,1,0,0,0,0,1,0,1
+19,B. SLL Crime,Sati Prevention Act,0,0,0,0,0,0,0,0
+20,B. SLL Crime,SC/ST (Prevention of Atrocities ) Act,0,0,8,1,9,8,10,18
+21,B. SLL Crime,Forest Act,0,0,1,0,0,1,0,1
+22,B. SLL Crime,Other SLL Crimes,1644,44,1836,23,583,3480,650,4130
+23,B. SLL Crime,Total Cognizable Crimes Under SLL,1704,54,2618,81,1688,4322,1823,6145
+24,Grand Total (A+B),Grand Total (A+B),3278,193,10790,607,4230,14068,5030,19098

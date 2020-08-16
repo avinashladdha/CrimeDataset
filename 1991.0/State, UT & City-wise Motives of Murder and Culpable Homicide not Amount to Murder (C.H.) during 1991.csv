@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,Gain - Murder,Gain - Culpable Homicide not Amount to Murder (C.H.),Property Dispute - Murder,Property Dispute - Culpable Homicide not Amount to Murder (C.H.),Personal Vendetta or Enmity - Murder,Personal Vendetta or Enmity - Culpable Homicide not Amount to Murder (C.H.),Love Affairs/ Sexual Causes - Murder,Love Affairs/ Sexual Causes - Culpable Homicide not Amount to Murder (C.H.),Dowry - Murder,Dowry - Culpable Homicide not Amount to Murder (C.H.),Lunacy - Murder,Lunacy - Culpable Homicide not Amount to Murder (C.H.),Communalism - Murder,Communalism - Culpable Homicide not Amount to Murder (C.H.),Casteism - Murder,Casteism - Culpable Homicide not Amount to Murder (C.H.),Class Conflict - Murder,Class Conflict - Culpable Homicide not Amount to Murder (C.H.),Other Motives - Murder,Other Motives - Culpable Homicide not Amount to Murder (C.H.),Total - Murder,Total - Culpable Homicide not Amount to Murder (C.H.)
+1,State,Andhra Pradesh,145,21,197,5,456,3,336,1,48,0,24,0,113,0,1,0,26,2,1448,39,2794,71
+2,State,Arunachal Pradesh,2,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,8,55,8
+3,State,Assam,151,9,224,3,145,2,27,0,7,0,11,0,10,0,4,0,2,0,395,4,976,18
+4,State,Bihar,1055,173,915,95,791,66,200,20,134,11,4,0,10,1,52,1,19,1,1250,154,4430,522
+5,State,Goa,5,0,1,0,6,1,4,0,0,0,1,1,0,0,0,0,0,0,21,6,38,8
+6,State,Gujarat,94,0,111,0,105,0,154,1,29,0,26,0,38,0,25,0,31,0,987,24,1591,25
+7,State,Haryana,14,0,102,15,100,11,45,5,5,14,0,0,0,0,0,0,0,0,327,68,593,113
+8,State,Himachal Pradesh,7,0,15,2,17,0,7,1,0,0,0,0,0,0,0,0,0,0,57,9,103,12
+9,State,Jammu & Kashmir,24,0,21,1,15,0,2,0,5,0,0,0,0,0,0,0,0,0,483,13,550,14
+10,State,Karnataka,67,1,152,0,169,1,169,0,16,0,6,0,0,0,5,0,2,0,835,33,1421,35
+11,State,Kerala,32,0,31,0,229,3,16,0,4,1,4,0,0,0,0,0,5,0,240,30,561,34
+12,State,Madhya Pradesh,175,0,389,3,613,3,228,2,60,70,25,0,9,0,8,0,6,0,1902,115,3415,193
+13,State,Maharashtra,124,5,209,0,331,0,338,2,50,2,17,0,14,0,8,0,1,1,1952,69,3044,79
+14,State,Manipur,1,0,1,0,10,0,0,0,0,0,1,0,0,0,0,0,0,0,87,0,100,0
+15,State,Meghalaya,4,0,2,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,97,1,108,1
+16,State,Mizoram,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,7,26,7
+17,State,Nagaland,8,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,1,0,37,1,49,3
+18,State,Orissa,23,0,57,11,60,0,53,1,4,1,0,0,0,0,0,0,26,0,498,77,721,90
+19,State,Punjab,5,2,98,20,104,6,58,3,10,18,25,0,0,0,0,0,0,0,2748,76,3048,125
+20,State,Rajasthan,58,2,145,1,218,0,13,0,138,0,19,0,0,0,0,0,0,0,830,49,1421,52
+21,State,Sikkim,1,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,1,9,1
+22,State,Tamil Nadu,126,0,220,0,287,0,188,1,3,1,1,0,1,0,0,0,0,0,824,17,1650,19
+23,State,Tripura,35,0,18,0,105,5,5,0,0,0,0,0,0,0,0,0,0,0,40,0,203,5
+24,State,Uttar Pradesh,1079,182,1192,345,2172,390,532,56,1155,9,23,1,28,1,2,5,109,4,3702,997,9994,1990
+25,State,West Bengal,109,78,85,112,338,114,116,7,12,11,4,6,1,1,2,1,0,0,1045,376,1712,706
+Total (States),State,Total (States),3345,473,4197,613,6277,607,2495,100,1680,138,192,8,225,3,107,7,228,8,19866,2174,38612,4131
+26,UT,A & N Islands,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7,1,9,1
+27,UT,Chandigarh,3,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,11,3,18,3
+28,UT,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0
+29,UT,Daman & Diu,0,0,1,0,1,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,6,0
+30,UT,Delhi,32,1,33,12,86,27,66,0,26,0,0,0,0,0,0,0,0,0,253,68,496,108
+31,UT,Lakshadweep,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+32,UT,Pondicherry,2,0,0,0,12,0,1,0,1,0,0,0,0,0,0,0,0,0,12,0,28,0
+Total (UTs),UT,Total (UTs),37,1,36,12,103,27,69,0,27,0,2,0,0,0,0,0,0,0,288,72,562,112
+Total (All-India),Total (All-India),Total (All-India),3382,474,4233,625,6380,634,2564,100,1707,138,194,8,225,3,107,7,228,8,20154,2246,39174,4243
+33,City,Ahmedabad,5,0,4,0,3,1,7,0,2,0,0,0,5,0,1,0,1,0,108,8,136,9
+34,City,Bangalore,6,0,3,0,8,1,7,0,4,0,0,0,0,0,0,0,2,0,99,2,129,3
+35,City,Bombay,52,5,23,0,114,0,27,0,4,0,2,0,3,0,0,0,0,1,248,0,473,6
+36,City,Calcutta,6,0,9,1,56,8,3,0,1,0,0,0,0,0,0,0,0,0,17,8,92,17
+37,City,Delhi,27,0,26,9,73,24,48,0,23,0,0,0,0,0,0,0,0,0,220,54,417,87
+38,City,Hyderabad,9,0,2,0,17,0,0,0,0,0,0,0,100,0,0,0,0,0,50,6,178,6
+39,City,Jaipur,1,0,1,0,3,0,1,0,12,0,0,0,0,0,0,0,0,0,38,4,56,4
+40,City,Kanpur,27,7,11,2,17,9,10,2,52,0,2,0,0,0,0,0,12,0,65,19,196,39
+41,City,Lucknow,11,4,4,1,32,6,3,0,15,0,0,0,0,0,0,0,0,0,78,17,143,28
+42,City,Madras,8,0,1,0,28,0,2,0,0,0,0,0,0,0,0,0,0,0,42,3,81,3
+43,City,Nagpur,0,0,3,0,29,0,13,0,0,0,0,0,0,0,0,0,0,0,98,2,143,2
+44,City,Pune,0,0,2,0,1,0,3,0,4,0,0,0,0,0,0,0,0,0,59,5,69,5

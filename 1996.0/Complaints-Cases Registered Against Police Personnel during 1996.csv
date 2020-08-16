@@ -1,0 +1,59 @@
+Category,SL. No.,State/UT/City,Complaints Received/ Cases Registered - No. of Complaints Received/ Alleged During the Year,Complaints Received/ Cases Registered - No. of Inquiry Instituted - Departmental,Complaints Received/ Cases Registered - No. of Inquiry Instituted - Magisterial,Complaints Received/ Cases Registered - No. of Inquiry Instituted - Judicial,Complaints Received/ Cases Registered - Complaints/ Cases Declared False/ Unsubstantiated,Complaints Received/ Cases Registered - No. of Cases Registered During the Year,Complaints Received/ Cases Registered - No. of Cases - Reported for Regular Deptt. Action,Complaints Received/ Cases Registered - No. of Cases - Sent up Trials/ Chargesheeted,Police Personnel Involved / Action Taken - No. of Police Personnel Sent up for Trial During the Year,Police Personnel Involved / Action Taken - No. of Police Personnel in Whose Cases Withdrawn or Otherwise Disposed of,Police Personnel Involved / Action Taken - No. of Police Personnel in Whose Cases Trial was Completed,Police Personnel Involved / Action Taken - No. of police Personnel - Cinvicted,Police Personnel Involved / Action Taken - No. of police Personnel - Acquitted,Departmental Action/ Punishment - No. of Police Personnel - Against Whom Disciplinary Action Initiated,Departmental Action/ Punishment - No. of Police Personnel - in Whose Cases Withdrawn or Otherwise Disposed of,Departmental Action/ Punishment - No. of Police Personnel - in Whose Cases Trial was Completed,Departmental Action/ Punishment - No. of Police Personnel - Dismissed/ Removed from Service,Departmental Action/ Punishment - No. of Police Personnel - Major Punishment Awarded,Departmental Action/ Punishment - No. of Police Personnel - Minor Punishment Awarded
+State,1,Andhra Pradesh,425,385,20,12,25,367,315,103,140,47,4,4,7,1364,184,42,24,49,892
+State,2,Arunachal Pradesh,28,21,0,3,0,8,7,3,0,2,0,0,0,7,1,1,0,0,3
+State,3,Assam,18,9,0,3,1,15,9,2,4,0,0,0,0,71,12,8,0,0,22
+State,4,Bihar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+State,5,Goa,7,3,0,0,0,6,5,4,0,2,0,0,0,40,5,30,1,2,27
+State,6,Gujarat,1223,669,72,48,750,308,249,227,317,5,40,2,11,1662,58,1251,19,72,6030
+State,7,Haryana,801,184,0,0,617,11,23,23,1,0,8,0,8,14,11,0,2,8,137
+State,8,Himachal Pradesh,163,64,2,0,109,21,2,18,14,8,2,0,2,78,7,52,5,24,59
+State,9,Jammu & Kashmir,24,18,1,0,13,11,0,0,2,0,0,0,0,402,56,16,3,30,194
+State,10,Karnataka,169,62,6,5,88,62,39,40,59,4,0,0,0,684,49,42,10,29,462
+State,11,Kerala,1139,267,6,1,343,111,37,44,50,8,4,2,2,862,134,214,7,143,299
+State,12,Madhya Pradesh,19183,3129,4,1,17310,48,732,64,257,51,36,40,26,783,534,271,90,303,1747
+State,13,Maharashtra,2190,1083,59,96,427,489,211,353,350,26,47,3,28,1944,407,575,77,236,6971
+State,14,Manipur,0,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,0,0,0
+State,15,Meghalaya,11,10,0,0,3,8,0,3,2,0,0,0,0,8,0,0,0,0,0
+State,16,Mizoram,0,72,0,0,0,3,2,2,2,0,0,0,0,72,0,54,3,40,11
+State,17,Nagaland,13,2,0,0,0,11,0,7,11,1,7,3,4,199,10,109,0,49,60
+State,18,Orissa,91,9,2,64,7,71,12,59,69,9,17,2,6,118,7,6,6,33,343
+State,19,Punjab,2995,1367,36,1,2896,93,252,43,63,83,19,1,10,984,208,433,116,366,1060
+State,20,Rajasthan,1466,704,3,9,1067,202,91,96,141,38,27,2,5,2142,228,547,76,219,1060
+State,21,Sikkim,13,9,0,0,0,4,9,4,7,0,0,0,0,9,0,1,1,0,0
+State,22,Tamil Nadu,101,35,9,53,2,92,40,43,49,15,6,0,6,383,260,29,9,93,247
+State,23,Tripura,7,6,1,0,0,2,0,1,2,0,2,0,2,70,5,37,4,20,417
+State,24,Uttar Pradesh,6419,6335,69,15,4639,217,1563,109,191,58,41,17,24,2074,364,1710,28,395,1287
+State,25,West Bengal,89,80,1,8,13,43,2,23,28,6,8,3,5,141,14,25,4,20,1
+State,Total (States),Total (States),36574,14523,291,319,28310,2204,3600,1271,1759,363,268,79,146,14117,2554,5453,485,2131,21327
+UT,26,A & N Islands,3,0,0,0,0,3,3,3,3,0,0,0,0,3,0,0,0,0,0
+UT,27,Chandigarh,47,4,0,0,37,7,0,7,10,0,10,0,0,179,95,0,3,73,99
+UT,28,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,29,Daman & Diu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UT,30,Delhi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UT,31,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,32,Pondicherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,Total (UTs),Total (UTs),50,4,0,0,37,10,3,10,13,0,10,0,0,182,95,0,3,73,99
+Total (All-India),Total (All-India),Total (All-India),36624,14527,291,319,28347,2214,3603,1281,1772,363,278,79,146,14299,2649,5453,488,2204,21426
+City,33,Ahmedabad,124,56,41,2,58,64,58,39,44,1,2,0,0,50,0,0,0,0,0
+City,34,Bangalore,6,4,0,1,0,3,2,2,4,0,0,0,0,8,0,2,0,1,1
+City,35,Bhopal,275,7,0,0,260,1,1,1,1,0,0,0,0,38,3,0,1,2,27
+City,36,Bombay,100,47,53,0,0,100,47,53,53,0,8,0,8,121,11,147,7,65,64
+City,37,Calcutta,0,0,0,0,0,10,0,8,13,2,5,0,5,15,5,0,0,0,0
+City,38,Coimbatore,6,0,0,0,1,6,0,4,6,0,0,0,0,0,0,0,0,0,0
+City,39,Delhi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+City,40,Hyderabad,212,204,0,0,2,212,202,8,8,32,2,0,2,204,32,13,0,0,13
+City,41,Indore,1046,6,0,0,1037,0,3,0,0,132,19,13,2,11,3,3,41,0,0
+City,42,Jaipur,29,19,0,0,10,19,19,15,22,1,1,0,2,355,0,13,13,13,140
+City,43,Kanpur,41,39,0,2,21,20,7,20,20,0,20,0,0,95,37,94,1,42,83
+City,44,Kochi,304,67,0,0,5,10,2,5,3,0,0,0,0,67,36,12,2,1,21
+City,45,Lucknow,17,15,2,0,2,0,0,0,7,0,0,0,0,17,0,17,0,10,7
+City,46,Ludhiana,15,0,0,0,15,23,23,10,10,5,1,0,1,0,5,1,9,53,49
+City,47,Madras,10,10,0,0,0,4,6,4,4,0,0,0,0,6,0,0,0,0,0
+City,48,Madurai,6,0,1,5,1,6,0,4,4,0,1,0,1,344,252,0,8,92,244
+City,49,Nagpur,64,0,0,0,0,0,0,0,0,0,0,0,0,51,10,3,1,2,0
+City,50,Patna,23,0,0,23,0,0,0,16,48,11,0,0,0,0,0,0,0,0,0
+City,51,Pune,81,24,0,0,33,37,15,22,24,2,0,0,0,48,0,16,0,16,0
+City,52,Surat,0,6,6,0,0,0,6,0,6,6,0,0,0,0,59,8,27,11,3420
+City,53,Vadodara,131,128,2,3,113,15,15,15,15,0,0,0,0,105,1,46,0,2,43
+City,54,Varanasi,300,284,0,16,284,16,1,1,5,3,0,0,0,2,0,2,0,2,0
+City,55,Vishakhapatnam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

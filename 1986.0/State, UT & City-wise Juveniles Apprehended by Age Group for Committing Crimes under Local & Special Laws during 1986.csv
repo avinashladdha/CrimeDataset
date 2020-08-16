@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,7 to 12 Years,12 to 16 Years,16 to 18 Years,18 to 21 Years,Total
+1,State,Andhra Pradesh,7,11,607,4411,5036
+2,State,Arunachal Pradesh,NA,NA,NA,NA,NA
+3,State,Assam,NA,NA,53,200,253
+4,State,Bihar,NA,NA,45,87,132
+5,State,Gujarat,65,760,2940,15400,19165
+6,State,Haryana,2,55,131,1066,1254
+7,State,Himachal Pradesh,NA,26,71,261,358
+8,State,Jammu & Kashmir,NA,NA,3,88,91
+9,State,Karnataka,9,22,32,610,673
+10,State,Kerala,NA,NA,2,97,99
+11,State,Madhya Pradesh,12,131,681,7002,7826
+12,State,Maharashtra,227,936,2369,20371,23903
+13,State,Manipur,NA,4,14,414,432
+14,State,Meghalaya,NA,NA,NA,13,13
+15,State,Mizoram,NA,NA,NA,332,332
+16,State,Nagaland,NA,NA,NA,NA,NA
+17,State,Orissa,NA,1,18,40,59
+18,State,Punjab,NA,NA,69,342,411
+19,State,Rajasthan,NA,7,50,293,350
+20,State,Sikkim,NA,NA,NA,48,48
+21,State,Tamil Nadu,3333,3245,2513,19227,28318
+22,State,Tripura,NA,NA,NA,13,13
+23,State,Uttar Pradesh,18,87,99,113,317
+24,State,West Bengal,NA,33,134,430,597
+Total (States),State,Total (States),3673,5318,9831,70858,89680
+25,UT,A & N Islands,NA,NA,19,101,120
+26,UT,Chandigarh,NA,1,24,84,109
+27,UT,D & N Haveli,NA,NA,NA,NA,NA
+28,UT,Delhi,NA,3,144,1203,1350
+29,UT,"Goa, Daman & Diu",NA,4,13,108,125
+30,UT,Lakshadweep,NA,NA,NA,NA,NA
+31,UT,Pondicherry,NA,NA,36,1038,1074
+Total (UTs),UT,Total (UTs),NA,8,236,2534,2778
+All India,All India,All India,3673,5326,10067,73392,92458
+1,City,Ahmedabad,6,113,986,2793,3898
+2,City,Bangalore,NA,1,20,159,180
+3,City,Bombay,989,553,530,505,2577
+4,City,Calcutta,NA,NA,1,NA,1
+5,City,Delhi,NA,3,133,1073,1209
+6,City,Hyderabad,NA,1,555,4495,5051
+7,City,Jaipur,NA,NA,5,166,171
+8,City,Kanpur,NA,8,8,12,28
+9,City,Lucknow,NA,NA,NA,5,5
+10,City,Madras,308,425,258,11409,12400
+11,City,Nagpur,41,216,439,1860,2556
+12,City,Pune,NA,NA,126,1836,1962
+Total (Cities),City,Total (Cities),1344,1320,3061,24313,30038

@@ -1,0 +1,31 @@
+Sl. No. (Col.1),Crime Head (Col.2),Cases Withdrawn by Govt. (Col.3),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col.4),Percentage of Cases to Total Cases for Trial in Which Trials Were Completed - Convicted (Col.5),Percentage of Cases to Total Cases for Trial - Acquitted or Discharged (Col.6),Percentage of Cases to Total Cases for Trial - Total (Col.7) = Col.{(5) + (6)},Percentage of Cases to Total Cases for Trial - Pending Trial at the end of the year (Col.8),Conviction Rate (Col.9) = Col.{(5)/(7) × 100}
+1,Murder (Sec.302 & 303 IPC),0,0.1,5.1,8.2,13.4,86.5,38.4
+2,Attempt To Commit Murder (Sec. 307 IPC),0,0.2,4.7,10.2,14.9,84.9,31.3
+3,"C.H. Not Amounting Murder (Sec.304 , 308 IPC)",0,0.2,5.4,10,15.4,84.5,34.8
+4,Rape (Sec. 376 IPC) - Total,0,0.2,4.6,12.8,17.4,82.4,26.6
+4,Rape (Sec. 376 IPC) - (i) Custodial Rape,0,33.3,0,0,0,66.7,0
+4,Rape (Sec. 376 IPC) - (ii) Other Rape,0,0.2,4.6,12.8,17.4,82.4,26.6
+5,"Kidnapping & Abduction (Sec.363-369,371-373 IPC) - Total",0,0.5,3.7,9.8,13.5,86,27.1
+5,"Kidnapping & Abduction (Sec.363-369,371-373 IPC) - (i) Of Women & Girls",0,0.6,3.7,10,13.8,85.6,27.1
+5,"Kidnapping & Abduction (Sec.363-369,371-373 IPC) - (ii) Of Others",0,0.2,3.5,9.3,12.7,87.1,27.2
+6,Dacoity (Sec.395-398 IPC),0,0,2.4,7.9,10.3,89.7,23
+7,Preparation & Assembly For Dacoity (Sec.399 To 402 IPC),0,0,2.9,9.5,12.4,87.6,23.1
+8,"Robbery (Sec.392-394, 397,398 IPC)",0,0.1,3.1,7.3,10.5,89.5,30
+9,"Burglary (Sec.449-452,454,455,457-460 IPC)",0,0.2,3.9,6.9,10.8,89,36.1
+10,Theft (Sec.379 - 382 IPC) - Total,0,0.3,4.3,6.8,11.1,88.6,38.8
+10,Theft (Sec.379 - 382 IPC) - (i) Auto Theft,0,0.1,5.2,6.8,11.9,88,43.2
+10,Theft (Sec.379 - 382 IPC) - (ii) Other Theft,0,0.3,4.1,6.8,10.9,88.8,37.5
+11,"Riots (Sec.143-145, 147-151, 153, 153a,153b,157,158,160 IPC)",0.1,1.5,2,8.1,10.1,88.3,20.2
+12,Criminal Breach Of Trust (Sec.406-409 IPC),0,0.4,2.5,5.7,8.1,91.4,30.2
+13,"Cheating (Sec.419,420 IPC)",0,1,2.6,6.2,8.8,90.2,29.1
+14,"Counterfeiting (Sec.231-254, 489a-489d IPC)",0,0.1,5.2,8.4,13.6,86.3,38.3
+15,"Arson (Sec.435,436,438 IPC)",0,0.6,3.1,10.7,13.8,85.6,22.5
+16,"Hurt (Sec.323-333,335-338 IPC)",0,5,4,8.8,12.8,82.2,31.2
+17,Dowry Deaths (Sec.304b IPC),0,0.4,6.1,12.1,18.2,81.4,33.4
+18,Molestation (Sec. 354 IPC),0,3.6,4.1,8.8,12.9,83.4,31.7
+19,Sexual Harassment (Sec.509 IPC),0,2.9,11.5,11.3,22.8,74.3,50.5
+20,Cruelty By Husband And Relatives (Sec. 498a IPC),0,2.5,2.6,9.1,11.7,85.8,22.4
+21,Importation Of Girls (Sec.366b IPC),0,0.6,2.5,17.8,20.2,79.1,12.3
+22,Causing Death By Negligence (Sec. 304a IPC),0.2,0.7,4.7,8.7,13.4,85.9,35.3
+23,Other IPC Crimes,0.2,1.9,8.3,7,15.3,82.8,54.3
+24,Total Cognizable Crimes Under IPC,0.1,2,5.7,7.7,13.4,84.6,42.6

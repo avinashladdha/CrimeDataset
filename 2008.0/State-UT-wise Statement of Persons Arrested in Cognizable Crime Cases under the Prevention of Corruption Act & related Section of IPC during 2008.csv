@@ -1,0 +1,39 @@
+Sl. No.,Category,States/ UTs,Persons in Cust./ Bail During Investigation at Beginning of The Year,Persons Arrested During the Year,Persons Released by Police/ Magistrate Before Trial,Persons in Custody/ Bail During Investigation at the end of Year,Persons Charge Sheets,Persons Under Trial at the Beginning of Year,Total Persons Under Trial,No. of Persons Whose Cases Withdrawn or Otherwise Disposed of,Persons in Custody/ Bail During Trial at the end of Year,Persons in Whose Cases Trial Completed,Persons Convicted,Persons Acquitted,Percentage of Persons Convicted to Trial Completed,Persons Reported for Regular Deptt. Action,Persons Reported for Suitable Action,Persons Punished Departmentally - Dismissed from Service,Persons Punished Departmentally - Removed from Service,Persons Punished Departmentally - Awarded Other Major Punishment,Persons Punished Departmentally - Awarded Minor Punishment,Gazetted or Equal Status Officers in Public Under Taking Involved - Group 'A' Officers,Gazetted or Equal Status Officers in Public Under Taking Involved - Group 'B' Officers,Non Gazetted or Equal Status Officers in Public Undertaking Involved,Private Persons Involved,Note of Percentage of Persons Convicted to Trial Completed
+1,State,ANDHRA PRADESH,629,362,0,830,161,1091,1252,5,1017,230,151,79,65.7,0,0,4,1,45,29,0,0,212,62,NA
+2,State,ARUNACHAL PRADESH,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+3,State,ASSAM,11,0,0,11,3,74,77,0,75,2,2,0,100,0,0,0,0,2,0,1,1,1,0,NA
+4,State,BIHAR,20,227,0,31,216,959,1175,0,1166,9,8,1,88.9,0,0,0,0,0,0,5,56,131,25,NA
+5,State,CHHATTISGARH,77,31,3,86,19,219,238,1,206,31,9,22,29,0,0,0,0,0,0,0,4,27,0,NA
+6,State,GOA,7,2,0,4,5,23,28,0,27,1,0,1,0,0,0,0,0,0,0,0,0,0,2,NA
+7,State,GUJARAT,120,295,160,115,140,1028,1168,40,928,200,70,130,35,15,24,1,1,0,4,4,36,200,29,NA
+8,State,HARYANA,940,335,27,901,347,2532,2879,52,2605,222,46,176,20.7,0,0,0,0,0,0,3,24,132,15,NA
+9,State,HIMACHAL PRADESH,209,153,41,206,115,514,629,0,526,103,12,91,11.7,3,3,0,0,0,0,0,0,71,66,NA
+10,State,JAMMU & KASHMIR,0,131,0,0,131,2172,2303,2,2208,93,6,87,6.5,10,0,0,0,0,0,0,0,48,10,NA
+11,State,JHARKHAND,15,25,0,25,51,392,51,1,442,0,0,0,NA,33,33,0,0,0,0,0,0,14,4,@
+12,State,KARNATAKA,181,380,133,264,164,873,1037,3,928,125,20,106,16,81,81,4,0,0,0,52,46,230,30,NA
+13,State,KERALA,0,22,22,0,193,1651,1844,72,1642,130,85,45,65.4,18,4,0,0,0,0,16,49,179,62,NA
+14,State,MADHYA PRADESH,0,0,0,0,185,928,1113,3,943,267,70,173,26.2,0,0,0,0,0,0,15,42,53,21,NA
+15,State,MAHARASHTRA,1188,614,13,1148,641,3553,4194,23,3493,678,151,527,22.3,6,0,0,0,12,0,49,52,432,55,NA
+16,State,MANIPUR,8,0,0,8,0,39,39,0,38,1,0,1,0,0,0,0,0,0,0,0,0,0,0,NA
+17,State,MEGHALAYA,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+18,State,MIZORAM,6,11,2,14,1,0,1,0,1,0,0,0,NA,0,11,0,0,0,0,0,0,0,0,@
+19,State,NAGALAND,14,23,0,32,5,14,19,0,17,2,1,1,50,32,12,0,0,0,12,8,4,24,4,NA
+20,State,ORISSA,25,599,58,119,448,2641,3089,39,2895,155,61,94,39.4,66,6,7,3,6,5,93,66,405,111,NA
+21,State,PUNJAB,212,290,70,195,237,1450,1687,20,1421,246,80,166,32.5,0,17,23,0,0,0,0,0,230,106,NA
+22,State,RAJASTHAN,377,227,0,335,635,3231,3866,0,3663,203,72,131,35.5,158,158,1,5,14,0,0,28,52,0,NA
+23,State,SIKKIM,45,49,4,88,2,45,47,4,36,7,3,4,42.9,5,0,0,0,0,0,4,2,12,18,NA
+24,State,TAMIL NADU,142,306,131,68,249,1292,1541,26,1349,166,63,103,38,266,140,13,2,27,47,15,138,248,106,NA
+25,State,TRIPURA,4,1,0,4,1,5,6,0,4,2,0,2,0,0,0,0,0,0,0,0,0,0,0,NA
+26,State,UTTAR PRADESH,168,76,0,134,110,576,686,0,666,20,3,17,15,0,0,0,0,0,0,0,0,71,0,NA
+27,State,UTTARAKHAND,19,4,0,20,3,30,33,0,32,1,0,1,0,0,0,0,0,0,0,0,0,0,0,NA
+28,State,WEST BENGAL,0,0,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+State,State,TOTAL (STATES),4417,4163,664,4638,4062,25332,29002,291,26328,2894,913,1958,31.5,693,489,53,12,106,97,265,548,2772,726,NA
+29,Union Territory,A & N ISLANDS,12,2,0,12,2,10,12,0,12,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+30,Union Territory,CHANDIGARH,67,7,0,62,12,87,99,0,95,4,3,1,75,0,0,0,0,0,0,0,0,4,2,NA
+31,Union Territory,D & N HAVELI,0,0,0,0,0,2,2,0,2,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+32,Union Territory,DAMAN & DIU,0,0,0,0,0,9,9,0,9,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+33,Union Territory,DELHI,162,121,0,204,79,611,690,8,595,87,61,26,70.1,43,0,0,0,0,0,2,26,70,23,NA
+34,Union Territory,LAKSHADWEEP,0,0,0,0,3,16,20,0,20,0,0,0,NA,0,0,0,0,0,0,2,0,2,2,@
+35,Union Territory,PUDUCHERRY,28,2,2,7,21,18,39,0,39,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,@
+Union Territory,Union Territory,TOTAL (UTs),269,132,2,285,117,753,871,8,772,91,64,27,70.3,43,0,0,0,0,0,4,26,76,27,NA
+TOTAL (ALL INDIA),TOTAL (ALL INDIA),TOTAL (ALL INDIA),4686,4295,666,4923,4179,26085,29873,299,27100,2985,977,1985,32.7,736,489,53,12,106,97,269,574,2848,753,NA

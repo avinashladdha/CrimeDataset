@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts/Cities,Cases Reported in which Property was Stolen,Cases in which Property was Recovered,Value of Property Stolen in Lakhs,Value of Property Recovered in Lakhs,Percentage of Property Recovered to Value of Property Stolen
+1,State,Andhra Pradesh,15107,10263,88.58,31.35,35.39
+2,State,Assam,12684,2900,94.32,4.87,5.16
+3,State,Bihar,38256,3209,258.78,8.56,3.31
+4,State,Gujarat,15457,6259,114.01,29.15,25.57
+5,State,Haryana,4785,2441,58.08,36.31,62.52
+6,State,Himachal Pradesh,912,474,10.64,3.59,33.74
+7,State,Jammu & Kashmir,1727,986,17.75,10.33,58.2
+8,State,Kerala,8553,3672,49.81,13.61,27.32
+9,State,Madhya Pradesh,50352,18858,232.02,53.16,22.91
+10,State,Maharashtra,53755,17720,459.31,120.97,26.34
+11,State,Manipur,524,131,3.88,0.84,21.65
+12,State,Mysore,16142,8136,101.74,45.83,45.05
+13,State,Nagaland,508,283,13.67,2.43,17.78
+14,State,Orissa,16675,6427,74.81,15.96,21.33
+15,State,Punjab,3480,1460,265.06,22.14,8.35
+16,State,Rajasthan,14010,5530,115.35,61.5,53.31
+17,State,Tamil Nadu,24817,18626,67.9,39.65,58.39
+18,State,Tripura,1523,153,4.23,0.48,11.35
+19,State,Uttar Pradesh,132999,13204,1038.79,156.34,15.05
+20,State,West Bengal,49664,6309,332.89,52.92,15.9
+Total (States),State,Total (States),461930,127041,3401.62,709.99,20.87
+21,UT,A & N Islands,119,41,0.34,0.07,20.59
+22,UT,Chandigarh,1012,249,14.07,7.23,51.39
+23,UT,D & N Haveli,69,15,0.4,0.03,7.51
+24,UT,Delhi,21856,3718,186.16,78.91,42.39
+25,UT,"Goa, Daman & Diu",785,326,9.54,2.85,29.87
+26,UT,Lakshadweep,12,10,NA,NA,NA
+27,UT,Pondicherry,825,512,1.84,0.68,36.96
+Total (UTs),UT,Total (UTs),24678,4871,212.35,89.77,42.27
+Total (All-India),Total (All-India),Total (All-India),486608,131912,3613.97,799.76,22.13
+1,City,Ahmedabad,1651,591,18.32,6.83,37.28
+2,City,Bangalore,5208,2666,39.18,19.96,50.94
+3,City,Bombay,14218,3670,195.73,75.2,38.42
+4,City,Calcutta,6552,712,152.61,41.88,27.44
+5,City,Delhi,20443,3523,173.56,73.23,42.19
+6,City,Hyderabad,2671,1434,13.44,5.36,39.88
+7,City,Kanpur,7979,648,60.86,19.9,32.7
+8,City,Madras,4251,3403,11.84,9.64,81.42
+Total (Cities),City,Total (Cities),62973,16647,665.54,252,37.86

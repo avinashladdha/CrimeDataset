@@ -1,0 +1,40 @@
+S. No.,Category,State/UT,"Forest Act, 1927 - Male","Forest Act, 1927 - Female","Forest Act, 1927 - Total","Wildlife Protection Act, 1972 - Male","Wildlife Protection Act, 1972 - Female","Wildlife Protection Act, 1972 - Total","Environmental (Protection) Act, 1986 - Male","Environmental (Protection) Act, 1986 - Female","Environmental (Protection) Act, 1986 - Total","Air (Prevention & Control of Pollution) Act, 1981 - Male","Air (Prevention & Control of Pollution) Act, 1981 - Female","Air (Prevention & Control of Pollution) Act, 1981 - Total","Water (Prevention & Control of Pollution) Act, 1974 - Male","Water (Prevention & Control of Pollution) Act, 1974 - Female","Water (Prevention & Control of Pollution) Act, 1974 - Total",Total Environment Related Offences - Male,Total Environment Related Offences - Female,Total Environment Related Offences - Total
+1,State,Andhra Pradesh,1088,0,1088,5,0,5,1,0,1,0,0,0,1,0,1,1095,0,1095
+2,State,Arunachal Pradesh,2,0,2,2,3,5,0,0,0,0,0,0,0,0,0,4,3,7
+3,State,Assam,50,0,50,117,3,120,0,0,0,0,0,0,0,0,0,167,3,170
+4,State,Bihar,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5
+5,State,Chhattisgarh,0,0,0,29,0,29,0,0,0,0,0,0,0,0,0,29,0,29
+6,State,Goa,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,5,0,5
+7,State,Gujarat,7,0,7,22,0,22,1,0,1,0,0,0,9,0,9,39,0,39
+8,State,Haryana,16,0,16,21,2,23,0,0,0,0,0,0,0,0,0,37,2,39
+9,State,Himachal Pradesh,205,1,206,18,0,18,0,0,0,0,0,0,0,0,0,223,1,224
+10,State,Jammu & Kashmir,9,0,9,2,0,2,0,0,0,0,0,0,0,0,0,11,0,11
+11,State,Jharkhand,185,0,185,0,0,0,0,0,0,1,0,1,0,0,0,186,0,186
+12,State,Karnataka,187,3,190,126,3,129,1,0,1,1,0,1,0,0,0,315,6,321
+13,State,Kerala,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+14,State,Madhya Pradesh,31,0,31,4,0,4,3,0,3,0,0,0,0,0,0,38,0,38
+15,State,Maharashtra,19,0,19,65,0,65,79,0,79,80,0,80,1,0,1,244,0,244
+16,State,Manipur,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4
+17,State,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,State,Mizoram,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,1
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,State,Odisha,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,State,Punjab,8,0,8,1,0,1,0,0,0,0,0,0,0,0,0,9,0,9
+22,State,Rajasthan,2027,0,2027,326,2,328,3,0,3,3,0,3,0,0,0,2359,2,2361
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,28,0,28,6,0,6,0,0,0,0,0,0,0,0,0,34,0,34
+25,State,Telangana,6,0,6,14,0,14,0,0,0,0,0,0,1,0,1,21,0,21
+26,State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,State,Uttar Pradesh,2345,0,2345,386,0,386,235,0,235,0,0,0,0,0,0,2966,0,2966
+28,State,Uttarakhand,48,0,48,21,0,21,0,0,0,0,0,0,0,0,0,69,0,69
+29,State,West Bengal,8,0,8,60,0,60,0,0,0,0,0,0,1,0,1,69,0,69
+TOTAL (STATES),State,TOTAL (STATES),6280,4,6284,1226,13,1239,328,0,328,85,0,85,13,0,13,7932,17,7949
+30,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,UT,Chandigarh,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,UT,Delhi UT,55,5,60,21,1,22,0,0,0,0,0,0,0,0,0,76,6,82
+35,UT,Lakshadweep,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,2,0,2
+36,UT,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TOTAL (UTS),UT,TOTAL (UTS),55,5,60,23,1,24,1,0,1,0,0,0,0,0,0,79,6,85
+TOTAL ALL INDIA,TOTAL ALL INDIA,TOTAL ALL INDIA,6335,9,6344,1249,14,1263,329,0,329,85,0,85,13,0,13,8011,23,8034

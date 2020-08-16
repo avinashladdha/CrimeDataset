@@ -1,0 +1,14 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 4),Percentage of Cases to Total Cases for Trial No. of Cases in which Trials Completed - Convicted(Col. 5) ,Percentage of Cases to Total Cases for Trial No. of Cases in which Trials Completed- Acquitted or Discharged (Col. 6) ,Percentage of Cases to Total Cases for Trial No. of Cases in which Trials Completed - Total (Col. 7) = Col. {(5) + (6)},Percentage of Cases to Total Cases for Trial - Pending Trial at the end of the year (Col. 8),Conviction Rate (Col. 9) = Col. (5 / 7 ×100)
+1,Infanticide (Sec.315 IPC),0,0,6.8,8.1,14.9,85.1,45.5
+2,"Murder (Sec.302, 303 IPC)",0,0.3,8.2,10.7,18.8,80.9,43.3
+3,Rape (Sec.376 IPC),0,0.1,6.9,12.3,19.2,80.6,35.9
+4,"Kidnapping .& Abduction ((Sec.363-369,371-373 IPC)",0.1,0.2,5.1,11.8,16.9,82.9,30.3
+5,"Foeticide (Sec.315,316 IPC)",0,0,4.4,24.8,29.2,70.8,15.2
+6,Abetment of Suicide (Sec.305 IPC),0,0,0,15.7,15.7,84.3,0
+7,Exposure and Abandonment (Sec. 317 IPC),0,0.4,1.5,5.5,6.9,92.7,21.1
+8,Procuration Minor Girls (Sec. 366A IPC),0,1,2.7,14.6,17.3,81.7,15.7
+9,Buying of Girls for Prost. (Sec.373 IPC),0,0,4.2,13.9,18.1,81.9,23.1
+10,Selling of Girls for Prost. (Sec.372 IPC),0,0,11,25,36,64,30.6
+11,"Child Marriage Restraint Act, 1978",0,0.4,3.1,6,9.2,90.4,34.1
+12,Other Crime,0,3.6,8,13.8,21.8,74.6,36.7
+Total,Total,0,1.4,6.8,12.5,19.3,79.2,35.4

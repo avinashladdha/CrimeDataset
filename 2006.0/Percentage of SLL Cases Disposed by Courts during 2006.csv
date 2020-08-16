@@ -1,0 +1,28 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Trial (Col. 4) - Compounded or Withdrawn,Percentage of Cases to Total Cases for Trial Trials Completed (Col. 5) - Convicted,Percentage of Cases to Total Cases for Trial Trials Completed (Col. 6) - Acquitted or Discharged,Percentage of Cases to Total Cases for Trial Trials Completed (Col. 7) - Total = Col. {(5) + (6)},Percentage of Cases to Total Cases for Trial (Col. 8) - Pending Trial at the end of the year,Conviction Rate (Col. 9) = Col. {(5)/(7)X100}
+1,Arms Act,0,0,9.5,6.2,15.7,84.2,60.6
+2,Narcotic Drugs & Psychotropic Substances Act,0,0.1,11.8,6.9,18.8,81.2,63
+3,Gambling Act,0,0.3,29,5.3,34.2,65.5,84.6
+4,Excise Act,0.3,0.1,17.8,5.2,23,76.9,77.3
+5,Prohibition Act,0.1,0.7,7.4,8.2,15.6,83.7,47.6
+6,Explosive & Explosive Substances Act,0,0.1,6.1,7.6,13.7,86.2,44.5
+7,Immoral Traffic (P) Act,0,0.2,22.7,6.4,29.1,70.7,78.1
+8,Indian Railways Act,0.1,0.5,9.6,2.6,12.2,87.2,78.6
+9,Registration of Foreigners Act,0,0,30.3,3.2,33.4,66.5,90.5
+10,Protection of Civil Rights Act - Total,0,0.1,2.8,16.9,19.7,80.2,14.1
+10,Protection of Civil Rights Act - (i) PCR Act for SCs,0,0.1,2.9,15.8,18.7,81.2,15.5
+10,Protection of Civil Rights Act - (ii) PCR Act for STs,0,0,0.9,32.3,33.2,66.8,2.8
+11,Indian Passport Act,0,0,11.6,6.2,17.8,82.2,65.3
+12,Essential Commodities Act,0,0.1,2.5,6.3,8.8,91.1,28.1
+13,Terrorist & Disruptive Activities Act,0,0,0.7,3.2,3.9,96.1,16.9
+14,Antiquity & Art Treasure Act,0,1.4,7.1,20.6,27.7,70.9,25.6
+15,Dowry Prohibition Act,0,0.8,4.9,13.1,18,81.2,27.3
+16,Child Marriage Restraint Act,0,0.4,3.1,6,9.2,90.4,34.1
+17,Indecent Representation of Women (P) Act,0,0.1,55.7,7.6,63.2,36.6,88
+18,Copyrights Act,0,0.2,5.4,8.8,14.2,85.6,38
+19,Sati Prevention Act,0,0,0,0,0,100,0
+20,SC/ST (prevention of Atrocities) Act - Total,0,0.7,3.9,12.4,16.2,83.1,23.8
+20,SC/ST (prevention of Atrocities) Act - (i) Prevention of Attrocities Act For SCs,0,0.6,3.8,12.2,16,83.4,23.6
+20,SC/ST (prevention of Atrocities) Act - (ii) Prevention of Attrocities Act For STs,0,0.7,4.5,13.5,18.1,81.2,25.1
+21,Forest Act,0.1,0.7,16.7,5.4,22.1,77.2,75.7
+22,Other SLL Crimes,0,1.6,49.5,4.2,53.7,44.7,92.2
+Total Cognizable Crimes Under SLL,Total Cognizable Crimes Under SLL,0,1,30.1,5.7,35.8,63.2,84

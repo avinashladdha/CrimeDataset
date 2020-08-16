@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Violent Crimes (Col.4),State Share of Violent Crimes (Col.5),Rank Based on Incidence/ Percentage share (Col.6),Mid-Year Projected Population (In Lakhs) + (Col.7),Rate of Violent Crimes ++ (Col.8),Rank Based on Crime Rate (Col.9)
+1,State,Andhra Pradesh,7464,1.7,18,517.4,14.4,32
+2,State,Arunachal Pradesh,665,0.2,26,13.2,50.4,4
+3,State,Assam,24165,5.6,6,325.8,74.2,2
+4,State,Bihar,46621,10.9,3,1043,44.7,8
+5,State,Chhattisgarh,7723,1.8,17,259.9,29.7,16
+6,State,Goa,469,0.1,28,19.9,23.6,23
+7,State,Gujarat,11829,2.8,13,630.8,18.8,30
+8,State,Haryana,14392,3.4,11,276.1,52.1,3
+9,State,Himachal Pradesh,1593,0.4,23,71.2,22.4,25
+10,State,Jammu & Kashmir,5756,1.3,20,124.6,46.2,6
+11,State,Jharkhand,9300,2.2,15,338,27.5,19
+12,State,Karnataka,19648,4.6,7,625.7,31.4,15
+13,State,Kerala,13548,3.2,12,357.5,37.9,10
+14,State,Madhya Pradesh,26719,6.2,5,782.6,34.1,13
+15,State,Maharashtra,42468,9.9,4,1205.5,35.2,11
+16,State,Manipur,911,0.2,24,26,35,12
+17,State,Meghalaya,819,0.2,25,27.8,29.5,18
+18,State,Mizoram,241,0.1,30,10.7,22.5,24
+19,State,Nagaland,302,0.1,29,23.9,12.6,35
+20,State,Odisha,19092,4.4,8,425.9,44.8,7
+21,State,Punjab,6909,1.6,19,292,23.7,22
+22,State,Rajasthan,16223,3.8,10,732.8,22.1,26
+23,State,Sikkim,215,0.1,31,6.5,33.1,14
+24,State,Tamil Nadu,10844,2.5,14,695.2,15.6,31
+25,State,Telangana,8004,1.9,16,368.5,21.7,28
+26,State,Tripura,1646,0.4,22,38.4,42.9,9
+27,State,Uttar Pradesh,65090,15.2,1,2192.4,29.7,17
+28,State,Uttarakhand,2330,0.5,21,106.8,21.8,27
+29,State,West Bengal,46723,10.9,2,938.3,49.8,5
+Total (States),State,Total (States),411709,95.9,NA,12476.2,33,NA
+30,UT,A & N Islands,137,0,33,5.5,24.9,21
+31,UT,Chandigarh,481,0.1,27,18,26.7,20
+32,UT,D&N Haveli,59,0,35,4.3,13.7,34
+33,UT,Daman & Diu,67,0,34,3.3,20.3,29
+34,UT,Delhi,16648,3.9,9,214.9,77.5,1
+35,UT,Lakshadweep,11,0,36,0.8,13.8,33
+36,UT,Puducherry,187,0,32,16.8,11.1,36
+Total (UTs),UT,Total (UTs),17590,4.1,NA,263.7,66.7,NA
+Total (All-India),Total (All-India),Total (All-India),429299,100,NA,12739.9,33.7,NA

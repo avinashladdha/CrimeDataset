@@ -1,0 +1,31 @@
+Sr. No.(Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for investigation in which (Col. 4) - investigation Refused,Percentage of Cases to Total Cases for investigation in which investigation was Completed (Col. 5) - Charge Found False/ Mistake of Fact or Law Etc.,Percentage of Cases to Total Cases for investigation in which investigation was Completed (Col. 6) - Final Report True Submitted,Percentage of Cases to Total Cases for investigation in which investigation was Completed (Col. 7) - Charge Sheets Submitted,Percentage of Cases to Total Cases for investigation in which investigation was Completed (Col. 8) - Total = Col. {(5)+(6) +(7)},Percentage of Cases Pending investigation at the end of the year (Col. 9),Charge sheeting Rate (Col. 10) = Col. ((7) / ((6) + (7)) × 100)
+1,Murder (Sec.302 & 303 IPC),0,0.1,1.9,8.2,47.2,57.4,42.5,85.2
+2,Attempt to Commit Murder (Sec. 307 IPC),0,0.1,2.9,6.6,55.8,65.3,34.6,89.4
+3,"C.H. not amounting Murder (Sec.304 , 308 IPC)",0,0,2.6,6.7,57.2,66.6,33.4,89.5
+4,Rape (Sec. 376 IPC) - Total,0,0,4.3,3.1,59.8,67.3,32.7,95
+4,Rape (Sec. 376 IPC) - Custodial Rape,0,0,20,0,60,80,20,100
+4,Rape (Sec. 376 IPC) - Other Rape,0,0,4.3,3.1,59.8,67.3,32.7,95
+5,"Kidnapping & abduction (Sec.363-369,371-373 IPC) - Total",0.2,0.2,11,10.4,35.3,56.7,42.9,77.3
+5,"Kidnapping & abduction (Sec.363-369,371-373 IPC) - I) of Women & Girls",0.1,0.2,11.7,10.5,37.3,59.5,40.2,78.1
+5,"Kidnapping & abduction (Sec.363-369,371-373 IPC) - II) of Others",0.2,0.4,9.4,10.1,31,50.6,48.7,75.4
+6,Dacoity (Sec.395-398 IPC),0,0.1,2.2,11.1,27.8,41.1,58.8,71.5
+7,Preparation & assembly for Dacoity (Sec.399 to 402 IPC),0.1,0,0.2,1.1,57.6,58.8,41.2,98.2
+8,"Robbery (Sec.392-394, 397,398 IPC)",0,0.1,3.3,18.6,37.3,59.2,40.7,66.7
+9,"burglary (Sec.449-452,454,455,457-460 IPC)",0,0.2,1.9,40,27.9,69.9,30,41.1
+10,Theft (Sec.379 – 382 IPC) - Total,0,0.3,2.1,37.2,28.7,67.9,31.8,43.6
+10,Theft (Sec.379 – 382 IPC) - I) Auto Theft,0,0.1,1.8,48,20.6,70.3,29.5,30
+10,Theft (Sec.379 – 382 IPC) - Ii) Other Theft,0,0.4,2.2,32,32.5,66.8,32.8,50.4
+11,"Riots (Sec.143-145, 147-151, 153, 153a,153b,157,158,160 IPC)",0.1,0.1,4.3,5.8,56.1,66.2,33.7,90.6
+12,Criminal breach of Trust (Sec.406-409 IPC),0,0.1,6.8,10.8,33.4,51.1,48.7,75.5
+13,"Cheating (Sec.419,420 IPC)",0,0.3,13.1,9.2,32.2,54.5,45.2,77.7
+14,"Counterfeiting (Sec.231-254, 489A-489D IPC)",0,0.1,1.3,27.4,21.6,50.3,49.6,44.2
+15,"Arson (Sec.435,436,438 IPC)",0,0.1,7.4,18.6,41.8,67.8,32,69.2
+16,"Hurt (Sec.323-333,335-338 IPC)",0,0,3.1,4.4,74.1,81.6,18.3,94.4
+17,Dowry Deaths (Sec.304B IPC),0,0.1,2.7,3.6,56.4,62.7,37.2,94
+18,Molestation (Sec. 354 IPC),0,0,4.9,3,75.2,83.2,16.8,96.1
+19,Sexual Harassment (Sec.509 IPC),0,0,2.1,1.5,83.4,87.1,12.9,98.2
+20,Cruelty by Husband and Relatives (Sec. 498A IPC),0,0.1,7.8,3.8,61.2,72.9,27,94.1
+21,Importation of Girls (Sec.366B IPC),0,0,2.1,8.9,22.8,33.8,66.2,72
+22,Causing Death by Negligence (Sec. 304A IPC),0,0.2,2.6,13,62,77.6,22.2,82.7
+23,Other IPC Crimes,0,0.1,4.4,7,68.5,80,19.9,90.7
+Total Cognizable Crimes,Total Cognizable Crimes,0,0.1,4.1,13.5,56.2,73.8,26,80.6

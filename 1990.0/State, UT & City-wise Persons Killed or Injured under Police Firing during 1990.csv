@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,Number of Occasions of Police Firing,Civilians - Killed,Civilians - Injured,Policemen - Killed,Policemen - Injured
+1,State,Andhra Pradesh,184,65,83,2,127
+2,State,Arunachal Pradesh,9,1,3,0,0
+3,State,Assam,51,15,8,2,4
+4,State,Bihar,178,120,74,5,47
+5,State,Goa,2,0,0,0,11
+6,State,Gujarat,454,75,234,1,64
+7,State,Haryana,18,25,50,0,54
+8,State,Himachal Pradesh,8,12,58,0,73
+9,State,Jammu & Kashmir,76,211,114,45,215
+10,State,Karnataka,41,20,98,2,163
+11,State,Kerala,15,4,17,0,37
+12,State,Madhya Pradesh,167,17,35,1,70
+13,State,Maharashtra,50,14,67,0,132
+14,State,Manipur,4,2,16,3,2
+15,State,Meghalaya,0,0,0,0,0
+16,State,Mizoram,0,0,0,0,0
+17,State,Nagaland,0,0,0,0,0
+18,State,Orissa,22,7,73,0,207
+19,State,Punjab,471,443,16,95,166
+20,State,Rajasthan,41,22,60,0,160
+21,State,Sikkim,0,0,0,0,0
+22,State,Tamil Nadu,32,14,32,0,2
+23,State,Tripura,2,0,0,0,4
+24,State,Uttar Pradesh,74,73,278,0,208
+25,State,West Bengal,92,30,108,1,283
+Total (States),State,Total (States),1991,1170,1424,157,2029
+26,UT,A & N Islands,0,0,0,0,0
+27,UT,Chandigarh,3,1,4,0,3
+28,UT,D & N Haveli,0,0,0,0,0
+29,UT,Daman & Diu,0,0,0,0,0
+30,UT,Delhi,42,9,64,1,154
+31,UT,Lakshadweep,1,2,8,0,13
+32,UT,Pondicherry,2,0,0,0,8
+Total (UTs),UT,Total (UTs),48,12,76,1,178
+Total (All -India),Total (All -India),Total (All -India),2039,1182,1500,158,2207
+33,City,Ahmedabad,143,38,129,1,0
+34,City,Bangalore,6,0,0,0,0
+35,City,Bombay,21,4,27,0,22
+36,City,Calcutta,19,3,0,0,84
+37,City,Delhi,42,9,64,1,154
+38,City,Hyderabad,66,9,12,0,13
+39,City,Jaipur,16,8,1,0,0
+40,City,Kanpur,2,2,0,0,0
+41,City,Lucknow,2,2,0,0,1
+42,City,Madras,1,2,9,0,18
+43,City,Nagpur,3,2,16,0,16
+44,City,Pune,0,0,0,0,0

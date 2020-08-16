@@ -1,0 +1,42 @@
+Category (Col.1),Sub-Category (Col.2),Crime Head (Col.3),Cases pending investigation from previous year (Col.4),Cases reported during the year (Col.5),Cases for Investigation (Col.6),Cases Chargesheeted (Col.7),Cases Not Chargesheeted but final report Submitted (Col.8),Total Cases disposed off by police (Col.9),Cases pending investigation at the end of the year (Col.10)
+A) Tourist Foreigners,IPC - Cases,A.1. Murder,3,6,9,6,2,8,1
+A) Tourist Foreigners,IPC - Cases,A.2. Culpable Homicide not Amounting to Murder,0,2,2,1,0,1,1
+A) Tourist Foreigners,IPC - Cases,A.3. Attempt to Commit Murder,1,0,1,0,0,0,1
+A) Tourist Foreigners,IPC - Cases,A.4. Attempt to Commit Culpable Homicide,1,0,1,1,0,1,0
+A) Tourist Foreigners,IPC - Cases,A.5. Grievous Hurt,4,2,6,3,1,4,2
+A) Tourist Foreigners,IPC - Cases,A.6. Assault on Women with Intent to Outrage her Modesty,5,30,35,19,5,24,11
+A) Tourist Foreigners,IPC - Cases,A.7. Kidnapping & Abduction,4,3,7,1,0,1,6
+A) Tourist Foreigners,IPC - Cases,A.8. Human Trafficking,0,1,1,0,1,1,0
+A) Tourist Foreigners,IPC - Cases,A.9. Rape,9,14,23,12,2,14,9
+A) Tourist Foreigners,IPC - Cases,A.10. Theft,129,104,233,11,98,109,124
+A) Tourist Foreigners,IPC - Cases,A.11. Extortion,0,0,0,0,0,0,0
+A) Tourist Foreigners,IPC - Cases,A.12. Robbery,6,16,22,4,1,5,17
+A) Tourist Foreigners,IPC - Cases,A.13. Dacoity,0,2,2,1,0,1,1
+A) Tourist Foreigners,IPC - Cases,A.14. Cheating,13,7,20,1,2,3,17
+A) Tourist Foreigners,IPC - Cases,A.15. Forgery,12,3,15,1,0,1,14
+A) Tourist Foreigners,IPC - Cases,A.16. Insult to the Modesty of Women,1,1,2,2,0,2,0
+A) Tourist Foreigners,IPC - Cases,A.17. Other IPC *,22,83,105,45,19,64,41
+A) Tourist Foreigners,SLL ? Cases,"A.18. Immoral Traffic (Prevention) Act, 1956",6,2,8,2,0,2,6
+A) Tourist Foreigners,SLL ? Cases,A.19. Other SLL,4,8,12,6,0,6,6
+A) Tourist Foreigners,Total (A),Total (A),220,284,504,116,131,247,257
+B) Other Foreigners,IPC - Cases,A.1. Murder,0,6,6,4,0,4,2
+B) Other Foreigners,IPC - Cases,A.2. Culpable Homicide not Amounting to Murder,0,0,0,0,0,0,0
+B) Other Foreigners,IPC - Cases,A.3. Attempt to Commit Murder,0,1,1,0,0,0,1
+B) Other Foreigners,IPC - Cases,A.4. Attempt to Commit Culpable Homicide,0,0,0,0,0,0,0
+B) Other Foreigners,IPC - Cases,A.5. Grievous Hurt,0,0,0,0,0,0,0
+B) Other Foreigners,IPC - Cases,A.6. Assault on Women with Intent to Outrage her Modesty,8,8,16,7,2,9,7
+B) Other Foreigners,IPC - Cases,A.7. Kidnapping & Abduction,0,0,0,0,0,0,0
+B) Other Foreigners,IPC - Cases,A.8. Human Trafficking,1,1,2,1,0,1,1
+B) Other Foreigners,IPC - Cases,A.9. Rape,3,5,8,5,1,6,2
+B) Other Foreigners,IPC - Cases,A.10. Theft,31,38,69,1,29,30,39
+B) Other Foreigners,IPC - Cases,A.11. Extortion,0,1,1,1,0,1,0
+B) Other Foreigners,IPC - Cases,A.12. Robbery,0,3,3,0,0,0,3
+B) Other Foreigners,IPC - Cases,A.13. Dacoity,0,0,0,0,0,0,0
+B) Other Foreigners,IPC - Cases,A.14. Cheating,6,1,7,2,0,2,5
+B) Other Foreigners,IPC - Cases,A.15. Forgery,11,0,11,0,0,0,11
+B) Other Foreigners,IPC - Cases,A.16. Insult to the Modesty of Women,1,1,2,1,0,1,1
+B) Other Foreigners,IPC - Cases,A.17. Other IPC *,4,27,31,15,2,17,14
+B) Other Foreigners,SLL ? Cases,"A.18. Immoral Traffic (Prevention) Act, 1956",1,0,1,1,0,1,0
+B) Other Foreigners,SLL ? Cases,A.19. Other SLL,6,6,12,9,0,9,3
+B) Other Foreigners,Total (B),Total (B),72,98,170,47,34,81,89
+Grand Total,C) Total Crime Against Foreigners (A+B),C) Total Crime Against Foreigners (A+B),292,382,674,163,165,328,346

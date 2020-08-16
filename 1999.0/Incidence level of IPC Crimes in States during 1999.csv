@@ -1,0 +1,8 @@
+SI.No.,Incidence- Range,States-Number,States- Names
+1,Above 1.5 Lakhs Cases,4,"Madhya Pradesh, Maharshtra, Rajasthan,Uttar pradesh"
+2,1 to 1.5 Lakh Cases,5,"Andhra Pradesh, Bihar,Gujrat, Karnataka,Tamil Nadu"
+3,50 thousand to 1 Lakh cases,3,"Kerala, West Bengal, Orissa"
+4,10 thousand to 50 thousand cases,5,"Assam, Haryana,Himchal Pradesh,Jammu & Kashmir,Punjab"
+5,5 thousand to 10 thousand Cases,NA,NA
+6,Below 5000 cases,8,"Arunachal Pradesh, Goa,Manipur, Goa, Manipur, Meghalaya,Mizoram,Nagaland ,Sikkim,Tripura"
+7,Total No. of State,25,"Madhya Pradesh, Maharshtra, Rajasthan, Uttar pradesh, Andhra Pradesh, Bihar,Gujrat, Karnataka,Tamil Nadu, Kerala, West Bengal, Orissa, Assam, Haryana,Himchal Pradesh,Jammu & Kashmir,Punjab, Arunachal Pradesh, Goa,Manipur, Goa, Manipur, Meghalaya,Mizoram,Nagaland ,Sikkim,Tripura"

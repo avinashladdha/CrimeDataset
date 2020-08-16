@@ -1,0 +1,31 @@
+Crime Head (Col.1),Cases Withdrawn by Govt. (Col.2),Percentage of Cases to Total Cases for Trial Compounded or Withdrawn (Col.3),Percentage of Cases to Total Cases for Trial in which Trials were Completed - Convicted (Col.4),Percentage of Cases to Total Cases for Trial in which Trials were Completed - Acquitted or Discharged (Col.5),Percentage of Cases to Total Cases for Trial in which Trials were Completed - Total {(Col.4) + (Col.5)} = (Col.6),Percentage of Cases to Total Cases for Trial Pending Trial (Col.7),Conviction Rate {(Col.4)/(Col.6) * 100} = (Col.8)
+Murder,0,0.1,4.8,8.7,13.4,86.4,35.5
+Attempt to Commit Murder,0,0.5,5,9.7,14.7,84.8,34.1
+C.H. not amounting to Murder,0,0.3,4.8,9.8,14.6,85.1,32.8
+Rape - Total,0,0.2,4.5,12.9,17.4,82.4,26.1
+Rape - (i) Custodial Rape,0,0,0,28.6,0,71.4,0
+Rape - (ii) Other Rape,0,0.2,4.5,12.8,17.4,82.4,26.1
+Kidnapping & Abduction - Total,0.1,0.7,4.2,10.3,14.5,84.8,28.7
+Kidnapping & Abduction - (i) of Women & Girls,0.1,0.8,4,10.1,14.1,85.2,28.4
+Kidnapping & Abduction - (ii) of Others,0.1,0.6,4.5,11,15.5,83.9,29.2
+Dacoity,0,0.1,2.8,8.3,11.1,88.9,25.4
+Preparation & Assembly for Dacoity,0.1,0,3.2,10,13.2,86.7,24.6
+Robbery,0,0.2,3.3,8,11.4,88.4,29.2
+Burglary,0,0.6,5.2,9.8,14.9,84.4,34.5
+Theft - Total,0,0.5,5.5,8.1,13.6,85.9,40.3
+Theft - (i) Auto Theft,0,0.4,6.3,7.6,13.8,85.8,45.2
+Theft - (ii) Other Theft,0,0.5,5.3,8.2,13.6,85.9,39.3
+Riots,0,2.3,3.2,8.5,11.7,86,27.1
+Criminal Breach of Trust,0,0.7,3,7.2,10.2,89.1,29.8
+Cheating,0,0.9,2.7,6.2,9,90.1,30.5
+Counterfeiting,0,0.2,5.9,8.4,14.3,85.5,41.3
+Arson,0,0.9,3.2,11.7,14.9,84.2,21.5
+Hurt,0,6,4.5,9,13.5,80.5,33.6
+Dowry Death,0,0.6,5.9,12.3,18.2,81.2,32.5
+Molestation,0,5,4.7,10.4,15,80,31
+Sexual Harassment,0.2,2.2,18.5,9.1,27.6,70.2,67
+Cruelty by Husband and Relatives,0,2.4,3,10.4,13.3,84.3,22.2
+Importation of Girls,0,4.6,4.6,16.5,21.1,74.3,21.7
+Causing Death by Negligence,0,0.9,7.3,9,16.3,82.8,44.7
+Other IPC Crimes,0,3.2,8.3,8.7,17,79.8,48.6
+Total Cognizable Crimes under IPC,0,2.8,6.1,8.9,15,82.3,40.8

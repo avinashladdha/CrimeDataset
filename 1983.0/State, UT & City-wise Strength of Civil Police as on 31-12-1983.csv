@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,Number of DG/IG/DIG/SP,Number of ASP & DSP,Number of Inspector & Sub-Inspectors,Number of Officers Below Sub-Inspector,Total
+1,State,Andhra Pradesh,94,182,2745,39969,42990
+2,State,Assam,51,132,2430,16976,19589
+3,State,Bihar,108,337,5995,46833,53273
+4,State,Gujarat,71,121,2731,42926,45849
+5,State,Haryana,43,84,661,14601,15389
+6,State,Himachal Pradesh,51,55,311,5547,5964
+7,State,Jammu and Kashmir,56,110,1037,15629,16832
+8,State,Karnataka,83,145,2162,36535,38625
+9,State,Kerala,60,129,1774,18234,20197
+10,State,Madhya Pradesh,144,444,4451,51051,56090
+11,State,Maharashtra,140,333,5749,87305,93527
+12,State,Manipur,24,31,224,3001,3280
+13,State,Meghalaya,14,16,332,3392,3754
+14,State,Nagaland,17,27,325,5906,6275
+15,State,Orissa,100,184,2383,20656,23323
+16,State,Punjab,38,73,581,22165,22857
+17,State,Rajasthan,136,319,2261,36802,39518
+18,State,Sikkim,13,15,117,1227,1372
+19,State,Tamil Nadu,103,217,4745,38967,44032
+20,State,Tripura,18,32,956,3736,4742
+21,State,Uttar Pradesh,355,845,10145,71107,82452
+22,State,West Bengal,100,169,5034,36225,41528
+Total (States),State,Total (States),1819,4000,57149,618490,681458
+23,UT,A & N Islands,2,11,113,1632,1758
+24,UT,Arunachal Pradesh,6,13,130,806,955
+25,UT,Chandigarh,2,4,80,1187,1273
+26,UT,D & N Haveli,NA,1,4,74,79
+27,UT,Delhi,31,92,2347,17084,19554
+28,UT,"Goa, Daman & Diu",3,9,77,1748,1837
+29,UT,Lakshadweep,1,1,16,258,276
+30,UT,Mizoram,11,14,184,1343,1552
+31,UT,Pondicherry,12,NA,80,909,1001
+Total (UTs),UT,Total (UTs),68,145,3031,25041,28285
+All India,All India,All India,1887,4145,60180,643531,709743
+1,City,Ahmedabad,9,14,403,4961,5387
+2,City,Bangalore,8,17,389,5290,5704
+3,City,Bombay,20,67,2220,16880,19187
+4,City,Calcutta,18,37,1650,11060,12765
+5,City,Delhi,31,92,2347,17084,19554
+6,City,Hyderabad,13,31,423,4287,4754
+7,City,Jaipur,1,16,246,3940,4203
+8,City,Kanpur,2,8,423,3518,3951
+9,City,Lucknow,NA,NA,NA,NA,NA
+10,City,Madras,12,34,759,6413,7218
+11,City,Nagpur,5,10,170,2225,2410
+12,City,Pune,6,12,213,4464,4695
+Total (Cities),City,Total (Cities),125,338,9243,80122,89828

@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Persons Arrested - Male (Col.3),Persons Arrested - Female (Col.4),Persons Arrested - Total (Col.5),Persons Chargesheeted - Male (Col.6),Persons Chargesheeted - Female (Col.7),Persons Chargesheeted - Total (Col.8),Persons Convicted - Male (Col.9),Persons Convicted - Female (Col.10),Persons Convicted - Total (Col.11),Persons Acquitted - Male (Col.12),Persons Acquitted - Female (Col.13),Persons Acquitted - Total (Col.14),Persons Discharged - Male (Col.15),Persons Discharged - Female (Col.16),Persons Discharged - Total (Col.17)
+1,Ahmedabad (Gujarat),208,14,222,154,16,170,1,0,1,2,0,2,0,0,0
+2,Bengaluru (Karnataka),210,44,254,153,37,190,0,0,0,39,4,43,2,1,3
+3,Chennai (Tamil Nadu),9,1,10,15,0,15,0,0,0,7,0,7,0,0,0
+4,Coimbatore (Tamil Nadu),24,0,24,16,0,16,0,0,0,11,0,11,0,0,0
+5,Delhi,56,3,59,44,1,45,0,0,0,8,0,8,2,0,2
+6,Ghaziabad (Uttar Pradesh),191,3,194,114,2,116,0,0,0,0,0,0,0,0,0
+7,Hyderabad (Telangana),99,7,106,114,6,120,0,0,0,22,0,22,0,0,0
+8,Indore (Madhya Pradesh),62,0,62,62,0,62,31,0,31,85,4,89,0,0,0
+9,Jaipur (Rajasthan),174,3,177,174,3,177,1,0,1,2,1,3,1,0,1
+10,Kanpur (Uttar Pradesh),520,0,520,282,0,282,82,0,82,88,0,88,0,0,0
+11,Kochi (Kerala),30,0,30,20,0,20,0,0,0,5,0,5,0,0,0
+12,Kolkata (West Bengal),5,0,5,5,0,5,0,0,0,0,0,0,0,0,0
+13,Kozhikode (Kerala),25,2,27,20,0,20,0,0,0,23,0,23,0,0,0
+14,Lucknow (Uttar Pradesh),123,0,123,180,0,180,28,0,28,38,0,38,0,0,0
+15,Mumbai (Maharashtra),10,0,10,7,1,8,0,0,0,3,0,3,0,0,0
+16,Nagpur (Maharashtra),45,0,45,40,0,40,1,0,1,11,0,11,0,0,0
+17,Patna (Bihar),241,0,241,121,0,121,0,0,0,4,0,4,0,0,0
+18,Pune (Maharashtra),70,4,74,40,4,44,0,0,0,24,1,25,0,0,0
+19,Surat (Gujarat),43,3,46,43,3,46,0,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,2145,84,2229,1604,73,1677,144,0,144,372,10,382,5,1,6

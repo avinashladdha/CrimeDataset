@@ -1,0 +1,12 @@
+Crime Head (Col.1),Cases Withdrawn by Govt. (Col.2),Percentage of Cases to Total Cases for Investigation in which Investigation Refused (Col.3),Percentage of Cases to Total Cases for Investigation in which Investigation Completed - ChargeFound False/Mistake of Fact Or Law Etc. (Col.4),Percentage of Cases to Total Cases for Investigation in which Investigation Completed - Final Report True Submitted (Col.5),Percentage of Cases to Total Cases for Investigation in which Investigation Completed - Charge Sheets Submitted (Col.6),Percentage of Cases to Total Cases for Investigation in which Investigation Completed - Total (Col.7) = Col.{(4) + (5) + (6)},No. of Cases Pending Investigation at the end of the year (Col.8),Charge Sheeting Rate (Col.9) = Col.(6 / 5+ 6 × 100)
+"Murder (Sec. 302,303 IPC)",0,0,13.9,1.9,64.8,80.6,19.4,97.2
+Rape (Sec.376 IPC),0,0,6.1,1.6,72.7,80.4,19.6,97.8
+"Kidnapping & Abduction (Sec. 363-369, 371-373 IPC)",0,0,8.3,7.5,51.9,67.7,32.3,87.3
+Dacoity (Sec.395-398 IPC),0,0,25,5,30,60,40,85.7
+"Robbery (392-394, 397,398 IPC)",0,0,12.8,12.8,51.3,76.9,23.1,80
+"Arson (Sec.435, 436, 438 IPC)",0,0,30,18.6,37.1,85.7,14.3,66.7
+"Hurt (Sec.323-333, 335-338 IPC)",0,0.2,10.7,3,64,77.6,22.2,95.6
+"PCR Act, 1955 for SCs",0,0,54.1,10.8,5.4,70.3,29.7,33.3
+"SC/ST Prev. Of Atrocities Act, 1989 for SCs",0,0.1,14.4,1.2,49.8,65.4,34.5,97.6
+Other Crime,0,0,22.4,1.6,59.4,83.5,16.5,97.3
+Total,0,0,16.7,2.1,58.6,77.5,22.5,96.5

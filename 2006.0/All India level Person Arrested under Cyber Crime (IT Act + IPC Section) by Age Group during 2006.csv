@@ -1,0 +1,24 @@
+Category,Crime Head,Below 18 Years,Between 18 - 30 Years,Between 30 -45 Years,Between 45 - 60 Years,Above 60 Years,Total (All Age Groups)
+Offences under IT Act,Tampering Computer Source Department (Sec 65),0,4,2,1,1,8
+Offences under IT Act,Hacking Computer Systems - i) Loss/ Damage to Computer Resource/ Utility (Sec 66(1)),0,24,10,0,0,34
+Offences under IT Act,Hacking Computer Systems - ii) Hacking (Sec 66(2)),0,17,11,1,0,29
+Offences under IT Act,Obscene Publication/ Transmission in Electronic Form (Sec 67),2,64,14,1,0,81
+Offences under IT Act,Failure - i) of Compliance/ Orders of Certifying Authority (Sec 68),0,0,0,0,0,0
+Offences under IT Act,Failure - ii) To Assist to Decoy or the Information in Interception by Govt Agency (Sec 69),0,0,0,0,0,0
+Offences under IT Act,Unauthorised Access/ Attempt to Access of Protected Computer System (Sec 70),0,0,0,0,0,0
+Offences under IT Act,Obtaining Licence or Digital Signature by Misrepresentation/ Suppression of Fact (Sec 71),0,0,0,0,0,0
+Offences under IT Act,Publishing False Digital Signature/ Certificate (Sec 73),0,0,0,0,0,0
+Offences under IT Act,Fraud Digital Signature (Sec 74),0,0,0,0,0,0
+Offences under IT Act,Breach of Confidentiality/ Privacy (Sec 72),0,0,2,0,0,2
+Offences under IT Act,Other,0,0,0,0,0,0
+Offences under IT Act,Total (Offences under IT Act),2,109,39,3,1,154
+Offences under IPC,"Offences by/ against Public Servant (Sec 167, 172, 173, 175)",0,0,0,0,0,0
+Offences under IPC,False Electronic Evidence (Sec 193),0,0,0,0,0,0
+Offences under IPC,"Destruction of Electronic Evidence (Sec 204, Sec 477)",0,0,0,0,0,0
+Offences under IPC,"Forgery (Sec 463, 465, 466, 468, 469, 471, 474, 476, 477A)",0,49,104,41,0,194
+Offences under IPC,"Criminal Breach of Trust/ Fraud (sec 405, 406, 408 & 409)",0,27,71,20,3,121
+Offences under IPC,"Counterfeiting - i) Property/ Mark (Sec 482, 193, 483, 484, 485)",0,3,2,2,0,7
+Offences under IPC,Counterfeiting - ii) Tampering (Sec 489),0,0,0,0,0,0
+Offences under IPC,Counterfeiting - iii) Currency/ Stamps (Sec 489A to 489E),4,34,44,7,0,89
+Offences under IPC,Total ( Offences under IPC),4,113,221,70,3,411
+Grand Total ( Offences under IT Act+ Offences under IPC ),Grand Total ( Offences under IT Act+ Offences under IPC ),6,222,260,73,4,565

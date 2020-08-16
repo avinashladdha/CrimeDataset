@@ -1,0 +1,40 @@
+S. No. (Col.1),State/UT (Col.2),Persons Arrested - Male (Col.3),Persons Arrested - Female (Col.4),Persons Arrested - Total (Col.5),Persons Chargesheeted - Male (Col.6),Persons Chargesheeted - Female (Col.7),Persons Chargesheeted - Total (Col.8),Persons Convicted - Male (Col.9),Persons Convicted - Female (Col.10),Persons Convicted - Total (Col.11),Persons Acquitted - Male (Col.12),Persons Acquitted - Female (Col.13),Persons Acquitted - Total (Col.14),Persons Discharged - Male (Col.15),Persons Discharged - Female (Col.16),Persons Discharged - Total (Col.17)
+1,Andhra Pradesh,406,45,451,272,18,290,2,0,2,166,2,168,2,0,2
+2,Arunachal Pradesh,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+3,Assam,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+4,Bihar,85,0,85,64,0,64,6,0,6,8,0,8,0,0,0
+5,Chhattisgarh,582,20,602,557,19,576,93,0,93,231,4,235,2,0,2
+6,Goa,4,0,4,3,0,3,0,0,0,3,0,3,0,0,0
+7,Gujarat,681,31,712,647,31,678,4,0,4,312,3,315,1,0,1
+8,Haryana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Himachal Pradesh,4,0,4,3,0,3,0,0,0,0,0,0,0,0,0
+10,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Jharkhand,276,1,277,207,0,207,40,0,40,43,0,43,0,0,0
+12,Karnataka,688,38,726,608,27,635,0,0,0,425,15,440,0,0,0
+13,Kerala,176,3,179,145,4,149,6,1,7,69,0,69,1,0,1
+14,Madhya Pradesh,3043,76,3119,3034,76,3110,423,3,426,1139,22,1161,0,0,0
+15,Maharashtra,930,34,964,965,26,991,37,1,38,556,7,563,11,0,11
+16,Manipur,8,0,8,1,0,1,0,0,0,0,0,0,0,0,0
+17,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Odisha,846,9,855,792,9,801,25,0,25,429,5,434,0,0,0
+21,Punjab,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+22,Rajasthan,1036,28,1064,1037,28,1065,225,1,226,355,10,365,7,0,7
+23,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Tamil Nadu,40,1,41,39,0,39,1,0,1,39,0,39,0,0,0
+25,Telangana,531,22,553,460,23,483,18,0,18,243,7,250,0,0,0
+26,Tripura,3,0,3,1,0,1,0,0,0,2,0,2,0,0,0
+27,Uttar Pradesh,8,1,9,6,1,7,26,0,26,11,0,11,0,0,0
+28,Uttarakhand,3,0,3,3,0,3,0,0,0,2,0,2,0,0,0
+29,West Bengal,76,0,76,152,0,152,0,0,0,23,0,23,0,0,0
+Total (States),Total (States),9429,310,9739,8997,262,9259,907,6,913,4056,75,4131,24,0,24
+30,A & N Islands,6,0,6,5,0,5,0,0,0,2,0,2,0,0,0
+31,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,D&N Haveli,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+33,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Delhi,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0
+35,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Total (UTs),7,0,7,5,0,5,0,0,0,6,0,6,0,0,0
+Total (All-India),Total (All-India),9436,310,9746,9002,262,9264,907,6,913,4062,75,4137,24,0,24

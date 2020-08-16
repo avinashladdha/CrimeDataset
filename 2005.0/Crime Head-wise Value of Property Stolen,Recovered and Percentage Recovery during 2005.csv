@@ -1,0 +1,8 @@
+Crime Head,Number of Cases in which Property was Stolen,Number of Cases in which Property was Recovered,Percentage Cases of Recovery,Value of Property - Stolen,Value of Property - Recovered,Value Percentage Recovery
+Dacoity,5007,1921,38.4,5963.2,2440.9,40.9
+Robbery,16950,8278,48.8,8775.7,3690.3,42.1
+Burglary,87412,28310,32.4,28521.3,7364,25.8
+Theft,263595,103049,39.1,82172.6,28991.4,35.3
+Criminal Breach of Trust,9439,3794,40.2,62289.6,6625.3,10.6
+Other Kinds of Property Offences,17386,8464,48.7,53177.6,8487.9,16
+Total,399789,153816,38.5,240899.9,57599.8,23.9

@@ -1,0 +1,25 @@
+S. No (Col. 1),Crime Head (Col. 2),Cases of Crimes Committed against - Foreign Tourists (Col. 3),Cases of Crimes Committed against - Other than Foreign Tourists (Col. 4),Cases of Crimes Committed against - Total Foreigners (Col. 5) = (Col.3 + Col.4)
+1,Murder(Sec. 302 IPC),4,0,4
+2,Attempt To Commit Murder (Sec. 307 IPC),0,0,0
+3,C.H. Not Amounting To Murder (Sec. 304 IPC),0,0,0
+4,Attempt to Commit Culpable Homicide (Sec. 308 IPC),2,0,2
+5,Rape,7,5,12
+6,Attempt To Commit Rape (Section 376/511 IPC),0,0,0
+7,Assault on Women with Intent to Outrage her Modesty (Section 354 IPC),15,8,23
+8,Insult to the Modesty of Women (Section 509 IPC),1,5,6
+9,"Kidnapping & Abduction (Section 363,364,364A, 366, 367, 368 & 369 IPC)",4,0,4
+10,"Dacoity (Section 395,396, 397 & 398 IPC)",0,0,0
+11,"Robbery (Section 392 to 394, 397 & 398 IPC)",9,1,10
+12,"Grievous Hurt (325,326,326A & 326 B IPC)",4,0,4
+13,Extortion (Section 384 & 385 - 389 IPC),0,0,0
+14,Cheating (Section 420 IPC),4,5,9
+15,"Theft (Section 379 to 380, 381 & 382 IPC)",181,42,223
+16,"Forgery (Section 465, 468 & 471 IPC)",15,0,15
+17,Importation of Girls from Foreign Country,0,0,0
+18,Disclosure of Identity of Victims (Section 228 A IPC),0,0,0
+19,Human Trafficking (U/S 370 & 370A IPC),0,1,1
+20,Other IPC,24,17,41
+21,"Immoral Traffic (Prevention) Act, 1956",1,1,2
+22,"Indecent Representation of Women (Prohibition) Act, 1986",0,0,0
+23,Other SLL,0,9,9
+24,Total,271,94,365

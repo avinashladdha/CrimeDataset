@@ -1,0 +1,40 @@
+S. No. (Col.1),State/UT (Col.2),Data Theft (Section 379 to 381) (Col.3),"Criminal Breach of Trust/Fraud (Section 406, 408, 409) - Criminal Breach of Trust/Fraud (Section 406, 408, 409) (Total) (Col.4)","Criminal Breach of Trust/Fraud (Section 406, 408, 409) - Debit Card/ Credit Card (Col.4A)","Criminal Breach of Trust/Fraud (Section 406, 408, 409) - Others (Col.4B)",Cheating (Section 420 IPC) (Col.5),"Forgery (Section 465-468,471& 477A) (Col.6)",Counterfeiting (Secion 489A to 489E) (Col.7),"Fabrication of False Evidence/Destruction of Electronic Records for Evidence (Section 193, 204) (Col.8)",Other IPC Crimes (Col.9),Total Cyber Crimes under IPC (Col.10)
+1,Andhra Pradesh,9,3,0,3,121,2,0,0,50,185
+2,Arunachal Pradesh,0,0,0,0,0,0,1,0,0,1
+3,Assam,0,0,0,0,0,0,0,0,0,0
+4,Bihar,0,0,0,0,9,0,0,0,1,10
+5,Chhattisgarh,0,0,0,0,12,0,0,0,23,35
+6,Goa,0,0,0,0,7,1,0,0,2,10
+7,Gujarat,19,19,8,11,142,8,0,5,54,247
+8,Haryana,0,0,0,0,5,0,0,0,2,7
+9,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0
+10,Jammu & Kashmir,0,0,0,0,0,0,0,0,1,1
+11,Jharkhand,0,0,0,0,0,0,0,0,0,0
+12,Karnataka,0,0,0,0,3,0,0,0,0,3
+13,Kerala,1,0,0,0,26,2,0,0,21,50
+14,Madhya Pradesh,0,0,0,0,12,9,0,1,33,55
+15,Maharashtra,18,26,13,13,1393,29,1,0,539,2006
+16,Manipur,0,0,0,0,3,0,0,0,3,6
+17,Meghalaya,0,0,0,0,0,0,0,0,0,0
+18,Mizoram,0,0,0,0,0,0,0,0,0,0
+19,Nagaland,0,0,0,0,0,0,0,0,0,0
+20,Odisha,38,0,0,0,185,4,0,0,65,292
+21,Punjab,0,0,0,0,1,0,1,0,0,2
+22,Rajasthan,1,0,0,0,230,3,0,0,79,313
+23,Sikkim,0,0,0,0,0,0,0,0,0,0
+24,Tamil Nadu,0,0,0,0,13,1,0,0,12,26
+25,Telangana,0,0,0,0,49,0,0,0,6,55
+26,Tripura,0,0,0,0,1,1,0,0,3,5
+27,Uttar Pradesh,0,5,5,0,58,12,0,0,0,75
+28,Uttarakhand,0,0,0,0,4,0,0,0,0,4
+29,West Bengal,0,3,0,3,39,7,7,0,35,91
+Total (States),Total (States),86,56,26,30,2313,79,10,6,929,3479
+30,A & N Islands,0,0,0,0,1,0,0,0,0,1
+31,Chandigarh,0,0,0,0,5,0,0,0,4,9
+32,D&N Haveli,0,0,0,0,0,0,0,0,0,0
+33,Daman & Diu,0,0,0,0,0,0,0,0,0,0
+34,Delhi,0,0,0,0,10,2,0,0,17,29
+35,Lakshadweep,0,0,0,0,0,0,0,0,0,0
+36,Puducherry,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Total (UTs),0,0,0,0,16,2,0,0,21,39
+Total (All India),Total (All India),86,56,26,30,2329,81,10,6,950,3518

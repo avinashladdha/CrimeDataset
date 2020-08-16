@@ -1,0 +1,40 @@
+S. No. (Col.1),State/UT (Col.2),No. of Cases in which Arms# Seized (Col.3),Fire Arms - No. of Un-licensed/ Improvised/ Crude/ Country-made Arms (Col.4),Fire Arms - No. of Licensed/ Factory Made Arms (Col.5),Fire Arms - Total Fire Arms Seized (Col.6) = (Col.4 + Col.5),Other than Fire Arms (Col.7),Total Arms Seized (Col.8) = (Col.6+ Col.7) *,Ammunition Seized (Col.9)
+1,Andhra Pradesh,41,24,5,29,7,36,3
+2,Arunachal Pradesh,31,9,24,33,2,35,1466
+3,Assam,324,307,55,362,2,364,4601
+4,Bihar,1487,2214,154,2368,369,2737,8892
+5,Chhattisgarh,700,312,12,324,415,739,170
+6,Goa,5,3,0,3,0,3,12
+7,Gujarat,478,494,7,501,1,502,329
+8,Haryana,1822,1799,64,1863,160,2023,2996
+9,Himachal Pradesh,22,7,9,16,4,20,521
+10,Jammu & Kashmir,129,150,0,150,35,185,21432
+11,Jharkhand,395,471,10,481,14,495,950
+12,Karnataka,111,102,17,119,3,122,193
+13,Kerala,140,127,5,132,64,196,123
+14,Madhya Pradesh,8136,3709,32,3741,4278,8019,1934
+15,Maharashtra,1370,865,53,918,655,1573,1733
+16,Manipur,24,29,3,32,0,32,892
+17,Meghalaya,23,61,6,67,2,69,243
+18,Mizoram,12,7,9,16,0,16,513
+19,Nagaland,101,111,16,127,0,127,1085
+20,Odisha,350,298,13,311,102,413,625
+21,Punjab,450,587,82,669,13,682,3278
+22,Rajasthan,6406,2863,14,2877,2880,5757,2811
+23,Sikkim,1,1,0,1,0,1,1
+24,Tamil Nadu,190,200,4,204,48,252,244
+25,Telangana,87,42,2,44,49,93,109
+26,Tripura,3,3,0,3,0,3,3
+27,Uttar Pradesh,27227,16990,439,17429,9760,27189,38981
+28,Uttarakhand,614,376,2,378,243,621,193
+29,West Bengal,2524,3119,4,3123,0,3123,5219
+Total (States),Total (States),53203,35280,1041,36321,19106,55427,99552
+30,A & N Islands,0,0,0,0,0,0,0
+31,Chandigarh,33,17,2,19,15,34,96
+32,D&N Haveli,0,0,0,0,0,0,0
+33,Daman & Diu,1,1,0,1,0,1,0
+34,Delhi,686,765,9,774,275,1049,7251
+35,Lakshadweep,0,0,0,0,0,0,0
+36,Puducherry,6,1,0,1,4,5,1
+Total (UTs),Total (UTs),726,784,11,795,294,1089,7348
+Total (All-India),Total (All-India),53929,36064,1052,37116,19400,56516,106900

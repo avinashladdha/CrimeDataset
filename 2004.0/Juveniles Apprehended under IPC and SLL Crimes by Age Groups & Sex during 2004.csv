@@ -1,0 +1,59 @@
+Sr. No.,Category,Crime Head,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years - Boys*,16-18 Years - Girls,Overall Age Groups - Boys,Overall Age Groups - Girls,Total (Boys + Girls)
+1,A. IPC Crimes,Murder,19,0,218,9,317,20,554,29,583
+2,A. IPC Crimes,Attempt to Commit Murder,27,0,216,10,270,13,513,23,536
+3,A. IPC Crimes,C.H. Not Amounting Murder,7,1,5,1,6,0,18,2,20
+4,A. IPC Crimes,Rape - Total,17,0,240,5,387,7,644,12,656
+4,A. IPC Crimes,Rape - i) Custodial Rape,0,0,0,0,0,0,0,0,0
+4,A. IPC Crimes,Rape - ii) Other Rape,17,0,240,5,387,7,644,12,656
+5,A. IPC Crimes,Kidnapping & Abduction - Total,5,0,103,9,162,14,270,23,293
+5,A. IPC Crimes,Kidnapping & Abduction - i) of Women and Girls,4,0,58,8,134,9,196,17,213
+5,A. IPC Crimes,Kidnapping & Abduction - ii) of Others,1,0,45,1,28,5,74,6,80
+6,A. IPC Crimes,Dacoity,11,0,47,1,127,1,185,2,187
+7,A. IPC Crimes,Preparation & Assembly for Dacoity,0,0,16,0,51,0,67,0,67
+8,A. IPC Crimes,Robbery,6,0,102,6,182,1,290,7,297
+9,A. IPC Crimes,Burglary,214,5,1454,26,1355,27,3023,58,3081
+10,A. IPC Crimes,Theft - Total,317,39,2642,173,2558,133,5517,345,5862
+10,A. IPC Crimes,Theft - i) Auto Theft,21,0,458,0,588,1,1067,1,1068
+10,A. IPC Crimes,Theft - ii) Other Theft,296,39,2184,173,1970,132,4450,344,4794
+11,A. IPC Crimes,Riots,86,0,469,48,886,85,1441,133,1574
+12,A. IPC Crimes,Criminal Breach of Trust,1,0,21,0,26,0,48,0,48
+13,A. IPC Crimes,Cheating,8,0,55,3,94,12,157,15,172
+14,A. IPC Crimes,Counterfeiting,1,0,1,0,7,5,9,5,14
+15,A. IPC Crimes,Arson,1,0,19,1,30,0,50,1,51
+16,A. IPC Crimes,Hurt,191,16,1584,142,1945,195,3720,353,4073
+17,A. IPC Crimes,Dowry Death,1,0,13,7,35,21,49,28,77
+18,A. IPC Crimes,Molestation,21,2,197,1,308,2,526,5,531
+19,A. IPC Crimes,Sexual Harassment,0,0,53,0,161,1,214,1,215
+20,A. IPC Crimes,Cruelty by Husband and Relatives,2,1,59,36,117,79,178,116,294
+21,A. IPC Crimes,Importation of Girls,0,0,0,0,0,0,0,0,0
+22,A. IPC Crimes,Causing Death by Negligence,1,0,11,0,48,3,60,3,63
+23,A. IPC Crimes,Other IPC Crimes,431,31,2250,135,2946,253,5627,419,6046
+A. IPC Crimes,A. IPC Crimes,Total Cognizable Crimes under IPC,1367,95,9775,613,12018,872,23160,1580,24740
+1,B. SLL Crimes,Arms Act,3,0,86,1,133,0,222,1,223
+2,B. SLL Crimes,Narcotic Drugs & Psychotropic Substances Act,2,1,12,3,38,1,52,5,57
+3,B. SLL Crimes,Gambling Act,37,0,373,0,784,3,1194,3,1197
+4,B. SLL Crimes,Excise Act,3,3,160,1,313,7,476,11,487
+5,B. SLL Crimes,Prohibition Act,11,12,108,33,395,26,514,71,585
+6,B. SLL Crimes,Explosive & Explosive Substances Act,0,0,9,0,6,0,15,0,15
+7,B. SLL Crimes,Immoral Traffic (P) Act,1,0,1,3,8,45,10,48,58
+8,B. SLL Crimes,Indian Railways Act,1,0,15,3,15,0,31,3,34
+9,B. SLL Crimes,Registration of Foreigners Act,6,6,8,2,1,1,15,9,24
+10,B. SLL Crimes,Protection of Civil Rights Act - Total,0,0,0,0,0,0,0,0,0
+10,B. SLL Crimes,Protection of Civil Rights Act - i) PCR Act for SCs,0,0,0,0,0,0,0,0,0
+10,B. SLL Crimes,Protection of Civil Rights Act - ii) PCR Act for STs,0,0,0,0,0,0,0,0,0
+11,B. SLL Crimes,Indian Passport Act,0,2,5,1,1,0,6,3,9
+12,B. SLL Crimes,Essential Commodities Act,0,0,1,0,5,0,6,0,6
+13,B. SLL Crimes,Terrorist & Disruptive Activities Act,0,0,0,0,0,0,0,0,0
+14,B. SLL Crimes,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0,0
+15,B. SLL Crimes,Dowry Prohibition Act,0,0,2,0,3,2,5,2,7
+16,B. SLL Crimes,Child Marriage Restraint Act,0,0,4,4,4,1,8,5,13
+17,B. SLL Crimes,Indecent Representation of Women (P) Act,0,0,0,0,6,102,6,102,108
+18,B. SLL Crimes,Copyrights Act,0,0,0,0,38,0,38,0,38
+19,B. SLL Crimes,Sati Prevention Act,0,0,0,0,0,0,0,0,0
+20,B. SLL Crimes,SC/ ST (Prevention of Atrocities) Act - Total,6,0,11,1,21,14,38,15,53
+20,B. SLL Crimes,SC/ ST (Prevention of Atrocities) Act - i) Attrocities Act for SCs,0,0,6,1,20,14,26,15,41
+20,B. SLL Crimes,SC/ ST (Prevention of Atrocities) Act - ii) Atrocities Act for STs,6,0,5,0,1,0,12,0,12
+21,B. SLL Crimes,Forest Act,0,0,0,0,1,0,1,0,1
+22,B. SLL Crimes,Other SLL Crimes,529,22,1057,123,1495,62,3081,207,3288
+B. SLL Crimes,B. SLL Crimes,Total Cognizable Crimes under SLL,599,46,1852,175,3267,264,5718,485,6203
+C.Grand Total (A+B),C.Grand Total (A+B),C.Grand Total (A+B),1966,141,11627,788,15285,1136,28878,2065,30943

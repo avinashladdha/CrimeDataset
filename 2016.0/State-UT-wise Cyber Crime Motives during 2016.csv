@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Illegal Gain (Col.4),Revenge (Col.5),Insult to Modesty of Women (Col.6),Extortion/ Blackmailing (Col.7),Sexual Exploitation (Col.8),Causing Disrepute (Col.9),Inciting Hate Crimes against Community (Col.10),Developing own Business/ Interest (Col.11),Prank / Satisfaction of Gaining Control (Col.12),Political Motives (Col.13),Disrupt Public Services (Col.14),Piracy (Col.15),Steal Information for Espionage (Col.16),Sale/ Purchase of Illegal Drugs/ Other Items (Col.17),"Serious Psychiatric Illness viz. Perversion, etc. (Col.18)",Inciting Hate Crimes against Country (Col.19),Others (Col.20),Total (Col.21) = (Items 1 to 20)
+1,State,Andhra Pradesh,327,6,84,7,7,0,2,3,0,0,0,0,0,1,0,0,179,616
+2,State,Arunachal Pradesh,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4
+3,State,Assam,156,329,3,59,41,35,5,0,1,10,0,0,0,0,0,0,57,696
+4,State,Bihar,198,91,0,1,6,0,0,3,0,3,0,0,0,1,0,0,6,309
+5,State,Chhattisgarh,4,19,9,1,11,12,0,2,1,1,0,0,0,0,0,0,30,90
+6,State,Goa,20,0,0,2,0,1,0,1,3,0,3,0,0,0,0,0,1,31
+7,State,Gujarat,237,4,0,3,28,44,11,8,1,0,0,0,0,4,0,0,22,362
+8,State,Haryana,196,6,16,19,10,1,0,16,0,0,0,0,0,0,0,0,137,401
+9,State,Himachal Pradesh,2,1,3,9,0,0,0,8,0,0,0,0,0,0,0,0,8,31
+10,State,Jammu & Kashmir,8,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,17,28
+11,State,Jharkhand,183,0,0,58,0,0,0,17,0,0,1,0,0,0,0,0,0,259
+12,State,Karnataka,718,47,41,76,41,11,15,12,2,6,9,2,11,2,0,2,106,1101
+13,State,Kerala,114,29,28,9,29,12,0,3,0,6,1,9,2,0,1,1,39,283
+14,State,Madhya Pradesh,29,5,18,5,8,85,10,3,5,0,0,0,0,0,0,0,90,258
+15,State,Maharashtra,1082,45,372,46,144,31,28,6,5,2,10,3,5,2,6,0,593,2380
+16,State,Manipur,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,6,11
+17,State,Meghalaya,14,3,3,3,1,4,0,0,0,1,0,0,0,3,0,0,7,39
+18,State,Mizoram,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+19,State,Nagaland,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+20,State,Odisha,27,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,288,317
+21,State,Punjab,24,8,5,11,14,3,0,0,1,0,1,5,0,1,0,0,29,102
+22,State,Rajasthan,263,53,5,32,14,21,8,0,2,0,0,1,0,0,0,0,542,941
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+24,State,Tamil Nadu,65,16,2,5,22,7,10,4,0,2,4,0,0,0,0,0,7,144
+25,State,Telangana,267,217,5,28,21,0,1,6,0,0,2,1,0,0,0,0,45,593
+26,State,Tripura,4,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,8
+27,State,Uttar Pradesh,1850,85,13,144,138,177,59,39,97,4,2,0,0,0,2,0,29,2639
+28,State,Uttarakhand,14,21,1,8,1,0,0,0,0,0,0,1,0,0,0,0,16,62
+29,State,West Bengal,136,57,55,42,23,3,0,10,1,2,0,1,0,0,0,0,148,478
+Total (States),State,Total (States),5945,1044,669,570,562,447,149,141,119,39,33,23,18,14,9,3,2402,12187
+30,UT,A & N Islands,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+31,UT,Chandigarh,3,2,0,1,4,0,0,0,0,0,0,0,0,0,0,0,16,26
+32,UT,D&N Haveli,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,UT,Delhi,36,9,17,0,3,1,0,0,2,0,0,0,0,0,0,0,30,98
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2
+Total (UTs),UT,Total (UTs),42,12,17,1,7,1,0,0,2,1,0,0,0,0,0,0,47,130
+Total (All India),Total (All India),Total (All India),5987,1056,686,571,569,448,149,141,121,40,33,23,18,14,9,3,2449,12317

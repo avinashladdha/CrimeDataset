@@ -1,0 +1,28 @@
+SI.No.,Category,State/UT,Persons in Custody/ Bail During investigation at beginning of the Year,Persons Arrested During Year,Persons released by Police /Court before trial During Year,Persons in Custody/Bail during investigation at the end of year,Persons in whose cases /chargesheets were laid During Year,Persons under trial at the beginning of year,Total Persons under Trial During the Year,No. of Persons whose cases withdrawn or otherwise disposed of,Persons in Custody /Bail during trial at the end of Year,Persons in whose cases trial Completed During Year,Persons Convicted During Year,Persons Acquitted During Year,Percentage of Persons Convicted to total persons whose trial Completed,Persons reported for regular Deptt.Action,Persons reported for suitable action,Persons Punished Departmentally - Dismissed from Service,Persons Punished Departmentally - Removed from Service,Persons Punished Departmentally - awarded other Major punishment,Persons Punished Departmentally - awarded Minor Punishment,Government Gazetted and equal officers in other public undertaking/Civil - Group 'A' officers,Government Gazetted and equal officers in other public undertaking/Civil - Group 'B' officers,Government Non Gazetted Officers and equals in undertaking involved,Private Persons involved
+1,State,Goa,3,0,0,3,0,8,8,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,State,Gujarat,197,322,200,268,346,314,558,7,562,47,16,29,34,1,14,0,0,0,0,19,37,204,19
+3,State,Haryana,20,61,49,65,9,97,42,2,109,22,7,15,31.8,0,0,0,0,0,0,1,1,37,17
+4,State,Himachal Pradesh,133,197,202,259,117,303,336,26,303,26,11,15,42.3,2,0,0,0,0,0,0,0,30,35
+5,State,Jammu & Kashmir,9,5,0,4,37,298,347,10,347,11,0,10,0,38,0,0,0,0,0,27,17,69,20
+6,State,Kerala,79,29,29,94,31,64,85,2,71,14,8,6,57.1,1,0,0,0,0,0,0,9,20,0
+7,State,Madhya Pradesh,408,88,0,0,45,407,452,0,0,41,14,27,34.1,12,4,0,0,1,3,0,0,119,5
+8,State,Maharashtra,1,0,0,0,258,1066,1324,15,0,125,36,89,28.8,22,0,0,0,0,0,17,25,199,38
+9,State,Manipur,6,6,6,6,1,46,46,0,6,1,0,1,0,0,0,0,0,0,0,0,1,5,2
+10,State,Meghalaya,2,4,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,State,Mizoram,5,5,5,5,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+12,State,Orissa,276,89,89,365,90,550,640,0,640,28,9,19,32.1,73,0,0,0,11,3,1,22,50,0
+13,State,Punjab,359,227,227,363,2,168,338,32,236,81,9,51,11.1,15,1,0,0,0,2,19,35,145,28
+14,State,Rajasthan,116,86,86,86,164,584,100,8,0,31,10,13,32.3,0,0,0,4,11,192,75,265,324,44
+15,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,State,Tamil Nadu,129,152,152,80,46,66,112,3,112,20,9,8,45,95,0,15,6,54,25,1,19,130,2
+17,State,Uttar Pradesh,13,5,5,10,37,102,85,0,69,7,0,7,0,18,13,0,0,8,0,1,1,28,0
+18,State,West Bengal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total (States),State,Total (States),1756,1276,1050,1614,1188,4078,4478,105,2463,454,129,290,349,277,32,15,10,85,225,161,432,1361,210
+19,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,UT,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,UT,Delhi,0,47,47,0,76,67,100,0,106,6,1,4,16.7,3,0,1,0,5,10,2,3,39,3
+23,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,UT,Pondicherry,3,1,1,2,2,4,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Total (UTs),UT,Total (UTs),3,48,48,2,78,71,106,0,112,6,1,4,16.7,3,0,1,0,5,10,2,3,40,3
+Total (All-India),Total (All-India),Total (All-India),1759,1324,1098,1616,1266,4149,4584,105,2575,460,130,294,28.3,280,32,16,10,90,235,163,435,1401,213

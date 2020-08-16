@@ -1,0 +1,64 @@
+Category (Col. 1),Crime Head (Col. 2),Below 18 Years (Col. 3) - Male,Below 18 Years (Col. 4) - Female,18 - 30 Years (Col. 5) - Male,18 - 30 Years (Col. 6) - Female,30 - 45 Years (Col. 7) - Male,30 - 45 Years (Col. 8) - Female,45 - 60 Years (Col. 9) - Male,45 - 60 Years (Col. 10) - Female,60 Years & Above (Col. 11) - Male,60 Years & Above (Col. 12) - Female,Total of Overall Age-Group (Col. 13) - Male,Total of Overall Age-Group (Col. 14) - Female,Grand Total of All Persons (Col. 15) = Col. (13+14)
+A. IPC Crimes,1 . Murder (sec 302 Ipc),915,84,26087,1389,22229,1712,8673,743,754,79,58658,4007,62665
+A. IPC Crimes,2 . Attempt To Commit Murder (sec 307 Ipc),697,31,27699,972,22941,1194,9240,462,860,89,61437,2748,64185
+A. IPC Crimes,"3 . C.h. Not Amounting Murder (sec 304, 308 Ipc)",33,0,2733,40,2580,56,981,15,39,2,6366,113,6479
+A. IPC Crimes,4 . Rape (sec 376 Ipc) - Total,880,7,14902,245,7504,352,1708,135,102,10,25096,749,25845
+A. IPC Crimes,4 . Rape (sec 376 Ipc) - Custodial Rape,0,0,1,0,5,0,1,0,0,0,7,0,7
+A. IPC Crimes,4 . Rape (sec 376 Ipc) - Other Rape,880,7,14901,245,7499,352,1707,135,102,10,25089,749,25838
+A. IPC Crimes,"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Total",434,26,22621,783,13130,890,3359,299,178,33,39722,2031,41753
+A. IPC Crimes,"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - I) Of Women & Girls",302,21,16883,663,9243,736,2325,228,107,18,28860,1666,30526
+A. IPC Crimes,"5 . Kidnapping & Abduction (sec 363-369, 371-373 Ipc) - Ii) Of Others",132,5,5738,120,3887,154,1034,71,71,15,10862,365,11227
+A. IPC Crimes,6 . Dacoity (sec 395 - 398 Ipc),201,0,9326,110,6117,132,1478,40,95,7,17217,289,17506
+A. IPC Crimes,7 . Preparation & Assembly For Dacoity (sec 399-402 Ipc),73,1,5971,25,3957,13,884,51,39,51,10924,141,11065
+A. IPC Crimes,"8 . Robbery (sec 392-394, 397, 398 Ipc)",577,5,19702,102,10389,81,2266,18,74,45,33008,251,33259
+A. IPC Crimes,"9 . Burglary (sec. 449-452,454,455,457-460 Ipc)",3162,48,36755,544,20892,499,6074,152,303,26,67186,1269,68455
+A. IPC Crimes,10 . Theft (sec 379 - 382 Ipc) - Total,6277,263,103692,3433,58842,2421,17493,805,1053,69,187357,6991,194348
+A. IPC Crimes,10 . Theft (sec 379 - 382 Ipc) - I) Auto Theft,1905,6,32279,44,16227,20,3314,9,104,0,53829,79,53908
+A. IPC Crimes,10 . Theft (sec 379 - 382 Ipc) - Ii) Other Theft,4372,257,71413,3389,42615,2401,14179,796,949,69,133528,6912,140440
+A. IPC Crimes,"11 . Riots (sec 143-145, 147-151, 153, 153a., 153b, 157, 158, 160 Ipc)",1910,115,131841,6337,106277,7255,41566,2945,4864,492,286458,17144,303602
+A. IPC Crimes,12 . Criminal Breach Of Trust(sec.406-409 Ipc),16,1,6094,194,8398,288,4235,109,229,31,18972,623,19595
+A. IPC Crimes,"13 . Cheating (sec 419, 420 Ipc)",119,8,20859,795,27075,1613,14971,687,1563,146,64587,3249,67836
+A. IPC Crimes,"14 . Counterfeiting (sec.231-254,489a-489d)",10,2,1224,20,1392,28,313,9,9,0,2948,59,3007
+A. IPC Crimes,"15 . Arson (sec 435, 436, 438 Ipc)",91,3,4984,103,4587,154,1383,63,112,6,11157,329,11486
+A. IPC Crimes,"16 . Hurt (sec 323-333, 335-338 Ipc)",4118,268,201896,13266,172975,14220,72078,5799,8040,705,459107,34258,493365
+A. IPC Crimes,17 . Dowry Deaths (section 304b Ipc),57,56,7772,1751,6326,1896,3538,1295,499,184,18192,5182,23374
+A. IPC Crimes,18 . Molestation (section 354 Ipc),519,11,25599,473,15577,542,4443,220,438,34,46576,1280,47856
+A. IPC Crimes,19 . Sexual Harassment (sec 509 Ipc),194,4,9141,93,4057,49,796,10,21,3,14209,159,14368
+A. IPC Crimes,20 . Cruelty By Husband And Relatives (sec 498a Ipc),156,185,53278,12996,49223,15137,25800,10743,4587,2290,133044,41351,174395
+A. IPC Crimes,21 . Importation Of Girls (sec 366b Ipc),0,0,15,4,22,5,1,2,0,0,38,11,49
+A. IPC Crimes,22 . Causing Death By Negligence (sec 304a Ipc),166,9,35195,108,32764,97,13065,37,781,8,81971,259,82230
+A. IPC Crimes,23 . Other Ipc Crimes,6596,649,444780,22113,378508,22632,174594,9829,21023,1578,1025501,56801,1082302
+A. IPC Crimes,24 . Total Cognizable Crimes Under Ipc,27201,1776,1212166,65896,975762,71266,408939,34468,45663,5888,2669731,179294,2849025
+B. SLL Crimes,1 . Arms Act,234,0,51334,19,27417,9,5730,4,125,1,84840,33,84873
+B. SLL Crimes,2 . Narcotic Drugs & Psychotropic Substances Act,64,5,16321,323,13189,582,4355,298,243,56,34172,1264,35436
+B. SLL Crimes,3 . Gambling Act,1210,6,152060,114,133350,250,58271,108,6036,20,350927,498,351425
+B. SLL Crimes,4 . Excise Act,468,8,85631,2206,72593,3353,29888,1384,2110,91,190690,7042,197732
+B. SLL Crimes,5 . Prohibition Act,474,139,109284,30205,136552,47637,56851,18831,6669,1839,309830,98651,408481
+B. SLL Crimes,6 . Explosives & Explosive Substances Act,16,0,2471,12,2141,8,742,1,71,2,5441,23,5464
+B. SLL Crimes,7 . Immoral Traffic (p) Act,6,30,1773,2325,1401,1584,373,248,40,22,3593,4209,7802
+B. SLL Crimes,8 . Indian Railways Act,2,0,96,0,55,2,7,1,0,0,160,3,163
+B. SLL Crimes,9 . Registration Of Foreigners Act,20,4,448,99,803,91,386,36,40,11,1697,241,1938
+B. SLL Crimes,10 . Protection Of Civil Rights Act - Total,0,0,126,1,158,5,68,0,2,0,354,6,360
+B. SLL Crimes,10 . Protection Of Civil Rights Act - (i) Pcr Act For Scs,0,0,126,1,158,5,66,0,2,0,352,6,358
+B. SLL Crimes,10 . Protection Of Civil Rights Act - (ii) Pcr Act For Sts,0,0,0,0,0,0,2,0,0,0,2,0,2
+B. SLL Crimes,11 . Indian Passport Act,13,7,656,164,732,123,305,19,15,0,1721,313,2034
+B. SLL Crimes,12 . Essential Commodities Act,6,0,3711,9,5049,44,2071,14,132,2,10969,69,11038
+B. SLL Crimes,13 . Terrorist & Disruptive Activities Act,0,0,0,0,0,0,0,0,0,0,0,0,0
+B. SLL Crimes,14 . Antiquities & Art Treasures Act,0,0,26,1,29,1,10,0,0,0,65,2,67
+B. SLL Crimes,15 . Dowry Prohibition Act,33,11,3118,588,3124,840,1478,674,225,151,7978,2264,10242
+B. SLL Crimes,16 . Child Marriage Restraint Act,0,0,0,0,1,0,0,0,0,0,1,0,1
+B. SLL Crimes,17 . Indecent Representation Of Women (p) Act,3,0,161,218,178,185,127,6,1,0,470,409,879
+B. SLL Crimes,18 . Copyright Act,20,1,3870,10,3084,4,735,0,40,0,7749,15,7764
+B. SLL Crimes,19 . Sati Prevention Act,0,0,0,0,0,0,0,0,0,0,0,0,0
+B. SLL Crimes,20 . Sc/st (prevention Of Atrocities) Act - Total,29,1,7841,206,8074,288,4057,109,265,32,20266,636,20902
+B. SLL Crimes,20 . Sc/st (prevention Of Atrocities) Act - (i) Prevention Of Attrocities Act For Scs,28,1,7259,160,7454,244,3810,98,252,26,18803,529,19332
+B. SLL Crimes,20 . Sc/st (prevention Of Atrocities) Act -(ii) Prevention Of Attrocities Act For Sts,1,0,582,46,620,44,247,11,13,6,1463,107,1570
+B. SLL Crimes,21 . Forest Act,8,1,2924,6,2962,2,1260,0,39,1,7193,10,7203
+B. SLL Crimes,22 . Other Sll Crimes #,1743,103,1832147,13689,1269366,15571,555690,6784,53079,630,3712025,36777,3748802
+B. SLL Crimes,Total Cognizable Crimes Under Sll,4349,316,2273998,50195,1680258,70579,722404,28517,69132,2858,4750141,152465,4902606
+C. Grand Total (A+B),C. Grand Total (A+B),31550,2092,3486164,116091,2656020,141845,1131343,62985,114795,8746,7419872,331759,7751631
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+  ,,,,,,,,,,,,,,

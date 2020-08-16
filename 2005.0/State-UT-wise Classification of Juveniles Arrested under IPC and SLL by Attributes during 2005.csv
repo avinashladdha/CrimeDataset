@@ -1,0 +1,39 @@
+Category,States/UTs,By Education - Illiterate,By Education - Primary,By Education - Above Primary But Below Matric/ H.Sec.,By Education - Matric / H.Sec.& Above,By Education - Total,By Family Background - Total Living with Parents,By Family Background - Total Living with Guardians,By Family Background - Homeless,By Family Background - Total,"By Economic Status - Annual Income (Upto Rs.25,000)","By Economic Status - Annual Income (Rs. 25,001 To Rs.50,000)","By Economic Status - Middle Income (Rs. 50,001 To Rs. 1,00,000)","By Economic Status - Middle Income (Rs. 1,00,001 To Rs. 2,00,000)","By Economic Status - Upper Middle Income (Rs. 2,00,001 To Rs. 3,00,000)","By Economic Status - Upper Income (Above Rs. 3,00,000)",By Economic Status - Total,By Recidivism - New Delinquent,By Recidivism - Old Delinquent,By Recidivism - Total
+State,Andhra Pradesh,988,839,463,138,2428,1046,402,980,2428,1633,611,165,19,0,0,2428,2013,415,2428
+State,Arunachal Pradesh,4,34,109,0,147,69,78,0,147,23,54,50,20,0,0,147,122,25,147
+State,Assam,140,120,94,19,373,254,95,24,373,244,69,29,13,12,6,373,293,80,373
+State,Bihar,95,72,142,28,337,265,60,12,337,160,63,109,5,0,0,337,325,12,337
+State,Chhattisgarh,888,1507,589,153,3137,2581,536,20,3137,2500,505,102,20,10,0,3137,2765,372,3137
+State,Goa,32,14,12,8,66,61,1,4,66,51,6,5,4,0,0,66,64,2,66
+State,Gujarat,640,1298,596,214,2748,2263,244,241,2748,2192,330,169,49,4,4,2748,2404,344,2748
+State,Haryana,234,418,798,173,1623,1513,65,45,1623,886,546,139,52,0,0,1623,1601,22,1623
+State,Himachal Pradesh,5,48,103,38,194,192,2,0,194,89,95,10,0,0,0,194,194,0,194
+State,Jammu & Kashmir,2,4,1,0,7,7,0,0,7,7,0,0,0,0,0,7,7,0,7
+State,Jharkhand,307,271,236,246,1060,486,548,26,1060,361,349,192,158,0,0,1060,499,561,1060
+State,Karnataka,96,95,44,7,242,211,12,19,242,188,47,6,0,0,1,242,235,7,242
+State,Kerala,24,131,247,62,464,397,41,26,464,296,133,32,3,0,0,464,462,2,464
+State,Madhya Pradesh,1553,2406,2003,416,6378,5302,844,232,6378,4136,1346,611,181,82,22,6378,5673,705,6378
+State,Maharashtra,1153,2505,2270,375,6303,5254,664,385,6303,4951,993,247,105,3,4,6303,6065,238,6303
+State,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Meghalaya,50,44,12,1,107,85,21,1,107,62,18,15,12,0,0,107,89,18,107
+State,Mizoram,50,238,104,21,413,357,56,0,413,132,127,78,49,24,3,413,251,162,413
+State,Nagaland,0,3,0,0,3,3,0,0,3,3,0,0,0,0,0,3,3,0,3
+State,Orissa,251,208,178,18,655,501,79,75,655,603,42,6,4,0,0,655,549,106,655
+State,Punjab,50,41,33,11,135,134,0,1,135,55,69,8,2,1,0,135,135,0,135
+State,Rajasthan,517,767,608,66,1958,1669,256,33,1958,1413,339,171,32,3,0,1958,1867,91,1958
+State,Sikkim,0,15,9,0,24,24,0,0,24,24,0,0,0,0,0,24,24,0,24
+State,Tamil Nadu,979,811,319,39,2148,1469,209,470,2148,1985,161,1,1,0,0,2148,2009,139,2148
+State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttar Pradesh,34,34,36,11,115,97,15,3,115,57,44,14,0,0,0,115,115,0,115
+State,Uttaranchal,0,4,31,4,39,35,4,0,39,24,8,7,0,0,0,39,37,2,39
+State,West Bengal,53,61,24,0,138,65,51,22,138,136,2,0,0,0,0,138,133,5,138
+State,Total (States),8145,11988,9061,2048,31242,24340,4283,2619,31242,22211,5957,2166,729,139,40,31242,27934,3308,31242
+Union Territory,A & N Islands,0,4,6,0,10,7,3,0,10,2,8,0,0,0,0,10,10,0,10
+Union Territory,Chandigarh,54,41,17,4,116,116,0,0,116,82,34,0,0,0,0,116,116,0,116
+Union Territory,D & N Haveli,3,12,4,0,19,19,0,0,19,19,0,0,0,0,0,19,19,0,19
+Union Territory,Daman & Diu,0,0,1,0,1,1,0,0,1,0,0,1,0,0,0,1,1,0,1
+Union Territory,Delhi,458,331,394,67,1250,872,278,100,1250,938,240,53,17,1,1,1250,1208,42,1250
+Union Territory,Lakshadweep,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,1
+Union Territory,Pondicherry,0,17,25,0,42,42,0,0,42,23,16,3,0,0,0,42,42,0,42
+Union Territory,Total (UTs),515,406,447,71,1439,1058,281,100,1439,1065,298,57,17,1,1,1439,1397,42,1439
+Total (All-India),Total (All-India),8660,12394,9508,2119,32681,25398,4564,2719,32681,23276,6255,2223,746,140,41,32681,29331,3350,32681

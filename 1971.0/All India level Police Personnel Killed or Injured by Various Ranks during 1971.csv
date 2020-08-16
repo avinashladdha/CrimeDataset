@@ -1,0 +1,8 @@
+"Date","Code","CommodityId","CommodityName","DistrictName","DistrictCode","Stock","CommodityStock","TotalStock"
+"1970-01-01T05:30:00Z","Constables","133","2362","","","","",""
+"1970-01-01T05:30:00Z","Head Constable","21","354","","","","",""
+"1970-01-01T05:30:00Z","Assistant Sub-Inspectors","8","94","","","","",""
+"1970-01-01T05:30:00Z","Sub-Inspector","19","335","","","","",""
+"1970-01-01T05:30:00Z","Inspectors","4","60","","","","",""
+"1970-01-01T05:30:00Z","Other Gazetted Police Officers","2","43","","","","",""
+"1970-01-01T05:30:00Z","Total","187","3248","","","","",""

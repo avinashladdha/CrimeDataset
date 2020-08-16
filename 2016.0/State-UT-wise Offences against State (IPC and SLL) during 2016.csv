@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),"IPC - Offences against State (Section 121, 121A, 122, 123, 124-A IPC) (Col.4)","IPC - Imputation, Assertions Prejudicial To National Integration (Section 153B IPC) (Col.5)",IPC - Total IPC Offences against State (Col.6) = (Col.4+ Col.5),SLL - Prevention of Damage to Public Property (Col.7),"SLL - Unlawful Activities (Prevention) Act, 1967 (Col.8)","SLL - Official Secrets Act, 1923 (Col.9)",SLL - Total SLL* Offences against State (Col.10) = (Col.7+Col.8+Col.9),Total Offences against the State (IPC+SLL) (Col.11) = (Col.6+Col.10)
+1,State,Andhra Pradesh,1,0,1,39,0,0,39,40
+2,State,Arunachal Pradesh,2,0,2,8,0,0,8,10
+3,State,Assam,21,0,21,105,216,1,322,343
+4,State,Bihar,8,0,8,151,48,0,199,207
+5,State,Chhattisgarh,0,0,0,6,3,0,9,9
+6,State,Goa,0,0,0,11,0,0,11,11
+7,State,Gujarat,0,0,0,43,0,1,44,44
+8,State,Haryana,14,4,18,1265,0,3,1268,1286
+9,State,Himachal Pradesh,1,0,1,56,1,0,57,58
+10,State,Jammu & Kashmir,16,0,16,8,161,0,169,185
+11,State,Jharkhand,0,0,0,29,77,0,106,106
+12,State,Karnataka,6,0,6,136,6,0,142,148
+13,State,Kerala,11,2,13,268,36,0,304,317
+14,State,Madhya Pradesh,2,4,6,15,0,0,15,21
+15,State,Maharashtra,0,4,4,172,1,1,174,178
+16,State,Manipur,8,0,8,0,327,0,327,335
+17,State,Meghalaya,42,0,42,4,5,0,9,51
+18,State,Mizoram,0,0,0,0,0,0,0,0
+19,State,Nagaland,5,0,5,0,10,0,10,15
+20,State,Odisha,18,0,18,2,5,0,7,25
+21,State,Punjab,0,0,0,25,2,5,32,32
+22,State,Rajasthan,2,3,5,73,1,3,77,82
+23,State,Sikkim,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,0,1,1,1818,0,8,1826,1827
+25,State,Telangana,2,0,2,88,0,0,88,90
+26,State,Tripura,0,0,0,7,0,0,7,7
+27,State,Uttar Pradesh,9,10,19,1380,10,5,1395,1414
+28,State,Uttarakhand,1,1,2,2,0,0,2,4
+29,State,West Bengal,7,2,9,83,9,1,93,102
+Total (States),State,Total (States),176,31,207,5794,918,28,6740,6947
+30,UT,A & N Islands,0,0,0,7,0,0,7,7
+31,UT,Chandigarh,0,0,0,2,0,0,2,2
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0
+34,UT,Delhi,2,0,2,14,4,2,20,22
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,8,0,0,8,8
+Total (UTs),UT,Total (UTs),2,0,2,31,4,2,37,39
+Total (All India),Total (All India),Total (All India),178,31,209,5825,922,30,6777,6986

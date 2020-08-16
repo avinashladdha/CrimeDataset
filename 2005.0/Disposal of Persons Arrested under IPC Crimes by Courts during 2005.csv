@@ -1,0 +1,31 @@
+Crime Head (Col.1),Total No. of Persons under Trial Including those from Previous Year (Col.2),No. of Persons Whose - Cases Compounded or Withdrawn (Col.3),No. of Persons Whose - Trial Completed (Col.4),No. of Persons Whose - Trial Remained Pending (Col.5),No. of Persons Convicted (Col.6),Percentage of Persons - Whose Trails Remained Pending (Col.7) = (Col.(6)× 100 / Col(3)},Percentage of Persons - Convicted to Trials Completed (Col.8) = (Col.(7) × 100/ Col(5)) 
+Murder,438891,470,68169,370252,20998,84.4,30.8
+Attempt to Commit Murder,420667,1164,65581,353922,18134,84.1,27.7
+C.H. Not Amounting to Murder,39364,36,6129,33199,2069,84.3,33.8
+Rape - Total,105650,596,21365,83689,5076,79.2,23.8
+Rape - (i) Custodial Rape,3,0,0,3,0,100,0
+Rape - (ii) Other Rape,105647,596,21365,83686,5076,79.2,23.8
+Kidnapping & Abduction - Total,163152,1064,22170,139918,5404,85.8,24.4
+Kidnapping & Abduction - (i) of Women & Girls,101291,836,14200,86255,3500,85.2,24.6
+Kidnapping & Abduction - (ii) of Others,61861,228,7970,53663,1904,86.7,23.9
+Dacoity,165228,116,17697,147415,3551,89.2,20.1
+Preparation & Assembly for Dacoity,45901,31,6375,39495,1264,86,19.8
+Robbery,182892,234,21355,161303,6038,88.2,28.3
+Burglary,417473,1772,50498,365203,16382,87.5,32.4
+Theft - Total,1019843,4028,127438,888377,44825,87.1,35.2
+Theft - (i) Auto Theft,157478,345,25234,131899,10503,83.8,41.6
+Theft - (ii) Other Theft,862365,3683,102204,756478,34322,87.7,33.6
+Riots,2628508,34248,280207,2314053,46427,88,16.6
+Criminal Breach of Trust,116676,499,10330,105847,2535,90.7,24.5
+Cheating,270606,2207,24929,243470,6823,90,27.4
+Counterfeiting,11441,21,1542,9878,568,86.3,36.8
+Arson,70997,381,11367,59249,2135,83.5,18.8
+Hurt,2127253,96035,313891,1717327,95983,80.7,30.6
+Dowry Death,80385,447,15020,64918,4575,80.8,30.5
+Molestation,197299,7352,30229,159718,8390,81,27.8
+Sexual Harassment,42626,835,10143,31648,5607,74.2,55.3
+Cruelty by Husband and Relatives,573881,13447,74496,485938,14583,84.7,19.6
+Importation of Girls,412,0,31,381,12,92.5,38.7
+Causing Death by Negligence,247667,2549,39917,205201,16367,82.9,41
+Other IPC Crimes,4540880,136455,744540,3659885,347446,80.6,46.7
+Total Cognizable Crimes Under IPC,13907692,303987,1963419,11640286,675192,83.7,34.4

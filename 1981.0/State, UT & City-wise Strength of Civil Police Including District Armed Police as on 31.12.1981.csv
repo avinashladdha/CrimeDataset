@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,"Number of I.Gs., D.Is.G.&Ss.P.",Number of A.Ss.P./ Dy.S.P.,Number of Inspector & Sub-Inspectors ,Number of Officers Below the Rank of Sub-Inspectors,Total
+1,State,Andhra Pradesh ,100,162,2386,27005,29653
+2,State,Assam,53,167,2284,18014,20518
+3,State,Bihar,104,312,6202,45669,52287
+4,State,Gujarat,64,127,2592,38827,41610
+5,State,Haryana,33,75,584,12748,13440
+6,State,Himachal Pradesh,46,41,223,4978,5288
+7,State,Jammu and Kashmir,47,74,904,13863,14888
+8,State,Karnataka ,66,135,2433,32093,34727
+9,State,Kerala,46,96,1186,17898,19226
+10,State,Madhya Pradesh,131,425,3167,47365,51088
+11,State,Maharashtra,125,273,5989,80728,87115
+12,State,Manipur,20,34,247,3010,3311
+13,State,Meghalaya,15,22,287,3361,3685
+14,State,Nagaland,14,20,139,2963,3136
+15,State,Orissa,91,156,2165,18755,21167
+16,State,Punjab,54,116,973,23290,24438
+17,State,Rajasthan,64,251,2220,36193,38728
+18,State,Sikkim ,14,12,113,1105,1244
+19,State,Tamil Nadu,64,223,4217,39961,44465
+20,State,Tripura,12,29,409,2705,3155
+21,State,Uttar Pradesh,292,726,11405,96148,108571
+22,State,West Bengal ,101,198,5834,36733,42866
+Total (States),State,Total (States),1556,3674,55959,603412,664601
+23,UT,A & N Islands,2,11,61,1605,1679
+24,UT,Arunachal Pradesh,8,13,119,1319,1459
+25,UT,Chandigarh,2,3,69,1122,1196
+26,UT,D & N Haveli,NA,1,6,136,143
+27,UT,Delhi,34,84,2174,16232,18524
+28,UT,"Goa, Daman & Diu",3,8,74,1661,1746
+29,UT,Lakshadweep,1,NA,17,258,276
+30,UT,Mizoram,12,25,211,1356,1604
+31,UT,Pondicherry,9,NA,64,831,904
+Total (UTs),UT,Total (UTs),71,145,2795,24520,27531
+Total (All-India),Total (All-India),Total (All-India),1627,3819,58754,627932,692132
+1,City,Ahmedabad ,8,11,376,4493,4888
+2,City,Bangalore ,6,16,351,4841,5214
+3,City,Bombay,21,69,2740,22620,25450
+4,City,Calcutta,19,39,1805,11206,13069
+5,City,Delhi,34,84,2174,16232,18524
+6,City,Hyderabad,16,23,434,4228,4701
+7,City,Kanpur,3,16,579,5272,5870
+8,City,Madras,8,28,518,6947,7501
+9,City,Jaipur,1,15,245,3900,4161
+10,City,Pune,6,12,212,4214,4444
+11,City,Nagpur,5,10,169,2263,2447
+12,City,Lucknow,NA,NA,NA,NA,NA
+Total (Cities),City,Total (Cities),127,323,9603,86216,96269

@@ -1,0 +1,21 @@
+S. No. (Col.1),Cities (Col.2),Year - 2014 (Col.3),Year - 2015 (Col.4),Year - 2016 (Col.5),Percentage Share of City (2016) (Col.6),Rank Based on Incidence/ Percentage share (2016) (Col.7),Actual Population (In Lakhs)+ (Col.8),Crime Rate ++(Col.14/ Population+) (2016) (Col.9),Rank Based on Crime Rate (2016) (Col.10)
+1,Ahmedabad (Gujarat),32,28,77,1.8,12,63.5,1.2,13
+2,Bengaluru (Karnataka),675,1042,762,18.3,2,85,9,3
+3,Chennai (Tamil Nadu),34,29,26,0.6,16,87,0.3,19
+4,Coimbatore (Tamil Nadu),20,20,18,0.4,18,21.5,0.8,16
+5,Delhi,224,169,90,2.2,11,163.1,0.6,18
+6,Ghaziabad (Uttar Pradesh),61,25,62,1.5,14,23.6,2.6,10
+7,Hyderabad (Telangana),386,369,291,7,5,77.5,3.8,9
+8,Indore (Madhya Pradesh),63,65,21,0.5,17,21.7,1,15
+9,Jaipur (Rajasthan),374,563,532,12.8,3,30.7,17.3,1
+10,Kanpur (Uttar Pradesh),44,338,136,3.3,9,29.2,4.7,7
+11,Kochi (Kerala),63,26,33,0.8,15,21.2,1.6,11
+12,Kolkata (West Bengal),98,111,168,4,7,141.1,1.2,14
+13,Kozhikode (Kerala),21,10,16,0.4,19,20.3,0.8,17
+14,Lucknow (Uttar Pradesh),205,329,361,8.7,4,29,12.4,2
+15,Mumbai (Maharashtra),608,979,980,23.5,1,184.1,5.3,6
+16,Nagpur (Maharashtra),54,102,97,2.3,10,25,3.9,8
+17,Patna (Bihar),84,187,167,4,8,20.5,8.1,4
+18,Pune (Maharashtra),140,85,269,6.4,6,50.5,5.3,5
+19,Surat (Gujarat),79,84,66,1.6,13,45.8,1.4,12
+Total Cities,Total Cities,3265,4561,4172,100,NA,1140.3,3.7,NA

@@ -1,0 +1,19 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total Number of Cases for Trial Including Pending Cases (Col. 3),Number of Cases - Compounded or Withdrawn (Col. 4),Number of Cases - In which Trials were Completed - Convicted (Col. 5),Number of Cases - In which Trials were Completed - Acquitted or Discharged (Col. 6),Number of Cases - In which Trials were Completed - Total (Col. 5+6) (Col. 7),Number of Cases - Pending Trial (Col. 8)
+1,Murder,114957,494,8014,11227,19241,95222
+2,Attempt to Commit Murder,89511,783,6686,8898,15584,73144
+3,C.H. Not Amounting to Murder,13588,97,1074,1537,2611,10880
+4,Rape,33994,283,1981,3886,5867,27844
+5,Kidnapping & Abduction,44438,531,2484,4513,6997,36910
+5,I) Of Women & Girls,35316,406,1853,3573,5426,29484
+5,II) Of Others,9122,125,631,940,1571,7426
+6,Dacoity,31819,240,1492,3001,4493,27086
+7,Preparation & Assembly for Dacoity,4230,4,315,576,891,3335
+8,Robbery,63679,298,3380,5583,8963,54418
+9,Burglary,204555,4038,16628,19416,36044,164473
+10,Theft,590360,8553,54692,52433,107125,474682
+11,Riots,367055,13050,15446,34350,49796,304209
+12,Criminal Breach of Trust,65615,921,2725,4540,7265,57429
+13,Cheating,73080,1141,3505,4684,8189,63750
+14,Counterfeiting,1499,15,100,111,211,1273
+15,Other IPC Crimes,2575981,112761,221536,238378,459914,2003306
+16,Total Cognizable Crimes Under IPC,4274361,143209,340058,393133,733191,3397961

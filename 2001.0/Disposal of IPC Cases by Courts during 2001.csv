@@ -1,0 +1,31 @@
+Crime Head (Col.1),Total No. of Cases for Trial including Pending Cases (Col.2),Cases Withdrawn by Govt. (Col.3),No. of Cases Compounded or Withdrawn (Col.4),No. of Cases In which Trials were Completed - Convicted (Col.5),No. of Cases In which Trials were Completed - Acquitted or Discharged (Col.6),No. of Cases In which Trials were Completed - Total {(Col.5) + (Col.6)} = (Col.7),Pending Trial (Col.8)
+Murder,178188,5,251,8491,15422,23913,154024
+Attempt to Commit Murder,145415,5,729,7307,14098,21405,123281
+C.H. not Amounting to Murder,17735,0,52,848,1738,2586,15097
+Rape - Total,67455,2,148,3066,8669,11735,55572
+Rape - (i) Custodial Rape,7,0,0,0,2,2,5
+Rape - (ii) Other Rape,67448,2,148,3066,8667,11733,55567
+Kidnapping & Abduction - Total,72138,44,511,2997,7459,10456,61171
+Kidnapping & Abduction - (i) of Women & Girls,50191,27,389,2003,5051,7054,42748
+Kidnapping & Abduction - (ii) of Others,21947,17,122,994,2408,3402,18423
+Dacoity,36790,0,28,1033,3039,4072,32690
+Preparation & Assembly for Dacoity,6528,5,3,212,650,862,5663
+Robbery,86360,9,192,2866,6938,9804,76364
+Burglary,246896,22,1558,12722,24169,36891,208447
+Theft - Total,648387,182,3297,35532,52733,88265,556825
+Theft - (i) Auto Theft,99996,42,404,6252,7591,13843,85749
+Theft - (ii) Other Theft,548391,140,2893,29280,45142,74422,471076
+Riots,416240,68,9671,13196,35433,48629,357940
+Criminal Breach of Trust,75534,8,552,2293,5404,7697,67285
+Cheating,137112,31,1225,3750,8542,12292,123595
+Counterfeiting,3777,1,7,223,317,540,3230
+Arson,33271,5,312,1062,3889,4951,28008
+Hurt,970695,101,58165,44096,87236,131332,781198
+Dowry Death,27969,13,180,1653,3439,5092,22697
+Molestation,129236,38,6418,6020,13421,19441,103377
+Sexual Harassment,25487,41,560,4716,2319,7035,17892
+Cruelty by Husband and Relatives,173180,19,4159,5124,17977,23101,145920
+Importation of Girls,109,0,5,5,18,23,81
+Causing Death by Negligence,156028,5,1377,11397,14088,25485,129166
+Other IPC Crimes,2566504,84,81878,211895,224390,436285,2048341
+Total Cognizable Crimes under IPC,6221034,688,171278,380504,551388,931892,5117864

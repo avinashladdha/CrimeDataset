@@ -1,0 +1,22 @@
+S. No. (Col.1),City (Col.2),Cases Pending Trial from the Previous Year (Col.3),Cases Sent for Trial during the Year (Col.4),Total Cases for Trial during the Year (Col.5) = (Col.3+4),Number of Cases Withdrawn by the Govt. (Col.6),Number of Cases Disposed by Plea Bargaining (Col.7),Cases Compounded (Col.8),Cases in Which Trials were Completed (Col.9) = (Col. 10+11),Cases Convicted (Col.10),Cases Acquitted or Discharged (Col.11),Cases Disposed off by Courts (Col.12) = (Col.6+Col.7 +Col.8+Col.9),Cases Pending Trial at the End of the Year (Col.13) = (Col.5 - Col.12),Conviction Rate (Col.14) = (Col.10/ Col.9) * 100,Pendency Percentage (Col.15) = (Col.13/ Col.5) * 100
+1,Ahmedabad (Gujarat),74,227,301,0,0,0,0,0,0,0,301,NA,100
+2,Bengaluru (Karnataka),129,66,195,0,0,0,5,2,3,5,190,40,97.4
+3,Chennai (Tamil Nadu),100,98,198,0,0,0,64,37,27,64,134,57.8,67.7
+4,Coimbatore (Tamil Nadu),28,201,229,0,0,0,124,123,1,124,105,99.2,45.9
+5,Delhi,426,359,785,0,0,7,65,32,33,72,713,49.2,90.8
+6,Ghaziabad (Uttar Pradesh),13,0,13,0,0,0,0,0,0,0,13,NA,100
+7,Hyderabad (Telangana),17,15,32,0,0,3,1,0,1,4,28,0,87.5
+8,Indore (Madhya Pradesh),98,54,152,0,0,3,10,6,4,13,139,60,91.4
+9,Jaipur (Rajasthan),68,36,104,0,0,0,0,0,0,0,104,NA,100
+10,"Kanpur 
+(Uttar Pradesh)",0,0,0,0,0,0,0,0,0,0,0,NA,NA
+11,Kochi (Kerala),7,14,21,0,0,0,0,0,0,0,21,NA,100
+12,Kolkata (West Bengal),21,15,36,0,0,0,0,0,0,0,36,NA,100
+13,Kozhikode (Kerala),19,11,30,0,0,0,3,0,3,3,27,0,90
+14,Lucknow (Uttar Pradesh),6,28,34,0,0,0,0,0,0,0,34,NA,100
+15,Mumbai (Maharashtra),492,417,909,0,0,3,54,42,12,57,852,77.8,93.7
+16,Nagpur (Maharashtra),105,117,222,0,0,0,6,0,6,6,216,0,97.3
+17,Patna (Bihar),3,0,3,0,0,0,0,0,0,0,3,NA,100
+18,Pune (Maharashtra),212,86,298,0,0,0,7,0,7,7,291,0,97.7
+19,Surat (Gujarat),7,0,7,0,0,0,0,0,0,0,7,NA,100
+Total Cities,Total Cities,1825,1744,3569,0,0,16,339,242,97,355,3214,71.4,90.1

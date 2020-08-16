@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,Number of Cases Reported,Below 16 Years,Between 16 to 30 Years,Above 30 Years
+1,State,Andhra Pradesh,428,29,301,98
+2,State,Arunachal Pradesh,9,3,5,1
+3,State,Assam,398,92,217,89
+4,State,Bihar,794,120,423,251
+5,State,Gujarat,149,28,110,11
+6,State,Haryana,142,36,93,13
+7,State,Himachal Pradesh,52,13,30,9
+8,State,Jammu & Kashmir,187,13,143,31
+9,State,Karnataka,133,56,69,8
+10,State,Kerala,138,29,96,13
+11,State,Madhya Pradesh,1506,32,1205,269
+12,State,Maharashtra,804,286,408,110
+13,State,Manipur,10,4,5,1
+14,State,Meghalaya,19,4,13,2
+15,State,Mizoram,46,19,23,4
+16,State,Nagaland,10,NA,10,NA
+17,State,Orissa,172,19,137,16
+18,State,Punjab,49,12,30,7
+19,State,Rajasthan,598,40,445,113
+20,State,Sikkim,5,2,2,1
+21,State,Tamil Nadu,252,62,162,28
+22,State,Tripura,38,4,27,7
+23,State,Uttar Pradesh,1292,161,909,222
+24,State,West Bengal,612,156,385,71
+Total (States),State,Total (States),7843,1220,5248,1375
+25,UT,A & N Islands,2,2,NA,NA
+26,UT,Chandigarh,5,2,NA,3
+27,UT,D & N Haveli,NA,NA,NA,NA
+28,UT,Delhi,89,30,51,8
+29,UT,"Goa, Daman & Diu",8,5,3,NA
+30,UT,Lakshadweep,NA,NA,NA,NA
+31,UT,Pondicherry,5,2,3,NA
+Total (UTs),UT,Total (UTs),109,41,57,11
+All India,All India,All India,7952,1261,5305,1386
+1,City,Ahmedabad,4,2,2,NA
+2,City,Bangalore,25,14,10,1
+3,City,Bombay,102,52,43,7
+4,City,Calcutta,31,25,6,NA
+5,City,Delhi,72,24,42,6
+6,City,Hyderabad,23,7,13,3
+7,City,Jaipur,4,NA,4,NA
+8,City,Kanpur,27,NA,19,8
+9,City,Lucknow,19,NA,17,2
+10,City,Madras,16,NA,11,5
+11,City,Nagpur,63,19,32,12
+12,City,Pune,27,13,12,2
+Total (Cities),City,Total (Cities),413,156,211,46

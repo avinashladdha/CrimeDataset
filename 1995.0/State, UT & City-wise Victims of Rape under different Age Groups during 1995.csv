@@ -1,0 +1,59 @@
+SL. No.,Category,States/U.Ts/Cities,No. of Cases Reported,Number of Victims - Below 10 Years,Number of Victims - 10-16 Years,Number of Victims - 16-30 Years,Number of Victims - 30 Years and Above
+1,State,Andhra Pradesh ,856,77,245,412,122
+2,State,Arunachal Pradesh,25,0,0,17,8
+3,State,Assam,588,17,140,358,73
+4,State,Bihar,1312,29,320,739,224
+5,State,Goa,19,3,8,8,0
+6,State,Gujarat,309,17,79,174,39
+7,State,Haryana,311,27,85,167,32
+8,State,Himachal Pradesh,116,18,35,51,12
+9,State,Jammu and Kashmir,109,1,11,92,5
+10,State,Karnataka ,263,22,57,153,31
+11,State,Kerala,266,13,89,144,20
+12,State,Madhya Pradesh,3119,107,828,1710,474
+13,State,Maharashtra,1362,120,386,702,154
+14,State,Manipur,12,2,1,9,0
+15,State,Meghalaya,17,6,1,10,0
+16,State,Mizoram,41,3,4,27,7
+17,State,Nagaland,16,0,0,13,3
+18,State,Orissa,553,4,97,369,83
+19,State,Punjab,96,6,25,50,15
+20,State,Rajasthan,1036,26,98,680,232
+21,State,Sikkim ,3,0,3,0,0
+22,State,Tamil Nadu,268,19,37,193,19
+23,State,Tripura,75,2,16,37,20
+24,State,Uttar Pradesh,1808,76,408,1037,287
+25,State,West Bengal*,787,78,282,374,69
+Total (States),State,Total (States),13367,673,3255,7526,1929
+26,UT,A & N Islands,5,1,0,3,1
+27,UT,Chandigarh,5,2,0,2,1
+28,UT,D & N Haveli,1,0,0,0,1
+29,UT,Daman & Diu,2,0,1,1,0
+30,UT,Delhi*,372,71,63,219,23
+31,UT,Lakshadweep,0,0,0,0,0
+32,UT,Pondicherry,2,0,1,1,0
+Total (UTs),UT,Total (UTs),387,74,65,226,26
+Total (All-India),Total (All-India),Total (All-India),13754,747,3320,7752,1955
+33,City,Ahmedabad ,3,0,3,0,0
+34,City,Bangalore ,42,8,13,18,3
+35,City,Bhopal,62,2,26,24,10
+36,City,Bombay,210,30,86,83,11
+37,City,Calcutta,54,10,14,25,5
+38,City,Coimbatore,1,0,0,1,0
+39,City,Delhi,305,68,53,163,21
+40,City,Hyderabad,41,10,27,4,0
+41,City,Indore,25,2,5,14,4
+42,City,Jaipur,22,5,9,6,2
+43,City,Kanpur,44,8,10,24,2
+44,City,Kochi,7,0,1,5,1
+45,City,Lucknow,29,3,7,18,1
+46,City,Ludhiana,11,3,4,3,1
+47,City,Madras,11,3,2,6,0
+48,City,Madurai,7,0,1,6,0
+49,City,Nagpur,56,11,16,26,3
+50,City,Patna,26,0,0,21,5
+51,City,Pune,66,6,15,42,3
+52,City,Surat,16,2,4,10,0
+53,City,Vadodara,7,0,0,2,5
+54,City,Varanasi,4,0,2,2,0
+55,City,Vishakhapatnam,7,2,1,4,0

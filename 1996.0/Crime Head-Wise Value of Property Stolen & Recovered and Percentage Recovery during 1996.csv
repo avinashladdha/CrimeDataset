@@ -1,0 +1,8 @@
+SL.No.,Crime Head,Number of Cases in which Property was - Stolen,Number of Cases in which Property was - Recovered,Percentage of Cases of Recovery,Value of Property (Rs. In Lakh) - Stolen,Value of Property (Rs. In Lakh) - Recovered,Percentage Recovery
+1,Dacoity,7684,2439,31.7,4424.7,1598.7,36.1
+2,Robbery,21091,7982,37.8,6559.9,1923.3,29.3
+3,Burglary,110643,30076,27.2,16766.9,3731.3,22.3
+4,Theft,275960,93956,34,43250.5,16297,37.7
+5,Criminal Breach of Trust,11654,3648,31.3,165801,2208.3,13.3
+6,Others,20979,6278,29.9,12087.5,2383.3,19.7
+7,Total,448011,144379,32.2,99669.5,28141.9,28.2

@@ -1,0 +1,89 @@
+Crime Head,2014,2015,Percentage Variation in 2015 Over 2014,Percentage Share of Arrestees under Each Crime During 2015
+1 Murder,69320,62159,-10.3,1.7
+2 Attempt to Commit Murder,86153,93937,9,2.6
+3 Culpable Homicide not Amounting to Murder,7135,6486,-9.1,0.2
+4 Attempt to Commit Culpable Homicide,7226,9895,36.9,0.3
+5 Rape,48193,42036,-12.8,1.2
+5.1 Custodial Rape $,286,134,-53.1,0
+5.1.1 Gang Rape,13,10,-23.1,0
+5.1.2 Other Rape,273,124,-54.6,0
+5.2 Rape other than Custodial,47907,41902,-12.5,1.2
+5.2.1 Gang Rape,4972,4707,-5.3,0.1
+5.2.2 Other Rape,42935,37195,-13.4,1
+6 Attempt to Commit Rape,4465,4338,-2.8,0.1
+7 Kidnapping & Abduction,82487,73557,-10.8,2
+7.1 Kidnapping & Abduction,17790,16922,-4.9,0.5
+7.2 Kidnaping & Abduction in Order to Murder,2298,1910,-16.9,0.1
+7.3 Kidnapping for Ransom,1531,1667,8.9,0
+7.4 Kidnapping & Abduction of Women to Compel her for Marriage,42728,38487,-9.9,1.1
+7.5 Other Kidnapping,18140,14571,-19.7,0.4
+8 Dacoity,18418,16487,-10.5,0.5
+8.1 Dacoity with Murder,335,307,-8.4,0
+8.2 Other Dacoity,18083,16180,-10.5,0.4
+9 Making Preparation and Assembly for Committing Dacoity,12644,15185,20.1,0.4
+10 Robbery,51312,46899,-8.6,1.3
+11 Criminal Trespass/Burglary,90503,79379,-12.3,2.2
+11.1 Criminal Trespass/Burglary,64960,59427,-8.5,1.6
+11.2 House Trespass & House Breaking,25543,19952,-21.9,0.5
+12 Theft,259441,222556,-14.2,6.1
+12.1 Auto Theft,79680,71730,-10,2
+12.2 Other Thefts,179761,150826,-16.1,4.1
+13 Unlawful Assembly,46683,69475,48.8,1.9
+14 Riots *,308544,294289,-4.6,8.1
+14.1 Communal,5705,5370,-5.9,0.1
+14.2 Industrial,688,1322,92.2,0
+14.3 Political,10318,11635,12.8,0.3
+14.4 Caste Conflict,7969,12568,57.7,0.3
+14.4.1 SC/STs Vs. Non-SCs/STs,1993,7047,253.6,0.2
+14.4.2 Other Caste Riots,5976,5521,-7.6,0.2
+14.5 Agrarian,3540,10353,192.5,0.3
+14.6 Students,1474,3600,144.2,0.1
+14.7 Sectarian,71,6642,9254.9,0.2
+14.8 Other Riots,278779,242799,-12.9,6.7
+15 Criminal Breach of Trust,27360,24524,-10.4,0.7
+16 Cheating,120788,112916,-6.5,3.1
+17 Forgery,9196,14138,53.7,0.4
+18 Counterfeiting,2558,2089,-18.3,0.1
+18.1 Offences related to Counterfeit Coin,318,26,-91.8,0
+18.2 Counterfeiting Government Stamp,2,1,-50,0
+18.3 Counterfeit Currency & Bank Notes,2238,2062,-7.9,0.1
+18.3.1 Counterfeiting Currency Notes or Bank Notes,1072,753,-29.8,0
+18.3.2 Using Forged or Counterfeit Currency/Bank Notes,835,988,18.3,0
+18.3.3 Possession of Forged or counterfeiting Currency / Bank Notes,271,291,7.4,0
+18.3.4 Make/Possess Materials for Forging or Counterfeiting Currency/Bank Notes,33,27,-18.2,0
+18.3.5 Make/Use Documents Resembling Currency Notes/Bank Notes,27,3,-88.9,0
+19 Arson,14516,10661,-26.6,0.3
+20 Grievous Hurt*,188916,146236,-22.6,4
+20.1 Grievous Hurt,188618,145867,-22.7,4
+20.2 Acid attack,241,305,26.6,0
+20.3 Attempt to Acid Attack,57,64,12.3,0
+21 Dowry Deaths,23587,19973,-15.3,0.5
+22 Assault on Women with Intent to Outrage her Modesty,104243,101571,-2.6,2.8
+22.1 Sexual Harassment,27964,31098,11.2,0.9
+22.2 Assault on Women with Intent to Disrobe,8255,10163,23.1,0.3
+22.3 Voyeurism,985,979,-0.6,0
+22.4 Stalking,5439,6694,23.1,0.2
+22.5 Others,61600,52637,-14.6,1.4
+23 Insult to the Modesty of Women,11017,9870,-10.4,0.3
+23.1 At Office Premises,55,92,67.3,0
+23.2 Places related to Work Other than Office,645,847,31.3,0
+23.3 In Public Transport system,139,392,182,0
+23.4 in Other Places,10178,8539,-16.1,0.2
+24 Cruelty by Husband or his Relatives,225648,187067,-17.1,5.1
+25 Importation of Girls from Foreign Country,42,10,-76.2,0
+26 Causing Death by Negligence,122011,116759,-4.3,3.2
+26.1 Deaths due to Negligent Driving/Act,114118,111136,-2.6,3.1
+26.2 Deaths due to Other Causes,7893,5623,-28.8,0.2
+27 Offences against State,224,238,6.3,0
+27.1 Sedition,58,73,25.9,0
+27.2 Other offences against State,166,165,-0.6,0
+28 Offences Promoting Enmity Between Different Groups,648,941,45.2,0
+28.1 Promoting Enmity on Ground of Religion Race and Place of Birth,637,888,39.4,0
+28.2 Imputation & Assertions Prejudicial to National Integration,11,53,381.8,0
+29 Extortion,9772,13472,37.9,0.4
+30 Disclosure of Identity of Victims,2,0,-100,0
+31 Causing Injuries under Rash Driving Act,394004,426435,8.2,11.7
+32 Human Trafficking (Section 370 & 370A),1335,1746,30.8,0
+33 Unnatural Offences,1279,1491,16.6,0
+34 Other IPC crimes,1441142,1409781,-2.2,38.8
+Total Cognizable IPC crimes,3790812,3636596,-4.1,100

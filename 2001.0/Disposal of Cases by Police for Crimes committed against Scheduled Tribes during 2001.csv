@@ -1,0 +1,12 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Cases for Investigation including Pending Cases (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases in which Investigation was Refused (Col. 5),No. of Cases in which Investigation was Completed - Charge Found False/ Mistake of Fact or Law Etc. (Col. 6),No. of Cases in which Investigation was Completed - Final Report True Submitted (Col. 7),No. of Cases in which Investigation was Completed - Chargesheets were Submitted (Col. 8),No. of Cases in which Investigation was Completed - Total {(Col. 6 + Col. 7 + Col. 8)} = (Col. 9),No. of Cases Pending Investigation (Col. 10)
+1,Murder,220,0,0,4,40,128,172,48
+2,Rape,656,0,0,41,19,494,554,102
+3,Kidnapping,91,0,0,5,3,66,74,17
+4,Dacoity,29,0,0,0,6,15,21,8
+5,Robbery,89,0,0,0,33,42,75,14
+6,Arson,115,0,0,8,4,39,51,64
+7,Hurt,878,0,0,58,22,631,711,167
+8,PCR Act,61,0,0,7,0,33,40,21
+9,SC/ ST (Prev.) of Atrocities Act,1962,11,1,531,47,1101,1679,271
+10,Other Crimes against STs,3145,0,0,221,139,2376,2736,409
+11,Total,7246,11,1,875,313,4925,6113,1121

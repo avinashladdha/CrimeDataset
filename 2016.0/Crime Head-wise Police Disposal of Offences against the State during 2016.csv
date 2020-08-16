@@ -1,0 +1,11 @@
+S. No. (Col.1),Category - Offences against State (Col.2),Crime Head (Col.3),Cases Pending Investigation from Previous Year (Col.4),Cases Reported during the Year (Col.5),Total Cases for Investigation (Col.6) = (Col. 4+5),Cases Withdrawn by Govt. (Col.7),Cases Transferred to other PS/ Magistrate (Col.8),Cases not Investigated U/S 157(1) (b) of Cr.PC (Col.9),Final Report - True but Insufficient Evidence (Col.10),Final Report - False (Col.11),Final Report - Mistake of Fact (Col.12),Final Report - Non-Cognizable (Col.13),Final Report - Total (Col.14) = (Col.10 +Col.11+ Col.12 + Col.13),Cases in which Chargesheets were Submitted (Col.15),Total Cases Disposed off by Police (Col.16) = (Col. 8+9+14+15),Cases Pending Investigation at the End of the Year (Col.17) = (Col. 6 - (Col.7+16)),Chargesheeting Rate (Col.18) = (Col.15/ Col.16) * 100,Pendency Percentage (Col.19) = (Col.16/ (Col.5)) * 100
+1,IPC - Cases,Offences Against State,483,178,661,0,1,0,31,3,1,0,35,47,83,578,57.3,87.6
+1.i),IPC - Cases,Sedition,51,35,86,0,1,0,6,2,0,0,8,16,25,61,66.7,72.1
+1.ii),IPC - Cases,Other Offences Against State,432,143,575,0,0,0,25,1,1,0,27,31,58,517,53.4,89.9
+2,IPC - Cases,Imputation & Assertions Prejudicial to National Integration,28,31,59,0,0,0,7,1,1,0,9,19,28,31,67.9,52.5
+Total,IPC - Cases,Total,511,209,720,0,1,0,38,4,2,0,44,66,111,609,60,84.6
+3,SLL - Cases,"Prevention of Damage to Public Property Act, 1984",2088,5825,7913,0,0,0,621,47,114,11,793,4214,5007,2906,84.2,36.7
+4,SLL - Cases,"Unlawful Activities (Prevention) Act, 1967",3040,922,3962,0,2,0,173,3,4,0,180,232,414,3548,56.3,89.6
+5,SLL - Cases,"Official Secrets Act, 1923",12,30,42,0,0,0,1,3,0,0,4,24,28,14,85.7,33.3
+Total,SLL - Cases,Total,5140,6777,11917,0,2,0,795,53,118,11,977,4470,5449,6468,82.1,54.3
+Total Offences against State,Total Offences against State,Total Offences against State,5651,6986,12637,0,3,0,833,57,120,11,1021,4536,5560,7077,81.6,56

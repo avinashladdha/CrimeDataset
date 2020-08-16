@@ -1,0 +1,31 @@
+Crime Head,Year - 1992,Year - 1997,Year - 1998,Year - 1999,Year - 2000,Year - 2001,Quinquennial Average (1997-2001) (Q.A),Year - 2002,Percentage Change in 2001 [(+) Increase/ (-) Decrease] over - 1992,Percentage Change in 2001 [(+) Increase/ (-) Decrease] over - Q.A,Percentage Change in 2001 [(+) Increase/ (-) Decrease] over - 2001,Note of - Year - 1992,Note of - Year - 1997,Note of - Year - 1998,Note of - 1999,Note of - 2000,Note of - Quinquennial Average (1997-2001) (Q.A)
+Murder,292,316,253,250,267,531,323,531,81.8,64.2,0,NA,NA,NA,NA,NA,NA
+Attempt to Commit Murder,177,147,163,179,196,449,227,469,165,106.8,4.5,NA,NA,NA,NA,NA,NA
+C.H. not Amounting to Murder,19,25,22,21,27,34,26,22,15.8,-14.7,-35.3,NA,NA,NA,NA,NA,NA
+Rape - Total,158,163,199,159,198,399,224,485,207,116.9,21.6,NA,NA,NA,NA,NA,NA
+Rape - (i) Custodial Rape,NA,NA,NA,NA,NA,0,NA,0,NA,NA,0,*,*,*,*,*,*
+Rape - (ii) Other Rape,NA,NA,NA,NA,NA,399,NA,485,NA,NA,21.6,*,*,*,*,*,*
+Kidnapping & Abduction - Total,79,72,153,83,83,122,103,164,107.6,59.8,34.4,NA,NA,NA,NA,NA,NA
+Kidnapping & Abduction - i) of Women & Girls,62,48,134,66,54,79,76,109,75.8,43,38,NA,NA,NA,NA,NA,NA
+Kidnapping & Abduction ii) of Others,17,24,19,17,29,43,26,55,223.5,108.3,27.9,NA,NA,NA,NA,NA,NA
+Dacoity,51,20,35,25,33,59,34,63,23.5,83.1,6.8,NA,NA,NA,NA,NA,NA
+Preparation & Assembly for Dacoity,2,1,2,2,7,51,13,46,2200,265.1,-9.8,NA,NA,NA,NA,NA,NA
+Robbery,87,50,52,68,79,164,83,207,137.9,150.6,26.2,NA,NA,NA,NA,NA,NA
+Burglary,1460,1162,1294,1344,1241,1687,1346,1723,18,28,2.1,NA,NA,NA,NA,NA,NA
+Theft - Total,3203,1975,2143,2172,2388,3196,2375,3361,4.9,41.5,5.2,NA,NA,NA,NA,NA,NA
+Theft - (i) Auto Theft,NA,NA,NA,158,256,437,NA,563,NA,NA,28.8,*,*,*,NA,NA,*
+Theft - (ii) Other Theft,NA,NA,NA,2010,2132,2759,NA,2798,NA,NA,1.4,*,*,*,NA,NA,*
+Riots,906,513,574,509,532,1228,671,1066,17.7,58.8,-13.2,NA,NA,NA,NA,NA,NA
+Criminal Breach of Trust,21,16,19,13,24,59,26,39,85.7,48.9,-33.9,NA,NA,NA,NA,NA,NA
+Cheating,46,43,32,31,37,83,45,88,91.3,94.7,6,NA,NA,NA,NA,NA,NA
+Counterfeiting,0,1,0,7,3,4,3,3,NA,0,-25,NA,NA,NA,NA,NA,NA
+Arson,NA,40,24,40,29,48,36,107,NA,195.6,122.9,*,NA,NA,NA,NA,NA
+Hurt,NA,1242,1645,1472,1497,3234,1818,4137,NA,127.6,27.9,*,NA,NA,NA,NA,NA
+Dowry Death,NA,49,77,52,78,50,61,65,NA,6.2,30,*,NA,NA,NA,NA,NA
+Molestation,NA,131,136,116,151,380,183,522,NA,185.6,37.4,*,NA,NA,NA,NA,NA
+Sexual Harassment,NA,25,37,27,41,105,47,265,NA,463.8,152.4,*,NA,NA,NA,NA,NA
+Cruelty by Husband and Relatives,NA,154,249,273,334,349,272,262,NA,-3.6,-24.9,*,NA,NA,NA,NA,NA
+Importation of Girls,NA,NA,NA,0,0,0,NA,0,NA,NA,0,*,*,*,NA,NA,*
+Causing Death by Negligence,NA,NA,NA,NA,NA,49,NA,60,NA,NA,22.4,*,*,*,*,*,*
+Other IPC Crimes,4595,1764,2243,2045,2022,4228,2460,4875,6.1,98.1,15.3,NA,NA,NA,NA,NA,NA
+Total Cognizable Crimes under IPC,11100,7909,9352,8888,9267,16509,10385,18560,67.2,78.7,12.4,NA,NA,NA,NA,NA,NA

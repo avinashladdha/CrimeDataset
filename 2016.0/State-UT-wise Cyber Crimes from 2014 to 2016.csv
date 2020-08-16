@@ -1,0 +1,44 @@
+S. No (Col.1),Category (Col.2),State/UT (Col.3),Year - 2014 (Col.4),Year - 2015 (Col.5),Year - 2016 (Col.6),Percentage Share of State (2016) (Col.7),Rank Based on Incidence/ Percentage share (2016) (Col.8),Mid-Year Projected Population (In Lakhs) (2016)+ (Col.9),Crime Rate (2016)++ (Col.10),Rank Based on Crime Rate (2016) (Col.11)
+1,State,Andhra Pradesh,282,536,616,5,6,517.4,1.2,11
+2,State,Arunachal Pradesh,18,6,4,0,28,13.2,0.3,25
+3,State,Assam,379,483,696,5.7,5,325.8,2.1,1
+4,State,Bihar,114,242,309,2.5,12,1043,0.3,26
+5,State,Chhattisgarh,123,103,90,0.7,19,259.9,0.3,23
+6,State,Goa,62,17,31,0.3,22,19.9,1.6,5
+7,State,Gujarat,227,242,362,2.9,10,630.8,0.6,16
+8,State,Haryana,151,224,401,3.3,9,276.1,1.5,6
+9,State,Himachal Pradesh,38,50,31,0.3,23,71.2,0.4,20
+10,State,Jammu & Kashmir,37,34,28,0.2,24,124.6,0.2,28
+11,State,Jharkhand,93,180,259,2.1,14,338,0.8,13
+12,State,Karnataka,1020,1447,1101,8.9,3,625.7,1.8,3
+13,State,Kerala,450,290,283,2.3,13,357.5,0.8,12
+14,State,Madhya Pradesh,289,231,258,2.1,15,782.6,0.3,24
+15,State,Maharashtra,1879,2195,2380,19.3,2,1205.5,2,2
+16,State,Manipur,13,6,11,0.1,26,26,0.4,21
+17,State,Meghalaya,60,56,39,0.3,21,27.8,1.4,8
+18,State,Mizoram,22,8,1,0,32,10.7,0.1,33
+19,State,Nagaland,0,0,2,0,30,23.9,0.1,34
+20,State,Odisha,124,386,317,2.6,11,425.9,0.7,14
+21,State,Punjab,226,149,102,0.8,17,292,0.3,22
+22,State,Rajasthan,697,949,941,7.6,4,732.8,1.3,9
+23,State,Sikkim,4,1,1,0,33,6.5,0.2,31
+24,State,Tamil Nadu,172,142,144,1.2,16,695.2,0.2,30
+25,State,Telangana,703,687,593,4.8,7,368.5,1.6,4
+26,State,Tripura,5,13,8,0.1,27,38.4,0.2,29
+27,State,Uttar Pradesh,1737,2208,2639,21.4,1,2192.4,1.2,10
+28,State,Uttarakhand,42,48,62,0.5,20,106.8,0.6,15
+29,State,West Bengal,355,398,478,3.9,8,938.3,0.5,18
+Total (States),State,Total (States),9322,11331,12187,98.9,NA,12476.2,1,NA
+30,UT,A & N Islands,13,6,3,0,29,5.5,0.5,17
+31,UT,Chandigarh,55,77,26,0.2,25,18,1.4,7
+32,UT,D&N Haveli,3,0,1,0,34,4.3,0.2,27
+33,UT,Daman & Diu,1,1,0,0,NA,3.3,0,NA
+34,UT,Delhi,226,177,98,0.8,18,214.9,0.5,19
+35,UT,Lakshadweep,1,0,0,0,NA,0.8,0,NA
+36,UT,Puducherry,1,0,2,0,31,16.8,0.1,32
+Total (UTs),UT,Total (UTs),300,261,130,1.1,NA,263.7,0.5,NA
+Total (All India),Total (All India),Total (All India),9622,11592,12317,100,NA,12739.9,1,NA
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+           ,,,,,,,,,,

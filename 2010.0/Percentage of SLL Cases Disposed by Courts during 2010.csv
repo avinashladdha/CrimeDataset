@@ -1,0 +1,28 @@
+Sl. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 4),Percentage of Cases to Total Cases for Trial - Trials Completed - Convicted (Col. 5),Percentage of Cases to Total Cases for Trial - Trials Completed - Acquitted or Discharged (Col. 6),Percentage of Cases to Total Cases for Trial - Trials Completed - Total {(Col.5)+(Col.6)} (Col. 7),Percentage of Cases to Total Cases for Trial - Pending trial at the end of the year (Col. 8),Conviction Rate {(col.5)/(Col.7)} × 100 = (Col. 9)
+1,Arms Act,0,0,15.7,5.2,21,79,75
+2,Narcotic Drugs & Psychotropic Substances Act,0,0.1,14.6,5.5,20,79.9,72.8
+3,Gambling Act,0,0.2,27.8,5.3,33.2,66.7,84
+4,Excise Act,0,0.1,22.8,4.6,27.4,72.5,83.2
+5,Prohibition Act,0,0.2,8.4,5.7,14.2,85.7,59.4
+6,Explosive & Explosive Substances Act,0,0,7.9,5.7,13.6,86.3,58.1
+7,Immoral Traffic (P) Act,0,0.3,9.4,7.7,17.1,82.6,55
+8,Indian Railways Act,0,0.1,7.2,2.2,9.4,90.5,76.4
+9,The Foreigners Act,0,0,6,1.6,7.7,92.3,78.8
+10,Protection of Civil Rights Act,0,0.4,3.7,14.3,18.1,81.6,20.7
+11,Protection of Civil Rights Act - PCR Act for SCs,0,0.4,3.9,13.9,17.7,81.9,21.7
+12,Protection of Civil Rights Act - PCR Act for STs,0,0,0,30,0,70,0
+13,Indian Passport Act,0,0,8.2,4,12.3,87.7,67
+14,Essential Commodities Act,0,0.1,3.5,6.2,9.7,90.2,36.3
+15,Terrorist & Disruptive Activities Act,0,0,0,0.3,0,99.7,0
+16,Antiquity & Art Treasure Act,0,0,5.9,11.2,17.2,82.8,34.5
+17,Dowry Prohibition Act,0,1.8,3.2,12.7,15.8,82.3,20
+18,Prohibition of Child Marriage Act,0,0,2,11.6,13.7,86.3,14.8
+19,Indecent Representation of Women (p) Act,0,0,42.6,3.2,45.7,54.3,93.1
+20,Copyrights Act,0.1,0.2,8.2,7.8,16,83.8,51.2
+21,Sati Prevention Act,0,0,0,0,0,100,0
+22,SC/ST (Prevention of Atrocities) Act,0,0.4,7.6,12.7,20.3,79.4,37.4
+23,SC/ST (Prevention of Atrocities) Act - Prevention of Attrocities Act for SCs,0,0.4,8,12.8,20.8,78.9,38.4
+24,SC/ST (Prevention of Atrocities) Act - Prevention of Attrocities Act for STs,0,0.3,4.3,11.9,16.2,83.5,26.6
+25,Forest Act,0,0,19.5,5,24.5,75.5,79.6
+26,Other Sll Crimes,0,0.1,67.9,2.7,70.6,29.3,96.2
+27,Total Cognizable Crimes Under Sll,0,0.1,43.8,4,47.7,52.1,91.7

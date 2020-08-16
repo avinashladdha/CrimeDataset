@@ -1,0 +1,36 @@
+SI.No.,State/UT,Number of Zones,Number of Ranges,Number of Police Districts,Number of Sub Divisions,Number of Circles,Number of Rural Police Stations,Number of Urban Police Stations,Number of Women Police Stations
+1,Andhra Pradesh,7,8,28,143,416,1187,378,23
+2,Arunachal Pradesh,1,2,13,2,17,52,15,0
+3,Assam,0,5,25,25,49,104,126,1
+4,Bihar,6,18,64,131,231,958,217,0
+5,Goa,0,0,2,7,0,8,18,1
+6,Gujarat,15,9,1171,94,94,327,136,4
+7,Haryana,1,5,25,46,12,137,62,1
+8,Himachal Pradesh,0,3,12,16,0,57,27,0
+9,Jammu & Kashmir,2,6,18,42,26,111,38,2
+10,Karnataka,7,8,25,115,236,442,336,6
+11,Kerala,6,8,32,52,166,375,62,3
+12,Madhya Pradesh,0,13,65,179,0,825,383,12
+13,Maharashtra,30,9,48,162,60,574,323,0
+14,Manipur,0,3,9,21,0,34,21,1
+15,Meghalaya,0,2,7,10,16,13,13,0
+16,Mizoram,0,1,8,14,0,26,6,0
+17,Nagaland,1,6,10,26,24,80,18,0
+18,Orissa,0,7,34,35,90,300,149,4
+19,Punjab,3,6,23,76,0,190,53,3
+20,Rajasthan,0,8,37,0,170,390,317,12
+21,Sikkim,0,1,4,10,0,14,13,0
+22,Tamil Nadu,1,12,37,189,287,803,613,58
+23,Tripura,1,1,4,17,19,35,12,0
+24,Uttar Pradesh,7,19,83,306,391,1215,305,13
+25,West Bengal @,4,7,21,64,112,268,136,0
+Total States,Total States,92,167,1805,1782,2416,8525,3777,144
+26,A & N Islands,0,0,2,4,4,14,1,0
+27,Chandigarh,0,0,0,3,0,0,11,0
+28,D & N Haveli,1,2,1,2,1,1,1,0
+29,Daman & DIU,0,1,1,0,0,1,1,0
+30,Delhi,0,3,9,38,0,0,123,0
+31,Lakshadweep,0,0,1,1,1,9,0,0
+32,Pondicherry,1,1,1,5,11,18,19,1
+Total (UTs),Total (UTs),2,7,15,53,17,43,156,1
+Total (All -India),Total (All -India),94,174,1820,1835,2433,8568,3933,145

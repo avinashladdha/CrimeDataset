@@ -1,0 +1,36 @@
+SI.No. (1),States/UT (2),Number of Police Stations - 0-60 Cases (3),Number of Police Stations - 61-100 Cases (4),Number of Police Stations - 101-200 Cases (5),Number of Police Stations - 201-300 Cases (6),Number of Police Stations - 301-400 Cases (7),Number of Police Stations - 401-500 Cases (8),Number of Police Stations - 501-1000 Cases (8),Number of Police Stations - 1001and Above (10),Number of Police Stations - Total (Col.3 To 10)
+1,Andhra Pradesh,355,426,527,154,72,23,17,0,1574
+2,Arunachal Pradesh,0,55,7,3,1,0,0,0,66
+3,Assam,52,43,77,30,12,7,5,4,230
+4,Bihar,0,0,0,0,0,0,0,0,0
+5,Goa,7,9,5,3,1,0,0,0,25
+6,Gujarat,46,41,76,84,71,39,64,38,459
+7,Haryana,5,9,51,39,31,27,25,2,189
+8,Himachal Pradesh,8,9,36,16,8,2,5,0,84
+9,Jammu & Kashmir,28,18,33,20,18,7,3,0,127
+10,Karnataka,56,131,320,155,49,25,35,0,771
+11,Kerala,21,23,111,125,75,36,39,4,434
+12,Madhya Pradesh,184,548,0,214,107,57,66,20,1196
+13,Maharashtra,83,112,297,163,88,52,64,4,863
+14,Manipur,37,7,8,1,2,0,0,0,55
+15,Meghalaya,7,12,4,3,0,0,0,0,26
+16,Mizoram,NR,NR,NR,NR,NR,NR,NR,NR,NR
+17,Nagaland,31,6,4,2,1,0,0,0,44
+18,Orissa,101,181,114,38,9,3,3,0,449
+19,Punjab,NR,NR,NR,NR,NR,NR,NR,NR,NR
+20,Rajasthan,21,53,207,188,95,71,72,0,707
+21,Sikkim,25,1,1,0,0,0,0,0,27
+22,Tamil Nadu,190,110,163,188,135,131,348,137,1402
+23,Tripura,22,15,5,2,0,0,0,0,44
+24,Uttar Pradesh,130,215,279,250,170,172,160,141,1517
+25,West Bengal,67,70,107,91,31,21,8,0,395
+Total States,Total States,1476,2094,2432,1769,976,673,914,350,10684
+26,A & N Islands,2,4,4,1,1,2,0,1,15
+27,Chandigarh,0,0,2,5,3,0,1,0,11
+28,D & N Haveli,0,0,0,1,1,0,0,0,2
+29,Daman & DIU,1,0,1,0,0,0,0,0,2
+30,Delhi,1,1,4,19,14,21,53,10,123
+31,Lakshadweep,9,0,0,0,0,0,0,0,9
+32,Pondicherry,7,8,13,4,2,1,2,0,37
+Total (UTs),Total (UTs),8,0,24,30,21,24,56,11,199
+Total (All-India),Total (All-India),1496,2107,2456,1799,997,697,970,361,10883

@@ -1,0 +1,36 @@
+SL. No. (Col. 1),State/UT (Col. 2),Total no. of cases for investigation including pending cases (Col. 3),No. of cases in which - investigation was refused (Col. 4),No. of cases in which - investigation was completed - charge found false/mistake of fact or of law etc. (Col. 5),No. of cases in which - investigation was completed - final report true submitted (Col. 6),No. of cases in which - investigation was completed - chargesheets were laid (Col. 7),No. of cases in which - investigation was completed - total (Col.5+6+7) (Col. 8),No. of cases pending investigation (Col. 9),Pendency Percentage (Col. 10),Percentage of pendency to All-India total (Col. 11)
+1,Andhra Pradesh,135805,445,12732,14156,80584,107472,27888,20.5,6.3
+2,Arunachal Pradesh,2336,0,0,542,1073,1615,721,30.9,0.2
+3,Assam,70820,37,3858,15590,17711,37159,33624,47.5,7.6
+4,Bihar,184510,382,5475,38829,79091,123395,60733,32.9,13.7
+5,Goa,5225,8,13,1955,2068,4036,1181,22.6,0.3
+6,Gujarat,143092,869,5628,28902,87322,121852,20371,14.2,4.6
+7,Haryana,36797,0,790,3776,27528,32094,4703,12.8,1.1
+8,Himachal Pradesh,15033,0,1548,1853,7195,10596,4437,29.5,1
+9,Jammu & Kashmir,20775,3,2263,4732,8344,15339,5433,26.2,1.2
+10,Karnataka,137548,2502,6857,32439,63240,102536,32510,23.6,7.3
+11,Kerala,94204,686,6959,7037,59107,73103,20415,21.7,4.6
+12,Madhya Pradesh,188592,534,1875,40764,139091,181730,6328,3.4,1.4
+13,Maharashtra,227513,76,1709,64108,121915,187732,39705,17.5,9
+14,Manipur,4531,50,0,1100,71,1171,3310,73.1,0.7
+15,Meghalaya,3871,0,37,855,1015,1907,1964,50.7,0.4
+16,Mizoram,2617,0,0,102,864,966,1651,63.1,0.4
+17,Nagaland,4020,0,0,805,847,1652,2368,58.9,0.5
+18,Orissa,59427,5,4412,7228,41173,52813,6609,11.1,1.5
+19,Punjab,19767,5,192,4869,8519,13580,6182,31.3,1.4
+20,Rajasthan,126053,230,26751,17044,77170,120965,4858,3.9,1.1
+21,Sikkim,780,0,0,243,385,628,152,19.5,0
+22,Tamil Nadu,170571,4045,12657,10887,93053,116597,49929,29.3,11.3
+23,Tripura,7059,0,40,2558,1454,4052,3007,42.6,0.7
+24,Uttar Pradesh,227412,547,16430,65626,119311,201367,25498,11.2,5.8
+25,West Bengal,137206,19,674,42161,36066,78901,58286,42.5,13.2
+Total (States),Total (States),2025564,10443,110900,408161,1074197,1593258,421863,20.8,95.4
+26,A & N Islands,879,0,11,238,483,732,147,16.7,0
+27,Chandigarh,3059,0,53,1464,1141,2658,401,13.1,0.1
+28,D & N Haveli,396,0,39,36,269,344,52,13.1,0
+29,Daman & Diu,274,0,0,67,114,181,93,33.9,0
+30,Delhi,56842,0,1311,8255,27631,37197,19645,34.6,4.4
+31,Lakshadweep,83,0,0,37,5,42,41,49.4,0
+32,Pondicherry,3411,10,31,674,2595,3300,101,3,0
+Total (UTs),Total (UTs),64944,10,1445,10771,32238,44454,20480,31.5,4.6
+Total (All -India),Total (All -India),2090508,10453,112345,418932,1106435,1637712,442343,21.2,100

@@ -1,0 +1,41 @@
+CRIME HEAD (Col. 1),Cases Pending Trial from the Previous Year (Col. 2),Cases Sent for Trial During the Year (Col. 3),No. of Cases Withdrawn by the Govt. (Col. 4),No. of Cases Disposed by Plea Bargaining (Col. 5),Total no. of Cases for Trial During the Year (Col. 6) = (Col.2+3 - Col.4 - Col. 5),Cases Compounded or Withdrawn (Col. 7),Cases in Which Trials were Completed (Col. 8) = (Col. 9+10),Cases Convicted (Col. 9),Cases Acquitted or Discharged (Col. 10),Cases Pending Trial at the End of the Year (Col. 11) = (Col.6 - (Col.7+8)) ,Conviction Rate (Col. 12) = (Col.9/Col.10) x 100 ,Cases Pendency Percentage (Col. 13) = {(Col.11/(Col.2+Col.3)} x 100
+1 Rape,107477,30001,19,1,137458,174,18764,5514,13250,118520,29.4,86.2
+1.1 Custodial Rape,158,89,0,0,247,0,28,11,17,219,39.3,88.7
+1.1.1 Custodial_Gang Rape,5,2,0,0,7,0,1,1,0,6,100,85.7
+1.1.2 Custodial_Other Rape,153,87,0,0,240,0,27,10,17,213,37,88.8
+1.2 Rape other than Custodial,107319,29912,19,1,137211,174,18736,5503,13233,118301,29.4,86.2
+1.2.1 Rape_Gang Rape,2290,1521,0,0,3811,4,560,230,330,3247,41.1,85.2
+1.2.2 Rape_Others,105029,28391,19,1,133400,170,18176,5273,12903,115054,29,86.2
+2 Attempt to Commit Rape,3767,3174,0,1,6940,19,1035,205,830,5886,19.8,84.8
+3 Kidnapping & Abduction of Women,96858,27206,5,8,124051,478,12879,3153,9726,110694,24.5,89.2
+3.1 Kidnaping & Abduction,22344,6448,1,5,28786,57,2774,701,2073,25955,25.3,90.1
+3.2 Kidnaping & Abduction in Order to Murder,347,78,0,0,425,0,219,58,161,206,26.5,48.5
+3.3 Kidnapping for Ransom,233,48,0,0,281,0,16,2,14,265,12.5,94.3
+3.4 Kidnapping & Abduction of Women to Compel Her for Marriage,58495,16249,4,3,74737,371,8120,1995,6125,66246,24.6,88.6
+3.5 Kidnapping & Abduction of Women-Other,15439,4383,0,0,19822,50,1750,397,1353,18022,22.7,90.9
+4 Dowry Deaths,35260,7150,0,0,42410,183,5165,1792,3373,37062,34.7,87.4
+5 Assault on Women with Intent to Outrage Her Modesty,224360,66887,56,82,291109,5086,34541,8408,26133,251482,24.3,86.3
+5.1 Sexual Harassment,41474,19411,5,5,60875,2072,8423,2476,5947,50380,29.4,82.7
+5.2 Assault on Women with Intent to Disrobe,6910,6476,0,6,13380,145,1935,389,1546,11300,20.1,84.4
+5.3 Voyeurism,718,718,0,0,1436,20,209,90,119,1207,43.1,84.1
+5.4 Stalking,4600,4487,0,4,9083,146,1287,340,947,7650,26.4,84.2
+5.5 Others,170658,35795,51,67,206335,2703,22687,5113,17574,180945,22.5,87.6
+6 Insult to the Modesty of Women,29203,7019,0,1,36221,1800,3998,870,3128,30423,21.8,84
+6.1 At Office premises,197,64,0,0,261,2,36,5,31,223,13.9,85.4
+6.2 In Places Related to Work,1329,468,0,0,1797,159,285,97,188,1353,34,75.3
+6.3 In Public Transport System,409,252,0,0,661,39,56,10,46,566,17.9,85.6
+6.4 in Other Places,27268,6235,0,1,33502,1600,3621,758,2863,28281,20.9,84.4
+7 Cruelty by Husband or his Relatives,444020,90971,51,509,534431,10318,46127,6559,39568,477986,14.2,89.3
+8 Importation of Girls from Foreign Country,193,9,0,0,202,0,9,4,5,193,44.4,95.5
+9 Abetment of Suicides of Women,8130,3190,1,0,11319,28,1340,193,1147,9951,14.4,87.9
+"10 Dowry Prohibition Act, 1961",26425,7162,1,0,33586,707,3212,595,2617,29667,18.5,88.3
+"11 Indecent Representation of Women (Prohibition) Act, 1986",810,32,0,0,842,1,137,44,93,704,32.1,83.6
+12 Commission of Sati Prevention Act 1987,0,0,0,0,0,0,0,0,0,0,NA,NA
+"13 Protection of Women from Domestic Violence Act, 2005",429,418,0,1,846,1,46,22,24,799,47.8,94.3
+14 Immoral Traffic (Prevention) Act,5650,2122,0,0,7772,8,987,485,502,6777,49.1,87.2
+14.1 Under Section 5,1567,969,0,0,2536,2,351,168,183,2183,47.9,86.1
+14.2 Under Section 6,168,60,0,0,228,0,23,13,10,205,56.5,89.9
+14.3 Under Section 7,509,163,0,0,672,0,47,27,20,625,57.4,93
+14.4 Under Section 8,426,222,0,0,648,2,72,62,10,574,86.1,88.6
+14.5 Other Sections under ITP Act,2980,708,0,0,3688,4,494,215,279,3190,43.5,86.5
+Total Crimes against Women,982582,245341,133,603,1227187,18803,128240,27844,100396,1080144,21.7,88

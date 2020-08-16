@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,1982,1983,"Percentage Variation in 1983 Over 1982 (+) Increase, (-)Decrease"
+1,State,Andhra Pradesh,122581,122802,0.2
+2,State,Assam,63634,59650,-6.3
+3,State,Bihar,198931,226924,14.1
+4,State,Gujarat,115738,114244,-1.3
+5,State,Haryana,25402,26990,6.3
+6,State,Himachal Pradesh,6319,6720,6.3
+7,State,Jammu & Kashmir,16536,24584,48.7
+8,State,Karnataka,111086,117441,5.7
+9,State,Kerala,77680,77889,0.3
+10,State,Madhya Pradesh,221469,237676,7.3
+11,State,Maharashtra,227831,218164,-4.2
+12,State,Manipur,4259,2964,-30.4
+13,State,Meghalaya,2496,1789,-28.3
+14,State,Nagaland,990,1999,101.9
+15,State,Orissa,88137,77036,-12.6
+16,State,Punjab,22252,24890,11.9
+17,State,Rajasthan,119386,119770,0.3
+18,State,Sikkim,173,283,63.6
+19,State,Tamil Nadu,170642,170401,-0.1
+20,State,Tripura,7395,8349,12.9
+21,State,Uttar Pradesh,236969,256775,8.4
+22,State,West Bengal,133804,137151,2.5
+Total (States),State,Total (States),1973710,2034491,3.1
+23,UT,A & N Islands,1062,797,-25
+24,UT,Arunachal Pradesh,1093,1187,8.6
+25,UT,Chandigarh,1378,3773,173.8
+26,UT,D & N Haveli,170,228,34.1
+27,UT,Delhi,20937,28558,36.4
+28,UT,"Goa, Daman & Diu",4013,3812,-5
+29,UT,Lakshadweep,15,15,Nil
+30,UT,Mizoram,2379,1912,-19.6
+31,UT,Pondicherry,2773,2577,-7.1
+Total (UTs),UT,Total (UTs),33820,42859,26.7
+All India,All India,All India,2007530,2077350,3.5
+1,City,Ahmedabad,15418,13592,-11.8
+2,City,Bangalore,7800,8191,5
+3,City,Bombay,29445,24049,-18.3
+4,City,Calcutta,21406,22682,6
+5,City,Delhi,20902,26915,28.8
+6,City,Hyderabad,4297,4029,-6.2
+7,City,Jaipur,4778,4873,2
+8,City,Kanpur,5042,2442,-51.6
+9,City,Lucknow,6816,NA,NA
+10,City,Madras,9396,12211,30
+11,City,Nagpur,5792,6190,6.9
+12,City,Pune,11529,11107,-3.7
+Total (Cities),City,Total (Cities),142621,136281,-4.4

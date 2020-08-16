@@ -1,0 +1,31 @@
+Sl. No.,Crime Head,Male,Female,Total,Percentage to Total - Male,Percentage to Total - Female
+1,Murder (Sec.302 & 303 IPC),57674,3781,61455,93.8,6.2
+2,Attempt To Commit Murder (Sec. 307 IPC),63812,2655,66467,96,4
+3,"C.H. Not Amounting Murder (Sec.304 , 308 IPC)",6563,121,6684,98.2,1.8
+4,Rape (Sec. 376 IPC) - Total,24361,675,25036,97.3,2.7
+4,Rape (Sec. 376 IPC) - (i) Custodial Rape,0,0,0,0,0
+4,Rape (Sec. 376 IPC) - (ii) Other Rape,24361,675,25036,97.3,2.7
+5,"Kidnapping & Abduction (Sec.363-369,371-373 IPC) - Total",36159,2022,38181,94.7,5.3
+5,"Kidnapping & Abduction (Sec.363-369,371-373 IPC) - (i) Of Women & Girls",25573,1635,27208,94,6
+5,"Kidnapping & Abduction (Sec.363-369,371-373 IPC) - (ii) Of Others",10586,387,10973,96.5,3.5
+6,Dacoity (Sec.395-398 IPC),17588,222,17810,98.8,1.2
+7,Preparation & Assembly For Dacoity (Sec.399 To 402 IPC),12461,33,12494,99.7,0.3
+8,"Robbery (Sec.392-394, 397,398 IPC)",31452,232,31684,99.3,0.7
+9,"Burglary (Sec.449-452,454,455,457-460 IPC)",66534,1302,67836,98.1,1.9
+10,Theft (Sec.379 - 382 IPC) - Total,202165,6146,208311,97,3
+10,Theft (Sec.379 - 382 IPC) - (i) Auto Theft,47482,84,47566,99.8,0.2
+10,Theft (Sec.379 - 382 IPC) - (ii) Other Theft,154683,6062,160745,96.2,3.8
+11,"Riots (Sec.143-145, 147-151, 153, 153a,153b,157,158,160 IPC)",313837,19097,332934,94.3,5.7
+12,Criminal Breach Of Trust (Sec.406-409 IPC),19179,716,19895,96.4,3.6
+13,"Cheating (Sec.419,420 IPC)",62224,2856,65080,95.6,4.4
+14,"Counterfeiting (Sec.231-254, 489a-489d IPC)",2573,103,2676,96.2,3.8
+15,"Arson (Sec.435,436,438 IPC)",11102,328,11430,97.1,2.9
+16,"Hurt (Sec.323-333,335-338 IPC)",469245,32892,502137,93.4,6.6
+17,Dowry Deaths (Sec.304b IPC),17819,4805,22624,78.8,21.2
+18,Molestation (Sec. 354 IPC),47582,1253,48835,97.4,2.6
+19,Sexual Harassment (Sec.509 IPC),14754,189,14943,98.7,1.3
+20,Cruelty By Husband And Relatives (Sec. 498a IPC),127492,37369,164861,77.3,22.7
+21,Importation Of Girls (Sec.366b IPC),122,3,125,97.6,2.4
+22,Causing Death By Negligence (Sec. 304a IPC),77211,313,77524,99.6,0.4
+23,Other IPC Crimes,1032062,51202,1083264,95.3,4.7
+24,Total Cognizable Crimes Under IPC,2713971,168315,2882286,94.2,5.8

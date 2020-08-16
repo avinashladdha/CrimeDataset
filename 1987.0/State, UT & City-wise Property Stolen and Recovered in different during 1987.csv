@@ -1,0 +1,49 @@
+SL. No.,Category,States/U.Ts./Cities,Total Value of Property Stolen (Rs. In Lakhs),Total Value of Property Recovered (Rs. In Lakhs),Percentage of Value of Property Recovered to Value of Property Stolen
+1,State,Andhra Pradesh,1657.73,408.85,24.7
+2,State,Arunachal Pradesh,46.5,14.45,29.8
+3,State,Assam,302.05,81.58,27.2
+4,State,Bihar,466.29,65.11,14
+5,State,Goa,100.62,29.18,28.7
+6,State,Gujarat,1933.63,495.53,25.7
+7,State,Haryana,400.46,357.91,89.5
+8,State,Himachal Pradesh,173.29,85.39,49.1
+9,State,Jammu & Kashmir,283.52,177.11,62.3
+10,State,Karnataka,1180.42,526.77,44.7
+11,State,Kerala,788.53,173.08,22
+12,State,Madhya Pradesh,1359.67,759.79,55.7
+13,State,Maharashtra,13689.55,1680.03,12.3
+14,State,Manipur,82.65,5.07,6
+15,State,Meghalaya,42.05,9.42,21.4
+16,State,Mizoram,57.66,24.45,41.4
+17,State,Nagaland,211.36,17.7,8.5
+18,State,Orissa,811.73,120.72,14.9
+19,State,Punjab,1468.63,398.18,27.1
+20,State,Rajasthan,789.07,489.73,62.1
+21,State,Sikkim,15.25,2.57,20
+22,State,Tamil Nadu,1734,876.06,50.5
+23,State,Tripura,14.74,2.22,13.3
+24,State,Uttar Pradesh,4605.15,723.01,15.7
+25,State,West Bengal,808.98,221.01,27.3
+Total (States),State,Total (States),33023.53,7744.92,23.5
+26,UT,A & N Islands,7.62,5.98,75
+27,UT,Chandigarh,77.15,37.25,48
+28,UT,D & N Haveli,117.17,1.79,1.7
+29,UT,Daman & Diu,2.69,1.1,33.3
+30,UT,Delhi,1197.61,301.4,25.1
+31,UT,Lakshadweep,0.58,0.04,6.9
+32,UT,Pondicherry,18.04,7.26,38.9
+Total (UTs),UT,Total (UTs),1420.86,354.82,25
+Total (All India),Total (All India),Total (All India),34444.39,8099.74,23.5
+1,City,Ahmedabad,351.44,101.36,28.8
+2,City,Bangalore,405.75,180.16,44.3
+3,City,Bombay,11111.66,1015.5,9.2
+4,City,Calcutta,450.34,171.37,38
+5,City,Delhi,1017.37,269.36,26.5
+6,City,Hyderabad,174.56,79.64,45.7
+7,City,Jaipur,111.99,74.25,66.1
+8,City,Kanpur,297.55,97.97,32.9
+9,City,Lucknow,368.92,45.14,12.2
+10,City,Madras,975.26,521.7,53.5
+11,City,Nagpur,180.48,52.69,29.5
+12,City,Pune,315.02,82.71,26.4
+Total (Cities),City,Total (Cities),15760.34,2691.85,17.1

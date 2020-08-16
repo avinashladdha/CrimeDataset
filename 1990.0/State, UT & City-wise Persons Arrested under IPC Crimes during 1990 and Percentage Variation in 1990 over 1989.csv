@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,1989,1990,Percentage Variatio in 1990 Over 1989,Percentage Contribution to All-India During 1990
+1,State,Andhra Pradesh,168944,172387,2,7.1
+2,State,Arunachal Pradesh,2160,2264,4.8,0.1
+3,State,Assam,56929,57114,0.3,2.3
+4,State,Bihar,225622,263308,16.7,10.8
+5,State,Goa,5102,4691,-8.1,0.2
+6,State,Gujarat,125778,146851,16.8,6
+7,State,Haryana,39414,40528,2.8,1.7
+8,State,Himachal Pradesh,9359,11293,20.7,0.5
+9,State,Jammu & Kashmir,32700,18322,-44,0.8
+10,State,Karnataka,146216,151058,3.3,6.2
+11,State,Kerala,115327,109609,-5,4.5
+12,State,Madhya Pradesh,259032,274115,5.8,11.2
+13,State,Maharashtra,259966,248846,-4.3,10.2
+14,State,Manipur,2684,2284,-14.9,0.1
+15,State,Meghalaya,2129,2111,-0.8,0.1
+16,State,Mizoram,928,1281,38,0.1
+17,State,Nagaland,1331,1833,37.7,0.1
+18,State,Orissa,81338,82690,1.7,3.4
+19,State,Punjab,16371,16059,-1.9,0.7
+20,State,Rajasthan,144673,151883,5,6.2
+21,State,Sikkim,541,468,-13.5,0
+22,State,Tamil Nadu,194063,210139,8.3,8.6
+23,State,Tripura,6609,6920,4.7,0.3
+24,State,Uttar Pradesh,271329,326642,20.4,13.4
+25,State,West Bengal,98206,97023,-1.2,4
+Total (States),State,Total (States),2266751,2399719,5.9,98.3
+26,UT,A & N Islands,1154,1125,-2.5,0
+27,UT,Chandigarh,6121,1825,-70.2,0.1
+28,UT,D & N Haveli,460,632,37.4,0
+29,UT,Daman & Diu,235,339,44.3,0
+30,UT,Delhi,23694,32568,37.5,1.3
+31,UT,Lakshadweep,22,1,-95.5,0
+32,UT,Pondicherry,4795,4801,0.1,0.2
+Total (UTs),UT,Total (UTs),36481,41291,13.2,1.7
+Total (All -India),Total (All -India),Total (All -India),2303232,2441010,6,100
+33,City,Ahmedabad,14768,17065,15.6,0.7
+34,City,Bangalore,14332,14860,3.7,0.6
+35,City,Bombay,32299,33321,3.2,1.4
+36,City,Calcutta,15799,15106,-4.4,0.6
+37,City,Delhi,22197,31488,41.9,1.3
+38,City,Hyderabad,7101,5455,-23.2,0.2
+39,City,Jaipur,6039,6226,3.1,0.3
+40,City,Kanpur,5822,6201,6.5,0.3
+41,City,Lucknow,4116,6082,47.8,0.2
+42,City,Madras,13765,12231,-11.1,0.5
+43,City,Nagpur,7812,7482,-4.2,0.3
+44,City,Pune,17306,13589,-21.5,0.6

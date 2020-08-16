@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Number of Persons Reported for Regular Deptt. Action (Col.4),Number of Persons Reported for Suitable Action (Col.5),Departmental Action against Persons Arrested - Dismissed from Service (Col.6),Departmental Action against Persons Arrested - Removed from Service (Col.7),Departmental Action against Persons Arrested - Awarded Other Major Punishment (Col.8),Departmental Action against Persons Arrested - Awarded Minor Punish-ment (Col.9),Departmental Action against Persons Arrested - Total (Col.10)
+1,State,Andhra Pradesh,13,0,0,0,4,4,8
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0
+3,State,Assam,0,0,0,0,0,0,0
+4,State,Bihar,212,210,0,0,0,0,0
+5,State,Chhattisgarh,0,61,0,0,0,0,0
+6,State,Goa,5,0,0,4,0,0,4
+7,State,Gujarat,16,11,33,97,17,14,161
+8,State,Haryana,0,0,0,0,0,0,0
+9,State,Himachal Pradesh,2,0,0,0,0,0,0
+10,State,Jammu & Kashmir,4,0,0,0,0,0,0
+11,State,Jharkhand,0,0,0,0,0,0,0
+12,State,Karnataka,124,70,8,0,0,0,8
+13,State,Kerala,0,1,0,0,1,0,1
+14,State,Madhya Pradesh,635,635,0,0,0,0,0
+15,State,Maharashtra,0,0,2,0,8,0,10
+16,State,Manipur,0,0,0,0,0,0,0
+17,State,Meghalaya,0,0,0,0,0,0,0
+18,State,Mizoram,0,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,2,2
+20,State,Odisha,514,8,4,4,9,8,25
+21,State,Punjab,7,0,10,0,0,0,10
+22,State,Rajasthan,60,0,8,8,47,74,137
+23,State,Sikkim,0,0,0,0,0,0,0
+24,State,Tamil Nadu,12,279,16,0,8,5,29
+25,State,Telangana,1,0,2,0,9,5,16
+26,State,Tripura,0,0,0,0,0,0,0
+27,State,Uttar Pradesh,0,0,0,0,7,2,9
+28,State,Uttarakhand,1,0,0,0,0,0,0
+29,State,West Bengal,20,0,0,0,0,0,0
+Total (States),State,Total (States),1626,1275,83,113,110,114,420
+30,UT,A & N Islands,0,0,0,0,0,0,0
+31,UT,Chandigarh,0,0,0,0,0,0,0
+32,UT,D&N Haveli,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0
+34,UT,Delhi UT,0,0,0,0,0,0,0
+35,UT,Lakshadweep,0,0,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0,0,0
+Total (UTs),UT,Total (UTs),0,0,0,0,0,0,0
+Total (All India),Total (All India),Total (All India),1626,1275,83,113,110,114,420

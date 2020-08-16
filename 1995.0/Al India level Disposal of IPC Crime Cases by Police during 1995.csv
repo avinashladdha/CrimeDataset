@@ -1,0 +1,25 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total Number of Cases for Investigation Including Pending Cases (Col. 3),Number of Cases in which - Investigation was Refused (Col. 4),Number of Cases in which - Investigation was Completed - Charge Found False/ Mistake of Fact or of Law Etc. (Col. 5),Number of Cases in which - Investigation was Completed - Final Report True Submitted (Col. 6),Number of Cases in which - Investigation was Completed - Chargesheets were Laid (Col. 7),Number of Cases in which - Investigation was Completed - Total (Col. 5+6+7) (Col. 8),Number of Cases in which - Number of Cases Pending Investigation (Col. 9)
+1,Murder,58088,111,1148,8017,28873,38038,19939
+2,Attempt to Commit Murder,41225,59,1330,4172,24675,30177,10989
+3,C.H. Not Amounting To Murder,6189,2,137,783,3072,3992,2195
+4,Rape,18914,18,908,1189,11679,13776,5120
+5,Kidnapping & Abduction,31073,126,4751,4321,11274,20346,10601
+5,I)of Women & Girls,21067,101,3655,2779,7699,14133,6833
+5,II)of Others,10006,25,1096,1542,3575,6213,3768
+6,Dacoity,17850,18,575,4222,4838,9635,8197
+7,Preparation & Assembly for Dacoity,1502,0,2,79,855,936,566
+8,Robbery,33762,60,2393,9251,11733,23377,10325
+9,Burglary,149832,439,5432,69741,39776,114949,34444
+10,Theft,377899,1413,14315,170753,110617,295685,80801
+11,Riots,130441,268,12317,11257,77371,100945,29228
+12,Criminal Breach of Trust,27112,172,2417,4373,8869,15659,11281
+13,Cheating,50346,540,7111,7803,15570,30484,19321
+14,Counterfeiting,4976,93,76,1856,417,2349,2534
+15,Arson,15113,123,1627,3703,6122,11452,3538
+16,Hurt/ Grievous Hurt,230111,356,8881,9812,177910,196603,33152
+17,Dowry Death,5762,73,253,207,3994,4454,1235
+18,Molestation,29584,47,1521,986,23615,26122,3415
+19,Sexual Harassment,4836,1,55,124,4449,4628,207
+20,Cruelty by Husband and Relatives,32139,50,2712,1448,23242,27402,4687
+21,Other IPC Crimes,886874,4891,46111,89789,579300,715200,166783
+22,Total Cognizable Crimes Under IPC,2153628,8861,114072,403886,1168251,1686209,458558

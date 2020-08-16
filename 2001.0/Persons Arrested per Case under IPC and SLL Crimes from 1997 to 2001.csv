@@ -1,0 +1,58 @@
+Category,Crime Head,1997,1998,1999,2000,2001,Note of 1997,Note of 1998,Note of 1999,Note of 2000
+IPC Crimes,Murder,2.1,2.1,2.1,2.1,2.1,NA,NA,NA,NA
+IPC Crimes,Attempt to Commit Murder,2.5,2.4,2.5,2.4,2.5,NA,NA,NA,NA
+IPC Crimes,C.H. not Amounting to Murder,2.1,2,1.8,1.8,2,NA,NA,NA,NA
+IPC Crimes,Rape - Total,1.3,1.3,1.3,1.2,1.3,NA,NA,NA,NA
+IPC Crimes,Rape - i) Custodial Rape,NA,NA,NA,NA,0,*,*,*,*
+IPC Crimes,Rape - ii) Other Rape,NA,NA,NA,NA,1.3,*,*,*,*
+IPC Crimes,Kidnapping & Abduction - Total,1.3,1.3,1.3,1.3,1.4,NA,NA,NA,NA
+IPC Crimes,Kidnapping & Abduction - i) of Women & Girls,1.2,1.2,1.2,1.1,1.2,NA,NA,NA,NA
+IPC Crimes,Kidnapping & Abduction - ii) of Others,1.6,1.6,1.6,1.6,1.7,NA,NA,NA,NA
+IPC Crimes,Dacoity,3.1,3.1,3.3,3.4,4,NA,NA,NA,NA
+IPC Crimes,Preparation & Assembly for Dacoity,4.7,4.2,4.8,4.5,4.6,NA,NA,NA,NA
+IPC Crimes,Robbery,1.3,1.4,1.4,1.4,1.5,NA,NA,NA,NA
+IPC Crimes,Burglary,0.6,0.6,0.6,0.6,0.7,NA,NA,NA,NA
+IPC Crimes,Theft - Total,0.6,0.6,0.6,0.6,0.6,NA,NA,NA,NA
+IPC Crimes,Theft - i) Auto Theft,NA,NA,0.5,0.4,0.5,*,*,NA,NA
+IPC Crimes,Theft - ii) Other Theft,NA,NA,0.7,0.7,0.7,*,*,NA,NA
+IPC Crimes,Riots,5,4.8,4.9,5.4,5.2,NA,NA,NA,NA
+IPC Crimes,Criminal Breach of Trust,0.9,0.9,1,1,1.1,NA,NA,NA,NA
+IPC Crimes,Cheating,0.8,0.8,0.9,0.9,1,NA,NA,NA,NA
+IPC Crimes,Counterfeiting,0.4,1.2,1.2,0.9,1.2,NA,NA,NA,NA
+IPC Crimes,Arson,1.3,1.1,1.2,1.4,1.3,NA,NA,NA,NA
+IPC Crimes,Hurt,1.9,1.9,1.9,1.9,1.8,NA,NA,NA,NA
+IPC Crimes,Dowry Death,2.6,2.6,2.6,2.6,3,NA,NA,NA,NA
+IPC Crimes,Molestation,1.2,1.2,1.3,1.3,1.2,NA,NA,NA,NA
+IPC Crimes,Sexual Harassment,1.2,1.3,1.2,1.2,1.3,NA,NA,NA,NA
+IPC Crimes,Cruelty by Husband and Relatives,2.2,2.3,2.3,2.3,2.2,NA,NA,NA,NA
+IPC Crimes,Importation of Girls,NA,NA,3,2.4,1.9,*,*,NA,NA
+IPC Crimes,Causing Death by Negligence,NA,NA,NA,NA,0.9,*,*,*,*
+IPC Crimes,Other IPC Crimes,1.4,1.4,1.3,1.3,1.4,NA,NA,NA,NA
+IPC Crimes,Total Cognizable Crimes under IPC,1.5,1.5,1.5,1.5,1.5,NA,NA,NA,NA
+SLL Crimes,Arms Act,1,1.1,1.1,1.1,1.1,NA,NA,NA,NA
+SLL Crimes,Narcotic Drugs & Psychotropic Substances Act,1.2,1.2,1.1,1.1,1.1,NA,NA,NA,NA
+SLL Crimes,Gambling Act,2.1,2.2,2.2,2.1,2.1,NA,NA,NA,NA
+SLL Crimes,Excise Act,1.1,1.1,1.1,1.1,1.1,NA,NA,NA,NA
+SLL Crimes,Prohibition Act,1,1,1,1,1,NA,NA,NA,NA
+SLL Crimes,Explosive & Explosive Substances Act,1.2,1.2,1.2,1.3,1.3,NA,NA,NA,NA
+SLL Crimes,Immoral Traffic (P) Act,1.4,1.5,1.6,1.5,1.5,NA,NA,NA,NA
+SLL Crimes,Indian Railways Act,1,1.1,1,1.3,1.1,NA,NA,NA,NA
+SLL Crimes,Registration of Foreigners Act,1.8,1.5,1.8,1.8,1.9,NA,NA,NA,NA
+SLL Crimes,Protection of Civil Rights Act - Total,2.1,1.8,1.5,1.6,1.7,NA,NA,NA,NA
+SLL Crimes,Protection of Civil Rights Act - (i) PCR Act for SCs,NA,NA,NA,NA,1.7,*,*,*,*
+SLL Crimes,Protection of Civil Rights Act - (ii) PCR Act for STs,NA,NA,NA,NA,1.1,*,*,*,*
+SLL Crimes,Indian Passport Act,1.8,2.2,1.9,2,1.7,NA,NA,NA,NA
+SLL Crimes,Essential Commodities Act,1.2,1.3,1.3,1.3,1.5,NA,NA,NA,NA
+SLL Crimes,Terrorist & Disruptive Activities Act,3.7,0,0,3.6,0,NA,NA,NA,NA
+SLL Crimes,Antiquity & Art Treasure Act,1.5,1.9,2.9,1.3,1,NA,NA,NA,NA
+SLL Crimes,Dowry Prohibition Act,2.6,2.5,2.2,2.3,2.2,NA,NA,NA,NA
+SLL Crimes,Child Marriage Restraint Act,2.2,6,3.1,3.6,3.3,NA,NA,NA,NA
+SLL Crimes,Indecent Representation of Women (P) Act,3.8,1,1.3,3.6,0.7,NA,NA,NA,NA
+SLL Crimes,Copyrights Act,1.4,1.4,1.5,1.6,1.3,NA,NA,NA,NA
+SLL Crimes,Sati Prevention Act,1,0,0,0,0,NA,NA,NA,NA
+SLL Crimes,SC/ST (Prevention of Atrocities) Act - Total,1.7,1.7,1.7,1.8,1.9,NA,NA,NA,NA
+SLL Crimes,SC/ST (Prevention of Atrocities) Act - (i) Attrocities Act for SCs,NA,NA,NA,NA,2,*,*,*,*
+SLL Crimes,SC/ST (Prevention of Atrocities) Act - (ii) Attrocities Act for STs,NA,NA,NA,NA,1.6,*,*,*,*
+SLL Crimes,Forest Act,1.8,1.9,2.2,2,1.9,NA,NA,NA,NA
+SLL Crimes,Other SLL Crimes,1,1,1.2,1.1,1.1,NA,NA,NA,NA
+SLL Crimes,Total Cognizable Crimes under SLL,1,1,1.2,1.2,1.2,NA,NA,NA,NA

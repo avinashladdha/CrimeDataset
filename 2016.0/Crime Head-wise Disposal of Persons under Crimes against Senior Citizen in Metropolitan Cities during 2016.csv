@@ -1,0 +1,13 @@
+S. No.,CrimeHead,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted/ Discharged - Male,Persons Acquitted/ Discharged - Female,Persons Acquitted/ Discharged - Total
+1,Murder,103,9,112,94,8,102,8,0,8,5,0,5
+2,Culpable Homicide not Amounting to Murder,17,1,18,14,0,14,0,0,0,0,0,0
+3,Attempt to Commit Murder,30,4,34,16,1,17,3,0,3,3,0,3
+4,Attempt to Commit Culpable Homicide,4,0,4,1,0,1,NA,NA,NA,NA,NA,NA
+5,Grievous Hurt,85,6,91,72,5,77,1,0,1,6,0,6
+6,Rape,2,0,2,2,0,2,NA,NA,NA,NA,NA,NA
+7,Extortion,24,0,24,14,0,14,0,0,0,1,0,1
+8,Robbery,336,8,344,327,1,328,23,1,24,24,0,24
+9,Dacoity,11,0,11,5,0,5,NA,NA,NA,NA,NA,NA
+10,Cheating,218,20,238,177,11,188,7,0,7,2,0,2
+11,Other IPC Crimes,1711,74,1785,1455,52,1507,225,5,230,80,3,83
+Total IPC Crimes Against Senior Citizen,Total IPC Crimes Against Senior Citizen,2541,122,2663,2177,78,2255,267,6,273,121,3,124

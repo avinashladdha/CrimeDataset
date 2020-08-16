@@ -1,0 +1,39 @@
+Category (Col.1),States/UTs (Col.2),No. of Reported cases where the Loss of Property under 1-10 Crore (Col.3),Criminal Breach of Trust worth Rs. 10-25 Crore (Col.4),Criminal Breach of Trust worth Rs. 25-50 Crore (Col.5),Criminal Breach of Trust worth Rs. 50-100 Crore (Col.6),Criminal Breach of Trust worth Rs. Above 100 Crore (Col.7),Criminal Breach of Trust worth Rs. Total (Col.8),Criminal Breach of Trust worth Rs. 1-10 Crore (Col.9),Cheating worth Rs. 10-25 Crore (Col.10),Cheating worth Rs. 25-50 Crore (Col.11),Cheating worth Rs. 50-100 Crore (Col.12),Cheating worth Rs. Above 100 Crore (Col.13),Cheating worth Rs. Total (Col.14),Grand Total (Col.15) = (Col. 8 + Col.14 )
+State,Andhra Pradesh,0,0,0,0,0,0,1,0,0,0,0,1,1
+State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Assam,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Bihar,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Chhattisgarh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Goa,0,0,0,0,0,0,1,0,0,0,0,1,1
+State,Gujarat,3,0,0,0,0,3,19,1,0,0,0,20,23
+State,Haryana,0,0,0,0,0,0,1,0,0,0,0,1,1
+State,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Jharkhand,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Karnataka,4,0,0,0,0,4,5,1,0,1,0,7,11
+State,Kerala,1,0,0,0,0,1,0,0,0,0,0,0,1
+State,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Maharashtra,2,1,0,1,1,5,35,2,2,0,0,39,44
+State,Manipur,0,0,0,0,0,0,1,0,0,0,0,1,1
+State,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Nagaland,2,2,1,0,0,5,4,7,1,0,0,12,17
+State,Orissa,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Punjab,2,0,0,0,0,2,0,0,0,0,0,0,2
+State,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Tamil Nadu,0,0,0,0,0,0,5,0,0,0,0,5,5
+State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttar Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttaranchal,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,West Bengal,2,0,0,0,0,2,8,0,0,0,0,8,10
+State,Total (States),16,3,1,1,1,22,80,11,3,1,0,95,117
+Union Territory,A & N Islands,1,1,0,0,0,2,0,0,0,0,0,0,2
+Union Territory,Chandigarh,0,0,0,0,0,0,2,0,0,0,0,2,2
+Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Delhi,0,0,0,0,0,0,4,0,0,0,0,4,4
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Pondicherry,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Total (UTs),1,1,0,0,0,2,6,0,0,0,0,6,8
+Total (All-India),Total (All-India),17,4,1,1,1,24,86,11,3,1,0,101,125

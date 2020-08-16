@@ -1,0 +1,31 @@
+Category (Col.1),Crime Head (Col.2),Cases Pending Trial from the Previous Year (Col.3),Cases sent for Trial during the Year (Col.4),Total Cases for Trial during the Year (Col.5) = (Col.3+ Col.4),Number of Cases Withdrawn by the Govt. (Col.6),Number of Cases Disposed by Plea Bargaining (Col.7),Cases Compounded (Col.8),Cases in which Trials were Completed (Col.9) = (Col. 10+11),Cases Convicted (Col.10),Cases Acquitted or Discharged (Col.11),Cases Disposed off by Courts (Col.12) = (Col.6+ Col.7+ Col.8+ Col.9),Cases Pending Trial at the End of the Year (Col.13) = (Col.5 - Col.12),Conviction Rate (Col.14) = (Col.10/ Col.9) * 100,Pendency Percentage (Col.15) = (Col.13/ Col.5) * 100
+IPC Crimes,1. Murder,6422,1493,7915,0,0,1,640,283,357,641,7274,44.2,91.9
+IPC Crimes,2. Abetment of Suicide of Child,254,31,285,0,0,0,19,2,17,19,266,10.5,93.3
+IPC Crimes,3. Attempt to Commit Murder,1334,191,1525,0,0,0,107,39,68,107,1418,36.4,93
+IPC Crimes,4. Infanticide,165,28,193,0,0,0,17,4,13,17,176,23.5,91.2
+IPC Crimes,5. Foeticide,127,55,182,0,0,0,18,2,16,18,164,11.1,90.1
+IPC Crimes,6. Exposure and Abandonment,848,83,931,0,0,3,37,4,33,40,891,10.8,95.7
+IPC Crimes,7. Kidnapping & Abduction,54288,19764,74052,1,7,105,6077,1381,4696,6190,67862,22.7,91.6
+IPC Crimes,7.1. Kidnapping & Abduction,16895,5819,22714,1,0,51,1882,471,1411,1934,20780,25,91.5
+IPC Crimes,7.2 Kidnaping & Abduction in order to Murder,686,112,798,0,0,0,24,11,13,24,774,45.8,97
+IPC Crimes,7.3. Kidnapping for Ransom,360,120,480,0,0,0,28,17,11,28,452,60.7,94.2
+IPC Crimes,7.4. Kidnapping & Abduction of Women to Compel her for Marriage,25320,9122,34442,0,6,41,2772,718,2054,2819,31623,25.9,91.8
+IPC Crimes,7.5. Procuration of Minor Girls,3454,1520,4974,0,0,0,474,21,453,474,4500,4.4,90.5
+IPC Crimes,7.6. Importation of Girls from Foreign Country,2,2,4,0,0,0,0,0,0,0,4,NA,100
+IPC Crimes,7.7. Other Kidnapping,7571,3069,10640,0,1,13,897,143,754,911,9729,15.9,91.4
+IPC Crimes,8. Human Trafficking,132,202,334,0,0,0,22,4,18,22,312,18.2,93.4
+IPC Crimes,9. Selling of Minors for Prostitution,498,74,572,0,0,0,8,0,8,8,564,0,98.6
+IPC Crimes,10. Buying of Minors for Prostitution,162,15,177,0,0,0,2,2,0,2,175,100,98.9
+IPC Crimes,11. Unnatural Offences,1302,1081,2383,0,0,2,253,107,146,255,2128,42.3,89.3
+SLL Crimes,12 Protection of Children from Sexual Offences Act,70435,30891,101326,2,6,229,10884,3226,7658,11121,90205,29.6,89
+SLL Crimes,12.1. Child Rape (Sec.4 & 6 POCSO)/ Sec.376 IPC,46665,17473,64138,2,2,54,6626,1869,4757,6684,57454,28.2,89.6
+SLL Crimes,12.2. Sexual Assault of Children(Sec 8 & 10 POCSO)/Sec.354 IPC,20436,10714,31150,0,3,148,3631,1115,2516,3782,27368,30.7,87.9
+SLL Crimes,12.3. Sexual Harassment(Sec.12 POCSO)/ 509NAIPC,748,637,1385,0,0,25,132,23,109,157,1228,17.4,88.7
+SLL Crimes,12.4. Use of Child for Pornography/ Storing Child Pornography Material (Sec.14 & Sec.15 POCSO),99,33,132,0,0,0,8,2,6,8,124,25,93.9
+SLL Crimes,12.5. Other Section of POCSO,2487,2034,4521,0,1,2,487,217,270,490,4031,44.6,89.2
+SLL Crimes,"13. Juvenile Justice (Care and Protection of Children) Act, 2000",1980,1825,3805,1,0,4,461,295,166,466,3339,64,87.8
+SLL Crimes,"14. Immoral Traffic (Prevention) Act, 1956",354,51,405,0,0,0,19,2,17,19,386,10.5,95.3
+SLL Crimes,"15. Child Labour (Prohibition & Regulation) Act, 1986",246,139,385,0,0,0,17,8,9,17,368,47.1,95.6
+SLL Crimes,"16. Prohibition of Child Marriage Act, 2006",788,236,1024,0,0,0,68,10,58,68,956,14.7,93.4
+SLL Crimes,17. Other Crime Against Children (IPC+SLL),25052,7193,32245,1,0,514,4114,1622,2492,4629,27616,39.4,85.6
+Total Crime Against Children,Total Crime Against Children,164387,63352,227739,5,13,858,22763,6991,15772,23639,204100,30.7,89.6

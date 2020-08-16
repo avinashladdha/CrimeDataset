@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts/Cities,Cases Reported in which Property was Stolen,Cases in which Property was Recovered,Value of Property Stolen in Lakhs,Value of Property Recovered in Lakhs,Percentage of Property Recovered to Value of Property Stolen
+1,State,Andhra Pradesh,14375,9964,67.05,25.79,38.46
+2,State,Assam,11592,2642,57.66,3.91,6.78
+3,State,Bihar,34416,2384,175.97,5.08,2.89
+4,State,Gujarat,14098,5610,73.84,20.88,28.28
+5,State,Haryana,4219,1996,33.57,12.69,37.8
+6,State,Himachal Pradesh,684,368,5.88,2.27,38.61
+7,State,Jammu & Kashmir,1633,932,15.3,8.3,54.25
+8,State,Kerala,8101,3503,29.33,10.14,34.57
+9,State,Madhya Pradesh,43467,15097,134.87,41.27,30.6
+10,State,Maharashtra,49398,16327,335.91,108.4,32.27
+11,State,Manipur,245,65,1.88,0.35,18.62
+12,State,Mysore,15331,7720,75.12,39,51.92
+13,State,Nagaland,448,237,10.42,1.22,11.71
+14,State,Orissa,15983,6220,62.23,14.37,23.09
+15,State,Punjab,3262,1058,44.66,13.7,30.68
+16,State,Rajasthan,12912,4877,100.51,52.37,52.1
+17,State,Tamil Nadu,23626,17811,60.55,36.28,59.92
+18,State,Tripura,1420,145,3.59,0.46,12.81
+19,State,Uttar Pradesh,115487,11316,693,131.22,18.94
+20,State,West Bengal,39464,5072,242.11,44.06,18.2
+Total (States),State,Total (States),410161,113344,2223.45,571.76,25.71
+21,UT,A & N Islands,104,39,0.28,0.06,21.43
+22,UT,Chandigarh,973,218,12.87,6.76,52.53
+23,UT,D & N Haveli,57,13,0.19,0.02,10.53
+24,UT,Delhi,20556,3288,158.32,62.78,39.65
+25,UT,"Goa, Daman & Diu",691,277,5.85,1.97,33.68
+26,UT,Lakshadweep,9,7,NA,NA,NA
+27,UT,Pondicherry,775,488,1.24,0.61,49.19
+Total (UTs),UT,Total (UTs),23165,4330,178.75,72.2,40.39
+Total (All-India),Total (All-India),Total (All-India),433326,117674,2402.2,643.96,26.81
+1,City,Ahmedabad,1533,554,14.5,5.86,40.41
+2,City,Bangalore,5000,2556,35.63,18.1,50.8
+3,City,Bombay,12964,3405,173.51,70.22,40.47
+4,City,Calcutta,5988,604,132.02,37.77,28.61
+5,City,Delhi,19269,3131,148.44,60.75,40.93
+6,City,Hyderabad,2559,1402,11.31,4.7,41.56
+7,City,Kanpur,5545,484,26.21,5.43,20.72
+8,City,Madras,3879,3104,10.53,8.79,83.48
+Total (Cities),City,Total (Cities),56737,15240,552.15,211.62,38.33

@@ -1,0 +1,18 @@
+Crime Head (Col. 1),INVESTIGATION STAGE - Cases Pending Investigation from Previous Year (Col. 2),INVESTIGATION STAGE - Cases Reported During the Year (Col. 3),INVESTIGATION STAGE - Total Cases for Investigation During the Year (Col. 4),INVESTIGATION STAGE - No. of Victims in the Registered Cases (Col. 5),INVESTIGATION STAGE - Cases in Which Charge-sheets were Submitted (Col. 6),INVESTIGATION STAGE - Cases in which Charge-sheets were not laid but Final Report as True or Otherwise Final Report Submitted During the Year (Col. 7),INVESTIGATION STAGE - Total Cases Investigated During the Year (Col. 8),INVESTIGATION STAGE - Cases Pending Investigation at the End of the Year (Col. 9),INVESTIGATION STAGE - Charge-Sheeting Rate (Col. 10) = {Col.6/ (Col.6+Col.7)} x 100,INVESTIGATION STAGE - Cases Pendency Percentage (Col. 11) = (Col.9/ Col.2+Col.3) x 100,TRIAL STAGE - Cases Pending Trial from the Previous Year (Col. 12),TRIAL STAGE - Cases Sent for Trial During the Year (Col. 13),TRIAL STAGE - Total Number of Cases for Trials (Col. 14),TRIAL STAGE - Cases Convicted (Col. 15),TRIAL STAGE - Cases Acquitted or Discharged (Col. 16),TRIAL STAGE - Cases in Which Trials were Completed (Col. 17),TRIAL STAGE - Cases Pending Trial at the End of the Year (Col. 18),TRIAL STAGE - Conviction Rate (Col. 19) = (Col.15/ Col.17) x 100,TRIAL STAGE - Cases Pendency Percentage (Col. 20) = {Col.18/ (Col.12+Col.13)} x 100
+1 Murder,1,4,5,5,4,0,4,1,100,20,8,4,12,2,0,2,10,100,83.3
+2 Rape,3,7,10,8,4,0,4,6,100,60,15,4,19,0,0,0,19,NA,100
+3 Unnatural Offences,0,1,1,1,1,0,1,0,100,0,0,1,1,0,1,1,0,0,0
+4 Cheating,35,48,83,51,32,5,37,46,86.5,55.4,98,32,130,1,1,2,128,50,98.5
+5 Forgery,22,66,88,73,41,0,41,47,100,53.4,64,41,105,3,0,3,102,100,97.1
+"6 Narcotic Drugs & Psychotropic Substances Act, 1985",47,111,158,0,97,0,97,61,100,38.6,227,97,324,16,23,39,285,41,88
+"7 Passport Act, 1967",44,68,112,0,49,1,50,62,98,55.4,313,49,362,26,5,31,331,83.9,91.4
+"8 Registration of Foreigners Act, 1939",114,42,156,12,59,0,59,97,100,62.2,2146,59,2205,25,25,50,2155,50,97.7
+"9 Foreigners Act, 1946",101,752,853,812,685,6,691,162,99.1,19,476,685,1161,324,41,365,796,88.8,68.6
+"10 Arms Act, 1959",5,33,38,0,2,1,3,35,66.7,92.1,9,2,11,1,0,1,10,100,90.9
+11 Explosives and Explosive Substances Act,0,1,1,0,1,0,1,0,100,0,2,1,3,0,1,1,2,0,66.7
+"12 Copyright Act, 1957",1,0,1,0,0,0,0,1,NA,100,1,0,1,0,0,0,1,NA,100
+"13 Information Technology Act, 2000",5,6,11,6,3,0,3,8,100,72.7,6,3,9,0,0,0,9,NA,100
+"14 Unlawful Activities (Prevention) Act, 1967",0,0,0,0,0,0,0,0,NA,NA,2,0,2,1,0,1,1,100,50
+15 Counterfeiting currency Notes or Bank Notes,2,5,7,4,2,1,3,4,66.7,57.1,3,2,5,0,0,0,5,NA,100
+16 Other Crimes,60,134,194,151,95,9,104,90,91.3,46.4,155,95,250,25,12,37,213,67.6,85.2
+Total Crimes Committed by Foreign Accused,440,1278,1718,1123,1075,23,1098,620,97.9,36.1,3525,1075,4600,424,109,533,4067,79.5,88.4

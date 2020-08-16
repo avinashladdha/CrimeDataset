@@ -1,0 +1,445 @@
+SL. No.,States/U.Ts.,District,Murder,Culpable Homicide Not Amounting to Murder,Rape,Kidnapping & Abduction,Dacoity,Robbery,Burglary,Thefts,Riots,Criminal Breach of Trust,Cheating ,Counterfeiting,Total Cognizable Crimes Under IPC
+1,Andhra Pradesh,Srikakulam,42,NA,3,3,1,5,129,306,163,22,26,NA,3391
+2,Andhra Pradesh,Visakhapatnam,43,NA,9,11,5,8,286,1008,285,41,40,2,4908
+3,Andhra Pradesh,Vizianagaram,22,NA,1,3,1,6,88,267,66,12,9,1,2407
+4,Andhra Pradesh,East Godavari,51,NA,7,23,5,13,585,1535,81,51,35,6,6881
+5,Andhra Pradesh,West Godavari,46,1,16,21,7,9,481,1384,213,27,41,3,3425
+6,Andhra Pradesh,Krishna,72,1,18,23,12,18,622,1455,192,50,45,4,6569
+7,Andhra Pradesh,Nellore,38,NA,17,7,4,5,418,746,137,32,28,2,2583
+8,Andhra Pradesh,Kurnool,109,NA,4,11,15,9,189,518,155,18,12,1,3345
+9,Andhra Pradesh,Ongole,48,NA,8,12,5,9,289,537,130,11,16,NA,2654
+10,Andhra Pradesh,Anantapur,67,NA,3,11,12,9,361,836,559,34,13,2,2670
+11,Andhra Pradesh,Guntur,103,NA,9,14,32,17,596,1725,464,44,40,13,5460
+12,Andhra Pradesh,Cuddapah,84,6,1,18,12,7,231,677,242,16,13,2,2501
+13,Andhra Pradesh,Chittoor,68,NA,4,28,12,18,425,1138,254,55,53,1,4327
+14,Andhra Pradesh,Rangareddy,31,2,8,12,27,12,238,403,197,19,13,NA,1905
+15,Andhra Pradesh,Medak,31,3,2,6,7,17,116,214,55,8,6,NA,1101
+16,Andhra Pradesh,Mahbubnagar,74,1,5,6,6,13,191,291,169,10,12,NA,1915
+17,Andhra Pradesh,Nalgonda,47,3,8,2,38,17,218,371,345,20,4,5,2208
+18,Andhra Pradesh,Nizamabad,33,1,4,7,4,15,92,227,47,14,8,NA,1023
+19,Andhra Pradesh,Adilabad,42,NA,6,8,21,51,209,326,184,8,10,1,1682
+20,Andhra Pradesh,Warangal,66,NA,9,5,21,17,237,387,186,20,15,NA,2273
+21,Andhra Pradesh,Khammam,44,NA,10,10,18,16,260,483,259,16,7,1,2019
+22,Andhra Pradesh,Karimnagar,71,1,7,11,24,48,217,357,155,20,10,NA,2062
+23,Andhra Pradesh,R.P. Vijyawada,4,1,NA,NA,1,2,NA,565,10,2,2,NA,634
+24,Andhra Pradesh,R.P. Secunderabad,NA,NA,NA,1,1,4,4,222,10,2,3,NA,288
+1,Assam,Goalpara,50,5,26,52,56,75,671,853,808,55,41,1,4125
+2,Assam,Camrup,59,5,59,105,49,52,1320,2290,1370,134,176,3,8652
+3,Assam,Darrang,78,9,34,72,37,43,768,1238,490,44,49,NA,4993
+4,Assam,Nowgaon,35,2,36,68,50,51,583,854,584,71,47,1,3838
+5,Assam,Sibsagar,98,4,32,106,25,135,712,1474,469,41,43,NA,5738
+6,Assam,Dibrugarh,98,4,11,54,37,63,329,1136,328,50,53,NA,4599
+7,Assam,North Lakhimpur,29,2,23,47,12,49,301,398,352,19,17,NA,2226
+8,Assam,Karbi Anglong,10,1,2,10,25,30,167,177,55,9,12,NA,915
+9,Assam,N.C. Hills,3,NA,2,5,2,1,21,58,11,6,2,NA,193
+10,Assam,Coachar,54,3,19,75,26,33,682,1394,833,60,43,NA,5055
+1,Bihar,Patna,113,14,16,71,90,101,726,3602,579,136,110,NA,8869
+2,Bihar,Nalanda,141,22,8,50,110,69,358,842,483,15,21,NA,2836
+3,Bihar,Bhojpur,107,8,10,36,150,111,758,982,574,35,12,NA,3756
+4,Bihar,Rohtas,137,14,6,35,204,93,896,888,538,40,32,NA,4037
+5,Bihar,Gaya,85,6,10,29,81,68,351,831,627,47,38,NA,3406
+6,Bihar,Aurangabad,38,7,2,14,37,17,216,455,357,12,29,5,1637
+7,Bihar,Nawada,22,NA,3,14,36,12,157,323,231,11,11,NA,1305
+8,Bihar,Saran,33,14,NA,21,27,22,476,649,203,35,32,1,2563
+9,Bihar,Siwan,30,9,2,8,55,8,336,392,221,22,16,1,1674
+10,Bihar,Gopalganj,20,5,NA,15,43,25,169,391,186,14,15,NA,883
+11,Bihar,West Champaran,38,16,11,32,78,24,108,452,330,17,11,NA,1661
+12,Bihar,East Champaran ,35,7,8,42,85,17,302,631,964,64,58,NA,3272
+13,Bihar,Muzaffarpur,44,3,11,68,97,32,417,1001,642,83,305,4,3677
+14,Bihar,Vaishali,29,2,6,14,55,19,217,552,457,33,51,NA,2060
+15,Bihar,Sitamarhi,27,4,10,22,55,4,193,506,141,27,15,NA,1417
+16,Bihar,Darbhanga,19,4,4,27,53,22,385,656,657,39,41,NA,2582
+17,Bihar,Samastipur,33,6,14,23,103,47,379,623,574,37,44,NA,2665
+18,Bihar,Madhubani,28,3,7,12,40,9,420,550,578,47,22,NA,2227
+19,Bihar,Begusarai,47,7,2,45,62,37,413,605,559,20,6,NA,2598
+20,Bihar,Bhagalpur,120,15,18,30,143,70,535,902,723,36,28,NA,3614
+21,Bihar,Monghyr,95,13,12,59,162,85,499,1575,783,66,44,NA,4480
+22,Bihar,North Santhalpargana,85,10,41,30,59,25,354,398,536,70,20,3,2219
+23,Bihar,South Santhalpargana,58,11,13,11,32,24,397,454,558,35,18,NA,2278
+24,Bihar,Saharsa,32,10,7,12,91,21,643,831,766,42,24,NA,3266
+25,Bihar,Katihar,34,5,17,20,31,7,213,565,239,33,23,NA,1713
+26,Bihar,Purnea ,66,15,32,64,157,59,932,1251,1219,62,50,NA,5116
+27,Bihar,Hazaribagh,68,9,22,31,89,62,547,830,431,35,37,1,3501
+28,Bihar,Giridih,51,5,24,16,95,48,410,575,273,28,15,NA,2503
+29,Bihar,Bokaro,8,3,3,11,6,6,66,371,133,19,3,NA,656
+30,Bihar,Dhanbad,65,5,19,42,136,85,678,1489,486,76,33,NA,4647
+31,Bihar,Palamau,95,9,22,94,73,38,377,573,304,93,56,NA,2689
+32,Bihar,Ranchi,212,13,32,71,112,169,725,1447,441,78,43,NA,4816
+33,Bihar,Singhbhum,52,3,16,16,53,33,328,631,240,21,16,NA,2146
+34,Bihar,Jamshedpur,61,NA,5,29,3,32,172,678,224,23,16,NA,2028
+35,Bihar,Rly. Patna,3,NA,2,3,19,21,6,543,10,16,4,NA,695
+36,Bihar,Rly. Muzaffarpur,6,4,2,2,5,20,24,386,44,22,19,1,607
+37,Bihar,Rly. Katihar,4,NA,NA,2,16,20,40,380,24,7,10,NA,560
+38,Bihar,Rly. Jamshedpur,5,NA,1,1,3,12,10,366,19,4,2,NA,477
+39,Bihar,Rly. Dhanbad,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,Gujarat,Ahmedabad Rural,36,1,6,22,5,51,301,1021,103,46,31,NA,3215
+2,Gujarat,Kaira,60,NA,6,28,7,39,521,1309,84,202,63,NA,5157
+3,Gujarat,Sabarkantha,30,NA,2,15,7,21,249,770,33,59,28,2,2254
+4,Gujarat,Banaskantha,33,NA,1,19,2,70,364,839,85,72,37,NA,2651
+5,Gujarat,Meshana,56,NA,7,25,16,132,593,2388,206,157,61,2,5813
+6,Gujarat,Rajkot City,11,NA,1,18,3,20,155,571,21,36,22,NA,1849
+7,Gujarat,Rajkot Rural,35,NA,1,17,2,19,175,557,33,45,28,NA,2080
+8,Gujarat,Amreli,29,NA,2,13,1,27,111,378,16,26,15,NA,1217
+9,Gujarat,Jamnagar,40,NA,NA,12,NA,34,291,678,23,26,41,NA,2079
+10,Gujarat,Junagadh,65,NA,7,26,3,56,336,873,56,105,42,NA,3269
+11,Gujarat,Bhavnagar,64,NA,2,24,5,73,262,857,41,50,38,NA,2752
+12,Gujarat,Kutch,24,1,2,15,8,25,192,422,35,26,29,1,1460
+13,Gujarat,Surendranagar,31,NA,3,8,4,29,193,464,33,45,19,NA,1893
+14,Gujarat,Baroda City,22,1,1,30,20,14,304,1595,62,50,49,1,3982
+15,Gujarat,Baroda Rural,50,NA,2,10,6,29,197,503,33,70,22,NA,2193
+16,Gujarat,Broach,80,NA,4,26,15,61,397,685,60,58,26,NA,2345
+17,Gujarat,Panch Mahal,49,NA,6,31,1,15,244,506,60,64,28,NA,2954
+18,Gujarat,Surat City,25,NA,1,20,1,NA,120,427,31,46,45,NA,1527
+19,Gujarat,Surat Rural,43,NA,NA,8,8,14,174,310,35,43,14,NA,1580
+20,Gujarat,Valsad,35,NA,5,19,4,26,375,690,64,59,27,NA,2703
+21,Gujarat,Western Railways,10,NA,NA,5,3,12,30,1184,11,23,16,NA,1564
+1,Haryana,Ambala,24,12,8,29,NA,384,521,6,59,46,NA,3,1908
+2,Haryana,Kurukshetra,22,9,6,19,NA,264,357,7,54,13,NA,4,1329
+3,Haryana,Karnala,36,11,10,30,4,439,645,10,51,49,NA,6,2197
+4,Haryana,Sonepat,33,6,8,23,2,176,328,31,21,15,NA,4,1143
+5,Haryana,Rohtak,38,7,13,25,1,316,475,72,77,30,1,12,1836
+6,Haryana,Hissar,48,15,9,25,3,250,535,17,49,21,NA,11,2027
+7,Haryana,Bhiwani,16,9,2,6,1,114,185,10,25,7,NA,4,877
+8,Haryana,Gurgaon,13,5,5,8,2,144,267,5,23,12,NA,4,859
+9,Haryana,Narnaul,18,6,2,10,2,118,236,13,29,15,NA,5,1016
+10,Haryana,Jind,32,13,5,7,7,167,205,10,10,17,NA,7,865
+11,Haryana,Sirsa,20,7,4,13,1,127,161,6,32,13,NA,4,925
+12,Haryana,Faridabad,18,5,6,13,1,222,340,43,63,28,NA,6,1315
+1,Himachal Pradesh,Mandi,5,1,4,16,NA,11,108,126,28,10,10,NA,667
+2,Himachal Pradesh,Simla,9,NA,2,26,NA,7,130,168,60,36,22,NA,916
+3,Himachal Pradesh,Kangra,6,2,5,14,2,8,96,114,16,24,9,NA,797
+4,Himachal Pradesh,Solan,7,3,4,11,NA,NA,59,115,49,29,14,NA,643
+5,Himachal Pradesh,Sirmur,4,2,2,10,NA,5,52,80,10,4,8,NA,427
+6,Himachal Pradesh,Chamba,2,1,5,8,NA,3,65,36,8,11,3,NA,265
+7,Himachal Pradesh,Bilaspur,1,NA,1,2,NA,2,31,47,29,1,7,NA,260
+8,Himachal Pradesh,Hamirpur,5,NA,6,6,NA,2,34,24,5,3,4,NA,242
+9,Himachal Pradesh,Una,7,4,2,7,NA,NA,27,31,5,10,2,NA,240
+10,Himachal Pradesh,Kulu,1,NA,NA,6,NA,1,26,22,8,6,2,NA,214
+11,Himachal Pradesh,Kinnaur,2,1,NA,4,NA,1,16,13,4,4,NA,NA,95
+12,Himachal Pradesh,Lahaul & Spiti,2,NA,NA,NA,NA,NA,1,4,1,2,NA,NA,27
+13,Himachal Pradesh,Railway & Traffic,NA,NA,NA,NA,NA,NA,NA,4,1,NA,NA,NA,8
+1,Jammu Kashmir,Anantnag,4,NA,9,36,38,2,118,113,124,10,7,NA,1016
+2,Jammu Kashmir,Baramulla,10,NA,18,40,1,10,214,221,367,11,1,NA,1750
+3,Jammu Kashmir,Badgam,4,NA,2,21,NA,NA,32,49,137,2,8,NA,391
+4,Jammu Kashmir,Doda,7,4,5,39,NA,NA,54,60,68,9,5,NA,720
+5,Jammu Kashmir,Jammu,19,1,28,61,3,7,331,896,118,34,40,NA,3574
+6,Jammu Kashmir,Kathua,4,NA,2,20,NA,3,116,96,65,3,4,NA,597
+7,Jammu Kashmir,Kargil,1,NA,1,1,NA,NA,1,9,1,1,NA,NA,31
+8,Jammu Kashmir,Kupwara,6,1,1,15,NA,NA,36,137,136,2,1,NA,625
+9,Jammu Kashmir,Leh,2,NA,NA,1,NA,NA,4,20,10,NA,NA,NA,79
+10,Jammu Kashmir,Poonch,9,1,6,30,2,NA,149,114,84,3,9,NA,715
+11,Jammu Kashmir,Pulwama,4,2,11,34,12,1,41,113,150,8,2,NA,823
+12,Jammu Kashmir,Rajauri,7,NA,4,34,4,NA,65,143,86,5,4,NA,663
+13,Jammu Kashmir,Srinagar,8,2,10,53,NA,7,217,394,283,12,34,NA,2123
+14,Jammu Kashmir,Udhampur,11,2,19,53,3,1,118,171,48,13,9,NA,1011
+1,Karnataka,Bangalore District,38,NA,10,7,12,22,419,551,414,29,18,NA,3216
+2,Karnataka,Kolar,30,2,1,15,8,9,437,727,227,31,31,NA,3298
+3,Karnataka,K.G.F.,7,1,NA,3,1,NA,137,237,48,17,8,NA,790
+4,Karnataka,Tumkur,40,1,2,2,11,28,552,683,442,87,31,NA,3813
+5,Karnataka,ChitraDurga,35,NA,2,7,2,9,284,452,302,37,15,NA,2438
+6,Karnataka,Shimoga,32,1,6,16,2,7,360,600,200,19,23,NA,2597
+7,Karnataka,Mysore,40,NA,7,13,8,55,810,1964,352,71,78,NA,4897
+8,Karnataka,Mandya,26,NA,7,12,1,6,372,329,171,35,21,NA,2140
+9,Karnataka,Hassan,33,NA,1,7,1,4,227,398,129,21,11,NA,1549
+10,Karnataka,Chickmagalur,28,1,1,10,NA,12,366,429,146,19,16,NA,1999
+11,Karnataka,Kodagu,26,NA,5,7,1,26,179,221,84,12,16,NA,1907
+12,Karnataka,Dakshina Kannada,33,NA,2,10,1,4,267,278,342,36,34,NA,2733
+13,Karnataka,Belgaum,107,1,5,21,9,28,309,689,179,43,40,NA,3222
+14,Karnataka,Bijapur,76,NA,5,19,26,35,361,634,391,52,52,NA,3031
+15,Karnataka,Dharwad,73,NA,5,15,17,31,642,963,363,55,99,NA,4037
+16,Karnataka,Uttara Kannada,18,2,4,2,4,7,249,387,158,27,26,NA,1778
+17,Karnataka,Gulbarga,43,NA,3,8,34,27,301,546,389,13,16,NA,2660
+18,Karnataka,Bidar,27,NA,1,3,12,14,122,281,137,7,27,NA,1331
+19,Karnataka,Raichur,67,NA,1,10,12,16,245,293,211,40,45,NA,1708
+20,Karnataka,Bellary,38,NA,2,3,4,4,238,409,237,20,7,NA,1581
+21,Karnataka,Railways,7,NA,NA,1,1,1,14,325,9,NA,10,NA,389
+1,Kerala,Trivandrum City,11,NA,5,4,5,4,299,484,249,27,51,NA,2744
+2,Kerala,Trivandrum Rural,40,NA,4,16,NA,6,295,264,459,28,30,NA,4600
+3,Kerala,Quilon,52,NA,3,17,2,12,383,245,590,26,28,NA,4496
+4,Kerala,Alleppey,31,NA,5,13,11,9,294,257,610,26,39,NA,4098
+5,Kerala,Kottayam,42,NA,4,10,9,27,334,269,263,19,15,NA,3273
+6,Kerala,Idukki,34,1,4,9,2,14,182,204,284,19,10,NA,2032
+7,Kerala,Ernakulam City,12,2,1,2,6,10,286,413,219,24,33,NA,2495
+8,Kerala,Ernakulam Rural,35,NA,2,6,3,9,354,346,429,23,25,NA,3259
+9,Kerala,Trichur,31,1,7,6,2,11,305,239,493,18,36,NA,3396
+10,Kerala,Palghat,41,NA,5,10,1,9,330,237,352,12,23,NA,2814
+11,Kerala,Malappuram,20,NA,7,5,2,6,213,192,338,12,16,NA,2373
+12,Kerala,Kozhikode City,9,NA,1,2,NA,8,91,98,136,12,13,NA,1087
+13,Kerala,Kozhikode Rural,38,NA,1,6,1,7,179,174,392,54,6,NA,2388
+14,Kerala,Cannanore,41,1,4,9,1,9,256,129,521,13,25,NA,3926
+15,Kerala,Railways,NA,NA,NA,NA,NA,1,4,129,15,2,1,NA,203
+16,Kerala,Crime Branch CID,10,NA,NA,NA,1,2,7,3,3,9,73,NA,228
+1,Madhya Pradesh,Gwalior,79,1,7,38,20,141,821,1542,281,27,52,2,5290
+2,Madhya Pradesh,Bhind,65,1,4,6,16,54,396,637,139,10,10,NA,2465
+3,Madhya Pradesh,Morena,61,NA,13,23,15,78,427,998,342,20,28,NA,3889
+4,Madhya Pradesh,Shivpuri,37,NA,12,20,24,80,374,502,115,16,16,NA,2256
+5,Madhya Pradesh,Guna,53,3,32,18,28,101,510,1023,239,42,22,1,3311
+6,Madhya Pradesh,Datiya,20,NA,4,7,2,25,130,190,47,4,8,NA,792
+7,Madhya Pradesh,Indore ,51,NA,20,83,13,100,1217,3626,300,143,96,3,9982
+8,Madhya Pradesh,Dhar,66,NA,24,20,14,81,374,901,125,30,18,1,3124
+9,Madhya Pradesh,Jhabua,156,3,10,51,27,108,220,669,33,29,16,1,2411
+10,Madhya Pradesh,Khargoan,71,5,35,37,8,58,552,1872,149,34,22,1,4654
+11,Madhya Pradesh,Khandwa,31,NA,11,12,4,14,367,1238,78,26,26,NA,3053
+12,Madhya Pradesh,Ujjain,68,4,11,26,13,105,913,2370,154,72,43,NA,6309
+13,Madhya Pradesh,Mandsaur,29,1,10,35,1,62,799,1390,198,86,28,1,4070
+14,Madhya Pradesh,Ratlam,27,NA,15,33,7,53,548,955,102,55,32,NA,3167
+15,Madhya Pradesh,Devas,23,NA,19,20,6,51,506,1200,108,27,28,NA,3167
+16,Madhya Pradesh,Shajapur,32,2,18,14,6,43,563,912,63,14,15,NA,2644
+17,Madhya Pradesh,Jabalpur,93,2,49,43,4,101,1337,2751,234,59,77,3,9955
+18,Madhya Pradesh,Mandla,33,NA,17,10,NA,17,534,506,17,18,20,NA,1884
+19,Madhya Pradesh,Chhindwara,56,3,36,15,9,39,527,1162,62,16,37,NA,3725
+20,Madhya Pradesh,Balaghat,29,NA,8,8,1,13,633,916,39,21,13,NA,2673
+21,Madhya Pradesh,Sivni,24,3,16,2,1,8,342,686,55,6,19,NA,1959
+22,Madhya Pradesh,Narsinghpur,28,NA,14,7,3,28,323,618,73,9,13,NA,2013
+23,Madhya Pradesh,Sagar,84,NA,29,28,21,170,662,803,193,10,28,NA,4623
+24,Madhya Pradesh,Panna,16,NA,1,10,29,40,230,247,65,6,5,NA,1207
+25,Madhya Pradesh,Damoh,33,1,23,19,30,53,373,449,102,25,18,NA,2273
+26,Madhya Pradesh,Chhatarpur,57,3,16,11,49,113,446,445,51,25,16,1,2154
+27,Madhya Pradesh,Takamgarh,29,NA,18,4,41,79,409,457,82,5,10,NA,1897
+28,Madhya Pradesh,Raipur,65,8,34,33,9,54,1244,2999,140,56,69,6,7057
+29,Madhya Pradesh,Durg,48,1,28,26,13,49,990,2258,160,60,63,4,6203
+30,Madhya Pradesh,Bastar,221,NA,10,18,9,55,579,866,78,34,44,NA,3020
+31,Madhya Pradesh,Rajnandgaon,24,2,17,9,2,19,471,686,58,30,34,2,2376
+32,Madhya Pradesh,Bilaspur,96,NA,23,20,5,60,1474,1925,152,57,61,1,5696
+33,Madhya Pradesh,Raigarh,49,NA,8,8,6,20,480,641,90,30,68,NA,2151
+34,Madhya Pradesh,Sarguja,62,1,15,4,15,48,1151,1138,114,13,44,1,3684
+35,Madhya Pradesh,Reeva,29,NA,4,17,19,39,648,772,135,16,31,NA,2654
+36,Madhya Pradesh,Satna,30,NA,7,5,20,40,424,629,88,4,15,NA,2201
+37,Madhya Pradesh,Sidhi,28,NA,11,8,6,16,358,286,45,3,14,NA,1310
+38,Madhya Pradesh,Shahdol,44,NA,5,15,5,22,619,550,113,11,10,NA,2408
+39,Madhya Pradesh,Sehore,34,NA,21,15,4,20,386,693,82,12,12,NA,2157
+40,Madhya Pradesh,Raisain,34,NA,19,20,20,81,423,661,140,24,20,NA,2431
+41,Madhya Pradesh,Hoshangabad,50,1,29,18,5,51,387,1129,119,23,18,8,3421
+42,Madhya Pradesh,Betul,46,2,17,9,3,32,318,521,78,15,19,NA,2024
+43,Madhya Pradesh,Vidisha,30,NA,27,29,13,55,426,849,106,22,28,NA,3005
+44,Madhya Pradesh,Rajgarh,45,NA,17,13,9,32,372,814,121,22,11,NA,2512
+45,Madhya Pradesh,Bhopal,47,2,23,98,4,128,860,2990,208,43,107,NA,8827
+46,Madhya Pradesh,Railway Police Jabalpur,6,1,NA,3,3,27,80,958,22,4,8,NA,1291
+47,Madhya Pradesh,Railway Police Raipur,3,NA,1,1,1,8,47,567,14,3,1,2,794
+48,Madhya Pradesh,Railway Police Indore,6,NA,2,1,NA,10,6,513,7,1,7,NA,668
+1,Maharashtra,Thane,129,1,24,66,40,256,2132,3396,521,213,151,NA,13331
+2,Maharashtra,Kulaba,41,2,4,10,15,32,443,628,142,48,23,NA,2586
+3,Maharashtra,Ratnagiri,35,NA,6,9,2,31,398,383,42,48,13,NA,1854
+4,Maharashtra,Ahmednagar,41,2,7,19,35,160,467,1316,138,83,23,NA,3607
+5,Maharashtra,Nasik,68,2,18,29,32,80,852,1724,171,129,35,NA,5346
+6,Maharashtra,Dhule,67,2,10,11,10,53,254,848,101,70,33,NA,2782
+7,Maharashtra,Jalgaon,50,NA,9,9,12,87,332,1163,88,84,27,NA,3540
+8,Maharashtra,Pune Rural,46,NA,12,13,37,86,644,1013,153,51,21,NA,3357
+9,Maharashtra,Satara,36,1,11,13,7,71,636,1267,75,80,24,NA,3207
+10,Maharashtra,Sangli,61,NA,12,21,8,60,372,1130,67,49,16,2,2881
+11,Maharashtra,Sholapur,84,4,7,13,47,134,538,1220,211,94,49,NA,4133
+12,Maharashtra,Kolhapur,53,1,4,11,8,60,442,1105,121,95,46,NA,2825
+13,Maharashtra,Aurangabad,53,NA,10,37,25,165,668,1559,284,89,51,NA,4978
+14,Maharashtra,Parbhani,43,1,4,15,16,127,287,751,78,40,28,NA,2348
+15,Maharashtra,Beed,35,NA,10,21,25,142,362,759,131,54,26,NA,2599
+16,Maharashtra,Nanded,50,1,12,10,38,116,350,865,121,33,21,NA,2721
+17,Maharashtra,Osmanabad,63,1,14,23,23,130,414,1105,101,80,9,NA,3187
+18,Maharashtra,Buldana,31,1,10,9,7,50,510,1211,81,43,26,NA,3879
+19,Maharashtra,Akola,46,NA,2,20,19,92,971,2743,101,75,60,1,6280
+20,Maharashtra,Amravati,46,2,17,13,10,104,1170,3235,118,65,63,NA,7195
+21,Maharashtra,Yavatmal,38,NA,23,23,9,49,654,2113,114,65,44,NA,4870
+22,Maharashtra,Wardha,21,NA,13,16,4,84,666,1252,55,55,41,3,3464
+23,Maharashtra,Nagpur Rural,40,1,9,10,9,60,639,1286,55,26,16,NA,3455
+24,Maharashtra,Bhandara,54,NA,17,18,3,42,798,1369,41,55,32,1,3906
+25,Maharashtra,Chandrapur,43,NA,20,24,11,60,563,1265,59,87,34,1,3743
+26,Maharashtra,C.S.W. Rly. Pune,14,NA,3,7,4,65,15,3481,36,53,72,1,4000
+27,Maharashtra,C.S.E.S.W. Rly. Nagpur,2,NA,1,4,1,17,11,1064,6,17,21,NA,1251
+28,Maharashtra,Pune City,49,1,10,27,5,36,581,2142,118,86,90,NA,5502
+29,Maharashtra,Nagpur City,45,NA,14,39,8,134,677,2406,105,59,144,10,5477
+1,Manipur,Central District,68,2,8,156,39,59,204,641,140,38,108,3,2733
+2,Manipur,East District,7,NA,1,1,1,5,8,32,5,1,2,NA,102
+3,Manipur,West District,1,NA,NA,NA,1,NA,8,8,5,1,2,NA,45
+4,Manipur,North District,7,NA,1,1,3,6,21,65,9,2,2,NA,125
+5,Manipur,South District,6,NA,NA,NA,4,3,8,36,6,2,15,NA,154
+6,Manipur,Tengnoupal District,5,NA,NA,NA,4,1,13,25,NA,2,2,1,87
+1,Meghalaya,East Khasi Hills,53,3,10,10,7,25,154,308,266,16,21,NA,1426
+2,Meghalaya,West Khasi Hills,20,NA,1,1,5,1,NA,30,4,4,NA,NA,101
+3,Meghalaya,West Garo Hills,7,NA,NA,NA,13,5,98,144,50,6,4,NA,499
+4,Meghalaya,East Garo Hills,2,NA,NA,NA,4,3,24,23,2,3,2,NA,104
+5,Meghalaya,Jaintia Hills,10,1,1,1,3,6,9,32,6,2,1,NA,150
+1,Nagaland,Kohima,6,6,3,10,2,14,143,239,6,11,21,NA,461
+2,Nagaland,Mokoko-Hung,4,NA,NA,NA,NA,3,57,45,6,6,6,NA,127
+3,Nagaland,Tuensang,4,1,NA,1,2,5,35,19,1,4,5,NA,77
+4,Nagaland,Phek,1,1,1,2,NA,3,14,27,5,4,3,NA,61
+5,Nagaland,Wokha,NA,NA,NA,1,NA,NA,12,14,NA,1,1,NA,29
+6,Nagaland,Zunhebot,1,NA,NA,1,NA,1,12,20,1,4,NA,NA,40
+7,Nagaland,Mon ,2,NA,NA,1,2,3,4,21,3,2,1,NA,39
+1,Orissa,Balasore,13,NA,4,12,37,32,577,709,333,29,13,NA,2742
+2,Orissa,Cuttack,54,3,10,23,39,100,1233,2236,542,87,47,NA,7111
+3,Orissa,Ganjam,51,4,3,21,13,59,537,786,324,31,28,NA,3520
+4,Orissa,Koraput,73,5,8,14,15,69,548,843,152,40,16,NA,3148
+5,Orissa,Puri,34,2,10,9,35,39,546,1226,240,45,10,NA,3520
+6,Orissa,Sambalpur,44,8,16,15,21,54,1164,1399,230,72,52,1,5259
+7,Orissa,Dhenkanal,28,2,2,5,6,31,383,708,134,33,8,NA,2277
+8,Orissa,Sundargarh,32,NA,15,12,24,51,266,336,61,26,11,NA,1505
+9,Orissa,Bolangir,10,2,8,7,4,20,391,596,132,25,14,NA,1955
+10,Orissa,Keonjhar,24,1,12,8,7,17,346,537,61,30,12,NA,1802
+11,Orissa,Phulbani,19,2,NA,4,1,10,177,204,64,16,2,NA,995
+12,Orissa,Mayurbhanj,38,2,11,5,31,14,340,580,115,29,11,NA,1991
+13,Orissa,Kalahandi,28,4,5,3,8,30,317,339,166,18,7,NA,1621
+14,Orissa,Rourkela,10,1,7,17,8,47,220,775,95,21,20,1,1951
+15,Orissa,Govt. Rly. Police ,1,NA,1,1,10,28,48,740,39,5,7,NA,1035
+16,Orissa,Bhubaneswar,2,NA,3,12,6,29,478,753,113,46,10,8,2163
+1,Punjab,Amritsar,104,28,12,39,NA,3,185,382,NA,90,44,NA,1871
+2,Punjab,Jullundhur,51,16,6,38,NA,2,190,330,1,41,68,NA,1450
+3,Punjab,Gurdaspur,42,15,8,16,NA,NA,71,163,2,37,18,NA,794
+4,Punjab,Hoshiarpur,23,3,3,12,NA,3,80,104,2,21,34,NA,560
+5,Punjab,Kapurthala,17,12,1,10,NA,2,47,73,2,11,14,NA,440
+6,Punjab,Patiala ,47,22,17,31,NA,3,116,320,6,66,24,1,1435
+7,Punjab,Ludhiana,71,17,8,61,NA,2,140,382,1,53,64,NA,1736
+8,Punjab,Sangrur,53,2,8,29,NA,8,121,131,2,37,25,1,926
+9,Punjab,Ropar,18,3,5,20,NA,1,58,93,1,18,17,NA,480
+10,Punjab,Ferozepur,47,6,1,16,NA,NA,87,111,1,29,17,1,752
+11,Punjab,Bhatinda,63,20,8,6,NA,2,77,125,NA,37,19,NA,764
+12,Punjab,Faridkot,54,12,6,28,1,2,80,131,2,34,50,NA,920
+1,Rajasthan,Ajmer,39,2,2,63,3,34,390,451,301,47,86,NA,2470
+2,Rajasthan,Alwar,45,1,8,52,5,78,264,740,559,25,84,NA,2650
+3,Rajasthan,Bharatpur,72,3,7,102,22,85,391,1197,699,55,103,NA,4052
+4,Rajasthan,Jaipur,65,7,11,166,13,239,936,3108,1354,123,240,1,9238
+5,Rajasthan,Sawai Modhpur,34,NA,17,79,14,86,343,643,584,40,40,NA,2709
+6,Rajasthan,Bikaner,21,1,7,23,9,45,126,246,231,31,35,NA,1417
+7,Rajasthan,Churu,22,NA,8,21,2,34,105,171,182,25,52,NA,1315
+8,Rajasthan,Ganganagar,74,3,28,58,3,41,297,367,115,66,84,NA,3250
+9,Rajasthan,Sikar,21,NA,5,17,3,23,201,317,299,24,53,NA,1522
+10,Rajasthan,Jhunjhun,22,NA,2,13,NA,15,169,211,294,16,32,NA,1172
+11,Rajasthan,Barmer,11,NA,1,17,1,31,73,178,109,14,33,2,1025
+12,Rajasthan,Jaisalmer,4,NA,NA,5,1,6,31,81,42,5,2,NA,312
+13,Rajasthan,Jalore,14,NA,2,18,2,8,45,119,82,24,23,NA,819
+14,Rajasthan,Jodhpur,35,NA,8,45,9,122,266,696,416,45,86,NA,2848
+15,Rajasthan,Nagour,31,1,4,30,1,65,161,342,354,23,45,NA,1986
+16,Rajasthan,Pali,27,2,2,27,1,31,197,273,210,24,26,NA,1734
+17,Rajasthan,Sirohi,12,NA,5,7,2,4,64,73,51,14,7,NA,533
+18,Rajasthan,Kota,38,4,17,89,3,65,460,984,209,83,84,NA,4007
+19,Rajasthan,Bundi,16,5,9,46,1,30,167,229,202,31,20,NA,1390
+20,Rajasthan,Jhalawar,24,NA,15,32,2,22,263,315,133,27,25,NA,1618
+21,Rajasthan,Tonk,9,NA,6,31,NA,13,114,232,198,11,23,NA,1077
+22,Rajasthan,Udaipur,60,3,9,158,4,81,438,762,557,65,122,NA,3876
+23,Rajasthan,Banswara,20,NA,7,30,4,34,129,161,172,29,33,NA,1106
+24,Rajasthan,Bhilwara,25,3,5,200,1,48,365,514,555,62,143,NA,3182
+25,Rajasthan,Chittor,24,3,9,112,NA,48,438,591,477,53,87,NA,3164
+26,Rajasthan,Dungarpur,15,NA,8,28,NA,6,91,93,136,20,16,NA,689
+27,Rajasthan,G.R.P.,4,NA,NA,3,NA,8,7,552,12,6,4,NA,716
+1,Sikkam,East District,4,1,5,2,1,6,37,93,15,9,2,NA,175
+2,Sikkam,North District,1,NA,NA,NA,NA,1,8,18,NA,48,NA,NA,76
+3,Sikkam,South District,4,NA,NA,1,NA,2,8,17,NA,14,NA,NA,46
+4,Sikkam,West District,4,1,1,NA,NA,NA,NA,15,NA,NA,NA,NA,21
+1,Tamil Nadu,Chengleput East,25,NA,9,44,2,13,857,2041,428,49,55,1,5421
+2,Tamil Nadu,Chengleput West,21,NA,7,20,NA,4,437,1107,482,18,27,1,3730
+3,Tamil Nadu,South Arcot,49,NA,3,59,4,8,732,1819,810,96,64,NA,7273
+4,Tamil Nadu,Thanjavur East,24,NA,6,42,NA,10,588,1179,556,75,33,1,4374
+5,Tamil Nadu,Thanjavur West,34,NA,6,45,NA,11,704,1693,490,81,67,4,5860
+6,Tamil Nadu,Tiruchirapalli,80,1,6,51,NA,15,810,2661,822,141,117,NA,8281
+7,Tamil Nadu,Pudukkottai,12,NA,NA,26,NA,5,210,369,216,12,68,NA,2007
+8,Tamil Nadu,Madurai South,52,NA,7,33,6,10,377,1611,408,118,60,1,4813
+9,Tamil Nadu,Madurai North,59,NA,5,33,2,15,359,1026,355,50,32,2,4149
+10,Tamil Nadu,Ramnad East,42,NA,1,18,1,5,174,410,296,36,24,1,2856
+11,Tamil Nadu,Ramnad S. West,35,NA,2,11,1,18,195,693,162,26,21,3,2814
+12,Tamil Nadu,Tirunelveli,109,NA,11,92,4,62,667,1545,665,110,103,1,6061
+13,Tamil Nadu,Kanyakumari,30,NA,3,19,NA,4,225,364,158,27,26,3,2759
+14,Tamil Nadu,Coimbatore Urban,29,NA,1,11,NA,4,395,1490,236,48,69,2,4041
+15,Tamil Nadu,Periyar District,49,NA,3,25,NA,4,274,669,376,28,25,NA,2145
+16,Tamil Nadu,Coimbatore Rural,45,NA,4,17,3,8,248,553,284,22,13,NA,2848
+17,Tamil Nadu,The Nilgiris,19,3,1,4,2,2,236,229,125,10,8,NA,1256
+18,Tamil Nadu,Salem,94,NA,NA,58,1,11,592,1569,540,71,72,4,5577
+19,Tamil Nadu,Dharmapuri,36,NA,1,8,7,5,314,572,506,15,10,1,2629
+20,Tamil Nadu,North Arcot,70,NA,12,29,6,18,989,2205,717,61,60,3,7323
+21,Tamil Nadu,"Government Railway Police, Trichy",5,NA,1,2,1,4,6,678,91,16,12,NA,1240
+1,Tripura,Tripura West Tripura District,34,4,3,10,34,60,803,1149,232,13,20,NA,3381
+2,Tripura,Tripura South Tripura District,14,6,NA,5,23,29,273,183,157,11,8,NA,1212
+3,Tripura,Tripura North Tripura District,13,1,1,9,15,32,210,208,133,16,11,NA,1173
+1,Uttar Pradesh,Saharanpur,106,19,20,64,131,143,620,1790,187,85,43,NA,4444
+2,Uttar Pradesh,Muzaffaranagar,130,29,17,60,154,112,497,1292,238,71,35,NA,3571
+3,Uttar Pradesh,Meerut,176,28,22,114,228,336,1016,3174,405,226,129,NA,7633
+4,Uttar Pradesh,Bulandshahr,139,43,22,51,148,232,949,1845,363,102,54,NA,5122
+5,Uttar Pradesh,Ghaziabad,112,19,23,56,117,238,739,2128,369,173,75,NA,5513
+6,Uttar Pradesh,Bijnaur,59,21,14,57,74,23,12,843,280,34,61,1,2489
+7,Uttar Pradesh,Aligarh,153,24,17,84,265,218,938,1436,325,142,84,4,5095
+8,Uttar Pradesh,Mathura,60,10,4,29,103,126,544,813,254,62,34,1,2874
+9,Uttar Pradesh,Agra,129,30,18,151,278,206,965,2875,294,179,121,1,7210
+10,Uttar Pradesh,Mainpuri,143,24,4,65,177,254,609,860,283,47,16,NA,3401
+11,Uttar Pradesh,Etah,213,15,28,131,237,229,719,832,308,162,30,NA,3816
+12,Uttar Pradesh,Farrukhabad,158,8,8,69,204,173,555,991,151,42,24,NA,3662
+13,Uttar Pradesh,Etawah,98,16,7,56,189,196,707,893,214,73,39,NA,3564
+14,Uttar Pradesh,Kanpur,188,34,23,68,266,302,1603,4155,361,502,312,18,10546
+15,Uttar Pradesh,Fatehpur,150,32,10,19,158,237,523,573,85,36,23,NA,2381
+16,Uttar Pradesh,Allahabad,188,81,20,58,174,132,1001,1897,272,197,119,1,5747
+17,Uttar Pradesh,Jhansi,46,8,18,20,57,101,493,752,147,48,27,NA,2117
+18,Uttar Pradesh,Jalaun,56,21,NA,17,79,129,497,450,125,40,11,NA,1089
+19,Uttar Pradesh,Hamirpur,117,25,1,5,169,160,440,368,105,27,14,NA,1875
+20,Uttar Pradesh,Banda,159,41,13,22,193,233,610,511,171,33,21,NA,2541
+21,Uttar Pradesh,Lalitput,18,12,5,18,43,70,237,290,78,26,11,NA,1044
+22,Uttar Pradesh,Varanasi,89,38,7,58,165,125,883,1850,371,182,74,2,5333
+23,Uttar Pradesh,Mirzapur,68,20,14,25,92,35,396,827,171,71,20,NA,2545
+24,Uttar Pradesh,Jaunpur,48,37,2,20,105,57,431,546,234,61,24,NA,2182
+25,Uttar Pradesh,Ghazipur,58,20,1,14,129,54,422,527,161,29,14,NA,1885
+26,Uttar Pradesh,Ballia,40,18,4,15,60,60,608,710,184,28,33,NA,2382
+27,Uttar Pradesh,Gorakhpur,134,32,21,66,235,208,1011,2014,636,190,88,2,6526
+28,Uttar Pradesh,Basti,74,25,11,67,157,129,778,1118,393,118,62,NA,4127
+29,Uttar Pradesh,Azamgarh,97,23,6,32,151,122,774,1178,425,105,43,NA,4167
+30,Uttar Pradesh,Deoria,86,29,12,42,133,72,684,906,363,86,37,NA,3369
+31,Uttar Pradesh,Bareilly,161,41,28,115,134,275,948,2289,213,205,91,NA,6027
+32,Uttar Pradesh,Shahjahanpur,145,37,16,79,111,287,664,1529,216,78,46,NA,4232
+33,Uttar Pradesh,Badaun,186,28,19,55,138,267,454,1225,145,59,25,NA,3539
+34,Uttar Pradesh,Pilibhit,165,12,5,24,37,57,237,498,36,30,18,1,1588
+35,Uttar Pradesh,Moradabad,208,26,23,130,111,298,917,2720,300,167,63,1,6573
+36,Uttar Pradesh,Rampur,58,13,5,47,61,64,278,672,50,60,40,NA,2082
+37,Uttar Pradesh,Lucknow,123,34,34,138,152,301,1866,6185,440,523,233,6,12479
+38,Uttar Pradesh,Unnao,147,25,21,36,170,214,755,780,130,46,14,NA,3169
+39,Uttar Pradesh,Rae Bareli,73,41,20,39,102,116,675,898,242,84,18,NA,3066
+40,Uttar Pradesh,Sitapur,138,51,19,80,127,206,521,1130,180,51,32,NA,3389
+41,Uttar Pradesh,Hardoi,158,34,38,62,196,413,936,1294,337,81,36,NA,4800
+42,Uttar Pradesh,kheri,113,34,16,65,164,149,533,1447,181,92,30,NA,3561
+43,Uttar Pradesh,Faizabad,69,46,15,68,121,152,715,1506,389,97,51,NA,4449
+44,Uttar Pradesh,Gonda,93,30,13,93,137,312,911,1428,354,97,50,NA,4648
+45,Uttar Pradesh,Bahraich,57,30,19,106,113,102,614,1145,265,65,31,1,3395
+46,Uttar Pradesh,Sultanpur,43,28,6,21,80,68,499,619,218,59,50,2,2472
+47,Uttar Pradesh,Pratapgarh,69,37,12,20,175,161,505,592,334,54,37,NA,2713
+48,Uttar Pradesh,Barabanki,109,34,9,61,153,165,921,918,312,70,23,NA,3480
+49,Uttar Pradesh,Dehra Dun,20,8,5,39,13,59,308,663,94,48,29,NA,1639
+50,Uttar Pradesh,Uttarkashi,3,NA,NA,5,NA,2,38,42,6,4,1,NA,152
+51,Uttar Pradesh,Chamoli,1,NA,NA,2,NA,NA,16,13,3,7,NA,NA,78
+52,Uttar Pradesh,Terhi Garhwal,NA,2,2,3,NA,2,29,37,13,6,NA,NA,158
+53,Uttar Pradesh,Pauri Garhwal,1,1,3,2,2,7,43,71,11,8,2,NA,205
+54,Uttar Pradesh,Nainital,57,9,12,55,47,56,417,851,154,98,37,NA,2543
+55,Uttar Pradesh,Almora,NA,NA,1,1,1,4,16,27,10,7,1,NA,98
+56,Uttar Pradesh,Pithoragarh,1,NA,NA,4,NA,1,46,34,8,5,5,NA,151
+57,Uttar Pradesh,Govt. Rly. Police ,30,6,3,21,54,113,26,5031,69,244,76,2,6074
+1,West Bengal,Bankura,39,17,6,9,65,30,119,841,526,56,47,NA,2452
+2,West Bengal,Birbhum,42,15,29,16,63,48,238,914,572,42,18,NA,2740
+3,West Bengal,Burdwan,115,46,55,72,189,122,417,3261,1131,80,88,NA,7683
+4,West Bengal,Hooghly,64,29,30,85,156,77,295,1718,888,80,66,1,5555
+5,West Bengal,Purulia,45,15,10,14,57,27,146,973,399,35,9,NA,2327
+6,West Bengal,24 Parganas,138,78,104,324,192,155,967,8274,2490,200,179,23,20209
+7,West Bengal,Murshidabad,66,44,32,48,55,43,95,1145,949,31,32,NA,3599
+8,West Bengal,Nadia,65,14,78,72,142,69,473,2874,1051,54,49,2,6305
+9,West Bengal,West Dinajpur,60,52,22,39,105,68,361,1716,736,52,31,NA,4133
+10,West Bengal,Jalpaiguri,51,27,26,38,76,88,423,1724,256,31,33,NA,3935
+11,West Bengal,Malda,51,28,26,28,30,9,109,539,290,25,17,1,2033
+12,West Bengal,Darjeeling,36,10,5,31,43,43,121,1200,146,39,27,NA,2950
+13,West Bengal,Cooch Behar,21,13,16,20,56,64,496,744,436,32,21,NA,2444
+14,West Bengal,Howrah,60,8,14,58,59,63,176,2413,667,150,113,3,5925
+15,West Bengal,Midnapore,100,28,24,62,130,75,890,1971,1936,93,50,NA,6973
+1,Andaman & Nicobar Islands,Andaman & Nicobar Islands,13,NA,2,7,NA,6,73,134,40,15,1,14,703
+1,Arunachal Pradesh,Lohit,2,1,NA,1,NA,NA,4,17,NA,NA,NA,NA,68
+2,Arunachal Pradesh,Subansiri ,3,2,1,2,2,2,23,48,3,2,2,NA,187
+3,Arunachal Pradesh,Kameng ,6,1,NA,1,NA,1,12,27,4,4,NA,NA,108
+4,Arunachal Pradesh,Tirap,3,NA,NA,N,NA,NA,6,25,2,1,NA,NA,61
+5,Arunachal Pradesh,Siang ,2,3,5,6,2,9,29,75,5,5,NA,NA,191
+1,Chandigarh,U.T. of Chandigarh,8,10,1,20,1,15,177,1484,21,42,61,1,2430
+1,Dadar & Nagar Haveli,Dadar & Nagar Haveli,6,NA,3,1,NA,5,17,40,2,17,5,NA,191
+1,Delhi,Railway,2,NA,1,4,1,17,NA,798,1,46,10,2,950
+2,Delhi,North,54,125,25,181,24,205,752,6467,166,283,356,5,11575
+3,Delhi,Central,21,43,13,145,3,61,325,4152,55,102,214,7,6732
+4,Delhi,West,41,58,6,129,9,79,539,2895,51,45,99,2,5325
+5,Delhi,South,30,41,22,130,16,131,749,6023,62,80,133,3,9846
+6,Delhi,New Delhi,4,16,6,36,4,73,298,3160,21,62,135,18,4805
+7,Delhi,East Delhi,37,57,10,168,7,50,665,2162,39,50,107,NA,4709
+8,Delhi,Palam,NA,NA,1,NA,NA,NA,3,98,NA,6,11,NA,136
+1,Daman & Diu,Goa,9,5,3,4,4,33,368,569,99,42,38,1,2125
+2,Daman & Diu,Daman,NA,NA,NA,1,NA,NA,13,21,11,NA,2,NA,76
+3,Daman & Diu,Diu,NA,NA,NA,NA,NA,NA,1,2,2,1,NA,NA,8
+1,Lakshadweep,Lakshadweep,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,6
+1,Mizoram,Aizawl,21,NA,26,2,6,38,54,166,20,14,24,NA,776
+2,Mizoram,Lunglei,2,NA,1,1,NA,7,6,22,NA,7,4,NA,229
+3,Mizoram,Chhimtaipui,4,2,2,4,NA,12,3,18,NA,9,5,NA,272
+1,Pondicherry,Pondicherry U.T.,8,NA,5,28,1,7,288,1618,290,80,23,NA,3910

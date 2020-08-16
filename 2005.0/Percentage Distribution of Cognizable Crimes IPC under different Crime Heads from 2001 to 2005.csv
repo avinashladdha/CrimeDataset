@@ -1,0 +1,31 @@
+Crime Head,2001,2002,2003,2004,2005
+Murder,2,2,1.9,1.8,1.8
+Attempt to Commit Murder,1.8,1.7,1.5,1.5,1.5
+C.H. Not Amounting to Murder,0.2,0.2,0.2,0.2,0.2
+Rape,0.9,0.9,0.9,1,1
+Rape - (i) Custodial Rape,0,0,0,0,0
+Rape - (ii) Other Rape,0.9,0.9,0.9,1,1
+Kidnapping & Abduction,1.3,1.2,1.2,1.3,1.3
+Kidnapping & Abduction - (i) of Women & Girls,0.8,0.8,0.8,0.9,0.9
+Kidnapping & Abduction - (ii) of Others,0.4,0.4,0.4,0.4,0.4
+Dacoity,0.3,0.3,0.3,0.3,0.3
+Preparation & Assembly for Dacoity,0.1,0.1,0.1,0.1,0.2
+Robbery,1.1,1.1,1,1,1
+Burglary,5.7,5.4,5.4,5,4.9
+Theft,14.3,13.9,14.3,14.9,15
+Theft - (i) Auto Theft,3.6,3.7,4,4.4,4.7
+Theft - (ii) Other Theft,10.7,10.2,10.3,10.5,10.3
+Riots,4.3,3.9,3.3,3.3,3.1
+Criminal Breach of Trust,0.8,0.8,0.8,0.8,0.7
+Cheating,2.5,2.6,2.8,2.8,2.9
+Counterfeiting,0.1,0.1,0.1,0.1,0.1
+Arson,0.6,0.7,0.5,0.5,0.5
+Hurt,15.3,14.9,15.2,15.1,14.9
+Dowry Death,0.4,0.4,0.4,0.4,0.4
+Molestation,1.9,1.9,1.9,1.9,1.9
+Sexual Harassment,0.6,0.6,0.7,0.5,0.5
+Cruelty by Husband and Relatives,2.8,2.8,3,3.2,3.2
+Importation of Girls,0,0,0,0,0
+Causing Death by Negligence,3.2,3.6,3.5,3.8,3.9
+Other IPC Crimes,39.6,41,40.8,40.4,40.7
+Total Cognizable Crimes Under IPC,100,100,100,100,100

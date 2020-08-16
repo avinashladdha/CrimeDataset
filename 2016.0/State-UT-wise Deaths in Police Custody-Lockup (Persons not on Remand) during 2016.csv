@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Death or Disappearance Reported (Col.4),Magisterial Enquiry Ordered (Col.5),Cases Registered against Police Personnel in Connection with Deaths (Col.6),Policemen Chargesheeted (Col.7),Policemen Convicted (Col.8)
+1,State,Andhra Pradesh,0,0,0,0,0
+2,State,Arunachal Pradesh,0,0,0,0,0
+3,State,Assam,0,0,0,0,0
+4,State,Bihar,1,2,0,0,0
+5,State,Chhattisgarh,3,0,1,4,0
+6,State,Goa,1,1,0,0,0
+7,State,Gujarat,9,2,1,0,0
+8,State,Haryana,1,1,0,0,0
+9,State,Himachal Pradesh,0,0,0,0,0
+10,State,Jammu & Kashmir,0,0,0,0,0
+11,State,Jharkhand,1,1,0,0,0
+12,State,Karnataka,1,0,0,0,0
+13,State,Kerala,2,2,0,0,0
+14,State,Madhya Pradesh,5,3,0,0,0
+15,State,Maharashtra,12,12,3,0,0
+16,State,Manipur,0,0,0,0,0
+17,State,Meghalaya,0,0,0,0,0
+18,State,Mizoram,2,1,0,0,0
+19,State,Nagaland,1,1,1,0,0
+20,State,Odisha,0,0,0,0,0
+21,State,Punjab,4,3,1,2,0
+22,State,Rajasthan,2,1,0,4,0
+23,State,Sikkim,0,0,0,0,0
+24,State,Tamil Nadu,3,3,3,0,0
+25,State,Telangana,0,0,0,0,0
+26,State,Tripura,0,0,0,0,0
+27,State,Uttar Pradesh,9,6,8,0,0
+28,State,Uttarakhand,0,0,0,0,0
+29,State,West Bengal,2,1,0,0,0
+Total (States),State,Total (States),59,40,18,10,0
+30,UT,A & N Islands,0,0,0,0,0
+31,UT,Chandigarh,0,0,0,0,0
+32,UT,D&N Haveli,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0
+34,UT,Delhi,1,1,1,0,0
+35,UT,Lakshadweep,0,0,0,0,0
+36,UT,Puducherry,0,0,0,0,0
+Total (UTs),UT,Total (UTs),1,1,1,0,0
+Total (All India),Total (All India),Total (All India),60,41,19,10,0

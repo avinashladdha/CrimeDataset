@@ -1,0 +1,60 @@
+SI.No.,State/UT/City,No. of Reported Cases where the loss of property under - criminal breach of trust - worth Rs. 1-10 Crore,No. of Reported Cases where the loss of property under - criminal breach of trust - worth Rs. 20-25 Crore,No. of Reported Cases where the loss of property under - criminal breach of trust - worth Rs. 25-50 Crore,No. of Reported Cases where the loss of property under - criminal breach of trust - worth Rs. 50-100 Crore,No. of Reported Cases where the loss of property under - criminal breach of trust - worth Rs. Above 100 Crore,No. of Reported Cases where the loss of property under - criminal breach of trust - worth Rs. Total,No. of Reported Cases where the loss of property under - Cheating - Worth Rs. 1-10 Crore,No. of Reported Cases where the loss of property under - Cheating - Worth Rs. 20-25 Crore,No. of Reported Cases where the loss of property under - Cheating - Worth Rs. 25-50 Crore,No. of Reported Cases where the loss of property under - Cheating - Worth Rs. 50-100 Crore,No. of Reported Cases where the loss of property under - Cheating - Worth Rs. Above 100 Crore,No. of Reported Cases where the loss of property under - Cheating - Worth Rs. Total,Grand Total (Col. 8 + Col. 14)
+1,Andhra Pradesh,0,0,0,0,0,0,5,0,0,0,0,5,5
+2,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Assam,372,0,0,0,0,372,530,0,0,0,0,530,902
+4,Bihar,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Goa,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Gujarat,22,0,0,0,0,22,3,0,0,0,0,3,25
+7,Haryana,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Karnataka,2,0,0,0,0,2,3,2,0,0,0,5,7
+11,Kerala,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Maharashtra,2,1,0,0,1,4,3,0,0,0,0,3,7
+14,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Meghalaya,0,1,0,0,0,1,0,0,0,0,0,0,1
+16,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Orissa,4,0,0,0,0,4,0,0,0,0,0,0,4
+19,Punjab,0,0,0,0,0,0,609,0,0,0,0,609,609
+20,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Tamil Nadu,7,0,0,0,0,7,12,1,0,0,0,13,20
+23,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Uttar Pradesh,17,0,0,0,0,17,12,0,0,0,0,12,29
+25,West Bengal,1,0,0,0,0,1,1,1,0,0,0,2,3
+Total States,Total States,427,2,0,0,1,430,1178,4,0,0,0,1182,1612
+26,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,Daman & DIU,0,0,0,0,0,0,1,0,0,1,0,2,2
+30,Delhi,3,0,0,0,0,3,13,2,0,0,0,15,18
+31,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Pondicherry,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total (UTs),Total (UTs),3,0,0,0,0,3,14,2,0,1,0,17,20
+Total (All -India),Total (All -India),430,2,0,0,1,433,1192,6,0,1,0,1199,1632
+33,Ahmedabad,0,0,0,0,0,0,1,0,0,0,0,1,1
+34,Bangalore,2,0,0,0,0,2,3,1,0,0,0,4,6
+35,Bhopal,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Calcutta,3,0,0,0,0,3,11,1,0,0,0,12,15
+37,Chennai,3,0,0,0,0,3,0,0,0,0,0,0,3
+38,Coimbatore,3,0,0,0,0,3,13,2,0,0,0,15,18
+39,Delhi,0,0,0,0,0,0,5,0,0,0,0,5,5
+40,Hyderabad,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,Indore,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,Jaipur,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,Kanpur,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,Kochi,1,0,0,0,0,1,1,1,0,0,0,2,3
+45,Lucknow,0,0,0,0,0,0,1,0,0,0,0,1,1
+46,Ludhiana,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Madurai,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Mumbai,2,1,0,0,1,4,2,0,0,0,0,2,6
+49,Nagpur,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Patna,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Pune,0,0,0,0,0,0,1,0,0,0,0,1,1
+52,Surat,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Vadodra,0,0,0,0,0,0,1,0,0,0,0,1,1
+54,Varanasi,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Vishakhapatnam,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total Cities,Total Cities,14,1,0,0,1,16,39,5,0,0,0,44,60

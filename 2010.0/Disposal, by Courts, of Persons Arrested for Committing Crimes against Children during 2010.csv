@@ -1,0 +1,14 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. Persons Under Arrest Including Those from Previous Year (Col. 3),No. of Persons Whose (Col. 4) - Cases Compounded or Withdrawn,No. of Persons Whose (Col. 5) - Trial Completed,No. of Persons Whose (Col. 6) - Trial Remained Pending at the end of the year,No. of Persons Convicted (Col. 7),Percentage of Persons - Trials Remained Pending (Col. 8) = Col. (6 ×100 /3,Percentage of Persons - Convicted to Trials Completed (Col. 9) = Col. (7 × 100 /5
+1,Infanticide (Sec.315 IPC),370,0,79,291,46,78.6,58.2
+2,Murder (Sec.302 IPC),8263,1,1513,6749,723,81.7,47.8
+3,Rape (Sec.376 IPC),25170,58,4374,20738,1368,82.4,31.3
+4,"KidnApping & Abduction (Sec.363-369,371-373 IPC)",27781,55,4728,22998,1627,82.8,34.4
+5,"Foeticide (Sec.315,316 IPC)",206,0,36,170,9,82.5,25
+6,Abetment to Suicide (Sec.305 IPC),184,1,43,140,8,76.1,18.6
+7,Exposure and AbAndonment (Sec. 317 IPC),1011,1,166,844,26,83.5,15.7
+8,Procuration Minor Girls (Sec. 366A IPC),1260,3,252,1005,35,79.8,13.9
+9,Buying of Girls for Prost. (Sec.373 IPC),256,0,37,219,7,85.5,18.9
+10,Selling of Girls for Prost. (Sec.372 IPC),272,0,21,251,2,92.3,9.5
+11,Prohibition of Child MArriAge Act 2006,1613,4,225,1384,36,85.8,16
+12,Other Crimes,31183,781,6740,23662,2369,75.9,35.1
+13,TotAl,97569,904,18214,78451,6256,80.4,34.3

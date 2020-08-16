@@ -1,0 +1,28 @@
+Sr. No.,Crime Head,Incidence - 1994,Rate of Crime - 1994,Incidence - 1999,Rate of Crime - 1999,Incidence - 2000,Rate of Crime - 2000,Incidence - 2001,Rate of Crime - 2001,Incidence - 2002,Rate of Crime - 2002,Incidence - 2003,Rate of Crime - 2003,Incidence - Quinquennial Average (1999-2003) (Q.A),Rate of Crime Quinquennial Average (19992003) (Q.A),Incidence - 2004,Rate of Crime - 2004,Percentage Change in 2004 [(+) Increase/ (-) Decrease] over - 1994,Percentage Change in 2004 [(+) Increase/ (-) Decrease] over - 1994,Percentage Change in 2004 [(+) Increase/ (-) Decrease] over - 1994,Note of Incidence - 1994,Note of Rate of Crime - 1994,Note of Incidence - 1999,Note of Rate of Crime - 1999,Note of Incidence - 2000,Note of Rate of Crime - 2000
+1,Arms Act,60289,6.7,60607,6.1,60347,6,59960,5.8,64383,6.1,72804,6.8,63620,6.2,74482,6.9,23.5,17.1,2.3,NA,NA,NA,NA,NA,NA
+2,Narcotic Drugs & Psychotropic Substances Act,20304,2.3,20132,2,22739,2.3,24377,2.4,25279,2.4,27913,2.6,24088,2.3,27608,2.5,36,14.6,-1.1,NA,NA,NA,NA,NA,NA
+3,Gambling Act,156926,17.4,116516,11.8,140959,14.1,151497,14.8,175001,16.7,175298,16.4,151854,14.8,190682,17.6,21.5,25.6,8.8,NA,NA,NA,NA,NA,NA
+4,Excise Act,102096,11.3,106662,10.8,118811,11.9,116247,11.3,125062,11.9,137513,12.9,120859,11.8,147854,13.6,44.8,22.3,7.5,NA,NA,NA,NA,NA,NA
+5,Prohibition Act,638611,71,547386,55.5,537536,53.6,509077,49.6,488189,46.5,467216,43.7,509881,49.8,378919,34.9,-40.7,-25.7,-18.9,NA,NA,NA,NA,NA,NA
+6,Explosive & Explosive Substances Act,4641,0.5,4399,0.4,4759,0.5,4529,0.4,4634,0.4,3864,0.4,4437,0.4,4248,0.4,-8.5,-4.3,9.9,NA,NA,NA,NA,NA,NA
+7,Immoral Traffic (P) Act,10132,1.1,9363,0.9,9515,0.9,8796,0.9,6598,0.6,5510,0.5,7956,0.8,5748,0.5,-43.3,-27.8,4.3,NA,NA,NA,NA,NA,NA
+8,Indian Railways Act,29570,3.3,36099,3.7,44406,4.4,64373,6.3,55697,5.3,40861,3.8,48287,4.7,21444,2,-27.5,-55.6,-47.5,NA,NA,NA,NA,NA,NA
+9,Registration of Foreigners Act,1477,0.2,1587,0.2,1434,0.1,1438,0.1,1754,0.2,1315,0.1,1506,0.1,1194,0.1,-19.2,-20.7,-9.2,NA,NA,NA,NA,NA,NA
+10,Protection of Civil Rights Act - Total,4560,0.5,996,0.1,810,0.1,691,0.1,1065,0.1,671,0.1,847,0.1,375,0,-91.8,-55.7,-44.1,NA,NA,NA,NA,NA,NA
+10,Protection of Civil Rights Act - i) PCR Act for SCs,NA,NA,NA,NA,NA,NA,633,0.1,1018,0.1,634,0.1,457,0.1,364,0,NA,-20.4,-42.6,*,*,*,*,*,*
+10,Protection of Civil Rights Act - ii) PCR Act for STs,NA,NA,NA,NA,NA,NA,58,0,47,0,37,0,28,0,11,0,NA,-61.3,-70.3,*,*,*,*,*,*
+11,Indian Passport Act,756,0.1,472,0,309,0,390,0,693,0.1,555,0.1,484,0,807,0.1,6.7,66.8,45.4,NA,NA,NA,NA,NA,NA
+12,Essential Commodities Act,4132,0.5,5639,0.6,4872,0.5,4279,0.4,3593,0.3,4201,0.4,4517,0.4,4871,0.4,17.9,7.8,15.9,NA,NA,NA,NA,NA,NA
+13,Terrorist & Disruptive Activities Act,3183,0.4,0,0,12,0,0,0,65,0,85,0,32,0,66,0,-97.9,103.7,-22.4,NA,NA,NA,NA,NA,NA
+14,Antiquity & Art Treasure Act,66,0,16,0,38,0,40,0,77,0,37,0,42,0,85,0,28.8,104.3,129.7,NA,NA,NA,NA,NA,NA
+15,Dowry Prohibition Act,2709,0.3,3064,0.3,2876,0.3,3222,0.3,2816,0.3,2684,0.3,2932,0.3,3592,0.3,32.6,22.5,33.8,NA,NA,NA,NA,NA,NA
+16,Child Marriage Restraint Act,NA,NA,58,0,92,0,85,0,113,0,63,0,82,0,93,0,NA,13.1,47.6,*,*,NA,NA,NA,NA
+17,Indecent Representation of Women (P) Act,NA,NA,222,0,662,0.1,1052,0.1,2508,0.2,1043,0.1,1097,0.1,1378,0.1,NA,25.6,32.1,*,*,NA,NA,NA,NA
+18,Copyrights Act,NA,NA,1980,0.2,2364,0.2,2868,0.3,4035,0.4,5378,0.5,3325,0.3,6290,0.6,NA,89.2,17,*,*,NA,NA,NA,NA
+19,Sati Prevention Act,NA,NA,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,NA,0,0,*,*,NA,NA,NA,NA
+20,SC/ ST (Prevention of Atrocities) Act - Total,NA,NA,14595,1.5,15157,1.5,14780,1.4,12570,1.2,9388,0.9,13298,1.3,10066,0.9,NA,-24.3,7.2,*,*,NA,NA,NA,NA
+20,SC/ ST (Prevention of Atrocities) Act - i) Prevention of Atrocities Act for SCs,NA,NA,NA,NA,NA,NA,13113,1.3,10770,1,8048,0.8,6386,0.6,8891,0.8,NA,39.2,10.5,*,*,*,*,*,*
+20,SC/ ST (Prevention of Atrocities) Act - ii) Prevention of Atrocities Act for STs,NA,NA,NA,NA,NA,NA,1667,0.2,1800,0.2,1340,0.1,961,0.1,1175,0.1,NA,22.2,-12.3,*,*,*,*,*,*
+21,Forest Act,NA,NA,5139,0.5,4916,0.5,5548,0.5,4710,0.4,3707,0.3,4804,0.4,3818,0.4,NA,-20.5,3,*,*,NA,NA,NA,NA
+22,Other SLL Crimes,2837542,315.3,2212169,224.2,2424052,241.9,2601981,253.4,2767356,263.4,2818588,263.9,2564829,249.4,3313146,305.2,16.8,29.2,17.5,NA,NA,NA,NA,NA,NA
+Total Cognizable Crimes under SLL,Total Cognizable Crimes under SLL,3876994,430.8,3147101,319,3396666,338.9,3575230,348.1,3746198,356.6,3778694,353.7,3528778,343.3,4196766,386.6,8.2,18.9,11.1,NA,NA,NA,NA,NA,NA

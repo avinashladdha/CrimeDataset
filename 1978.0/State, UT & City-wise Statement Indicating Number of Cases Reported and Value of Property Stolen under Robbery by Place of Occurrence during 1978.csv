@@ -1,0 +1,44 @@
+SL. No.,Category,States/U.Ts/Cities,Residential Premises - Number of Cases Reported,Residential Premises - Value of Property Stolen,Highways - Number of Cases Reported,Highways - Value of Property Stolen ,Railways - Number of Cases Reported,Railways - Value of Property Stolen ,Rivers & Sea - Number of Cases Reported,Rivers & Sea - Value of Property Stolen ,Banks - Number of Cases Reported,Banks - Value of Property Stolen ,Commercial Establishments - Number of Cases Reported,Commercial Establishments - Value of Property Stolen ,Other Places - Number of Cases Reported,Other Places - Value of Property Stolen ,Total - Number of Cases Reported,Total - Value of Property Stolen 
+1,State,Andhra Pradesh ,161,11.01,76,0.97,2,0.02,NA,NA,NA,NA,26,0.62,128,1.71,393,14.33
+2,State,Assam,54,0.42,84,0.35,2,0.02,NA,NA,NA,NA,26,0.28,224,1.51,390,2.58
+3,State,Bihar,703,5.12,478,2.58,53,0.73,NA,NA,NA,NA,28,0.42,297,3.2,1559,12.05
+4,State,Gujarat,58,0.35,25,0.47,2,0.06,NA,NA,1,0.55,2,0,725,5.19,813,6.62
+5,State,Haryana,13,0.35,17,3.39,4,0.07,NA,NA,NA,NA,NA,NA,37,0.91,71,4.72
+6,State,Himachal Pradesh,NA,NA,1,0.01,NA,NA,NA,NA,NA,NA,1,0.03,33,1.07,35,0.21
+7,State,Jammu and Kashmir,5,0.39,2,0.29,NA,NA,NA,NA,NA,NA,NA,NA,26,2.08,33,2.76
+8,State,Karnataka ,127,0.99,30,2.16,5,0.09,NA,NA,NA,NA,6,0.54,704,9.91,872,13.69
+9,State,Kerala,19,0.36,7,0.21,2,0.02,NA,NA,NA,NA,NA,NA,100,0.91,128,1.5
+10,State,Madhya Pradesh,473,4.87,583,3.71,40,0.26,1,0,NA,NA,19,0.08,1056,5.66,2172,14.58
+11,State,Maharashtra,591,9.86,251,5.5,73,0.59,6,0.09,1,0,19,0.88,1909,22.11,2850,39.03
+12,State,Manipur,3,0.06,14,0.39,NA,NA,NA,NA,1,0.19,NA,NA,31,0.15,49,0.79
+13,State,Meghalaya,4,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,0.64,53,0.65
+14,State,Nagaland,3,0.01,11,0.09,NA,NA,NA,NA,NA,NA,NA,NA,16,0.12,30,0.32
+15,State,Orissa,327,1.64,73,0.46,8,0.07,NA,NA,NA,NA,1,0.01,147,0.21,556,2.39
+16,State,Punjab,2,0.04,11,0.94,2,0,NA,NA,1,0.06,NA,NA,9,0.34,25,1.38
+17,State,Rajasthan,139,125,36,3.26,8,0.32,NA,NA,NA,NA,1,0,1337,14.33,1521,19.16
+18,State,Sikkim ,NA,NA,3,0.01,NA,NA,NA,NA,NA,NA,1,0.03,2,0.01,6,0.05
+19,State,Tamil Nadu,50,11.04,28,0.66,8,0.17,1,0,NA,NA,1,0,155,2.57,243,14.44
+20,State,Tripura,40,0.09,14,0.08,NA,NA,NA,NA,NA,NA,NA,NA,89,0.33,143,0.5
+21,State,Uttar Pradesh,3776,53.42,1360,17.49,115,4.19,1,0.02,NA,NA,3,0.08,3626,269.68,8881,344.87
+22,State,West Bengal ,709,9.8,186,6.01,19,0.14,NA,NA,NA,NA,59,3.02,245,4.93,1218,23.9
+Total (States),State,Total (States),7257,111.08,3290,49.12,343,6.75,9,0.11,4,0.8,193,5.99,10945,346.67,22041,520.52
+23,UT,A & N Islands,5,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.05,12,0.07
+24,UT,Arunachal Pradesh,8,0.02,NA,NA,NA,NA,NA,NA,NA,NA,1,0.36,3,0.2,12,0.41
+25,UT,Chandigarh,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.06,7,0.06
+26,UT,D & N Haveli,3,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.01,7,0.02
+27,UT,Delhi,5,18.53,404,5.1,17,0.05,NA,NA,NA,NA,139,3.55,102,0.7,667,27.93
+28,UT,"Goa, Daman & Diu",14,0.29,1,0,NA,NA,NA,NA,NA,NA,NA,NA,14,0.27,29,0.56
+29,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,UT,Mizoram,22,0.08,NA,NA,NA,NA,NA,NA,NA,NA,3,0.02,14,0.04,39,0.14
+31,UT,Pondicherry,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+Total (UTs),UT,Total (UTs),60,18.96,405,5.1,17,0.05,NA,NA,NA,NA,143,3.93,150,1.15,775,29.19
+Total (All-India),Total (All-India),Total (All-India),7317,130.04,3695,54.22,360,6.8,9,0.11,4,0.8,336,9.92,11095,347.82,22816,549.71
+1,City,Ahmedabad ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,0.34,32,0.34
+2,City,Bangalore ,50,0.72,6,0.19,NA,NA,NA,NA,NA,NA,5,0.53,413,4.43,474,5.87
+3,City,Bombay,41,4.18,6,0.08,NA,NA,6,0.09,NA,NA,15,0.87,246,8.99,314,14.21
+4,City,Calcutta,15,1.48,113,4.28,NA,NA,NA,NA,NA,NA,38,2.45,4,0.4,170,8.61
+5,City,Delhi,5,18.53,365,0.07,17,0.05,NA,NA,NA,NA,139,3.55,103,0.7,629,22.9
+6,City,Hyderabad,7,0.1,11,0.22,NA,NA,NA,NA,NA,NA,6,0.11,19,0.29,43,0.72
+7,City,Kanpur,118,1.4,228,4.01,NA,NA,NA,NA,NA,NA,NA,NA,44,2.13,390,7.54
+8,City,Madras,2,0.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,0.24,28,0.3
+Total (Cities),City,Total (Cities),238,26.47,729,8.85,17,0.05,6,0.09,NA,NA,203,7.51,887,17.52,2080,60.49

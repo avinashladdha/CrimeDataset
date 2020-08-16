@@ -1,0 +1,21 @@
+SL (Col.1),City (Col.2),Un-Recovered Victims of Previous years Kidnapping & Abduction - Male (Col.3),Un-Recovered Victims of Previous years Kidnapping & Abduction - Female (Col.4),Un-Recovered Victims of Previous years Kidnapping & Abduction - Total (Col.5),Persons Kidnapped & Abducted in 2016 - Male (Col.6),Persons Kidnapped & Abducted in 2016 - Female (Col.7),Persons Kidnapped & Abducted in 2016 - Total (Col.8),Total Persons Kidnapped & Abducted - Male (Col.9),Total Persons Kidnapped & Abducted - Female (Col.10),Total Persons Kidnapped & Abducted - Total (Col.11),Persons Recovered Alive (2016) - Male (Col.12),Persons Recovered Alive (2016) - Female (Col.13),Persons Recovered Alive (2016) - Total (Col.14),Persons Recovered Dead (2016) - Male (Col.15),Persons Recovered Dead (2016) - Female (Col.16),Persons Recovered Dead (2016) - Total (Col.17),Total Recovered (Recovered Alive+Recovered Dead) (2016) - Male (Col.18),Total Recovered (Recovered Alive+Recovered Dead) (2016) - Female (Col.19),Total Recovered (Recovered Alive+Recovered Dead) (2016) - Total (Col.20),Percentage Recovery (Total Recovered/ Total Persons Kidnapped & Abducted) * 100 - Male (Col.21),Percentage Recovery (Total Recovered/ Total Persons Kidnapped & Abducted) * 100 - Female (Col.22),Percentage Recovery (Total Recovered/ Total Persons Kidnapped & Abducted) * 100 - Total (Col.23),Un-Recovered Kidnapped & Abducted Persons - Male (Col.24),Un-Recovered Kidnapped & Abducted Persons - Female (Col.25),Un-Recovered Kidnapped & Abducted Persons - Total (Col.26)
+1,Ahmedabad (Gujarat),39,100,139,120,272,392,159,372,531,118,249,367,0,0,0,118,249,367,74.2,66.9,69.1,41,123,164
+2,Bengaluru (Karnataka),29,201,230,316,682,998,345,883,1228,290,711,1001,2,0,2,292,711,1003,84.6,80.5,81.7,53,172,225
+3,Chennai (Tamil Nadu),46,25,71,19,16,35,65,41,106,21,21,42,0,0,0,21,21,42,32.3,51.2,39.6,44,20,64
+4,Coimbatore (Tamil Nadu),8,6,14,4,4,8,12,10,22,4,4,8,0,0,0,4,4,8,33.3,40,36.4,8,6,14
+5,Delhi,2987,3957,6944,2680,3601,6281,5667,7558,13225,2015,2566,4581,14,1,15,2029,2567,4596,35.8,34,34.8,3638,4991,8629
+6,Ghaziabad (Uttar Pradesh),76,140,216,133,235,368,209,375,584,106,290,396,2,0,2,108,290,398,51.7,77.3,68.2,101,85,186
+7,Hyderabad (Telangana),209,161,370,123,241,364,332,402,734,322,397,719,0,0,0,322,397,719,97,98.8,98,10,5,15
+8,Indore (Madhya Pradesh),14,52,66,154,232,386,168,284,452,142,228,370,2,0,2,144,228,372,85.7,80.3,82.3,24,56,80
+9,Jaipur (Rajasthan),127,227,354,199,378,577,326,605,931,215,468,683,0,0,0,215,468,683,66,77.4,73.4,111,137,248
+10,Kanpur (Uttar Pradesh),20,191,211,97,312,409,117,503,620,0,0,0,0,0,0,0,0,0,0,0,0,117,503,620
+11,Kochi (Kerala),1,2,3,6,9,15,7,11,18,7,11,18,0,0,0,7,11,18,100,100,100,0,0,0
+12,Kolkata (West Bengal),0,0,0,96,202,298,96,202,298,79,142,221,0,0,0,79,142,221,82.3,70.3,74.2,17,60,77
+13,Kozhikode (Kerala),0,0,0,2,6,8,2,6,8,2,6,8,0,0,0,2,6,8,100,100,100,0,0,0
+14,Lucknow (Uttar Pradesh),1,55,56,323,601,924,324,656,980,206,360,566,0,0,0,206,360,566,63.6,54.9,57.8,118,296,414
+15,Mumbai (Maharashtra),336,466,802,825,1202,2027,1161,1668,2829,654,891,1545,8,5,13,662,896,1558,57,53.7,55.1,499,772,1271
+16,Nagpur (Maharashtra),20,26,46,148,368,516,168,394,562,41,338,379,0,0,0,41,338,379,24.4,85.8,67.4,127,56,183
+17,Patna (Bihar),270,411,681,260,562,822,530,973,1503,0,0,0,0,0,0,0,0,0,0,0,0,530,973,1503
+18,Pune (Maharashtra),79,168,247,303,622,925,382,790,1172,182,388,570,14,19,33,196,407,603,51.3,51.5,51.5,186,383,569
+19,Surat (Gujarat),11,9,20,109,168,277,120,177,297,114,160,274,0,0,0,114,160,274,95,90.4,92.3,6,17,23
+Total Cities,Total Cities,4273,6197,10470,5917,9713,15630,10190,15910,26100,4518,7230,11748,42,25,67,4560,7255,11815,44.7,45.6,45.3,5630,8655,14285

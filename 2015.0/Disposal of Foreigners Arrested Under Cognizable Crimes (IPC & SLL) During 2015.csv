@@ -1,0 +1,18 @@
+Crime Head,Persons in Custody or on Bail during the stage of Investigation at the Beginning of the Year,Persons Arrested During the Year,Total Number of Persons for Investigation,Persons Charge- Sheeted,Persons Disposed of otherwise,Total Number of Persons Investigated During the Year,Persons in Custody or on Bail during the Stage of Investigation at the End of the Year,Persons on Bail or in Custody during the Stage of Trial at the Beginning of the year,Total Number of Persons for Trial During the Year,Persons Convicted,Persons Acquitted,Persons Discharged or Disposed Off Otherwise by Court,Total Number of Persons in which Trials were Completed,Persons on Bail or in Custody during the stage of Trial at the End of the Year
+1 Murder,2,6,8,6,1,7,1,12,18,3,0,0,3,15
+2 Rape,0,14,14,9,0,9,5,17,26,0,0,0,0,26
+3 Unnatural Offences,0,3,3,3,0,3,0,0,3,0,3,0,3,0
+4 Cheating,25,49,74,33,1,34,40,134,167,1,1,0,2,165
+5 Forgery,27,73,100,45,0,45,55,67,112,4,0,0,4,108
+"6 Narcotic Drugs & Psychotropic Substances Act, 1985",51,128,179,119,0,119,60,254,373,20,24,1,45,328
+"7 Passport Act, 1967",157,143,300,171,0,171,129,2325,2496,63,26,0,89,2407
+"8 Registration of Foreigners Act, 1939",159,59,218,102,0,102,116,1782,1884,126,69,0,195,1689
+"9 Foreigners Act, 1946",87,1367,1454,1302,1,1303,151,2013,3315,627,56,1,684,2631
+"10 Arms Act, 1959",4,24,28,2,1,3,25,7,9,1,0,0,1,8
+11 Explosives and Explosive Substances Act,0,1,1,1,0,1,0,1,2,0,1,0,1,1
+"12 Copyright Act, 1957",0,0,0,0,0,0,0,1,1,0,0,0,0,1
+"13 Information Technology Act, 2000",5,4,9,4,0,4,5,6,10,0,0,0,0,10
+"14 Unlawful Activities (Prevention) Act, 1967",0,0,0,0,0,0,0,2,2,1,0,0,1,1
+15 Counterfeiting Currency Notes or Bank Notes,1,1,2,0,0,0,2,8,8,0,0,0,0,8
+16 Other Crimes,169,185,354,139,1,140,214,189,328,26,14,0,40,288
+Total Crimes committed by Foreign Accused,687,2057,2744,1936,5,1941,803,6818,8754,872,194,2,1068,7686

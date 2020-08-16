@@ -1,0 +1,48 @@
+SL.No.,Category,State/UT/City,Arms Act,Narcotic Drugs & Psychotropic Substances Act,Gambling Act,Excise Act,Prohibition Act,Explosive & Explosive Substances Act,Immoral Traffic (P) Act,Indian Railways Act,Registration of Foreigners Act,Protection Of Civil Rights Act,Indian Passport Act,Essential Commodities Act,Terrorist & Disruptive Actvites Act,Antiquity & Art Treasure Act,Dowry Prohibition Act,Other LSL Crimes,Total Cognizable Crimes Under LSL
+1,State,Andhra Pradesh,0,0,92,0,2,10,64,0,1,2,0,0,0,0,0,818,989
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,State,Assam,0,0,9,0,3,0,2,0,0,0,0,0,4,0,0,104,122
+4,State,Bihar,29,0,57,41,0,0,0,0,0,0,0,2,0,0,0,18,147
+5,State,Goa,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+6,State,Gujarat,0,0,45,0,446,0,0,3,0,8,0,0,0,0,0,288,790
+7,State,Haryana,0,0,62,8,0,0,0,0,0,0,0,0,0,0,0,10,80
+8,State,Himachal Pradesh,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,4,12
+9,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,State,Karnataka,0,1,15,3,0,0,17,0,0,4,0,0,0,0,1,56,97
+11,State,Kerala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,State,Madhya Pradesh,49,0,396,150,0,5,0,3,0,3,0,1,0,0,12,619,1238
+13,State,Maharashtra,29,1,488,0,1295,3,2,2,0,3,0,0,0,0,0,2201,4024
+14,State,Manipur,0,7,1,53,0,0,0,0,0,0,0,0,0,0,0,1,62
+15,State,Meghalaya,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,3,9
+16,State,Mizoram,0,6,0,0,0,0,0,0,5,0,0,0,0,0,0,6,17
+17,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,State,Orissa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120,120
+19,State,Punjab,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+20,State,Rajasthan,1,9,12,14,0,0,1,0,0,3,0,0,0,0,0,20,60
+21,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,State,Tamil Nadu,0,2,54,0,207,0,124,0,0,0,0,0,0,0,0,5411,5798
+23,State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Uttar Pradesh,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,5
+25,State,West Bengal,0,0,0,0,0,0,0,10,15,0,0,2,0,0,0,0,27
+Total (States),State,Total (States),111,26,1255,278,1953,18,210,18,21,23,0,5,4,0,13,9680,13615
+26,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,UT,Chandigarh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,UT,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,UT,Delhi,13,13,15,3,0,0,0,0,0,0,0,1,0,0,0,0,45
+31,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,4
+Total (UTs),UT,Total (UTs),13,13,15,3,0,0,0,0,4,0,0,1,0,0,0,0,49
+Total (All-India),Total (All-India),Total (All-India),124,39,1270,281,1953,18,210,18,25,23,0,6,4,0,13,9680,13664
+33,City,Ahmedabad,0,0,9,0,41,0,0,0,0,0,0,0,0,0,0,29,79
+34,City,Bangalore,0,1,0,0,0,0,17,0,0,0,0,0,0,0,1,13,32
+35,City,Bombay,9,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1754,1765
+36,City,Calcutta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,City,Delhi,13,13,15,3,0,0,0,0,0,0,0,1,0,0,0,0,45
+38,City,Hyderabad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8
+39,City,Jaipur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+40,City,Kanpur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,City,Lucknow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,City,Madras,0,0,3,0,10,0,4,0,0,0,0,0,0,0,0,61,78
+43,City,Nagpur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,14
+44,City,Pune,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

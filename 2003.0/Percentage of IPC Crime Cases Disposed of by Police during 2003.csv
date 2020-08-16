@@ -1,0 +1,31 @@
+Sr. No. (Col.1),Crime Head (Col.2),Cases Withdrawn by Govt. (Col.3),Percentage of Cases to Total Cases for Investigation in which - Investigation was Refused (Col.4),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Charge Found False/ Mistake of Fact or Law Etc. (Col.5),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Final Report True Submitted (Col.6),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - ChargeSheets were Submitted (Col.7),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Total (Col.8) = Col.{(5)+(6) +(7)} ,Percentage of Cases Pending Investigation (Col.9),Charge sheeting Rate (Col.10) = Col.((7)/((6) + (7)) × 100)
+1,Murder,0.1,0.2,2,10.9,49.5,62.4,37.3,81.9
+2,Attempt to Commit Murder,0,0.1,2.9,8.2,58.6,69.7,30.2,87.7
+3,C.H. not Amounting to Murder,0,0,2.7,7.9,60.3,70.9,29.1,88.4
+4,Rape - Total,0,0.2,5.3,3.4,61.4,70.1,29.7,94.7
+5,Rape - I) Custodial Rape,0,0,0,0,0,0,100,0
+6,Rape - Ii) Other Rape,0,0.2,5.3,3.4,61.4,70.1,29.7,94.7
+7,Kidnapping & Abduction - Total,0,0.4,14.4,11.7,35.5,61.6,38,75.2
+8,Kidnapping & Abduction - I) of Women & Girls,0,0.4,15.4,11.3,36.3,62.9,36.7,76.3
+9,Kidnapping & Abduction - II) of Others,0,0.4,12.6,12.5,34,59.1,40.5,73.2
+10,Dacoity,0,0.3,2.3,15.1,30.1,47.5,52.3,66.6
+11,Preparation & Assembly for Dacoity,0,0,0.4,2,61.6,63.9,36.1,96.9
+12,Robbery,0,0.2,3.9,20.5,39.6,64,35.9,65.9
+13,Burglary,0,0.2,2.5,44.9,27.3,74.7,25,37.8
+14,Theft - Total,0,0.3,2.8,40.5,28.8,72.2,27.5,41.6
+15,Theft - I) Auto Theft,0,0.2,2.8,47.4,22.5,72.6,27.2,32.2
+16,Theft - II) Other Theft,0,0.4,2.8,37.9,31.3,72,27.6,45.2
+17,Riots,0,0.1,5.2,6.5,60.7,72.3,27.6,90.4
+18,Criminal Breach of Trust,0,0.4,10.2,12.2,36.9,59.4,40.2,75.2
+19,Cheating,0,0.4,15.8,11.5,31.9,59.2,40.3,73.6
+20,Counterfeiting,0,1,0.5,20.2,13.6,34.3,64.7,40.2
+21,Arson,0,0.3,9.5,21.9,40.8,72.2,27.5,65.1
+22,Hurt,0,0.1,3.8,4.3,78.4,86.4,13.5,94.8
+23,Dowry Death,0,0.2,3.7,3.8,62.6,70,29.8,94.3
+24,Molestation,0,0.2,5.9,2.8,77.2,85.9,13.9,96.5
+25,Sexual Harassment,0,0.2,1.5,1.1,91.4,94,5.8,98.8
+26,Cruelty by Husband and Relatives,0,0.3,10.5,3.3,64.1,77.9,21.8,95.1
+27,Importation of Girls,0,0,3.1,4.1,45.4,52.6,47.4,91.7
+28,Causing Death by Negligence,0.1,0.2,3.3,12.6,65.1,81,18.8,83.8
+29,Other IPC Crimes,0,0.3,4.9,6.9,71.5,83.3,16.4,91.2
+Total Cognizable Crimes Under IPC,Total Cognizable Crimes Under IPC,0,0.3,4.9,14.5,58.6,78,21.7,80.1

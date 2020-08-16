@@ -1,0 +1,40 @@
+S.No.,Category,State/UT,Number of Cases Reported,Number of Victims under Incest Rape Cases - Below 6 Years,Number of Victims under Incest Rape Cases - 6 Years & Above - Below 12 Years,Number of Victims under Incest Rape Cases - 12 Years & Above – Below 16 Years,Number of Victims under Incest Rape Cases - 16 Years & Above – Below 18 Years,Number of Victims under Incest Rape Cases - 18 Years & Above – Below 30 Years,Number of Victims under Incest Rape Cases - 30 Years & Above – Below 45 Years,Number of Victims under Incest Rape Cases - 45 Years & Above – Below 60 Years,Number of Victims under Incest Rape Cases - 60 Years & Above,Number of Victims under Incest Rape Cases - Total Victims,Number of Cases Reported,Number of Victims under Other than Incest Rape Cases - Below 6 Years,Number of Victims under Other than Incest Rape Cases - 6 Years & Above - Below 12 Years,Number of Victims under Other than Incest Rape Cases - 12 Years & Above – Below 16 Years,Number of Victims under Other than Incest Rape Cases - 16 Years & Above – Below 18 Years,Number of Victims under Other than Incest Rape Cases - 18 Years & Above – Below 30 Years,Number of Victims under Other than Incest Rape Cases - 30 Years & Above – Below 45 Years,Number of Victims under Other than Incest Rape Cases - 45 Years & Above – Below 60 Years,Number of Victims under Other than Incest Rape Cases - 60 Years & Above,Number of Victims under Other than Incest Rape Cases - Total Victims,Number of Cases Reported,Number of Victims (Total Rape Cases) - Below 6 Years,Number of Victims (Total Rape Cases) - 6 Years & Above - Below 12 Years,Number of Victims (Total Rape Cases) - 12 Years & Above – Below 16 Years,Number of Victims (Total Rape Cases) - 16 Years & Above – Below 18 Years,Number of Victims (Total Rape Cases) - 18 Years & Above – Below 30 Years,Number of Victims (Total Rape Cases) - 30 Years & Above – Below 45 Years,Number of Victims (Total Rape Cases) - 45 Years & Above – Below 60 Years,Number of Victims (Total Rape Cases) - 60 Years & Above,Number of Victims (Total Rape Cases) - Total Victims
+1,State,Andhra Pradesh,4,0,2,0,2,0,0,0,0,4,1023,21,68,179,219,432,98,5,3,1025,1027,21,70,179,221,432,98,5,3,1029
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,71,3,7,10,14,32,3,2,0,71,71,3,7,10,14,32,3,2,0,71
+3,State,Assam,2,0,1,0,0,1,0,0,0,2,1731,1,6,20,15,1073,583,33,0,1731,1733,1,7,20,15,1074,583,33,0,1733
+4,State,Bihar,0,0,0,0,0,0,0,0,0,0,1041,0,6,39,71,769,151,0,5,1041,1041,0,6,39,71,769,151,0,5,1041
+5,State,Chhattisgarh,19,0,1,6,9,2,1,0,0,19,1541,20,45,286,409,580,176,21,5,1542,1560,20,46,292,418,582,177,21,5,1561
+6,State,Goa,4,0,2,2,0,1,0,0,0,5,82,4,5,15,23,28,8,0,0,83,86,4,7,17,23,29,8,0,0,88
+7,State,Gujarat,2,0,0,0,0,2,0,0,0,2,501,0,3,29,25,305,119,17,3,501,503,0,3,29,25,307,119,17,3,503
+8,State,Haryana,3,0,0,1,0,2,0,0,0,3,1067,12,35,114,99,554,230,21,2,1067,1070,12,35,115,99,556,230,21,2,1070
+9,State,Himachal Pradesh,12,1,2,4,3,0,1,0,1,12,232,11,17,55,52,76,20,6,1,238,244,12,19,59,55,76,21,6,2,250
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,296,2,6,5,15,171,94,2,1,296,296,2,6,5,15,171,94,2,1,296
+11,State,Jharkhand,2,0,0,0,0,2,0,0,0,2,1051,0,1,6,17,825,200,8,0,1057,1053,0,1,6,17,827,200,8,0,1059
+12,State,Karnataka,13,0,0,0,0,10,2,1,0,13,576,0,0,0,0,448,105,21,2,576,589,0,0,0,0,458,107,22,2,589
+13,State,Kerala,70,1,9,22,21,14,4,0,0,71,1186,32,81,199,364,332,161,22,6,1197,1256,33,90,221,385,346,165,22,6,1268
+14,State,Madhya Pradesh,26,0,1,9,3,11,2,0,0,26,4365,32,136,545,844,1951,746,114,6,4374,4391,32,137,554,847,1962,748,114,6,4400
+15,State,Maharashtra,139,6,14,45,38,34,4,0,0,141,4005,104,248,820,992,1351,452,72,9,4048,4144,110,262,865,1030,1385,456,72,9,4189
+16,State,Manipur,4,0,0,0,2,0,2,0,0,4,42,1,4,6,0,15,15,1,0,42,46,1,4,6,2,15,17,1,0,46
+17,State,Meghalaya,1,0,0,0,0,1,0,0,0,1,92,3,9,21,6,44,10,0,0,93,93,3,9,21,6,45,10,0,0,94
+18,State,Mizoram,6,0,2,2,0,0,2,0,0,6,52,1,16,16,8,15,10,1,1,68,58,1,18,18,8,15,12,1,1,74
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0,35,1,3,2,2,20,6,0,1,35,35,1,3,2,2,20,6,0,1,35
+20,State,Odisha,0,0,0,0,0,0,0,0,0,0,2251,6,28,374,644,884,278,36,1,2251,2251,6,28,374,644,884,278,36,1,2251
+21,State,Punjab,12,1,5,3,2,1,0,0,0,12,874,11,31,152,258,297,118,6,1,874,886,12,36,155,260,298,118,6,1,886
+22,State,Rajasthan,98,0,3,7,6,56,24,2,0,98,3546,13,45,235,422,1962,765,107,2,3551,3644,13,48,242,428,2018,789,109,2,3649
+23,State,Sikkim,1,0,0,0,0,1,0,0,0,1,4,0,0,0,1,0,3,0,0,4,5,0,0,0,1,1,3,0,0,5
+24,State,Tamil Nadu,1,0,0,0,0,1,0,0,0,1,420,0,0,0,0,330,69,18,3,420,421,0,0,0,0,331,69,18,3,421
+25,State,Telangana,0,0,0,0,0,0,0,0,0,0,1105,35,59,284,328,290,86,17,6,1105,1105,35,59,284,328,290,86,17,6,1105
+26,State,Tripura,0,0,0,0,0,0,0,0,0,0,213,12,20,36,30,78,28,5,4,213,213,12,20,36,30,78,28,5,4,213
+27,State,Uttar Pradesh,43,0,3,4,0,30,6,0,0,43,2982,30,64,246,249,1803,522,43,29,2986,3025,30,67,250,249,1833,528,43,29,3029
+28,State,Uttarakhand,1,0,0,0,1,0,0,0,0,1,282,3,6,19,23,163,59,8,1,282,283,3,6,19,24,163,59,8,1,283
+29,State,West Bengal,6,0,0,0,0,4,2,0,0,6,1193,0,0,0,0,879,277,35,2,1193,1199,0,0,0,0,883,279,35,2,1199
+TOTAL (STATES),TOTAL (STATES),TOTAL (STATES),469,9,45,105,87,173,50,3,1,473,31859,358,949,3713,5130,15707,5392,621,94,31964,32328,367,994,3818,5217,15880,5442,624,95,32437
+30,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,36,1,2,20,3,4,5,1,0,36,36,1,2,20,3,4,5,1,0,36
+31,UT,Chandigarh,5,0,2,1,2,0,0,0,0,5,67,2,7,11,16,28,1,0,2,67,72,2,9,12,18,28,1,0,2,72
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0,0,8,0,0,0,2,4,2,0,0,8,8,0,0,0,2,4,2,0,0,8
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,2,0,0,5,5,0,0,0,0,3,2,0,0,5
+34,UT,Delhi UT,80,0,8,28,19,21,3,1,0,80,2119,81,138,366,288,1024,222,10,1,2130,2199,81,146,394,307,1045,225,11,1,2210
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,3,0,0,0,0,2,0,1,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,0,1,0,3
+TOTAL (UTS),TOTAL (UTS),TOTAL (UTS),88,0,10,29,21,23,3,2,0,88,2235,84,147,397,309,1063,232,11,3,2246,2323,84,157,426,330,1086,235,13,3,2334
+TOTAL (ALL INDIA),TOTAL (ALL INDIA),TOTAL (ALL INDIA),557,9,55,134,108,196,53,5,1,561,34094,442,1096,4110,5439,16770,5624,632,97,34210,34651,451,1151,4244,5547,16966,5677,637,98,34771

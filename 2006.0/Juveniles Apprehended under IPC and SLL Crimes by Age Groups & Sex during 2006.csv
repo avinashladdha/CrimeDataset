@@ -1,0 +1,59 @@
+Category,Crime Head,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16 - 18 Years - Boys,16 - 18 Years - Girls,Total for all Age Groups - Boys,Total for all Age Groups - Girls,Total (Boys + Girls)
+IPC Crimes,"Murder (Sec 302, 303 IPC)",27,0,234,12,437,17,698,29,727
+IPC Crimes,Attempt to Commit Murder (Sec 307 IPC),7,0,216,13,392,16,615,29,644
+IPC Crimes,"C.H. not Amounting Murder (Sec 304, 308 IPC)",1,0,13,3,30,2,44,5,49
+IPC Crimes,Rape (Sec 376 IPC) - Total,14,0,239,4,432,2,685,6,691
+IPC Crimes,Rape (Sec 376 IPC) - Custodial Rape,0,0,0,0,0,0,0,0,0
+IPC Crimes,Rape (Sec 376 IPC) - Other Rape,14,0,239,4,432,2,685,6,691
+IPC Crimes,"Kidnapping & Abduction (Sec 363-369, 371-373 IPC) - Total",4,0,93,21,183,33,280,54,334
+IPC Crimes,"Kidnapping & Abduction (Sec 363-369, 371-373 IPC) - I) of Women & Girls",3,0,57,14,130,29,190,43,233
+IPC Crimes,"Kidnapping & Abduction (Sec 363-369, 371-373 IPC) - Ii) of Others",1,0,36,7,53,4,90,11,101
+IPC Crimes,Dacoity (Sec 395-398 IPC),1,0,43,0,110,0,154,0,154
+IPC Crimes,Preparation & Assembly for Dacoity (Sec 399-402 IPC),0,0,20,0,76,0,96,0,96
+IPC Crimes,"Robbery (Sec 392-394, 397 & 398 IPC)",2,0,119,1,309,1,430,2,432
+IPC Crimes,"Burglary (Sec 449 – 452, 454, 455, 457 – 460 IPC)",248,9,1770,36,1561,33,3579,78,3657
+IPC Crimes,Theft (Sec 379 – 382 IPC) - Total,440,25,2918,100,2997,94,6355,219,6574
+IPC Crimes,Theft (Sec 379 – 382 IPC) - I) Auto Theft,25,0,573,0,751,1,1349,1,1350
+IPC Crimes,Theft (Sec 379 – 382 IPC) - Ii) Other Theft,415,25,2345,100,2246,93,5006,218,5224
+IPC Crimes,"Riots (Sec 143-145, 147-151, 153, 153A., 153B, 157, 158, 160 IPC)",33,1,492,41,1033,72,1558,114,1672
+IPC Crimes,Criminal Breach of Trust (Sec 406-409 IPC),0,0,7,1,11,0,18,1,19
+IPC Crimes,"Cheating (Sec 419, 420 IPC)",2,0,25,2,60,7,87,9,96
+IPC Crimes,"Counterfeiting (Sec 231-254, 489A – 489D IPC)",0,0,2,0,7,0,9,0,9
+IPC Crimes,"Arson (Sec 435, 436, 438 IPC)",1,0,24,0,25,1,50,1,51
+IPC Crimes,"Hurt (Sec 323-333, 335-338 IPC)",106,9,1640,127,2401,187,4147,323,4470
+IPC Crimes,Dowry Deaths (Sec 304B IPC),1,1,10,6,27,31,38,38,76
+IPC Crimes,Molestation (Sec 354 IPC),5,0,212,3,317,1,534,4,538
+IPC Crimes,Sexual Harassment (Sec 509 IPC),1,0,33,0,137,0,171,0,171
+IPC Crimes,Cruelty by Husband and Relatives (Sec 498A IPC),1,2,46,25,104,102,151,129,280
+IPC Crimes,Importation of Girls (Sec 366B IPC),0,0,0,0,0,0,0,0,0
+IPC Crimes,Causing Death by Negligence (Sec 304A IPC),0,0,29,4,136,1,165,5,170
+IPC Crimes,Other IPC Crimes,157,12,2152,159,3259,250,5568,421,5989
+IPC Crimes,Total Cognizable Crimes Under IPC,1051,59,10337,558,14044,850,25432,1467,26899
+SLL Crimes,Arms Act,1,0,66,0,213,0,280,0,280
+SLL Crimes,Narcotic Drugs & Psychotropic Substances Act,0,0,17,3,45,0,62,3,65
+SLL Crimes,Gambling Act,6,0,318,2,790,0,1114,2,1116
+SLL Crimes,Excise Act,1,0,136,14,367,38,504,52,556
+SLL Crimes,Prohibition Act,28,5,141,43,374,41,543,89,632
+SLL Crimes,Explosive & Explosive Substances Act,0,0,1,0,2,0,3,0,3
+SLL Crimes,Immoral Traffic (P) Act,0,0,1,5,15,58,16,63,79
+SLL Crimes,Indian Railways Act,0,0,7,0,3,1,10,1,11
+SLL Crimes,Registration of foreigners Act,3,2,8,3,5,1,16,6,22
+SLL Crimes,Protection of Civil Rights Act - Total,0,0,0,0,0,0,0,0,0
+SLL Crimes,Protection of Civil Rights Act - (i) PCR Act for SCs,0,0,0,0,0,0,0,0,0
+SLL Crimes,Protection of Civil Rights Act - (ii) PCR Act for STs,0,0,0,0,0,0,0,0,0
+SLL Crimes,Indian Passport Act,4,1,7,0,7,0,18,1,19
+SLL Crimes,Essential Commodities Act,0,0,5,0,14,0,19,0,19
+SLL Crimes,Terrorist & Disruptive Activities Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,Dowry Prohibition Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,Child Marriage Restraint Act,0,0,0,0,1,0,1,0,1
+SLL Crimes,Indecent Representation of Women (P) Act,0,0,0,0,1,0,1,0,1
+SLL Crimes,Copyrights Act,0,0,16,0,42,0,58,0,58
+SLL Crimes,Sati Prevention Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,SC/ST (prevention of Atrocities) Act - Total,0,0,14,0,30,1,44,1,45
+SLL Crimes,SC/ST (prevention of Atrocities) Act - (i) Prevention of Attrocities Act for SCs,0,0,9,0,21,1,30,1,31
+SLL Crimes,SC/ST (prevention of Atrocities) Act - (ii) Prevention of Attrocities Act for STs,0,0,5,0,9,0,14,0,14
+SLL Crimes,Forest Act,0,0,4,0,0,1,4,1,5
+SLL Crimes,Other SLL Crimes,414,20,805,24,1031,40,2250,84,2334
+SLL Crimes,Total Cognizable Crimes Under SLL,457,28,1546,94,2940,181,4943,303,5246
+Grand Total ( IPC Crimes + SLL Crimes),Grand Total (IPC Crimes + SLL Crimes),1508,87,11883,652,16984,1031,30375,1770,32145

@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Cases Pending Trial from the Previous Year (Col.3),Cases Sent for Trial during the Year (Col.4),Total Cases for Trial during the Year (Col.5) = (Col.3+Col.4),Number of Cases Withdrawn by the Govt. (Col.6),Number of Cases Disposed by Plea Bargaining (Col.7),Cases Compounded (Col.8),Cases in which Trials were Completed (Col.9) = (Col. 10+11),Cases Convicted (Col.10),Cases Acquitted or Discharged (Col.11),Cases Disposed off by Courts (Col.12) = (Col.6+ Col.7+ Col.8+ Col.9),Cases Pending Trial at the End of the Year (Col.13) = (Col.5 - Col.12),Conviction Rate (Col.14) = (Col.10/ Col.9) * 100,Pendency Percentage (Col.15) = (Col.13/ Col.5) * 100
+1,Ahmedabad (Gujarat),1451,391,1842,2,0,0,17,2,15,19,1823,11.8,99
+2,Bengaluru (Karnataka),1094,402,1496,0,0,0,104,12,92,104,1392,11.5,93
+3,Chennai (Tamil Nadu),334,135,469,0,0,0,74,45,29,74,395,60.8,84.2
+4,Coimbatore (Tamil Nadu),78,67,145,0,0,0,59,42,17,59,86,71.2,59.3
+5,Delhi,6329,1896,8225,0,0,5,657,280,377,662,7563,42.6,92
+6,Ghaziabad (Uttar Pradesh),291,62,353,0,0,0,16,9,7,16,337,56.3,95.5
+7,Hyderabad (Andhra Pradesh),316,293,609,0,0,2,89,8,81,91,518,9,85.1
+8,Indore (Madhya Pradesh),1699,287,1986,0,0,31,728,335,393,759,1227,46,61.8
+9,Jaipur (Rajasthan),962,342,1304,0,0,0,20,2,18,20,1284,10,98.5
+10,Kanpur (Uttar Pradesh),418,99,517,0,0,0,38,22,16,38,479,57.9,92.6
+11,Kochi (Kerala),219,79,298,0,0,0,12,1,11,12,286,8.3,96
+12,Kolkata (West Bengal),668,95,763,0,0,0,0,0,0,0,763,NA,100
+13,Kozhikode (Kerala),214,92,306,0,0,0,27,7,20,27,279,25.9,91.2
+14,Lucknow (Uttar Pradesh),552,161,713,0,0,0,64,34,30,64,649,53.1,91
+15,Mumbai (Maharashtra),3550,1198,4748,1,0,19,185,104,81,205,4543,56.2,95.7
+16,Nagpur (Maharashtra),2116,334,2450,0,0,0,50,9,41,50,2400,18,98
+17,Patna (Bihar),201,334,535,0,0,0,57,17,40,57,478,29.8,89.3
+18,Pune (Maharashtra),3536,464,4000,0,0,3,47,8,39,50,3950,17,98.8
+19,Surat (Gujarat),644,238,882,0,0,0,0,0,0,0,882,NA,100
+Total Cities,Total Cities,24672,6969,31641,3,0,60,2244,937,1307,2307,29334,41.8,92.7

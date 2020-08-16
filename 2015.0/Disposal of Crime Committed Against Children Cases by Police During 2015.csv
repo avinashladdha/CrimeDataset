@@ -1,0 +1,54 @@
+Crime Head (Col.1),Cases Pending Investigation from Previous Year (Col.2),Cases Reported During the Year (Col.3),No. of Cases Withdrawn by the Govt. During Investigation (Col.4),Cases Transferred to other Police Station/ Magistrate (Col.5),Cases Not Investigated U/S 157(1)(b) of Cr.PC (Col.6),Total Cases for Investigation (Col.7) = (Col. 2+3-4-5-6),Cases Ended as Final Report False (Col.8),Cases Ended as Mistake of Fact or of Law (Col.9),Cases in Ended as Final Report as Non Cognizable Submitted During the Year (Col.10),Cases in Which Charge-sheets were Submitted (Col.11),Cases in Which Charge-sheets were not laid but Final Report as True submitted (Col.12),Total Cases Disposed of by Police (Col.13) = (Col. 8+9+10+11+12),Cases Pending Investigation at the End of the Year (Col.14) = (col. 7 - col. 13),Charge-Sheeting Rate(Col.15) = {Col.11 / (Col.11+Col.12)} x 100,Cases Pendency Percentage (Col.16) = ({Col.14/(Col.2+ Col.3)} x 100
+1 Murder,810,1758,0,8,0,2560,27,19,19,1423,161,1649,911,89.8,35.5
+2 Infanticide,44,91,0,2,0,133,9,8,4,38,32,91,42,54.3,31.1
+3 Rape,4187,10854,0,14,0,15027,287,67,2,9755,119,10230,4797,98.8,31.9
+4 Assault on Women with Intent to Outrage her Modesty,2317,8390,1,0,0,10706,256,30,9,7093,149,7537,3169,97.9,29.6
+4.1 Sexual Harassment,850,3350,1,0,0,4199,67,7,4,2943,71,3092,1107,97.6,26.4
+4.2 Assault on Women with Intent to Disrobe,117,540,0,0,0,657,21,7,0,436,11,475,182,97.5,27.7
+4.3 Voyeurism,28,51,0,0,0,79,3,0,0,47,3,53,26,94,32.9
+4.4 Stalking,240,1020,0,0,0,1260,23,1,0,773,7,804,456,99.1,36.2
+4.5 Others assault,1082,3429,0,0,0,4511,142,15,5,2894,57,3113,1398,98.1,31
+5 Insult to the Modesty of Women (Girls Children),132,348,0,0,0,480,9,3,0,285,8,305,175,97.3,36.5
+6 Kidnapping & Abduction,20084,41893,23,58,19,61877,7312,7359,408,15054,7093,37226,24651,68,39.8
+6.1 Kidnapping & Abduction,11423,23462,14,30,18,34823,4636,5107,133,5536,4402,19814,15009,55.7,43
+6.2 Kidnaping & Abduction in Order to Murder,118,192,0,0,0,310,11,24,0,135,41,211,99,76.7,31.9
+6.3 Kidnapping for Ransom,70,142,0,0,0,212,12,6,0,93,8,119,93,92.1,43.9
+6.4 Kidnapping & Abduction of Women to Compel her for Marriage,5079,12516,7,4,1,17583,1284,1278,77,6896,1855,11390,6193,78.8,35.2
+6.5 Other Kidnapping,3394,5581,2,24,0,8949,1369,944,198,2394,787,5692,3257,75.3,36.3
+7 Foeticide,44,97,0,0,0,141,9,13,3,30,39,94,47,43.5,33.3
+8 Abetment of Suicide of child,35,51,0,0,0,86,2,0,0,52,2,56,30,96.3,34.9
+9 Exposure and Abandonment,401,885,0,1,0,1285,41,74,29,99,597,840,445,14.2,34.6
+10 Procuration of Minor girls,1244,3087,0,1,0,4330,150,92,9,1348,421,2020,2310,76.2,53.3
+11 Importation of Girls from Foreign Country,0,2,0,0,0,2,0,0,0,1,0,1,1,100,50
+12 Buying of Minors for Prostitution,40,11,0,0,0,51,0,0,0,10,0,10,41,100,80.4
+13 Selling of Minors for Prostitution,181,111,0,0,0,292,0,0,0,119,3,122,170,97.5,58.2
+"14 Prohibition of Child Marriage Act, 2006",158,293,0,5,0,446,11,11,0,240,28,290,156,89.6,34.6
+"15 Transplantation of Human Organs Act, 1994",1,0,0,0,0,1,0,0,0,0,0,0,1,NA,100
+"16 Child Labour (Prohibition & Regulation) Act, 1986",102,251,0,0,0,353,1,1,0,152,1,155,198,99.3,56.1
+16.1 Offences committed against Migrant,29,53,0,0,0,82,0,0,0,38,0,38,44,100,53.7
+16.1.1 Offences Committed against SC Migrants,5,4,0,0,0,9,0,0,0,4,0,4,5,100,55.6
+16.1.2 Offences Committed against ST Migrants,0,1,0,0,0,1,0,0,0,1,0,1,0,100,0
+16.1.3 Offences Committed against Others Migrants,24,48,0,0,0,72,0,0,0,33,0,33,39,100,54.2
+16.2 Offences Committed against Locals,73,198,0,0,0,271,1,1,0,114,1,117,154,99.1,56.8
+16.2.1 Offences Committed against Local SCs,0,9,0,0,0,9,1,0,0,6,0,7,2,100,22.2
+16.2.2 Offences Committed against Local STs,0,2,0,0,0,2,0,0,0,2,0,2,0,100,0
+16.2.3 Offences Committed against Others Locals,73,187,0,0,0,260,0,1,0,106,1,108,152,99.1,58.5
+"17 Immoral Traffic (Prevention) Act, 1956",63,58,0,0,0,121,0,0,0,48,6,54,67,88.9,55.4
+17.1 Under ITP Section 5,20,33,0,0,0,53,0,0,0,23,5,28,25,82.1,47.2
+17.2 Under ITP Section 6,0,4,0,0,0,4,0,0,0,1,0,1,3,100,75
+17.3 Under ITP Section 7,10,5,0,0,0,15,0,0,0,4,0,4,11,100,73.3
+17.4 Under ITP Section 8,1,1,0,0,0,2,0,0,0,2,0,2,0,100,0
+17.5 Other Section of ITP Act,32,15,0,0,0,47,0,0,0,18,1,19,28,94.7,59.6
+"18 Juvenile Justice (Care and Protection of Children) Act, 2000",287,1457,0,3,0,1741,39,15,1,1049,31,1135,606,97.1,34.7
+"19 Protection of Children from Sexual Offences Act, 2012",2736,14913,7,31,1,17610,184,120,1,12980,397,13682,3928,97,22.3
+19.1 Under POCSO Act Section 4,1476,6723,5,14,0,8180,61,58,0,6107,170,6396,1784,97.3,21.8
+19.2 Under POCSO Act Section 6,208,2077,1,10,1,2273,12,10,0,1632,34,1688,585,98,25.6
+19.3 Under POCSO Act Section 8,451,3795,1,3,0,4242,55,21,1,3245,129,3451,791,96.2,18.6
+19.4 Under POCSO Act Section 10,63,342,0,0,0,405,6,3,0,260,1,270,135,99.6,33.3
+19.5 Under POCSO Act Sections 14 & 15,11,94,0,0,0,105,0,0,0,82,1,83,22,98.8,21
+19.6 Other Acts of POCSO,527,1882,0,4,0,2405,50,28,0,1654,62,1794,611,96.4,25.4
+20 Attempt to Commit Murder,477,276,0,2,0,751,9,7,0,263,30,309,442,89.8,58.7
+21 Unnatural Offences,166,814,0,0,0,980,14,17,0,636,29,696,284,95.6,29
+22 Human Trafficking (Section 370 & 370A IPC),10,221,0,1,0,230,2,2,0,132,5,141,89,96.4,38.5
+23 Other Crimes Committed against Children,2402,8311,0,3,0,10710,402,104,7,6732,552,7797,2913,92.4,27.2
+Total crimes against Children,35921,94172,31,129,20,129913,8764,7942,492,57539,9703,84440,45473,85.6,35

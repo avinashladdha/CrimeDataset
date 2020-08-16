@@ -1,0 +1,50 @@
+Category (Col. 1),Crime Head (Col. 2),Persons in Custody During the Stage of Investigation at the Beginning of the Year - Male (Col. 3),Persons in Custody During the Stage of Investigation at the Beginning of the Year - Female (Col. 4),Persons on Bail During the Stage of Investigation at the Beginning of the Year - Male (Col. 5),Persons on Bail During the Stage of Investigation at the Beginning of the Year - Female (Col. 6),Total - Male (Col. 7) = (Col. 3+5),Total - Female (Col. 8) = (Col. 4+6),Persons Arrested During the Year - Male (Col. 9),Persons Arrested During the Year - Female (Col. 10),Persons Released or Freed by Police or Magistrate before Trial for Want of Evidence or Any Other Reason - Male (Col. 11),Persons Released or Freed by Police or Magistrate before Trial for Want of Evidence or Any Other Reason - Female (Col. 12),Number of Persons Charge Sheeted During the Year - Male (Col. 13),Number of Persons Charge Sheeted During the Year - Female (Col. 14),Persons in Custody during the Stage of Investigation at the End of the Year - Male (Col. 15),Persons in Custody during the Stage of Investigation at the End of the Year - Female (Col. 16),Persons on Bail during the Stage of Investigation at the End of the Year - Male (Col. 17),Persons on Bail during the Stage of Investigation at the End of the Year - Female (Col. 18)
+Offences under IT Act,1 IT - Tampering Computer Source Documents,8,0,32,0,40,0,62,0,5,0,54,0,9,0,34,0
+Offences under IT Act,2 IT - Computer Related Offences,299,5,2300,24,2599,29,4093,124,536,9,2466,92,726,2,2964,50
+Offences under IT Act,2.1 Computer Related Offences-Under Section 66A,257,5,1671,14,1928,19,3051,86,384,7,2023,81,573,2,1999,15
+Offences under IT Act,2.2 Computer related Offences-Under Section 66B,7,0,23,0,30,0,89,2,22,1,48,1,6,0,43,0
+Offences under IT Act,2.3 Computer related Offences-Under Section 66C,14,0,444,6,458,6,532,30,91,0,203,7,90,0,606,29
+Offences under IT Act,2.4 Computer related Offences-Under Section 66D,19,0,138,2,157,2,324,3,32,1,154,2,37,0,258,2
+Offences under IT Act,2.5 Computer related Offences-Under Section 66E,2,0,24,2,26,2,97,3,7,0,38,1,20,0,58,4
+Offences under IT Act,3 IT - Cyber terrorism,0,0,0,0,0,0,3,0,0,0,1,0,2,0,0,0
+Offences under IT Act,4 IT - Publication/Transmission of Obscene/Sexually Explicit Content,43,3,247,5,290,8,547,8,32,0,500,6,53,0,252,10
+Offences under IT Act,4.1 Under section 67A,42,3,246,5,288,8,537,8,31,0,494,6,53,0,247,10
+Offences under IT Act,4.2 Under section 67B,1,0,1,0,2,0,7,0,1,0,6,0,0,0,2,0
+Offences under IT Act,4.3 Under Section 67C,0,0,0,0,0,0,3,0,0,0,0,0,0,0,3,0
+Offences under IT Act,5 IT - Intentionally not Complying with the Order of Controller,0,0,4,0,4,0,3,0,0,0,5,0,1,0,1,0
+Offences under IT Act,6 IT - Failure to Provide or Monitor or Intercept or Decrypt Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences under IT Act,7 IT - Failure to Block Access any Information Hosted etc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences under IT Act,8 IT - Not Providing Technical Assistance to Govt. to Enable Online Access,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences under IT Act,9 IT - Un-authorized Access/Attempt to Access to Protected Computer System,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0
+Offences under IT Act,10 IT - Misrepresentation/suppression of Fact for Obtaining License etc,1,0,10,0,11,0,2,0,1,0,12,0,0,0,0,0
+Offences under IT Act,11 IT - Breach of Confidentiality/Privacy,0,0,13,0,13,0,6,0,0,0,6,0,0,0,13,0
+Offences under IT Act,12 IT - Disclosure of Information in Breach of Lawful Contract,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0
+Offences under IT Act,13 IT - Publishing /Making Available False Elect. Signature Certificate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences under IT Act,14 IT - Create/Publish/Make Available Elec. Signature Certificate for Unlawful Purpose,1,0,0,0,1,0,3,0,0,0,2,0,0,0,2,0
+Offences under IT Act,15 IT - Others,54,0,316,4,370,4,243,2,32,0,350,2,39,0,192,4
+Offences under IT Act,Total Offences under IT Act,406,8,2922,33,3328,41,4968,134,606,9,3402,100,830,2,3458,64
+Offences under IPC,1 IPC - Offences by Public Servant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences under IPC,2 IPC - Fabrication/Destruction of electronic records for evidence,0,0,2,0,2,0,2,0,0,0,2,0,0,0,2,0
+Offences under IPC,3 IPC - Cheating,26,1,241,14,267,15,737,17,11,0,430,11,40,2,523,19
+Offences under IPC,4 IPC - Forgery,2,0,29,1,31,1,68,4,0,0,59,4,12,0,28,1
+Offences under IPC,5 IPC - Data theft,3,0,6,0,9,0,132,3,0,0,125,3,1,0,15,0
+Offences under IPC,6 IPC - Criminal Breach of Trust/Fraud,1,0,19,0,20,0,1292,0,0,0,34,0,6,0,1272,0
+Offences under IPC,6.1 IPC - Credit / Debit Card,1,0,3,0,4,0,18,0,0,0,15,0,4,0,3,0
+Offences under IPC,6.2 IPC - Others,0,0,16,0,16,0,1274,0,0,0,19,0,2,0,1269,0
+Offences under IPC,7 IPC - Counterfeiting,0,0,1,0,1,0,14,0,0,0,10,0,0,0,5,0
+Offences under IPC,7.1 IPC - Currency,0,0,1,0,1,0,14,0,0,0,10,0,0,0,5,0
+Offences under IPC,7.2 IPC - Stamps,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Offences under IPC,8 IPC - Others,24,1,323,18,347,19,587,11,5,0,578,6,40,0,311,24
+Offences under IPC,Total Offences under IPC,56,2,621,33,677,35,2832,35,16,0,1238,24,99,2,2156,44
+SLL Offences,"1 Copyright Act, 1957",8,0,59,0,67,0,133,2,2,0,137,2,3,0,58,0
+SLL Offences,1.1 Under Section 63,6,0,44,0,50,0,66,0,2,0,80,0,0,0,34,0
+SLL Offences,1.2 Under Section 68A,0,0,0,0,0,0,18,0,0,0,16,0,0,0,2,0
+SLL Offences,1.3 Others,2,0,15,0,17,0,49,2,0,0,41,2,3,0,22,0
+SLL Offences,"2 Trade Marks Act, 1999",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SLL Offences,2.1 Under Section 102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SLL Offences,2.2 Under Section 103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SLL Offences,2.3 Under Section 104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SLL Offences,2.4 Others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SLL Offences,3 Other SLL Offences,2,0,27,0,29,0,17,0,0,0,25,0,1,0,20,0
+SLL Offences,Total SLL Offences,10,0,86,0,96,0,150,2,2,0,162,2,4,0,78,0
+Total Cyber Crimes (IT Act+IPC+SLL),Total Cyber Crimes (IT Act+IPC+SLL),472,10,3629,66,4101,76,7950,171,624,9,4802,126,933,4,5692,108

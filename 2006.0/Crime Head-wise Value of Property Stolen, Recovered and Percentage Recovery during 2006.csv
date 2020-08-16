@@ -1,0 +1,8 @@
+Crime Head,Number of Cases in which Property - Stolen,Number of Cases in which Property - Recovered,Percentage Recovery of Cases,Value of Property (Rs.in Lakh) - Stolen,Value of Property (Rs.in Lakh) - Recovered,Percentage Recovery (Value)
+Dacoity (Sec.395-398 IPC),4599,1876,40.8,6998,2606.9,37.3
+"Robbery (Sec.392-394,397,398 IPC)",17723,8829,49.8,10329.3,4354.5,42.2
+"Burglary (Sec.449-452,454,455,457- 460 IPC)",88317,28084,31.8,32483,8152.7,25.1
+Theft (Sec.379-382 IPC),268714,101023,37.6,99800.2,31897.9,32
+Criminal Breach of Trust (Sec.406-409 IPC),9758,4012,41.1,40791.3,4900,12
+Other Kinds of Property Offences,17536,9214,52.5,49992.8,8811,17.6
+Total,406647,153038,37.6,240394.6,60723,25.3

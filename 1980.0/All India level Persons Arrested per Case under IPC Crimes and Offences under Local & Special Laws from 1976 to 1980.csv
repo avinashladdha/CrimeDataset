@@ -1,0 +1,27 @@
+SL. No.,Category,Crime Heads,1976,1977,1978,1979,1980
+1,IPC Crimes,Murder ,2.4,2.3,2.4,2.3,2.4
+2,IPC Crimes,Culpable Homicide Not Amounting to Murder,2,2,1.9,1.9,2
+3,IPC Crimes,Rape,1.3,1.3,1.3,1.2,1.4
+4,IPC Crimes,Kidnapping & Abduction,1.3,1.2,1.2,1.2,1.2
+5,IPC Crimes,Dacoity,4.3,3.6,3.9,3.7,3.8
+6,IPC Crimes,Robbery,1.2,1,1.1,1.1,1.2
+7,IPC Crimes,Burglary,0.7,0.6,0.6,0.6,0.6
+8,IPC Crimes,Thefts,0.7,0.6,0.6,0.5,0.6
+9,IPC Crimes,Riots,5.4,5,5.5,5.6,5.4
+10,IPC Crimes,Criminal Breach of Trust,0.8,0.7,0.7,0.9,0.8
+11,IPC Crimes,Cheating ,0.9,0.8,0.8,0.8,0.9
+12,IPC Crimes,Counterfeiting,0.7,0.5,0.5,0.5,0.6
+13,IPC Crimes,Total Cognizable Crime,1.3,1.2,1.4,1.4,1.4
+1,Crime Under Local & Special Laws,Arms Act,1,0.8,0.9,1,1
+2,Crime Under Local & Special Laws,Opium Act,1,1,1,1,1
+3,Crime Under Local & Special Laws,Gambling Act ,1.7,1.7,1.7,1.8,1.8
+4,Crime Under Local & Special Laws,Excise Act,1,1,1,1,1
+5,Crime Under Local & Special Laws,Prohibition Act,1,1,1,0.9,0.8
+6,Crime Under Local & Special Laws,Explosives & Explosive Substances Act,1,1,1.1,1,1.1
+7,Crime Under Local & Special Laws,Suppression of Immoral Traffic Act,1.1,1.1,1,1,1.1
+8,Crime Under Local & Special Laws,Motor Vehicles Act,1,0.9,1,1,1
+9,Crime Under Local & Special Laws,Prevention of Corruption Act,1.4,0.4,0.2,0.5,0.7
+10,Crime Under Local & Special Laws,Customs Act,1.5,0.8,1.1,0.3,1.1
+11,Crime Under Local & Special Laws,Indian Railways Act,1.1,1.2,1.3,1.1,1
+12,Crime Under Local & Special Laws,Other Offences,1.1,1,1.2,1.1,1.2
+13,Crime Under Local & Special Laws,Total Cognizable Crimes,1.1,1,1.1,1.1,1.1

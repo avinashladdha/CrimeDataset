@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Percentage of Cases to Total Cases for Trial Compounded or Withdrawn (Col. 3),Percentage of Cases to total Cases for Trial in which Investigation was Completed Convicted (Col. 4),Percentage of Cases to total Cases for Trial in which Investigation was Completed Acquitted or Discharged (Col. 5),Percentage of Cases to total Cases for Trial in which Investigation was Completed Total (Col. 4+5) (Col. 6),Percentage of Cases to Total Cases for Trial Pending Trial (Col. 7),Conviction Rate (Col. 8)
+1,Arms Act,0.1,12.6,8.3,20.9,79,60.4
+2,Narcotic Drugs & Psychotropic Substances Act,0.3,7.1,10.4,17.6,82.1,40.6
+3,Gambling Act,0.2,33,6.8,39.8,60.1,82.9
+4,Excise Act,0.2,25.1,7.7,32.8,67,76.5
+5,Prohibition Act,0.6,20.1,10.8,30.9,68.5,65
+6,Explosive & Explosive Subs. Act,0.2,9,7.3,16.3,83.5,55.3
+7,Immoral Traffic (Prevention) Act,0.1,58.9,6.9,65.9,34,89.4
+8,Indian Railways Act,1.1,53.8,5,58.8,40.2,91.5
+9,Registration of Foreigners Act,0.2,51.4,3.4,54.8,44.9,93.8
+10,Protection Of Civil Rights Act,1.9,4.2,15.5,19.7,78.4,21.4
+11,Indian Passport Act,1.4,25.1,8.2,33.3,65.3,75.4
+12,Essential Commodities Act,3,4.9,9.2,14.2,82.8,35
+13,Terrorist & Disruptive Actvites Act,0.7,2.8,6.6,9.4,89.9,29.5
+14,Antiquity & Art Treasure Act,0,24.1,5.6,29.6,70.4,81.3
+15,Dowry Prohibition Act,3.2,6.9,14.5,21.3,75.5,32.1
+16,Other SLL Crimes,2.7,71.6,4,75.7,21.7,94.7
+17,Total Cognizable Crimes Under SLL,1.7,48.4,6.7,55,43.3,87.9

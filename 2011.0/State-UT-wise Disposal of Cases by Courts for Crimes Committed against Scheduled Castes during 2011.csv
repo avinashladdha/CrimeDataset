@@ -1,0 +1,40 @@
+Category (Col. 1),State/UT (Col. 2),Total No. of Cases for Trial including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases - Compounded or Withdrawn (Col. 5),No. of Cases - in Which Trials Completed - Convicted (Col. 6),No. of Cases - in Which Trials Completed - Acquitted or Discharged (Col. 7),No. of Cases - in Which Trials Completed - Total (Col. 8) = Col. 6 + 7,No. of Cases - Pending Trial at the end of the year (Col. 9),Pending Trial at the end of the year (Col. 10),Percentage of Pendency To All India Total (Col. 11),Conviction Rate (Col. 12) = Col ((6)/(8*100)
+State,Andhra Pradesh,6532,0,86,256,1947,2203,4243,65,4.9,11.6
+State,"Arunachal Pradesh
+pradesh",2,0,0,0,0,0,2,100,0,NA
+State,Assam,135,0,0,1,23,24,111,82.2,0.1,4.2
+State,Bihar,11476,0,0,196,1661,1857,9619,83.8,11,10.6
+State,Chhattisgarh,1488,0,18,109,286,395,1075,72.2,1.2,27.6
+State,Goa,8,0,0,0,2,2,6,75,0,0
+State,Gujarat,8986,0,5,14,642,656,8325,92.6,9.5,2.1
+State,Haryana,830,0,0,34,228,262,568,68.4,0.6,13
+State,Himachal Pradesh,239,0,2,2,35,37,200,83.7,0.2,5.4
+State,Jammu & Kashmir,5,0,0,0,1,1,4,80,0,0
+State,Jharkhand,1056,0,1,66,175,241,814,77.1,0.9,27.4
+State,Karnataka,7452,13,19,105,1443,1548,5885,79,6.7,6.8
+State,Kerala,1455,0,2,17,178,195,1258,86.5,1.4,8.7
+State,Madhya Pradesh,13234,0,124,891,1935,2826,10284,77.7,11.8,31.5
+State,Maharashtra,6929,2,8,45,769,814,6107,88.1,7,5.5
+State,Manipur,0,0,0,0,0,0,0,NA,0,NA
+State,Meghalaya,0,0,0,0,0,0,0,NA,0,NA
+State,Mizoram,0,0,0,0,0,0,0,NA,0,NA
+State,Nagaland,0,0,0,0,0,0,0,NA,0,NA
+State,Odisha,7523,0,0,105,1090,1195,6328,84.1,7.2,8.8
+State,Punjab,230,0,0,9,34,43,187,81.3,0.2,20.9
+State,Rajasthan,11845,0,211,777,923,1700,9934,83.9,11.4,45.7
+State,Sikkim,20,0,1,7,1,8,11,55,0,87.5
+State,Tamil Nadu,3659,0,0,293,506,799,2860,78.2,3.3,36.7
+State,Tripura,18,0,0,1,4,5,13,72.2,0,20
+State,Uttar Pradesh,25787,5,14,3870,2687,6557,19216,74.5,22,59
+State,Uttarakhand,175,0,0,26,16,42,133,76,0.2,61.9
+State,West Bengal,70,0,0,0,8,8,62,88.6,0.1,0
+State,Total (states),109154,20,491,6824,14594,21418,87245,79.9,99.8,31.9
+Union Territory,A & N Islands,0,0,0,0,0,0,0,NA,0,NA
+Union Territory,Chandigarh,4,0,0,0,0,0,4,100,0,NA
+Union Territory,D & N Haveli,4,0,0,0,0,0,4,100,0,NA
+Union Territory,Daman & Diu,0,0,0,0,0,0,0,NA,0,NA
+Union Territory,Delhi,97,0,0,3,12,15,82,84.5,0.1,20
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,NA,0,NA
+Union Territory,Puducherry,71,0,0,1,9,10,61,85.9,0.1,10
+Union Territory,Total (UTs),176,0,0,4,21,25,151,85.8,0.2,16
+Total (All-India),Total (All-India),109330,20,491,6828,14615,21443,87396,79.9,100,31.8

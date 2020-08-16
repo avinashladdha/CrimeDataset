@@ -1,0 +1,40 @@
+S. No. (Col.1),Category(Col.2),State/UT (Col.3),Total Rape Cases (Col.4),Cases in Which Offenders were known to the Victims - No. of Cases in Which Offenders were known to the Victims (Total) (Col.5),Cases in Which Offenders were known to the Victims - Grand Father/ Father/ Brother/ Son/etc (Col.6),Cases in Which Offenders were known to the Victims - Close Family Members (Other than Col.6) (Col.7),Cases in Which Offenders were known to the Victims - Relatives (other than cols. 6 & 7) (Col.8),Cases in Which Offenders were known to the Victims - Neighbours (Col.9),Cases in Which Offenders were known to the Victims - Employer/ Co-Workers (Col.10),Cases in Which Offenders were known to the Victims - Live In Partner/ Husband (Separated /Ex) (Col.11),Cases in Which Offenders were known to the Victims - Known Persons on Promise to Marry the Victim (Col.12),Cases in Which Offenders were known to the Victims - Other Known Persons (Col.13),Offenders Not Identified by Victims (Col.14),Percentage Share of Known Cases to Total Rape Cases (Col.15)
+1,STATE,Andhra Pradesh,1027,1024,4,56,54,314,13,13,286,284,3,99.7
+2,STATE,Arunachal Pradesh,71,59,1,2,10,17,1,1,8,19,12,83.1
+3,STATE,Assam,1733,1575,2,0,0,1098,0,27,182,266,158,90.9
+4,STATE,Bihar,1041,954,0,0,0,283,2,10,315,344,87,91.6
+5,STATE,Chhattisgarh,1560,1510,19,63,93,284,33,10,461,547,50,96.8
+6,STATE,Goa,86,83,4,3,2,9,2,1,18,44,3,96.5
+7,STATE,Gujarat,503,500,2,20,41,163,17,12,138,107,3,99.4
+8,STATE,Haryana,1070,1031,3,61,57,482,29,21,165,213,39,96.4
+9,STATE,Himachal Pradesh,244,244,12,9,5,44,14,0,121,39,0,100
+10,STATE,Jammu & Kashmir,296,287,0,1,15,50,3,2,43,173,9,97
+11,STATE,Jharkhand,1053,1003,2,17,63,538,14,2,247,120,50,95.3
+12,STATE,Karnataka,589,572,13,24,30,155,32,6,219,93,17,97.1
+13,STATE,Kerala,1256,1251,70,66,72,236,11,8,431,357,5,99.6
+14,STATE,Madhya Pradesh,4391,4161,26,78,273,883,55,126,791,1929,230,94.8
+15,STATE,Maharashtra,4144,4115,69,70,262,729,91,134,974,1786,29,99.3
+16,STATE,Manipur,46,44,4,1,1,2,0,1,19,16,2,95.7
+17,STATE,Meghalaya,93,93,1,5,1,20,0,0,0,66,0,100
+18,STATE,Mizoram,58,54,6,4,5,27,0,0,3,9,4,93.1
+19,STATE,Nagaland,35,34,0,0,0,27,0,0,2,5,1,97.1
+20,STATE,Odisha,2251,1924,0,51,73,117,11,26,726,920,327,85.5
+21,STATE,Punjab,886,881,12,30,31,283,0,5,166,354,5,99.4
+22,STATE,Rajasthan,3644,3622,98,64,168,865,25,23,572,1807,22,99.4
+23,STATE,Sikkim,5,5,1,0,0,3,0,0,0,1,0,100
+24,STATE,Tamil Nadu,421,406,1,5,40,101,6,2,231,20,15,96.4
+25,STATE,Telangana,1105,1082,0,73,128,304,47,2,365,163,23,97.9
+26,STATE,Tripura,213,212,0,7,12,103,0,0,73,17,1,99.5
+27,STATE,Uttar Pradesh,3025,2963,43,59,170,1083,45,143,795,625,62,98
+28,STATE,Uttarakhand,283,278,1,5,15,63,29,6,43,116,5,98.2
+29,STATE,West Bengal,1199,883,6,19,35,505,11,21,0,286,316,73.6
+TOTAL (STATES),STATE,TOTAL (STATES),32328,30850,400,793,1656,8788,491,602,7394,10726,1478,95.4
+30,UT,A & N Islands,36,36,0,3,2,13,1,0,8,9,0,100
+31,UT,Chandigarh,72,72,5,1,5,4,0,0,24,33,0,100
+32,UT,D&N Haveli,8,8,0,0,0,1,0,2,5,0,0,100
+33,UT,Daman & Diu,5,5,0,0,0,4,0,0,0,1,0,100
+34,UT,Delhi UT,2199,2124,80,94,125,698,65,101,224,737,75,96.6
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,NA
+36,UT,Puducherry,3,3,3,0,0,0,0,0,0,0,0,100
+TOTAL (UTS),UT,TOTAL (UTS),2323,2248,88,98,132,720,66,103,261,780,75,96.8
+TOTAL (ALL INDIA),TOTAL (ALL INDIA),TOTAL (ALL INDIA),34651,33098,488,891,1788,9508,557,705,7655,11506,1553,95.5

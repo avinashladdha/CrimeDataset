@@ -1,0 +1,14 @@
+Crime Head (Col.1),Cases Withdrawn by Govt. (Col.2),Percentage of Cases to Total Cases for Investigation in which Investigation was Refused (Col.3),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Charge Found False / Mistake of Fact or Law Etc. (Col.4),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Final Report True Submitted (Col.5),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Charge Sheets were Submitted (Col.6),Percentage of Cases to Total Cases for Investigation in which Investigation was Completed - Total (Col.7) = {(Col.5) + (Col.6) + (Col.7)},No. of Cases Pending Investigation at the end of the year (Col.8),Charge Sheeting Rate (Col.9) = (Col.7 / Col.6 + Col.7 × 100)
+Infanticide,0,0,7.3,25.2,50.4,82.9,17.1,66.7
+Murder,0,0.1,2.1,11.4,66.2,79.7,20.2,85.3
+Rape,0,0,1.6,1.8,76.2,79.6,20.3,97.7
+Kid.& Abduction,0.3,0.3,8.3,11.1,54.9,74.3,25,83.2
+Foeticide,0,0,6.8,34.7,24.6,66.1,33.9,41.4
+Abetment of Suicide,0,0,5.5,5.5,61.8,72.7,27.3,91.9
+Exposure and Abandonment,0,0,1,68.1,11.7,80.8,19.2,14.6
+Procuration Minor Girl,0,0,9.6,13.9,45,68.4,31.6,76.4
+Buying of Girls for Prost.,0,0,2.9,2.9,41.2,47.1,52.9,93.3
+Selling of Girls for Prost,0,0,0,2.6,28.9,31.6,68.4,91.7
+Child Marriage Restraint Act,0,0,9.4,2.9,63.3,75.5,24.5,95.7
+Other Crime,0,0.8,1.8,4,82.7,88.5,10.7,95.4
+Total,0.1,0.3,3.5,10.1,66.8,80.5,19.1,86.8

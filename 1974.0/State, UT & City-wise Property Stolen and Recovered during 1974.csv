@@ -1,0 +1,43 @@
+SL. No.,Category,States/U.Ts./Cities,Total Value of Property Stolen,Total Value of Property Recovered
+1,State,Andhra Pradesh,202.59,97.2
+2,State,Assam,159.42,12.7
+3,State,Bihar,343.96,6.4
+4,State,Gujarat,259.86,74.92
+5,State,Haryana,98.72,59.5
+6,State,Himachal Pradesh,23.5,10.49
+7,State,Jammu and Kashmir,42.15,23.32
+8,State,Karnataka,235.31,91.77
+9,State,Kerala,126.26,43.95
+10,State,Madhya Pradesh,1434.85,119.2
+11,State,Maharashtra,1457.97,501.02
+12,State,Manipur,15.91,1.73
+13,State,Meghalaya,5,0.57
+14,State,Nagaland,9.68,4.1
+15,State,Orissa,75.52,13.94
+16,State,Punjab,149.06,74.06
+17,State,Rajasthan,292.33,195.05
+18,State,Tamil Nadu,181.61,115.88
+19,State,Tripura,13.58,1.61
+20,State,Uttar Pradesh,1869.92,189.92
+21,State,West Bengal,445.35,103.43
+Total (States),State,Total (States),6642.55,1740.86
+22,UT,A & N Islands,2.58,2.07
+23,UT,Arunachal Pradesh,2.21,1.03
+24,UT,Chandigarh,17.41,11.23
+25,UT,D & N Haveli,0.24,0.09
+26,UT,Delhi,401.26,180.57
+27,UT,"Goa, Daman & Diu",28.4,15.84
+28,UT,Lakshadweep,0.01,NA
+29,UT,Mizoram,7.75,4012
+30,UT,Pondicherry,7.51,2061
+Total (UTs),UT,Total (UTs),467.17,217.56
+Total (All-India),Total (All-India),Total (All-India),6909.72,1958.42
+1,City,Ahmedabad,55.1,12.34
+2,City,Bangalore,59.19,28.01
+3,City,Bombay,969.3,375.55
+4,City,Calcutta,282.98,80.09
+5,City,Delhi,442.16,175.77
+6,City,Hyderabad,21.05,9
+7,City,Kanpur,72.99,12.09
+8,City,Madras,49.54,27.31
+Total (Cities),City,Total (Cities),1952.31,720.26

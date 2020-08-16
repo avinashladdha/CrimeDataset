@@ -1,0 +1,49 @@
+SL. No.,Category,States/U.Ts/Cities,Number of Cases Reported,Below 16 Years,Between 16 to 30 Years,Above 30 Years
+1,State,Andhra Pradesh,497,137,214,146
+2,State,Arunachal Pradesh,11,2,7,2
+3,State,Assam,442,67,308,67
+4,State,Bihar,849,122,506,221
+5,State,Goa,12,5,6,1
+6,State,Gujarat,159,25,108,26
+7,State,Haryana,134,25,92,17
+8,State,Himachal Pradesh,34,11,19,4
+9,State,Jammu & Kashmir,171,30,94,47
+10,State,Karnataka,167,50,101,16
+11,State,Kerala,192,55,126,11
+12,State,Madhya Pradesh,1705,48,1317,340
+13,State,Maharashtra,782,295,426,61
+14,State,Manipur,11,2,1,2
+15,State,Meghalaya,19,7,8,4
+16,State,Mizoram,62,26,28,8
+17,State,Nagaland,9,NA,9,NA
+18,State,Orissa,186,21,132,33
+19,State,Punjab,47,16,28,3
+20,State,Rajasthan,604,71,392,141
+21,State,Sikkim,8,2,6,NA
+22,State,Tamil Nadu,267,60,179,28
+23,State,Tripura,43,5,34,4
+24,State,Uttar Pradesh,1392,222,911,259
+25,State,West Bengal,632,72,547,13
+Total (States),State,Total (States),8435,1376,5605,1454
+26,UT,A & N Islands,6,2,4,NA
+27,UT,Chandigarh,5,4,1,NA
+28,UT,D & N Haveli,2,NA,1,1
+29,UT,Daman & Diu,1,NA,1,NA
+30,UT,Delhi,103,21,64,18
+31,UT,Lakshadweep,NA,NA,NA,NA
+32,UT,Pondicherry,7,3,3,1
+Total (UTs),UT,Total (UTs),124,30,74,20
+Total (All India),Total (All India),Total (All India),8559,1406,5679,1474
+1,City,Ahmedabad,13,3,9,1
+2,City,Bangalore,46,15,29,2
+3,City,Bombay,85,31,50,4
+4,City,Calcutta,19,14,5,NA
+5,City,Delhi,88,17,55,16
+6,City,Hyderabad,23,4,15,4
+7,City,Jaipur,11,1,8,2
+8,City,Kanpur,26,6,18,2
+9,City,Lucknow,19,7,7,5
+10,City,Madras,23,4,19,NA
+11,City,Nagpur,45,21,20,4
+12,City,Pune,34,14,20,NA
+Total (Cities),City,Total (Cities),432,137,255,40

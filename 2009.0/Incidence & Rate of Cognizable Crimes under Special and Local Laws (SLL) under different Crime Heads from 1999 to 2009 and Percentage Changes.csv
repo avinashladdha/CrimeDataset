@@ -1,0 +1,28 @@
+Sr. No.,Crime Head,Incidence - 1999,Rate of Crime - 1999,Incidence - 2004,Rate of Crime - 2004,Incidence - 2005@@,Rate of Crime - 2005 @@,Incidence - 2006,Rate of Crime - 2006,Incidence - 2007,Rate of Crime - 2007,Incidence - 2008 #,Rate of Crime - 2008#,Incidence - Quinquennial Avg.2004-2008 (Q.A),Rate of Crime - Quinquennial Avg.2004-2008 (Q.A),Incidence - 2009++,Rate of Crime - 2009++,Percentage Change In 2009[(+) Increase/(-) Decrease] Over -1999,Percentage Change In 2009[(+) Increase/(-) Decrease] Over -Q.A,Percentage Change In 2010[(+) Increase/(-) Decrease] Over -2008,Note of Incidence - 1999
+1,Arms Act,60607,6.1,74482,6.9,74270,6.7,76562,6.8,74066,6.5,77016,6.7,75279,6.7,80109,6.9,32.2,6.4,4,NA
+2,Narcotic Drugs & Psychotropic Substances Act,20132,2,27608,2.5,29421,2.7,31044,2.8,29831,2.6,30645,2.7,29710,2.7,29401,2.5,46,-1,-4.1,NA
+3,Gambling Act,116516,11.8,190682,17.6,189523,17.2,173930,15.5,184972,16.3,156247,13.5,179071,16,162218,13.9,39.2,-9.4,3.8,NA
+4,Excise Act,106662,10.8,147854,13.6,150604,13.7,146973,13.1,143311,12.6,161685,14,150085,13.4,186322,15.9,74.7,24.1,15.2,NA
+5,Prohibition Act,547386,55.5,378919,34.9,326190,29.6,315883,28.2,344356,30.3,361940,31.4,345458,30.9,387029,33.1,-29.3,12,6.9,NA
+6,Explosive & Explosive Substances Act,4399,0.4,4248,0.4,4254,0.4,4067,0.4,4019,0.4,4067,0.4,4131,0.4,4419,0.4,0.5,7,8.7,NA
+7,Immoral Traffic (P) Act,9363,0.9,5748,0.5,5908,0.5,4541,0.4,3568,0.3,2659,0.2,4485,0.4,2474,0.2,-73.6,-44.8,-7,NA
+8,Indian Railways Act,36099,3.7,21444,2,224,0,189,0,186,0,145,0,4438,0.4,175,0,-99.5,-96.1,20.7,NA
+9,Registration of Foreigners Act,1587,0.2,1194,0.1,1951,0.2,2133,0.2,2117,0.2,1524,0.1,1784,0.2,1257,0.1,-20.8,-29.5,-17.5,NA
+10,Protection of Civil Rights Act - Total,996,0.1,375,0,453,0,454,0,211,0,254,0,349,0,170,0,-82.9,-51.3,-33.1,NA
+10,Protection of Civil Rights Act - (I) PCR Act for SCs,NA,NA,364,0,291,0,405,0,206,0,248,0,303,0,168,0,NA,-44.5,-32.3,*
+10,Protection of Civil Rights Act - (II) PCR Act for STs,NA,NA,11,0,162,0,49,0,5,0,6,0,47,0,2,0,NA,-95.7,-66.7,*
+11,Indian Passport Act,472,0,807,0.1,1120,0.1,940,0.1,984,0.1,1045,0.1,979,0.1,1249,0.1,164.6,27.6,19.5,NA
+12,Essential Commodities Act,5639,0.6,4871,0.4,7216,0.7,8319,0.7,7965,0.7,9106,0.8,7495,0.7,7622,0.7,35.2,1.7,-16.3,NA
+13,Terrorist & Disruptive Activities Act,0,0,66,0,54,0,0,0,0,0,0,0,24,0,0,0,0,-100,0,NA
+14,Antiquities & Art Treasures Act,16,0,85,0,68,0,31,0,49,0,34,0,53,0,36,0,125,-32.6,5.9,NA
+15,Dowry Prohibition Act,3064,0.3,3592,0.3,3204,0.3,4504,0.4,5623,0.5,5555,0.5,4496,0.4,5650,0.5,84.4,25.7,1.7,NA
+16,Child Marriage Restraint Act,58,0,93,0,122,0,99,0,96,0,104,0,103,0,3,0,-94.8,-97.1,-97.1,NA
+17,Indecent Representation of Women (P) Act,222,0,1378,0.1,2917,0.3,1562,0.1,1200,0.1,1025,0.1,1616,0.1,845,0.1,280.6,-47.7,-17.6,NA
+18,Copyrights Act,1980,0.2,6290,0.6,6846,0.6,7188,0.6,6628,0.6,6036,0.5,6598,0.6,6049,0.5,205.5,-8.3,0.2,NA
+19,Sati Prevention Act,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,-100,-100,NA
+20,SC/ST (Prevention of Atrocities) Act - Total,14595,1.5,10066,0.9,9780,0.9,9813,0.9,10923,1,12624,1.1,10641,1,12087,1,-17.2,13.6,-4.3,NA
+20,SC/ST (Prevention of Atrocities) Act - (I) Prevention of Attrocities Act for SCs,NA,NA,8891,0.8,8497,0.8,8581,0.8,9819,0.9,11602,1,9478,0.9,11143,1,NA,17.6,-4,*
+20,SC/ST (Prevention of Atrocities) Act - (II) Prevention of Attrocities Act for STs,NA,NA,1175,0.1,1283,0.1,1232,0.1,1104,0.1,1022,0.1,1163,0.1,944,0.1,NA,-18.8,-7.6,*
+21,Forest Act,5139,0.5,3818,0.4,4168,0.4,4347,0.4,4682,0.4,5090,0.4,4421,0.4,4802,0.4,-6.6,8.6,-5.7,NA
+22,Other Sll Crimes,2212169,224.2,3313146,305.2,2385441,216.3,2431588,217.1,2918947,256.8,3007923,260.8,2811409,251.2,3661955,313.1,65.5,30.3,21.7,NA
+23,Total Cognizable Crimes Under Sll,3147101,319,4196766,386.6,3203735,290.5,3224167,287.9,3743734,329.4,3844725,333.4,3642625,325.6,4553872,389.4,44.7,25,18.4,NA

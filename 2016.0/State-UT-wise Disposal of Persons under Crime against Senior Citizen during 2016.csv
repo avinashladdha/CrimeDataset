@@ -1,0 +1,40 @@
+S. No.,Category,State/UT,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Total
+1,State,Andhra Pradesh,2366,179,2545,2140,151,2291,270,2,272,861,61,922,7,0,7
+2,State,Arunachal Pradesh,2,0,2,3,0,3,0,0,0,0,0,0,0,0,0
+3,State,Assam,7,0,7,3,0,3,0,0,0,13,2,15,0,0,0
+4,State,Bihar,383,5,388,291,6,297,4,0,4,14,0,14,0,0,0
+5,State,Chhattisgarh,1166,78,1244,1165,78,1243,336,14,350,409,31,440,3,0,3
+6,State,Goa,48,2,50,51,4,55,1,0,1,15,2,17,0,0,0
+7,State,Gujarat,481,23,504,455,24,479,0,0,0,17,1,18,0,0,0
+8,State,Haryana,305,2,307,294,2,296,24,0,24,122,13,135,0,0,0
+9,State,Himachal Pradesh,310,44,354,275,41,316,0,0,0,14,1,15,0,0,0
+10,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,State,Jharkhand,50,0,50,1,0,1,0,0,0,0,0,0,0,0,0
+12,State,Karnataka,976,128,1104,729,105,834,13,0,13,136,13,149,0,0,0
+13,State,Kerala,774,42,816,642,34,676,40,2,42,162,1,163,0,0,0
+14,State,Madhya Pradesh,6030,452,6482,5996,452,6448,721,37,758,1190,92,1282,0,0,0
+15,State,Maharashtra,4692,343,5035,4627,309,4936,119,5,124,744,24,768,10,0,10
+16,State,Manipur,12,0,12,8,0,8,0,0,0,0,0,0,4,0,4
+17,State,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,State,Mizoram,15,0,15,15,0,15,5,0,5,1,0,1,0,0,0
+19,State,Nagaland,3,0,3,2,0,2,0,0,0,0,0,0,0,0,0
+20,State,Odisha,293,11,304,324,10,334,3,0,3,107,0,107,0,0,0
+21,State,Punjab,129,2,131,109,5,114,31,0,31,66,1,67,1,0,1
+22,State,Rajasthan,550,13,563,550,13,563,96,5,101,63,6,69,15,0,15
+23,State,Sikkim,4,0,4,4,0,4,0,0,0,1,0,1,0,0,0
+24,State,Tamil Nadu,3218,204,3422,2510,152,2662,687,38,725,687,53,740,25,0,25
+25,State,Telangana,1620,26,1646,1057,21,1078,132,1,133,134,0,134,0,0,0
+26,State,Tripura,8,0,8,9,0,9,1,0,1,1,0,1,0,0,0
+27,State,Uttar Pradesh,1028,16,1044,943,13,956,111,2,113,50,0,50,0,0,0
+28,State,Uttarakhand,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+29,State,West Bengal,231,20,251,205,20,225,1,0,1,23,5,28,0,0,0
+Total (States),State,Total (States),24702,1590,26292,22409,1440,23849,2595,106,2701,4830,306,5136,65,0,65
+30,UT,A & N Islands,6,0,6,5,0,5,1,0,1,0,0,0,0,0,0
+31,UT,Chandigarh,41,0,41,17,0,17,4,0,4,12,0,12,0,0,0
+32,UT,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,UT,Delhi,511,2,513,464,1,465,46,0,46,44,0,44,0,0,0
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,12,0,12,13,0,13,1,0,1,1,0,1,0,0,0
+Total (UTs),UT,Total (UTs),570,2,572,499,1,500,52,0,52,57,0,57,0,0,0
+Total (All India),Total (All India),Total (All India),25272,1592,26864,22908,1441,24349,2647,106,2753,4887,306,5193,65,0,65

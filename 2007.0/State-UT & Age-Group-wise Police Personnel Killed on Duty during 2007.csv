@@ -1,0 +1,39 @@
+Category (Col. 1),States/ UTs (Col. 2),Age Groups (Col. 3) - 18-25 - Years,Age Groups (Col. 4) - 25-35 - Years,Age Groups (Col. 5) - 35-45 - Years,Age Groups (Col. 6) - 45-55 - Years,Age Groups (Col. 7) - Above 55 Years,Age Groups (Col. 8) - Total = Col. (3 to 7)
+State,Andhra Pradesh,3,7,17,12,0,39
+State,Arunachal Pradesh,0,0,0,0,0,0
+State,Assam,0,14,12,4,1,31
+State,Bihar,2,4,17,2,2,27
+State,Chhattisgarh,10,38,27,4,1,80
+State,Goa,0,0,0,0,0,0
+State,Gujarat,2,8,19,12,6,47
+State,Haryana,1,8,14,13,0,36
+State,Himachal Pradesh,0,3,2,2,0,7
+State,Jammu & Kashmir,2,12,6,6,1,27
+State,Jharkhand,0,3,3,6,0,12
+State,Karnataka,0,9,7,8,1,25
+State,Kerala,0,6,3,8,0,17
+State,Madhya Pradesh,3,14,10,10,4,41
+State,Maharashtra,1,18,28,28,2,77
+State,Manipur,0,0,0,0,0,0
+State,Meghalaya,0,1,0,0,0,1
+State,Mizoram,1,6,3,1,0,11
+State,Nagaland,0,0,1,0,0,1
+State,Orissa,0,0,2,0,0,2
+State,Punjab,1,10,42,35,6,94
+State,Rajasthan,3,18,9,21,0,51
+State,Sikkim,0,5,0,0,0,5
+State,Tamil Nadu,0,11,19,19,3,52
+State,Tripura,6,2,5,0,0,13
+State,Uttar Pradesh,2,31,51,48,10,142
+State,Uttarakhand,2,1,3,0,0,6
+State,West Bengal,0,1,5,4,1,11
+State,Total (States),39,230,305,243,38,855
+Union Territory,A & N Islands,0,0,0,0,0,0
+Union Territory,Chandigarh,0,0,0,0,0,0
+Union Territory,D & N Haveli,0,0,0,0,0,0
+Union Territory,Daman & Diu,0,0,0,0,0,0
+Union Territory,Delhi,0,1,11,8,1,21
+Union Territory,Lakshadweep,0,0,0,0,0,0
+Union Territory,Puducherry,0,0,0,0,0,0
+Union Territory,Total (UTs),0,1,11,8,1,21
+Total (All-India),Total (All-India),39,231,316,251,39,876

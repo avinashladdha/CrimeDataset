@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts/Cities,Cases Reported in which Property was Stolen,Cases in which Property was Recovered,Value of Property Stolen in Lakhs,Value of Property Recovered in Lakhs,Percentage of Property Recovered to Value of Property Stolen
+1,State,Andhra Pradesh,310,101,11.28,1.17,10.4
+2,State,Assam,343,28,8.28,0.35,4.2
+3,State,Bihar,961,65,10.39,2.94,28.3
+4,State,Gujarat,1052,450,28.81,4.62,16
+5,State,Haryana,267,86,7.12,2.42,34
+6,State,Jammu & Kashmir,15,5,0.32,0.08,25
+7,State,Kerala,409,129,15.44,3.22,20.9
+8,State,Madhya Pradesh,872,382,23.03,2.75,11.9
+9,State,Maharashtra,2067,727,41,8.02,19.6
+10,State,Mysore,504,294,13.12,4.05,30.9
+11,State,Nagaland,13,4,0.27,0.03,11.1
+12,State,Orissa,408,120,6.16,0.42,6.8
+13,State,Punjab,195,54,11.12,2.38,21.4
+14,State,Rajasthan,566,272,9.49,5.96,62.8
+15,State,Tamil Nadu,972,663,6.53,3.77,57.7
+16,State,Uttar Pradesh,4181,165,68.38,10.3,15
+17,State,West Bengal,1713,228,18.02,2.43,13.5
+Total (States),State,Total (States),14848,3773,278.76,54.91,19.7
+18,UT,A & N Islands,8,4,0.1,0.05,50
+19,UT,Chandigarh,50,12,1.66,0.42,25.3
+20,UT,Dadra & N. Haveli,4,2,0.06,0.05,83.3
+21,UT,Delhi,418,85,13.37,3.7,27.7
+22,UT,"Goa, Daman & Diu",67,55,1.32,0.45,34.4
+23,UT,Himachal Pradesh,30,16,0.52,0.07,13.4
+24,UT,Lakshadweep,2,1,NA,NA,NA
+25,UT,Manipur,18,NA,0.37,NA,0
+26,UT,Pondicherry,27,14,0.65,0.1,15.4
+27,UT,Tripura,27,NA,0.18,NA,NA
+Total (UTs),UT,Total (UTs),651,189,18.25,4.84,26.5
+Total (All-India),Total (All-India),Total (All-India),15499,3962,296.99,59.75,20.1
+1,City,Ahmedabad,88,41,2.18,0.33,15.1
+2,City,Bangalore,217,135,3.59,2.04,56.8
+3,City,Bombay,730,176,14.08,5.03,35.7
+4,City,Calcutta,488,87,10.36,2.25,21.7
+5,City,Delhi,397,82,12.99,3.66,28.2
+6,City,Hyderabad,19,3,1.68,0.08,4.8
+7,City,Kanpur,598,18,12.57,0.45,3.6
+8,City,Madras,316,200,1.37,1.08,78.8
+Total (Cities),City,Total (Cities),2853,742,58.82,14.92,25.4

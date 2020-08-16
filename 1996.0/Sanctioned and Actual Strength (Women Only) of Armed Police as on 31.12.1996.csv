@@ -1,0 +1,59 @@
+Category,SL.No.,State/UT/City,DG/IG/DIG/SP - Sanctioned,DG/IG/DIG/SP - Actual,ASP & DSP - Sanctioned,ASP & DSP - Actual,"Inspector, SI & A.S.I. - Sanctioned","Inspector, SI & A.S.I. - Actual",Officers Below A.S.I. - Sanctioned,Officers Below A.S.I. - Actual,Grand Total - Sanctioned,Grand Total - Actual
+State,1,Andhra Pradesh,0,0,0,0,0,0,0,0,0,0
+State,2,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0
+State,3,Assam,0,0,0,0,3,3,162,162,165,165
+State,4,Bihar,0,0,0,0,0,0,0,0,0,0
+State,5,Goa,0,0,0,0,0,0,0,29,0,29
+State,6,Gujarat,0,0,0,0,0,0,0,0,0,0
+State,7,Haryana,0,0,0,0,0,0,0,0,0,0
+State,8,Himachal Pradesh,0,0,0,1,0,0,0,0,0,1
+State,9,Jammu & Kashmir,0,0,4,1,16,4,485,498,505,503
+State,10,Karnataka,0,0,0,0,0,0,0,0,0,0
+State,11,Kerala,0,0,0,0,4,0,188,112,192,112
+State,12,Madhya Pradesh,0,0,0,0,14,13,118,101,132,114
+State,13,Maharashtra,0,0,0,0,0,0,0,0,0,0
+State,14,Manipur,0,0,0,0,0,0,0,0,0,0
+State,15,Meghalaya,0,0,0,0,0,0,0,0,0,0
+State,16,Mizoram,0,0,0,0,0,0,0,0,0,0
+State,17,Nagaland,0,0,0,0,0,0,0,0,0,0
+State,18,Orissa,0,0,0,0,0,0,0,0,0,0
+State,19,Punjab,0,0,0,0,0,0,0,0,0,0
+State,20,Rajasthan,0,0,0,0,0,0,0,0,0,0
+State,21,Sikkim,0,0,0,0,0,0,0,0,0,0
+State,22,Tamil Nadu,0,0,0,0,0,0,0,0,0,0
+State,23,Tripura,0,0,0,0,0,0,0,0,0,0
+State,24,Uttar Pradesh,0,0,0,0,0,0,0,0,0,0
+State,25,West Bengal,0,0,0,0,0,0,0,0,0,0
+State,Total (States),Total (States),0,0,4,2,37,20,953,902,994,924
+UT,26,A & N Islands,0,0,0,0,0,0,0,0,0,0
+UT,27,Chandigarh,0,0,0,0,0,0,0,0,0,0
+UT,28,D & N Haveli,0,0,0,0,0,0,0,0,0,0
+UT,29,Daman & Diu,0,0,0,0,0,0,0,0,0,0
+UT,30,Delhi,0,0,0,0,1,12,16,23,17,35
+UT,31,Lakshadweep,0,0,0,0,0,0,0,0,0,0
+UT,32,Pondicherry,0,0,0,0,0,0,0,0,0,0
+UT,Total (UTs),Total (UTs),0,0,0,0,1,12,16,23,17,35
+Total (All-India),Total (All-India),Total (All-India),0,0,4,2,38,32,969,925,1011,959
+City,33,Ahmedabad,0,0,0,0,0,0,0,0,0,0
+City,34,Bangalore,0,0,0,0,0,0,0,0,0,0
+City,35,Bhopal,0,0,0,0,0,0,0,0,0,0
+City,36,Bombay,0,0,0,0,0,0,0,0,0,0
+City,37,Calcutta,0,0,0,0,0,0,0,0,0,0
+City,38,Coimbatore,0,0,0,0,0,0,0,0,0,0
+City,39,Delhi,0,0,0,0,1,12,16,23,17,35
+City,40,Hyderabad,0,0,0,0,0,0,0,0,0,0
+City,41,Indore,0,0,0,0,0,0,0,0,0,0
+City,42,Jaipur,0,0,0,0,0,0,0,0,0,0
+City,43,Kanpur,0,0,0,0,0,0,0,0,0,0
+City,44,Kochi,0,0,0,0,0,0,0,0,0,0
+City,45,Lucknow,0,0,0,0,0,0,2,0,2,0
+City,46,Ludhiana,0,0,0,0,0,0,0,0,0,0
+City,47,Madras,0,0,0,0,0,0,0,0,0,0
+City,48,Madurai,0,0,0,0,0,0,0,0,0,0
+City,49,Nagpur,0,0,0,0,0,0,0,0,0,0
+City,50,Patna,0,0,0,0,0,0,0,0,0,0
+City,51,Pune,0,0,0,0,0,0,0,0,0,0
+City,52,Surat,0,0,0,0,0,0,0,0,0,0
+City,53,Vadodara,0,0,0,0,0,0,0,0,0,0
+City,54,Varanasi,0,0,0,0,0,0,0,0,0,0
+City,55,Vishakhapatnam,0,0,0,0,0,0,0,0,0,0

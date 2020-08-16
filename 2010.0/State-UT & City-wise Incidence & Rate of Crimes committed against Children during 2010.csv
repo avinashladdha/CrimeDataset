@@ -1,0 +1,75 @@
+Sl. No.,Category,States/Uts/Cities,Incidence,Percentage Contribution to All-India Total,Estimated Mid-Year Population (In Lakhs),Rate of Total Cognizable Crimes,Rank  as per Rate of total cognizable crimes,Rank as per percentage share
+1,State,Andhra Pradesh,1823,6.8,841.29,2.2,16,6
+2,State,Arunachal Pradesh,20,0.1,12.35,1.6,21,29
+3,State,Assam,197,0.7,309.78,0.6,29,18
+4,State,Bihar,1843,6.9,971.84,1.9,18,5
+5,State,Chhattisgarh,1463,5.5,245.38,6,5,7
+6,State,Goa,79,0.3,17.43,4.5,10,21
+7,State,Gujarat,1006,3.8,581.93,1.7,19,9
+8,State,Haryana,303,1.1,245.9,1.2,23,15
+9,State,Himachal Pradesh,246,0.9,66.87,3.7,12,16
+10,State,Jammu & Kashmir,17,0.1,133.64,0.1,34,30
+11,State,Jharkhand,54,0.2,309.37,0.2,33,24
+12,State,Karnataka,409,1.5,587.99,0.7,28,14
+13,State,Kerala,596,2.2,349.72,1.7,20,13
+14,State,Madhya Pradesh,4912,18.4,721.06,6.8,3,1
+15,State,Maharashtra,3264,12.2,1100.49,3,13,3
+16,State,Manipur,73,0.3,27.02,2.7,14,22
+17,State,Meghalaya,110,0.4,26.09,4.2,11,20
+18,State,Mizoram,50,0.2,10.08,5,7,26
+19,State,Nagaland,10,0,22.5,0.4,31,33
+20,State,Odisha,194,0.7,408.28,0.5,30,19
+21,State,Punjab,627,2.3,272.68,2.3,15,12
+22,State,Rajasthan,1318,4.9,671.06,2,17,8
+23,State,Sikkim,29,0.1,6.1,4.8,8,28
+24,State,Tamil Nadu,810,3,676.32,1.2,24,11
+25,State,Tripura,227,0.9,36.1,6.3,4,17
+26,State,Uttar Pradesh,2332,8.7,1990.28,1.2,25,4
+27,State,Uttarakhand,31,0.1,98.17,0.3,32,27
+28,State,West Bengal,880,3.3,902.22,1,27,10
+Total (States),Total (States),Total (States),22923,85.9,11641.94,2,NA,NA
+29,Union Territories,Andaman & Nicobar Islands,51,0.2,4.32,11.8,2,25
+30,Union Territories,Chandigarh,59,0.2,11.25,5.2,6,23
+31,Union Territories,Dadra Nagar Haveli,13,0,2.83,4.6,9,32
+32,Union Territories,Daman & Diu,2,0,2,1,26,34
+33,Union Territories,Delhi,3630,13.6,183.33,19.8,1,2
+34,Union Territories,Lakshadweep,0,0,0.72,0,NA,NA
+35,Union Territories,Puducherry,16,0.1,11.17,1.4,22,31
+Total (UTs),Total (UTs),Total (UTs),3771,14.1,215.62,17.5,NA,NA
+Total (All-India),Total (All-India),Total (All-India),26694,100,11857.56,2.3,NA,NA
+36,City,Agra,48,0.8,13.21,3.6,15,21
+37,City,Ahmedabad,89,1.4,45.19,2,21,13
+38,City,Allahabad,21,0.3,10.5,2,20,25
+39,City,Amritsar,65,1,10.11,6.4,9,16
+40,City,Asansol,0,0,10.91,0,NA,NA
+41,City,Bengaluru,17,0.3,56.87,0.3,31,26
+42,City,Bhopal,111,1.8,14.55,7.6,8,10
+43,City,Chennai,53,0.9,64.25,0.8,28,20
+44,City,Coimbatore,11,0.2,14.46,0.8,29,30
+45,City,Delhi (city),3029,48.9,127.91,23.7,1,1
+46,City,Dhanbad,14,0.2,10.64,1.3,24,28
+47,City,Faridabad,0,0,10.55,0,NA,NA
+48,City,Hyderabad,86,1.4,55.34,1.6,23,14
+49,City,Indore,325,5.2,16.39,19.8,2,4
+50,City,Jabalpur,100,1.6,11.17,9,7,11
+51,City,Jaipur,98,1.6,23.24,4.2,13,12
+52,City,Jamshedpur,0,0,11.02,0,NA,NA
+53,City,Kanpur,130,2.1,26.9,4.8,11,9
+54,City,Kochi,14,0.2,13.55,1,26,27
+55,City,Kolkata,151,2.4,132.17,1.1,25,7
+56,City,Lucknow,41,0.7,22.67,1.8,22,23
+57,City,Ludhiana,150,2.4,13.95,10.8,5,8
+58,City,Madurai,3,0,11.95,0.3,32,32
+59,City,Meerut,60,1,11.67,5.1,10,18
+60,City,Mumbai,532,8.6,163.68,3.3,17,2
+61,City,Nagpur,230,3.7,21.23,10.8,4,5
+62,City,Nasik,25,0.4,11.52,2.2,19,24
+63,City,Patna,79,1.3,17.07,4.6,12,15
+64,City,Pune,353,5.7,37.56,9.4,6,3
+65,City,Rajkot,41,0.7,10.02,4.1,14,22
+66,City,Surat,62,1,28.11,2.2,18,17
+67,City,Vadodara,53,0.9,14.92,3.6,16,19
+68,City,Varanasi,12,0.2,12.12,1,27,29
+69,City,Vijayawada,188,3,10.11,18.6,3,6
+70,City,Vishakhapatnam,9,0.1,13.29,0.7,30,31
+Total (Cities),Total (Cities),Total (Cities),6200,100,1078.8,5.7,NA,NA

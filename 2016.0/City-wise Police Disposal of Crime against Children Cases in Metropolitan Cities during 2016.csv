@@ -1,0 +1,21 @@
+S. No. (Col.1),City (Col.2),Cases Pending Investigation from Previous Year (Col.3),Cases Reported during the Year (Col.4),Total Cases for Investigation (Col.5) = (Col. 3+4),Cases Withdrawn by Govt. (Col.6),Cases Transferred to other PS or Magistrate (Col.7),Cases not Investigated U/S 157(1) (b) of Cr.PC (Col.8),Final Report - True but Insufficient Evidence (Col.9),Final Report - False (Col.10),Final Report - Mistake of Fact (Col.11),Final Report - Non-Cognizable (Col.12),Final Report - Total (Col.13) = (Col.9+ Col.10 +Col.11+ Col.12),Cases in which Chargesheets were Submitted (Col.14),Total Cases Disposed off by Police (Col.15) = (Col. 7+8+13+14),Cases Pending Investigation at the End of the Year (Col.16) = (Col.5 - (Col.6 +15)),Chargesheeting Rate (Col.17) = (Col.14/ Col.15) * 100,Pendency Percentage (Col.18) = (Col.16/ (Col.5)) * 100
+1,Ahmedabad (Gujarat),140,481,621,1,0,1,49,6,102,0,157,391,549,71,71.2,11.4
+2,Bengaluru (Karnataka),404,1333,1737,0,15,0,42,360,266,0,668,402,1085,652,37.1,37.5
+3,Chennai (Tamil Nadu),276,230,506,0,0,0,13,0,0,0,13,135,148,358,91.2,70.8
+4,Coimbatore (Tamil Nadu),21,69,90,0,0,0,4,0,1,0,5,67,72,18,93.1,20
+5,Delhi,7188,7392,14580,16,10,0,1872,687,2239,0,4798,1896,6704,7860,28.3,53.9
+6,Ghaziabad (Uttar Pradesh),19,130,149,0,0,0,16,13,0,0,29,62,91,58,68.1,38.9
+7,Hyderabad (Andhra Pradesh),349,410,759,0,3,0,95,4,164,0,263,293,559,200,52.4,26.4
+8,Indore (Madhya Pradesh),175,631,806,0,0,0,65,220,0,0,285,287,572,234,50.2,29
+9,Jaipur (Rajasthan),98,699,797,0,0,0,65,18,302,2,387,342,729,68,46.9,8.5
+10,Kanpur (Uttar Pradesh),32,189,221,0,0,0,81,2,0,0,83,99,182,39,54.4,17.6
+11,Kochi (Kerala),26,86,112,0,0,0,3,0,0,0,3,79,82,30,96.3,26.8
+12,Kolkata (West Bengal),245,317,562,0,0,0,61,0,0,0,61,95,156,406,60.9,72.2
+13,Kozhikode (Kerala),103,92,195,0,0,0,11,1,0,0,12,92,104,91,88.5,46.7
+14,Lucknow (Uttar Pradesh),35,956,991,0,0,0,393,2,0,0,395,161,556,435,29,43.9
+15,Mumbai (Maharashtra),3227,3400,6627,0,1,0,430,13,689,3,1135,1198,2334,4293,51.3,64.8
+16,Nagpur (Maharashtra),331,693,1024,0,0,0,31,8,342,7,388,334,722,302,46.3,29.5
+17,Patna (Bihar),210,378,588,0,0,0,62,4,30,0,96,334,430,158,77.7,26.9
+18,Pune (Maharashtra),459,1180,1639,0,1,0,45,55,544,1,645,464,1110,529,41.8,32.3
+19,Surat (Gujarat),18,415,433,0,0,0,74,0,112,0,186,238,424,9,56.1,2.1
+Total Cities,Total Cities,13356,19081,32437,17,30,1,3412,1393,4791,13,9609,6969,16609,15811,42,48.7

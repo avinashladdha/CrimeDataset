@@ -1,0 +1,39 @@
+Category,States/UTs,Total No. of Cases Reported,Sex-wise/Age Group-wise upto 10 Years - Male,Sex-wise/Age Group-wise upto 10 Years - Female,Sex-wise/Age Group-wise 10 - 15 Years - Male,Sex-wise/Age Group-wise 10 - 15 Years - Female,Sex-wise/Age Group-wise 15 - 18 Years - Male,Sex-wise/Age Group-wise 15 - 18 Years - Female,Sex-wise/Age Group-wise 18 - 30 Years - Male,Sex-wise/Age Group-wise 18 - 30 Years - Female,Sex-wise/Age Group-wise 30- 50 Years - Male,Sex-wise/Age Group-wise 30- 50 Years - Female,Sex-wise/Age Group-wise above 50 Years - Male,Sex-wise/Age Group-wise above 50 Years - Female,Sex-wise/Age Group-wise Total - Male,Sex-wise/Age Group-wise Total - Female,Grand Total
+State,Andhra Pradesh,1612,24,20,25,95,24,163,305,617,221,90,20,15,619,1000,1619
+State,Arunachal Pradesh,58,0,0,4,6,0,2,14,30,1,1,0,0,19,39,58
+State,Assam,1751,0,0,0,0,0,18,179,1228,116,210,0,0,295,1456,1751
+State,Bihar,2693,9,0,13,7,23,20,1274,882,408,20,37,0,1764,929,2693
+State,Chhattisgarh,246,2,0,2,44,4,58,37,81,11,6,1,0,57,189,246
+State,Goa,17,2,2,1,9,0,0,2,3,2,0,0,0,7,14,21
+State,Gujarat,1164,22,10,23,77,4,152,106,662,67,39,10,0,232,940,1172
+State,Haryana,492,11,8,8,24,13,37,77,160,45,124,2,0,156,353,509
+State,Himachal Pradesh,118,1,1,0,5,1,29,8,62,3,7,1,0,14,104,118
+State,Jammu & Kashmir,748,0,0,1,2,0,45,59,475,25,133,5,3,90,658,748
+State,Jharkhand,621,0,0,8,8,5,1,211,33,318,37,0,0,542,79,621
+State,Karnataka,589,4,1,2,8,4,31,157,235,107,43,5,0,279,318,597
+State,Kerala,226,3,9,4,11,4,17,38,79,47,16,6,0,102,132,234
+State,Madhya Pradesh,847,10,14,13,40,40,123,103,276,68,148,9,3,243,604,847
+State,Maharashtra,1194,31,20,24,100,24,339,127,483,128,44,15,1,349,987,1336
+State,Manipur,106,0,1,0,4,0,8,16,49,20,8,4,0,40,70,110
+State,Meghalaya,48,0,0,0,4,2,6,12,8,16,0,0,0,30,18,48
+State,Mizoram,13,0,0,0,0,0,0,7,2,1,0,0,3,8,5,13
+State,Nagaland,26,0,0,0,0,0,0,16,2,12,1,1,0,29,3,32
+State,Orissa,641,1,0,10,8,0,0,77,521,5,11,8,0,101,540,641
+State,Punjab,478,13,5,5,14,2,20,86,283,46,38,5,1,157,361,518
+State,Rajasthan,1993,4,3,8,38,9,70,275,1169,140,263,8,6,444,1549,1993
+State,Sikkim,3,1,0,0,0,0,1,0,1,0,0,0,0,1,2,3
+State,Tamil Nadu,1029,2,1,2,16,0,68,167,599,66,113,9,0,246,797,1043
+State,Tripura,85,2,2,0,0,2,0,31,41,36,0,6,0,77,43,120
+State,Uttar Pradesh,2955,14,5,31,196,84,419,332,1308,221,319,26,0,708,2247,2955
+State,Uttaranchal,203,2,0,0,8,0,41,69,73,8,3,0,0,79,125,204
+State,West Bengal,1207,2,3,0,13,0,84,153,888,12,51,1,0,168,1039,1207
+State,Total (States),21163,160,105,184,737,245,1752,3938,10250,2150,1725,179,32,6856,14601,21457
+Union Territory,A & N Islands,2,0,0,1,0,0,1,0,0,0,0,0,0,1,1,2
+Union Territory,Chandigarh,54,0,0,1,3,2,25,5,18,2,0,0,0,10,46,56
+Union Territory,D & N Haveli,13,1,0,0,2,0,4,2,2,0,1,1,0,4,9,13
+Union Territory,Daman & Diu,4,0,0,0,0,0,2,2,0,0,0,0,0,2,2,4
+Union Territory,Delhi,1590,92,46,59,104,43,163,268,540,181,97,0,2,643,952,1595
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Pondicherry,6,0,0,1,0,0,2,0,1,2,0,0,0,3,3,6
+Union Territory,Total (UTs),1669,93,46,62,109,45,197,277,561,185,98,1,2,663,1013,1676
+Total (All-India),Total (All-India),22832,253,151,246,846,290,1949,4215,10811,2335,1823,180,34,7519,15614,23133

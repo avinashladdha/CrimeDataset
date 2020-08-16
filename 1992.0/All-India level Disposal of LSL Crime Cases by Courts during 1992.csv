@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total Number of Cases for Trial Including Pending Cases (Col. 3),Number of Cases - Compounded or Withdrawn (Col. 4),Number of Cases - In which Trials were Completed - Convicted (Col. 5),Number of Cases - In which Trials were Completed - Acquitted or Discharged (Col. 6),Number of Cases - In which Trials were Completed - Total (Col. 5+6) (Col. 7),Number of Cases - Pending Trial (Col. 8)
+1,Arms Act,221141,315,36641,17938,54579,166247
+2,Narcotic Drugs & Psychotropic Substances Act,61431,1434,1481,4634,8815,51182
+3,Gambling Act,349164,1702,138281,19078,157359,190103
+4,Excise Act,270578,514,72630,18904,91534,178530
+5,Prohibition Act,1740778,10945,373744,152539,526283,1203550
+6,Explosive & Explosive Substances Act,17185,10,2342,2431,4773,12402
+7,Immoral Traffic (P) Act,21350,196,11069,1024,12093,9061
+8,Indian Railways Act,3698,81,22845,710,23555,13272
+9,Registration of Foreigners Act,2820,14,1916,87,2003,803
+10,Protection Of Civil Rights Act,10994,229,657,1578,2235,8530
+11,Indian Passport Act,1708,6,953,117,1070,632
+12,Essential Commodities Act,26573,50,1492,2362,3854,22669
+13,Terrorist & Disruptive Activites Act,1705,51,90,79,169,1485
+14,Antiquity & Art Treasure Act,48,1,19,5,24,23
+15,Dowry Prohibition Act,5121,146,404,668,1072,3903
+16,Other LSL Crimes,3249194,330341,2060599,221120,2281719,637134
+17,Total Cognizable Crimes Under LSL,6016698,346035,2727863,443274,3171137,2499526

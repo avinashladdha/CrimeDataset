@@ -1,0 +1,58 @@
+Crime Head (Col. 1),Cases Pending Investigation from Previous Year (Col. 2),Cases Reported During the Year (Col. 3),No. of Cases Withdrawn by the Govt. During Investigation (Col. 4),Cases Transferred to other Police Station/ Magistrate (Col. 5),Cases Not Investigated U/S 157(1)(b) of Cr.PC (Col. 6),Total Cases for Investigation (Col. 7) = (Col. 2+3-4-5-6),Cases Ended as Final Report False (Col. 8),Cases Ended as Mistake of Fact or of Law (Col. 9),Cases in Ended as Final Report as Non Cognizable Submitted During the Year (Col. 10),Cases in Which Charge-sheets were Submitted (Col. 11),Cases in Which Charge-sheets were not laid but Final Report as True submitted (Col. 12),Total Cases Disposed of by Police (Col. 13) = (Col. 8+9+10+11+12),Cases Pending Investigation at the End of the Year (Col. 14) = (col. 7 - col. 13),Charge-Sheeting Rate (Col. 15) = {(Col.11/(Col.11+Col.12)} x 100,Cases Pendency Percentage (Col. 16) = {(Col.14/(Col.2+Col.3))} x 100
+"1 Arms Act, 1959",12993,53300,1,65,0,66227,66,49,8,52784,784,53691,12536,98.5,18.9
+"2 Narcotic Drugs & Psychotropic Substances Act, 1985",25621,50796,0,14,0,76403,295,386,5,50888,615,52189,24214,98.8,31.7
+"3 Gambling Act, 1867",9974,130134,0,23,1,140084,9,4,24,127383,91,127511,12573,99.9,9
+"4 Excise Act, 1944",24304,206069,0,6714,0,223659,102,83,39,192484,2818,195526,28133,98.6,12.2
+5 Prohibition Act,71967,500757,0,1326,25,571373,11,147,34,480451,8151,488794,82579,98.3,14.4
+6 Explosives and Explosive Substances Act,3548,4368,0,8,0,7908,22,67,4,3997,350,4440,3468,91.9,43.8
+"7 Immoral Traffic (Prevention) Act, 1956",1711,2641,0,2,0,4350,8,4,0,2456,36,2504,1846,98.6,42.4
+"8 Indian Railways Act, 1989",135,346,0,7,0,474,1,2,0,253,83,339,135,75.3,28.1
+"9 Registration of Foreigners Act, 1939",619,74,0,3,0,690,2,3,0,365,28,398,292,92.9,42.1
+"10 Protection of Civil Rights Act, 1955",52,117,0,1,0,168,18,0,1,82,2,103,65,97.6,38.5
+"11 Passport Act, 1967",1938,703,0,0,0,2641,2,20,1,514,35,572,2069,93.6,78.3
+"12 Essential Commodities Act, 1955",3769,4501,1,10,0,8259,62,50,14,4505,182,4813,3446,96.1,41.7
+"13 Antiquities & Art Treasures Act, 1972",37,37,0,1,0,73,1,1,0,34,3,39,34,91.9,45.9
+"14 Dowry Prohibition Act, 1961",5153,9894,0,94,0,14953,361,293,32,7162,1015,8863,6090,87.6,40.5
+"15 Indecent Representation of Women (Prohibition) Act, 1986",39,40,0,1,0,78,0,0,1,32,4,37,41,88.9,51.9
+"16 Copyright Act, 1957",3117,5241,1,11,2,8344,29,25,3,5229,72,5358,2986,98.6,35.7
+17 Protection of Children from Sexual Offences Act,2736,14913,7,31,1,17610,184,120,1,12980,397,13682,3928,97,22.3
+"18 SC/ST (Prevention of Atrocities) Act, 1989)",5500,6837,1,31,0,12305,937,322,52,5359,502,7172,5133,91.4,41.6
+"19 Forest Act, 1927",1134,3968,0,64,0,5038,17,53,0,3541,200,3811,1227,94.7,24
+"20 Prohibition of Child Marriage Act, 2006",158,293,0,5,0,446,11,11,0,240,28,290,156,89.6,34.6
+"21 Protection of Women from Domestic Violence Act, 2005",108,461,0,0,0,569,10,6,0,418,9,443,126,97.9,22.1
+"22 Information Technology Act, 2000",6268,8045,2,189,1,14121,276,275,80,2396,3006,6033,8088,44.4,56.5
+"23 Official Secrets Act, 1923",14,9,0,0,0,23,0,0,0,11,0,11,12,100,52.2
+"24 Electricity Act, 2003",12746,97591,0,18,1,110318,103,721,129,46112,41518,88583,21735,52.6,19.7
+"25 Wildlife Protection Act, 1972",236,829,0,8,0,1057,9,9,0,661,70,749,308,90.4,28.9
+"26 Bonded Labour System (Abolition) Act, 1976",44,92,0,0,0,136,4,2,0,65,6,77,59,91.5,43.4
+"27 Environmental (Protection) Act, 1986",81,299,0,1,0,379,2,1,0,274,24,301,78,91.9,20.5
+"28 Air (Prevention & Control of Pollution) Act, 1981",18,50,0,0,0,68,0,0,0,23,0,23,45,100,66.2
+"29 Water (Prevention & Control of Pollution) Act, 1974",9,10,0,0,0,19,1,1,0,6,0,8,11,100,57.9
+"30 National Security Act, 1980",1,412,0,4,0,409,0,0,0,406,0,406,3,100,0.7
+"31 Unlawful Activities (Prevention) Act, 1967",2549,897,0,2,0,3444,6,0,0,121,277,404,3040,30.4,88.2
+"32 Young Persons (Harmful Publications) Act, 1956",4,0,0,0,0,4,0,0,0,0,0,0,4,-,100
+"33 Railway Property (Unlawful Possession) Act, 1966",1,7,0,0,0,8,0,1,0,2,3,6,2,40,25
+"34 Prevention of Damage to Public Property Act, 1984",1620,4941,0,0,0,6561,40,142,14,3675,603,4474,2087,85.9,31.8
+"35 Transplantation of Human Organs Act, 1994",2,15,0,0,0,17,0,0,0,13,0,13,4,100,23.5
+"36 Trade Marks Act, 1999",89,186,0,0,0,275,0,1,0,156,16,173,102,90.7,37.1
+"37 Prevention of Insults to National Honour Act, 1971",24,61,0,0,0,85,1,3,0,50,4,58,27,92.6,31.8
+"38 State Emblem (Prohibition of Improper Use) Act, 2005",1,8,0,0,0,9,0,0,0,0,0,0,9,-,100
+"39 Lotteries (Regulation) Act, 1998",296,3390,0,0,0,3686,0,0,0,3187,10,3197,489,99.7,13.3
+"40 Citizenship Act, 1955",10,19,0,0,0,29,0,0,0,5,1,6,23,83.3,79.3
+"41 Foreigners Act, 1946",264,2025,0,1,0,2288,4,7,0,1915,13,1939,349,99.3,15.2
+"42 Place of Worship (Special Provisions) Act, 1991",3,18,0,0,0,21,0,0,0,18,0,18,3,100,14.3
+"43 Religious Institution (Prevention of Misuse) Act, 1988",0,1,0,0,0,1,0,0,0,1,0,1,0,100,0.0
+"44 Representation of People Act, 1951",152,1049,0,0,0,1201,16,7,0,927,33,983,218,96.6,18.2
+"45 Emigration Act, 1983",44,42,0,1,0,85,2,2,0,20,3,27,58,87,67.4
+"46 Juvenile Justice (Care and Protection of Children) Act, 2000",287,1457,0,3,0,1741,39,15,1,1049,31,1135,606,97.1,34.7
+"47 Infant Substitutes Regulation Act, 2003",0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+"48 Anti-Hijacking Act, 1982",0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+"49 Atomic Energy Act, 1962",0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+"50 Weapons of Mass Destruction (Proh. of Unlawful Activities) Act, 2005",0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+"51 Suppression of Unlawful Acts against Safety of Civil Aviation Act, 1982",0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+"52 Safety of Maritime Navigation Act, 2002",0,0,0,0,0,0,0,0,0,0,0,0,0,-,-
+"53 Manual Scavengers and Construction of Dry Latrines (P) Act, 1993",0,2,0,0,0,2,0,0,0,1,0,1,1,100,50
+"54 Pre-Natal Diagnostic Techniques (Reg and Prev of Misuse) Act, 1994",4,34,0,0,0,38,1,0,0,26,0,27,11,100,28.9
+"55 The Maritime Zones of India (Reg of Fishing by Foreign Vessels) Act, 1981",1,4,0,0,0,5,0,0,0,2,3,5,0,40,0.0
+56 Other SLL crimes,79365,3259716,5,337,2,3338737,1912,3236,206,3240391,21025,3266770,71967,99.4,2.2
+Total Cognizable SLL crimes,278746,4376699,18,8975,33,4646419,4564,6069,649,4252670,82051,4346003,300416,98.1,6.5

@@ -1,0 +1,40 @@
+S. No. (Col.1),Category (Col.2),State/UT (Col.3),Total Number of Cases Reported (Col.4),Disposal by Police - Cases Chargesheeted (Col.5),Disposal by Police - Final Report (Col.6),Disposal by Police - Chargesheeted Rate (Col.7) = (Col.5/Col.5+ Col.6) X 100,Disposal by Court - Cases Convicted by Court (Col.8),Disposal by Court - Cases Acquitted/ Discharged by Court (Col.9),Disposal by Court - Cases in which Trials were Completed (Col.10) = (Col.8 + Col.9),Disposal by Court - Cases Conviction Rate (Col.11) = (Col.8/ Col.10) X 100
+1,State,Andhra Pradesh,239,76,3,96.2,2,120,122,1.6
+2,State,Arunachal Pradesh,2,0,0,NA,0,0,0,NA
+3,State,Assam,91,28,25,52.8,0,0,0,NA
+4,State,Bihar,43,43,0,100,0,0,0,NA
+5,State,Chhattisgarh,68,17,0,100,0,0,0,NA
+6,State,Goa,40,22,3,88,0,0,0,NA
+7,State,Gujarat,548,63,3,95.5,4,0,4,100
+8,State,Haryana,51,4,3,57.1,1,0,1,100
+9,State,Himachal Pradesh,8,6,1,85.7,0,0,0,NA
+10,State,Jammu & Kashmir,0,0,0,NA,0,1,1,0
+11,State,Jharkhand,109,63,63,50,61,7,68,89.7
+12,State,Karnataka,404,5,0,100,0,0,0,NA
+13,State,Kerala,21,14,4,77.8,0,1,1,0
+14,State,Madhya Pradesh,51,6,0,100,0,0,0,NA
+15,State,Maharashtra,517,148,32,82.2,2,0,2,100
+16,State,Manipur,3,0,1,0,0,0,0,NA
+17,State,Meghalaya,7,0,0,NA,0,0,0,NA
+18,State,Mizoram,2,0,0,NA,0,0,0,NA
+19,State,Nagaland,0,0,0,NA,0,0,0,NA
+20,State,Odisha,84,49,2,96.1,0,0,0,NA
+21,State,Punjab,13,11,0,100,0,0,0,NA
+22,State,Rajasthan,1422,394,201,66.2,9,11,20,45
+23,State,Sikkim,1,0,0,NA,0,0,0,NA
+24,State,Tamil Nadu,434,139,7,95.2,59,69,128,46.1
+25,State,Telangana,229,46,1,97.9,0,0,0,NA
+26,State,Tripura,0,0,0,NA,0,0,0,NA
+27,State,Uttar Pradesh,79,44,4,91.7,2,1,3,66.7
+28,State,Uttarakhand,12,15,2,88.2,0,2,2,0
+29,State,West Bengal,3579,1186,2458,32.5,23,212,235,9.8
+Total (States),State,Total (States),8057,2379,2813,45.8,163,424,587,27.8
+30,UT,A & N Islands,1,1,0,100,0,0,0,NA
+31,UT,Chandigarh,1,0,1,0,0,0,0,NA
+32,UT,D&N Haveli,0,0,0,NA,0,0,0,NA
+33,UT,Daman & Diu,7,0,0,NA,0,0,0,NA
+34,UT,Delhi,66,23,0,100,0,0,0,NA
+35,UT,Lakshadweep,0,0,0,NA,0,0,0,NA
+36,UT,Puducherry,0,0,0,NA,0,0,0,NA
+Total (UTs),UT,Total (UTs),75,24,1,96,0,0,0,NA
+Total (All India),Total (All India),Total (All India),8132,2403,2814,46.1,163,424,587,27.8

@@ -1,0 +1,93 @@
+Sl. No.,Category,State/UT,Below 18 years,Between 18 – 30 years,Between 30 – 45 years,Between 45 – 60 years,Above 60 years,Total
+1,State,Andhra Pradesh,5,142,83,12,0,242
+2,State,Arunachal Pradesh,0,0,3,4,0,7
+3,State,Assam,0,0,6,0,0,6
+4,State,Bihar,0,6,0,0,0,6
+5,State,Chhattisgarh,0,2,0,0,0,2
+6,State,Goa,0,4,0,0,0,4
+7,State,Gujarat,0,17,13,5,1,36
+8,State,Haryana,0,10,5,0,0,15
+9,State,Himachal Pradesh,0,4,1,0,0,5
+10,State,Jammu & Kashmir,0,3,0,0,0,3
+11,State,Jharkhand,0,9,0,0,0,9
+12,State,Karnataka,0,30,2,2,0,34
+13,State,Kerala,3,86,37,9,0,135
+14,State,Madhya Pradesh,10,63,22,1,1,97
+15,State,Maharashtra,4,140,62,19,1,226
+16,State,Manipur,0,0,0,0,0,0
+17,State,Meghalaya,0,3,0,0,0,3
+18,State,Mizoram,0,1,0,0,0,1
+19,State,Nagaland,0,0,0,0,0,0
+20,State,Odisha,0,0,1,0,0,1
+21,State,Punjab,0,25,12,0,1,38
+22,State,Rajasthan,1,71,26,11,1,110
+23,State,Sikkim,0,0,1,0,0,1
+24,State,Tamil Nadu,0,18,22,3,0,43
+25,State,Tripura,0,0,0,0,0,0
+26,State,Uttar Pradesh,0,52,56,15,0,123
+27,State,Uttarakhand,0,0,3,0,0,3
+28,State,West Bengal,0,0,10,1,0,11
+State,State,Total (States),23,686,365,82,5,1161
+29,Union Territory,A & N Islands,0,0,0,0,0,0
+30,Union Territory,Chandigarh,0,0,5,0,0,5
+31,Union Territory,D & N Haveli,0,1,0,0,0,1
+32,Union Territory,Daman & Diu,0,0,1,0,0,1
+33,Union Territory,Delhi,2,7,5,1,0,15
+34,Union Territory,Lakshadweep,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,1,0,0,0,1
+Union Territory,Union Territory,Total (UTs),2,9,11,1,0,23
+Total (All-India),Total (All-India),Total (All-India),25,695,376,83,5,1184
+36,City,Agra,0,6,4,0,0,10
+37,City,Ahmedabad,0,6,7,4,1,18
+38,City,Allahabad,0,2,1,0,0,3
+39,City,Amritsar,0,2,0,0,0,2
+40,City,Asansol,0,0,0,0,0,0
+41,City,Aurangabad,0,2,2,6,0,10
+42,City,Bengaluru,0,12,1,0,0,13
+43,City,Bhopal,3,3,0,0,0,6
+44,City,Chandigarh City,0,0,0,0,0,0
+45,City,Chennai,0,5,11,1,0,17
+46,City,Coimbatore,0,8,8,2,0,18
+47,City,Delhi (city),2,7,5,1,0,15
+48,City,Dhanbad,0,0,0,0,0,0
+49,City,Durg- Bhilainagar,0,3,0,0,0,3
+50,City,Faridabad,0,2,2,0,0,4
+51,City,Ghaziabad,0,0,0,0,0,0
+52,City,Gwalior,0,18,9,0,0,27
+53,City,Hyderabad,1,23,13,4,0,41
+54,City,Indore,0,3,1,0,0,4
+55,City,Jabalpur,1,4,0,0,0,5
+56,City,Jaipur,0,21,11,2,0,34
+57,City,Jamshedpur,0,0,0,0,0,0
+58,City,Jodhpur,0,9,3,1,0,13
+59,City,Kannur,0,0,0,0,0,0
+60,City,Kanpur,0,5,4,0,0,9
+61,City,Kochi,0,11,5,2,0,18
+62,City,Kolkata,0,3,1,0,0,4
+63,City,Kollam,0,0,0,0,0,0
+64,City,Kota,0,0,0,0,0,0
+65,City,Kozhikode,0,3,4,1,0,8
+66,City,Lucknow,2,9,5,0,0,16
+67,City,Ludhiana,0,3,3,0,0,6
+68,City,Madurai,0,0,0,0,0,0
+69,City,Malappuram,0,2,5,1,0,8
+70,City,Meerut,0,2,4,2,0,8
+71,City,Mumbai,1,5,3,0,0,9
+72,City,Nagpur,0,4,0,0,0,4
+73,City,Nasik,0,2,0,0,0,2
+74,City,Patna,0,5,0,0,0,5
+75,City,Pune,0,23,9,6,0,38
+76,City,Raipur,0,2,4,0,0,6
+77,City,Rajkot,0,0,1,0,0,1
+78,City,Ranchi,0,0,0,0,0,0
+79,City,Srinagar,0,0,0,0,0,0
+80,City,Surat,0,0,0,0,0,0
+81,City,Thirissur,0,0,0,0,0,0
+82,City,Thiruvananthapuram,0,0,1,0,0,1
+83,City,Tiruchirappalli,0,1,0,1,0,2
+84,City,Vadodara,0,4,2,1,0,7
+85,City,Varanasi,0,2,0,0,0,2
+86,City,Vasai Virar City,0,2,5,0,0,7
+87,City,Vijayawada,0,0,0,0,0,0
+88,City,Vishakhapatnam,3,36,18,6,0,63
+City,City,Total (Cities),13,260,152,41,1,467

@@ -1,0 +1,40 @@
+S. No. (Col.1),State/UT (Col.2),Offences against Body - Murder (Section 302 IPC) (Col.3),Offences against Body - Culpable Homicide Not Amounting To Murder (Section 304 IPC) (Col.4),Offences against Body - Causing Death By Negligence (Section 304A IPC) (Col.5),Offences against Body - Attempt To Commit Murder (Section 307 IPC) (Col.6),Offences against Body - Attempt to Commit Culpable Homicide (Section 308 IPC) (Col.7),"Offences against Body - Grievous Hurt (325,326,326A & 326 B IPC) (Col.8)",Offences against Body - Causing Simple & Grevious Injuries under Rash Driving (Section 337 or 338 IPC) (Col.9),"Unlawful Assembly (Section 143,144 & 145 IPC) (Col.10)",Rioting (Sec.147-151 & 153A IPC) (Col.11),Assault on Women with Intent to Outrage her Modesty (Section 354 IPC) - Assault On Women With Intent To Outrage Her Modesty (Total) (Col.12),Assault on Women with Intent to Outrage her Modesty (Section 354 IPC) - Assault on Women (Sec 354 IPC) (Col.12A),Assault on Women with Intent to Outrage her Modesty (Section 354 IPC) - Sexual Harass-ment (Section 354A IPC) (Col.12B),Assault on Women with Intent to Outrage her Modesty (Section 354 IPC) - Assault Or Use of Criminal Force To Women With Intent To Disrobe (Section 354B IPC) (Col.12C),Assault on Women with Intent to Outrage her Modesty (Section 354 IPC) - Voyeurism (Section 354C IPC) (Col.12D),Assault on Women with Intent to Outrage her Modesty (Section 354 IPC) - Stalking (Section 354D IPC) (Col.12E),Insult to Modesty of Women (Section 509 IPC) (Col.13),"Kidnapping & Abduction (Section 363, 363A, 364, 364A, 365, 366, 366A, 367, 368 & 369 IPC) - Kidnapping & Abduction (Total) (Col.14)","Kidnapping & Abduction (Section 363, 363A, 364, 364A, 365, 366, 366A, 367, 368 & 369 IPC) - Kidnapping & Abduction (Section 363 IPC) (Col.14A)","Kidnapping & Abduction (Section 363, 363A, 364, 364A, 365, 366, 366A, 367, 368 & 369 IPC) - Kidnapping & Abduction for Murder (Section 364 IPC) (Col.14B)","Kidnapping & Abduction (Section 363, 363A, 364, 364A, 365, 366, 366A, 367, 368 & 369 IPC) - Kidnapping & Abduction for Ransom (Section 364A IPC) (Col.14C)","Kidnapping & Abduction (Section 363, 363A, 364, 364A, 365, 366, 366A, 367, 368 & 369 IPC) - Kidnapping & Abduction of Women to Compel Her For Marriage (Section 366 IPC) (Col.14D)","Kidnapping & Abduction (Section 363, 363A, 364, 364A, 365, 366, 366A, 367, 368 & 369 IPC) - Others (Sec 363A,365,367,368 & 369) (Col.14E)",Human Trafficking (Section 370 & 370A IPC) (Col.15),Rape (Section 376 IPC) - Rape (Total) (Col.16),Rape (Section 376 IPC) - Rape (Section 376 IPC) (Col.16A),Rape (Section 376 IPC) - Gang Rape (Section 376D IPC) (Col.16B),Attempt To Commit Rape (Section 376/511 IPC) (Col.17),Unnatural Offences (Section 377 IPC) (Col.18),Theft (Section 379 To 382 IPC) (Col.19),Criminal Trespass & Burglary (Section 453 To 457 r/w 380 IPC) (Col.20),Robbery (Section 392 To 394 IPC) (Col.21),Dacoity (Section 395 to 398 IPC) (Col.22),Extortion (Section 384 IPC) (Col.23),Cheating (Section 419 to 420 IPC) (Col.24),Arson (Section 436 IPC) (Col.25),Forgery (Section 468 & 471 IPC) (Col.26),Counterfeiting (Section 231 - 254 And 489-A To 489-E IPC) (Col.27),Other IPC Crimes (Col.28),Total Cognizable IPC Crimes (Col.29)
+1,Andhra Pradesh,11,1,19,13,0,4,34,2,0,36,19,7,3,1,6,13,9,6,0,0,1,2,0,37,35,2,2,3,375,101,11,7,6,3,0,0,0,115,802
+2,Arunachal Pradesh,1,0,3,2,0,3,1,0,0,1,1,0,0,0,0,0,8,1,0,0,6,1,0,5,5,0,1,0,13,1,4,0,3,0,0,0,0,10,56
+3,Assam,25,0,0,2,0,27,1,0,9,12,5,3,4,0,0,0,36,0,1,3,10,22,5,23,23,0,2,0,168,47,11,3,18,0,0,1,0,13,403
+4,Bihar,39,1,0,29,0,131,43,0,197,18,5,9,4,0,0,0,297,0,6,3,261,27,0,35,35,0,6,0,594,47,24,10,5,70,0,3,1,619,2169
+5,Chhattisgarh,42,2,19,38,0,22,75,4,38,92,54,20,12,1,5,2,51,32,0,0,6,13,1,148,136,12,1,3,172,278,44,2,1,1,5,0,0,793,1834
+6,Goa,1,0,0,1,0,0,4,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,2,2,0,0,0,5,4,0,1,0,0,0,0,0,1,21
+7,Gujarat,50,2,30,58,0,75,88,5,80,33,17,13,0,0,3,0,58,22,0,2,31,3,0,35,35,0,0,14,388,121,50,18,1,4,3,0,0,448,1561
+8,Haryana,55,1,7,29,0,89,14,0,70,48,22,12,7,1,6,2,39,4,0,1,17,17,0,62,59,3,2,8,142,138,43,10,1,12,10,0,0,269,1051
+9,Himachal Pradesh,3,0,8,1,0,1,43,0,15,9,6,1,0,0,2,0,3,1,0,0,2,0,0,13,13,0,0,5,21,17,0,0,0,0,1,0,0,54,194
+10,Jammu & Kashmir,4,0,0,4,0,2,6,0,109,5,2,3,0,0,0,1,4,1,0,0,1,2,0,3,3,0,0,1,13,6,0,0,0,1,2,0,0,27,188
+11,Jharkhand,26,0,1,1,0,1,0,0,0,7,4,3,0,0,0,0,4,1,0,0,3,0,10,12,10,2,2,3,30,5,0,0,3,1,0,0,0,20,126
+12,Karnataka,24,1,14,44,0,5,39,0,26,8,6,0,1,0,1,0,5,1,0,1,0,3,0,32,32,0,0,0,84,43,32,14,3,0,5,0,0,57,436
+13,Kerala,7,1,9,11,13,10,26,6,55,18,12,3,0,2,1,0,3,1,0,0,1,1,0,38,37,1,1,1,168,52,16,3,0,0,3,2,2,108,553
+14,Madhya Pradesh,113,4,20,120,1,202,264,0,102,483,243,164,6,2,68,12,397,139,1,0,244,13,0,442,413,29,6,24,555,376,100,18,0,10,13,2,0,3955,7219
+15,Maharashtra,130,7,91,211,0,314,217,61,439,350,136,126,12,2,74,18,173,131,0,0,36,6,1,258,248,10,1,39,1673,538,281,65,11,16,25,2,0,1318,6239
+16,Manipur,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,6
+17,Meghalaya,3,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,6,2,0,1,0,3,0,8,8,0,0,0,22,9,7,6,3,0,0,0,0,2,70
+18,Mizoram,0,0,1,1,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,26,6,0,2,0,0,0,0,0,5,49
+19,Nagaland,1,1,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0,1,16
+20,Odisha,34,2,7,31,0,36,6,0,28,40,15,16,6,2,1,6,37,24,0,0,5,8,0,122,115,7,6,5,171,133,52,16,2,1,1,0,0,241,977
+21,Punjab,8,1,1,3,0,2,1,0,0,4,1,2,0,0,1,0,5,0,0,0,5,0,0,13,13,0,1,5,27,9,0,0,0,2,0,0,0,21,103
+22,Rajasthan,76,1,9,83,3,33,35,39,14,86,70,8,3,0,5,1,87,21,0,0,27,39,0,159,142,17,10,4,469,264,80,4,3,10,6,1,0,704,2181
+23,Sikkim,0,0,0,2,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,11,4,2,0,0,0,0,0,0,1,25
+24,Tamil Nadu,48,2,48,61,0,11,127,1,48,9,5,4,0,0,0,0,7,2,0,0,1,4,0,13,13,0,0,0,667,141,61,5,17,1,0,0,0,420,1687
+25,Telangana,37,2,14,16,0,12,65,3,4,42,16,8,7,0,11,3,53,20,0,0,21,12,0,54,54,0,1,3,318,156,17,16,1,12,0,2,0,160,991
+26,Tripura,2,0,0,1,0,3,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,9,9,0,0,0,6,0,0,0,0,0,0,0,0,1,24
+27,Uttar Pradesh,40,5,2,24,1,73,13,0,43,51,0,44,2,0,5,0,128,4,5,3,114,2,0,126,116,10,4,18,611,43,40,3,1,5,0,2,0,107,1340
+28,Uttarakhand,0,1,2,1,0,1,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1,1,0,11,10,1,1,1,68,11,7,0,0,4,0,1,0,10,123
+29,West Bengal,53,8,1,53,2,50,3,0,17,31,11,5,13,2,0,2,72,16,0,0,24,32,4,77,73,4,16,3,86,4,4,3,2,0,3,2,6,117,619
+Total (States),Total (States),834,44,306,842,20,1116,1106,122,1299,1387,650,453,81,14,189,60,1485,430,13,14,817,211,21,1742,1643,99,64,140,6893,2554,886,206,81,153,77,18,9,9598,31063
+30,A & N Islands,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,12
+31,Chandigarh,1,0,1,6,1,6,4,0,7,1,1,0,0,0,0,0,4,2,0,0,2,0,0,6,5,1,0,1,22,8,8,2,0,0,0,0,0,18,96
+32,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Daman & Diu,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,1,7
+34,Delhi UT,56,1,10,83,32,27,60,0,7,152,43,66,22,1,20,21,47,38,0,1,0,8,0,155,153,2,3,37,783,178,382,10,7,9,1,0,0,391,2452
+35,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Puducherry,1,0,2,2,0,2,23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,0,0,0,0,0,0,3,19,67
+Total (UTs),Total (UTs),58,1,13,91,33,35,90,0,16,153,44,66,22,1,20,21,53,42,0,1,2,8,0,161,158,3,3,38,824,193,390,12,7,9,1,0,3,429,2634
+Total (All India),Total (All India),892,45,319,933,53,1151,1196,122,1315,1540,694,519,103,15,209,81,1538,472,13,15,819,219,21,1903,1801,102,67,178,7717,2747,1276,218,88,162,78,18,12,10027,33697

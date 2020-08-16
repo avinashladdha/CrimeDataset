@@ -1,0 +1,59 @@
+Category,Crime Head,7 - 12 Years - Boys,7 - 12 Years - Girls,12 - 16 Years - Boys,12 - 16 Years - Girls,16 - 18 Years - Boys*,16 - 18 Years - Girls,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+IPC Crimes,Murder,25,1,197,30,308,20,530,51,581
+IPC Crimes,Attempt to Commit Murder,31,0,206,9,294,25,531,34,565
+IPC Crimes,C.H. not Amounting to Murder,3,1,8,1,12,0,23,2,25
+IPC Crimes,Rape - Total,15,0,224,3,290,3,529,6,535
+IPC Crimes,Rape - I) Custodial Rape,0,0,0,0,0,0,0,0,0
+IPC Crimes,Rape - Ii) Other Rape,15,0,224,3,290,3,529,6,535
+IPC Crimes,Kidnapping & Abduction - Total,4,0,67,7,150,6,221,13,234
+IPC Crimes,Kidnapping & Abduction - I) of Women & Girls,3,0,49,6,119,2,171,8,179
+IPC Crimes,Kidnapping & Abduction - Ii) of Others,1,0,18,1,31,4,50,5,55
+IPC Crimes,Dacoity,12,0,61,0,97,0,170,0,170
+IPC Crimes,Preparation & Assembly for Dacoity,0,0,17,0,30,0,47,0,47
+IPC Crimes,Robbery,4,0,95,1,161,4,260,5,265
+IPC Crimes,Burglary,190,7,1564,24,1125,35,2879,66,2945
+IPC Crimes,Theft - Total,325,39,2160,88,2015,112,4500,239,4739
+IPC Crimes,Theft - I) Auto Theft,27,0,343,0,441,4,811,4,815
+IPC Crimes,Theft - Ii) Other Theft,298,39,1817,88,1574,108,3689,235,3924
+IPC Crimes,Riots,73,2,545,45,1039,108,1657,155,1812
+IPC Crimes,Criminal Breach of Trust,0,0,20,1,46,3,66,4,70
+IPC Crimes,Cheating,6,0,38,1,91,6,135,7,142
+IPC Crimes,Counterfeiting,1,0,4,0,3,0,8,0,8
+IPC Crimes,Arson,1,0,13,0,30,0,44,0,44
+IPC Crimes,Hurt,172,15,1336,136,2099,366,3607,517,4124
+IPC Crimes,Dowry Death,1,0,12,2,39,12,52,14,66
+IPC Crimes,Molestation,17,0,203,1,517,0,737,1,738
+IPC Crimes,Sexual Harassment,1,0,60,0,265,1,326,1,327
+IPC Crimes,Cruelty by Husband and Relatives,7,6,66,36,101,81,174,123,297
+IPC Crimes,Importation of Girls,0,0,0,0,0,0,0,0,0
+IPC Crimes,Causing Death by Negligence,0,0,14,1,61,4,75,5,80
+IPC Crimes,Other IPC Crimes,317,21,2018,157,4018,364,6353,542,6895
+IPC Crimes,Total Cognizable Crimes Under IPC,1205,92,8928,543,12791,1150,22924,1785,24709
+SLL Crimes,Arms Act,0,0,70,0,175,0,245,0,245
+SLL Crimes,Narcotic Drugs & Psychotropic Substances Act,3,0,9,0,51,1,63,1,64
+SLL Crimes,Gambling Act,17,0,235,0,913,0,1165,0,1165
+SLL Crimes,Excise Act,3,1,144,3,375,9,522,13,535
+SLL Crimes,Prohibition Act,29,9,242,36,762,123,1033,168,1201
+SLL Crimes,Explosive & Explosive Substances Act,0,0,3,0,8,0,11,0,11
+SLL Crimes,Immoral Traffic (P) Act,0,0,2,2,11,57,13,59,72
+SLL Crimes,Indian Railways Act,0,0,49,4,60,0,109,4,113
+SLL Crimes,Registration of Foreigners Act,2,0,15,23,37,9,54,32,86
+SLL Crimes,Protection of Civil Rights Act - Total,0,0,0,0,0,0,0,0,0
+SLL Crimes,Protection of Civil Rights Act - (i) PCR Act For SCs,0,0,0,0,0,0,0,0,0
+SLL Crimes,Protection of Civil Rights Act - (ii) PCR Act For STs,0,0,0,0,0,0,0,0,0
+SLL Crimes,Indian Passport Act,2,1,3,0,8,0,13,1,14
+SLL Crimes,Essential Commodities Act,0,0,2,0,7,0,9,0,9
+SLL Crimes,Terrorist & Disruptive Activities Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,Antiquity & Art Treasure Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,Dowry Prohibition Act,0,0,2,0,0,1,2,1,3
+SLL Crimes,Child Marriage Restraint Act,0,0,1,4,0,1,1,5,6
+SLL Crimes,Indecent Representation of Women (P) Act,0,0,0,0,0,83,0,83,83
+SLL Crimes,Copyrights Act,0,0,0,3,30,3,30,6,36
+SLL Crimes,Sati Prevention Act,0,0,0,0,0,0,0,0,0
+SLL Crimes,SC/ST (prevention of Atrocities) Act - Total,1,0,13,1,17,0,31,1,32
+SLL Crimes,SC/ST (prevention of Atrocities) Act - (i) Prevention of Atrocities Act for SCs,1,0,13,1,14,0,28,1,29
+SLL Crimes,SC/ST (prevention of Atrocities) Act - (ii) Prevention of Atrocities Act for STs,0,0,0,0,3,0,3,0,3
+SLL Crimes,Forest Act,0,0,0,0,7,0,7,0,7
+SLL Crimes,Other SLL Crimes,2152,67,1335,15,1266,94,4753,176,4929
+SLL Crimes,Total Cognizable Crimes Under SLL,2209,78,2125,91,3727,381,8061,550,8611
+Grand Total (IPC Crimes + SLL Crimes),Grand Total (IPC Crimes + SLL Crimes),3414,170,11053,634,16518,1531,30985,2335,33320

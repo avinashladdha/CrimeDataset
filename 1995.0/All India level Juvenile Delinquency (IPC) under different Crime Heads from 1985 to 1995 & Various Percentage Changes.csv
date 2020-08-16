@@ -1,0 +1,25 @@
+SL. No.,Crime Head,1985,1990,1991,1992,1993,1994,Quinquennial Avg.(1990-1994) (Q.A.),1995,Percentage change in 1995** - [(+) Increase (-) Decrease] - Over - 1985,Percentage change in 1994** - [(+) Increase (-) Decrease] - Over - Quinquennial Avg(Q.A.),Percentage change in 1995** - [(+) Increase (-) Decrease] - Over - 1994
+1,Murder,1178,377,348,292,297,288,320,253,-78.5,-21,-12.2
+2,Attempt to Commit Murder,0,218,171,177,182,166,183,208,0,13.8,25.3
+3,C.H. Not Amounting To Murder,185,38,24,19,15,19,23,23,-87.6,0,21.1
+4,Rape,371,184,189,158,168,176,175,174,-53.1,-0.6,-1.1
+5,Kidnapping & Abduction,628,92,141,79,184,95,118,152,-75.8,28.6,60
+5,I)of Women & Girls,0,83,133,62,140,51,94,66,0,-29.6,29.4
+5,II)of Others,0,9,8,17,44,44,24,86,0,252.5,95.5
+6,Dacoity,349,116,52,51,51,32,60,56,-84,-7.3,75
+7,Preparation & Assembly for Dacoity,0,9,9,2,5,23,10,3,0,-68.8,-87
+8,Robbery,751,185,164,87,98,49,117,76,-89.9,-34.8,55.1
+9,Burglary,4793,1764,1553,1464,1138,1294,1443,1285,-73.2,-10.9,-0.7
+10,Theft,11297,3778,4638,3203,2404,2346,3274,2835,-74.9,-13.4,20.8
+11,Riots,6560,1525,1270,906,1023,637,1072,955,-85.4,-10.9,49.9
+12,Criminal Breach of Trust,265,104,21,21,15,17,36,33,-87.5,-7.3,94.1
+13,Cheating,227,47,47,46,63,24,45,54,-76.2,18.9,125
+14,Counterfeiting,20,0,2,0,1,3,1,1,-95,-16.7,-66.7
+15,Arson,*,*,*,*,*,*,NA,8,NA,NA,NA
+16,Hurt/ Grievous Hurt,*,*,*,*,*,*,NA,791,NA,NA,NA
+17,Dowry Death,*,*,*,*,*,*,NA,27,NA,NA,NA
+18,Molestation,*,*,*,*,*,*,NA,86,NA,NA,NA
+19,Sexual Harassment,*,*,*,*,*,*,NA,27,NA,NA,NA
+20,Cruelty by Husband and Relatives,*,*,*,*,*,*,NA,192,NA,NA,NA
+21,Other IPC Crimes,22693,6793,3959,4595,3821,3392,4512,2527,-88.9,-44,-25.5
+22,Total Cognizable Crimes Under IPC,49317,15230,12588,11100,9465,8561,11389,9766,-80.2,-14.2,14.1

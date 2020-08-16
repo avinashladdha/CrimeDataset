@@ -1,0 +1,6 @@
+S. No. (Col.1),Category (Col.2),Crime Head (Col.3),Cases Pending Trial from the Previous Year (Col.4),Cases Sent for Trial during the Year (Col.5),Total Cases for Trial during the Year (Col.6) = (Col.4+5),Number of Cases Withdrawn by the Govt. (Col.7),Number of Cases Disposed by Plea Bargaining (Col.8),Cases Compounded (Col.9),Cases in which Trials were Completed (Col.10) = (Col. 11+12),Cases Convicted (Col.11),Cases Acquitted or Discharged (Col.12),Cases Disposed off by Courts (Col.13) = (Col.7+ Col.8+ Col.9+ Col.10),Cases Pending Trial at the End of the Year (Col.14) = (Col.6 - Col.13),Conviction Rate (Col.15) = (Col.11/ Col.10) * 100,Pendency Percentage (Col.16) = (Col.14/ Col.6) * 100
+1,Economic Offences,Criminal Breach of Trust,95810,11972,107782,8,3,404,5665,1268,4397,6080,101702,22.4,94.4
+2,Economic Offences,Cheating,300755,55738,356493,29,224,3183,23021,4607,18414,26457,330036,20,92.6
+3,Economic Offences,Forgery,16708,6169,22877,8,24,92,2112,672,1440,2236,20641,31.8,90.2
+4,Economic Offences,Counterfeiting,7454,916,8370,0,0,4,537,168,369,541,7829,31.3,93.5
+Total Economic Offences,Total Economic Offences,Total Economic Offences,420727,74795,495522,45,251,3683,31335,6715,24620,35314,460208,21.4,92.9

@@ -1,0 +1,12 @@
+Sl. No. (Col. 1),Crime Head (Col. 2),Total No. Persons Under Trial Including those from Previous Year (Col. 3),No. of Persons Whose - Cases Compounded or Withdrawn (Col. 4),No. of Persons Whose - Trial Completed (Col. 5),No. of Persons Whose - Trial Remained Pending at the end of the year (Col. 6),No. of Persons Whose - No. of Persons Convicted (Col. 7),Percentage of Persons - Whose Trials Remained Pending (Col. 8) = Col. (6*100/3),Percentage of Persons - Convicted To Trials Completed (Col. 9) = Col. (7*100/5)
+1,Murder (Sec. 302 IPC),9142,11,1902,7229,894,79.1,47
+2,Rape (Sec.376 IPC),7645,11,1689,5945,584,77.8,34.6
+3,"Kidnapping & Abduction (Sec. 363-369, 371-373 IPC)",3054,0,680,2374,277,77.7,40.7
+4,Dacoity (Sec.395-398 IPC),1271,0,85,1186,13,93.3,15.3
+5,"Robbery (392-394, 397,398 IPC)",762,0,119,643,23,84.4,19.3
+6,"Arson (Sec.435, 436, 438 IPC)",2530,0,386,2144,119,84.7,30.8
+7,"Hurt (Sec.323-333, 335-338 IPC)",32980,229,6574,26177,1636,79.4,24.9
+8,"PCR Act, 1955 for SCs",2873,19,417,2437,97,84.8,23.3
+9,"SC/ST Prev. of Atrocities Act, 1989 for SCs",84145,146,17207,66792,5132,79.4,29.8
+10,Other Crimes Against Scs,96473,642,19224,76607,6531,79.4,34
+11,Total,240875,1058,48283,191534,15306,79.5,31.7

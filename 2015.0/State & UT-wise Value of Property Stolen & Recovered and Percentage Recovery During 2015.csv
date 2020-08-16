@@ -1,0 +1,40 @@
+S. No.(Col. 1),Category(Col. 2),State/UT (Col. 3),Total Value of Property - Stolen (in Lakhs)(Col. 4),Total Value of Property - Recovered (in Lakhs)(Col. 5),Percentage Recovery (Col. 6) = (Col.5/Col.4) x 100
+1,State,Andhra Pradesh,12113.6,5523.3,45.6
+2,State,Arunachal Pradesh,1631.6,677.2,41.5
+3,State,Assam,8173,1111.7,13.6
+4,State,Bihar,12029.4,1703.8,14.2
+5,State,Chhattisgarh,4628.7,1858.8,40.2
+6,State,Goa,760,150.3,19.8
+7,State,Gujarat,27188.8,5441.2,20
+8,State,Haryana,16922.3,6176.9,36.5
+9,State,Himachal Pradesh,1496.9,571,38.1
+10,State,Jammu & Kashmir,2563.1,965.1,37.7
+11,State,Jharkhand,3380.5,787.2,23.3
+12,State,Karnataka,26768.9,10401.6,38.9
+13,State,Kerala,9628.4,2547.6,26.5
+14,State,Madhya Pradesh,28752.6,7352.7,25.6
+15,State,Maharashtra,453389.5,23200.8,5.1
+16,State,Manipur,1083.5,154.9,14.3
+17,State,Meghalaya,5654.3,301.2,5.3
+18,State,Mizoram,1176.3,387.4,32.9
+19,State,Nagaland,1304.2,245.5,18.8
+20,State,Odisha,11144.2,3496.2,31.4
+21,State,Punjab,10574,5940.1,56.2
+22,State,Rajasthan,25936,13625.3,52.5
+23,State,Sikkim,251.3,88.3,35.1
+24,State,Tamil Nadu,13115.8,8582,65.4
+25,State,Telangana,9825.9,5681.3,57.8
+26,State,Tripura,6504,100.5,1.5
+27,State,Uttar Pradesh,29637.7,10451.8,35.3
+28,State,Uttarakhand,1126.9,538.6,47.8
+29,State,West Bengal,19986.7,3190.6,16
+TOTAL (STATES),State,TOTAL (STATES),746748.1,121252.8,16.2
+30,UT,A & N Islands,221.2,170.2,77
+31,UT,Chandigarh,907.4,464.7,51.2
+32,UT,D&N Haveli,514.3,263.7,51.3
+33,UT,Daman & Diu,234.1,48.8,20.9
+34,UT,Delhi UT,71987,12599.8,17.5
+35,UT,Lakshadweep,1.2,0,0
+36,UT,Puducherry,427.1,219.2,51.3
+TOTAL (UTS),UT,TOTAL (UTS),74292.3,13766.4,18.5
+TOTAL (ALL INDIA),TOTAL (ALL INDIA),TOTAL (ALL INDIA),821040.5,135019.3,16.4

@@ -1,0 +1,31 @@
+Sr. No.,Crime Head,Male,Female,Total,Percentage to Total - Male,Percentage to Total - Female
+1,Murder,62740,3475,66215,94.8,5.2
+2,Attempt to Commit Murder,65536,2236,67772,96.7,3.3
+3,C.H. Not Amounting Murder,7071,159,7230,97.8,2.2
+4,Rape - Total,21964,525,22489,97.7,2.3
+4,Rape - i) Custodial Rape,1,0,1,100,0
+4,Rape - ii) Other Rape,21963,525,22488,97.7,2.3
+5,Kidnapping & Abduction - Total,29419,1685,31104,94.6,5.4
+5,Kidnapping & Abduction - i) of Women & Girls,17877,1373,19250,92.9,7.1
+5,Kidnapping & Abduction - ii) of Others,11542,312,11854,97.4,2.6
+6,Dacoity,19905,146,20051,99.3,0.7
+7,Preparation & Assembly for Dacoity,9866,12,9878,99.9,0.1
+8,Robbery,27530,160,27690,99.4,0.6
+9,Burglary,63484,971,64455,98.5,1.5
+10,Theft - Total,181236,4769,186005,97.4,2.6
+10,Theft - i) Auto Theft,37401,75,37476,99.8,0.2
+10,Theft - ii) Other Theft,143835,4694,148529,96.8,3.2
+11,Riots,318771,15768,334539,95.3,4.7
+12,Criminal Breach of Trust,15080,478,15558,96.9,3.1
+13,Cheating,46152,2351,48503,95.2,4.8
+14,Counterfeiting,2361,80,2441,96.7,3.3
+15,Arson,11645,283,11928,97.6,2.4
+16,Hurt,456922,32220,489142,93.4,6.6
+17,Dowry Deaths,13972,4147,18119,77.1,22.9
+18,Molestation,42736,843,43579,98.1,1.9
+19,Sexual Harassment,12516,255,12771,98,2
+20,Cruelty by Husband and Relatives,97825,27832,125657,77.9,22.1
+21,Importation of Girls,65,3,68,95.6,4.4
+22,Causing Death by Negligence,61093,556,61649,99.1,0.9
+23,Other IPC Crimes,939052,55015,994067,94.5,5.5
+Total Cognizable Crimes under IPC,Total Cognizable Crimes under IPC,2506941,153969,2660910,94.2,5.8

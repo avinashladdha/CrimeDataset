@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts/Cities,Persons in Custody Pending Investigation or on Bail during the Stage of Investigation,Persons in Custody Pending Trial or on Bail during the Stage of Trial,Persons Arrested during the Year,Persons Released by the Police or Magistrate before Trial,Persons in whose Case Chargesheets were Laid,Number of Persons in whose Cases Trials were Completed,Persons Convicted,Persons Acquitted or Discharged,Persons against whom Cases were Compounded,Number of Persons in Custody Pending Investigationor on Bail during the Stage of Investigation at the End of the Year,Number of Persons in Custody Pending Trial or on Bail during the Stage of Trial at the End of the Year,Percentage of Conviction to Total Persons in whose Cases Chargesheets were Laid,Percentage of Conviction to Total Persons in whose Cases Trials were Completed
+1,State,Andhra Pradesh,49,20,19,16,25,25,8,17,NA,39,8,32,32
+2,State,Assam,11,13,4,8,2,2,1,1,NA,5,13,50,50
+3,State,Bihar,4,56,35,9,14,14,6,8,NA,5,67,42.86,42.86
+4,State,Gujarat,3,5,5,4,4,4,4,NA,NA,NA,5,100,100
+5,State,Haryana,NA,13,1,1,5,5,2,3,NA,NA,8,40,40
+6,State,Himachal Pradesh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,State,Jammu & Kashmir,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA
+8,State,Kerala,71,69,25,23,69,68,31,37,1,53,20,44.93,45.59
+9,State,Madhya Pradesh,3,5,1,NA,2,2,NA,2,NA,NA,7,NA,NA
+10,State,Maharashtra,4,11,33,1,9,9,5,4,NA,14,24,55.56,55.56
+11,State,Manipur,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,State,Mysore,11,22,35,1,1,1,NA,1,NA,40,26,NA,NA
+13,State,Nagaland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,State,Orissa,NA,11,2,NA,NA,NA,NA,NA,NA,NA,13,NA,NA
+15,State,Punjab,23,5,4,8,4,4,2,2,NA,14,6,50,50
+16,State,Rajasthan,2,15,14,NA,1,1,1,NA,NA,NA,30,100,100
+17,State,Tamil Nadu,9,33,54,16,34,34,13,21,NA,8,38,38.24,38.24
+18,State,Tripura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,State,Uttar Pradesh,9,53,31,5,28,27,17,10,1,13,47,60.71,62.96
+20,State,West Bengal,35,59,29,15,39,39,18,21,NA,13,56,46.15,46.15
+Total (States),State,Total (States),234,395,292,107,237,235,108,127,2,204,373,45.57,45.96
+21,UT,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,UT,Chandigarh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,UT,D & N Haveli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,UT,Delhi,NA,74,10,NA,47,47,10,37,NA,NA,37,21.28,21.28
+25,UT,"Goa, Daman & Diu",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Pondicherry,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total (UTs),UT,Total (UTs),NA,74,12,NA,47,47,10,37,NA,2,37,21.28,21.28
+Total (All-India),Total (All-India),Total (All-India),234,469,304,107,284,282,118,164,2,206,410,41.55,41.84
+1,City,Ahmedabad,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+2,City,Bangalore,NA,1,8,1,NA,NA,NA,NA,NA,6,2,NA,NA
+3,City,Bombay,1,1,31,NA,5,5,5,NA,NA,14,14,100,100
+4,City,Calcutta,11,2,3,NA,12,12,2,10,NA,2,2,16.67,16.67
+5,City,Delhi,NA,74,10,NA,47,47,10,37,NA,NA,37,21.28,21.28
+6,City,Hyderabad,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,City,Kanpur,1,2,1,NA,NA,NA,NA,NA,NA,2,2,NA,NA
+8,City,Madras,NA,NA,7,7,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total (Cities),City,Total (Cities),13,80,61,8,64,64,17,47,NA,24,58,26.56,26.56

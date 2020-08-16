@@ -1,0 +1,40 @@
+S. No,Category,State/UT,Denomination - 2000,Denomination - 1000,Denomination - 500,Denomination - 100,Denomination - 50,Denomination - 20,Denomination - 10,Denomination - 5,Denomination - 2,Denomination - 1,Total Value (in Rs.)
+1,State,Andhra Pradesh,3,5002,8296,1240,0,0,0,0,0,0,9280000
+2,State,Arunachal Pradesh,3,0,118,0,0,0,0,0,0,0,65000
+3,State,Assam,0,230,1088,127,266,1,3,0,0,0,800050
+4,State,Bihar,0,1895,3652,111,94,0,0,0,0,0,3736800
+5,State,Chhattisgarh,0,0,0,0,0,0,0,0,0,0,0
+6,State,Goa,0,13,8,0,0,0,0,0,0,0,17000
+7,State,Gujarat,1300,11706,16900,9561,231,13,14,0,0,0,23724050
+8,State,Haryana,3,81,192,29,0,0,0,2000,0,0,195900
+9,State,Himachal Pradesh,0,26,5,0,0,0,0,0,0,0,28500
+10,State,Jammu & Kashmir,2,14,197,136,0,0,0,0,0,0,130100
+11,State,Jharkhand,0,688,36,0,0,0,0,0,0,0,706000
+12,State,Karnataka,254,2291,10180,1173,31,6,97,0,0,196,8009136
+13,State,Kerala,2,1585,872,317,0,0,0,0,0,0,2057200
+14,State,Madhya Pradesh,8,768,1380,1516,23,6,2,0,0,0,1626890
+15,State,Maharashtra,27,2920,3496,541,472,0,0,0,0,0,4799700
+16,State,Manipur,1,19,39,0,0,0,0,0,0,0,40500
+17,State,Meghalaya,0,19,38,0,0,0,0,0,0,0,38000
+18,State,Mizoram,0,348,48,9,0,0,0,0,0,0,372900
+19,State,Nagaland,0,97,0,0,0,0,0,0,0,0,97000
+20,State,Odisha,1,130,267,92,0,0,0,0,0,0,274700
+21,State,Punjab,548,1508,3147,575,95,0,0,0,0,0,4239750
+22,State,Rajasthan,6,663,645,373,6,0,0,0,0,0,1035100
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,0,1551,3351,1122,76,2,0,0,0,0,3342540
+25,State,Telangana,114,3206,8138,893,107,117,91,1,0,0,7600905
+26,State,Tripura,0,18,11,57,0,0,0,0,0,0,29200
+27,State,Uttar Pradesh,0,3526,2258,3580,12,4,2,0,0,0,5013700
+28,State,Uttarakhand,0,423,148,1652,70,35,0,0,0,0,666400
+29,State,West Bengal,0,13786,19005,68,10,0,0,0,0,0,23295800
+Total (States),State,Total (States),2272,52513,83515,23172,1493,184,209,2001,0,196,101222821
+30,UT,A & N Islands,0,0,0,0,0,0,0,0,0,0,0
+31,UT,Chandigarh,0,1499,0,0,0,0,0,0,0,0,1499000
+32,UT,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0
+33,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0
+34,UT,Delhi,0,28479,48710,36512,644,0,406,0,0,0,56521460
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,0,3,2,29,0,0,0,0,0,0,6900
+Total (UTs),UT,Total (UTs),0,29981,48712,36541,644,0,406,0,0,0,58027360
+Total (All-India),Total (All-India),Total (All-India),2272,82494,132227,59713,2137,184,615,2001,0,196,159250181

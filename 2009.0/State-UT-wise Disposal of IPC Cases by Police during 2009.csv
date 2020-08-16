@@ -1,0 +1,39 @@
+Category (Col. 1),States/UTs (Col. 2),Total No.of Cases for Investigation Including Pending Cases from previous year (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases in Which (Col. 5) - Investigation Refused,No. of Cases in Which - Investigation was Completed (Col. 6) - Charge Found False /Mistake of Fact or Law Etc.,No. of Cases in Which - Investigation was Completed (Col. 7) - Final Report True Submitted,No. of Cases in Which - Investigation was Completed (Col. 8) - Charge Sheets Submitted,No. of Cases in Which - Investigation was Completed (Col. 9) - Total = Col. {(6)+(7)+(8)},No. of Cases Pending Investigation at the end of the year (Col. 10),Pendency Percentage (Col. 11),Percentage of Pendency to All India Total (Col. 12),Charge Sheeting Rate (Col. 13) = Col. {(8)/(7 + 8) × 100}
+State,Andhra Pradesh,233402,0,106,17043,23547,137385,177975,55321,23.7,7.3,85.4
+State,Arunachal Pradesh,3373,0,0,0,887,1379,2266,1107,32.8,0.1,60.9
+State,Assam,116294,0,156,2874,19867,25857,48598,67540,58.1,8.9,56.6
+State,Bihar,208024,0,0,6984,29693,77420,114097,93927,45.2,12.4,72.3
+State,Chhattisgarh,56236,0,2,338,9956,41092,51386,4848,8.6,0.6,80.5
+State,Goa,5431,0,0,23,1117,1541,2681,2750,50.6,0.4,58
+State,Gujarat,130630,6,172,479,23352,88474,112305,18147,13.9,2.4,79.1
+State,Haryana,67587,0,0,3551,14344,36275,54170,13417,19.9,1.8,71.7
+State,Himachal Pradesh,16889,0,0,1053,2014,11240,14307,2582,15.3,0.3,84.8
+State,Jammu & Kashmir,31459,0,5,2271,4209,16634,23114,8340,26.5,1.1,79.8
+State,Jharkhand,71525,0,0,1166,11207,26798,39171,32354,45.2,4.3,70.5
+State,Karnataka,177323,51,761,6850,18932,90894,116676,59835,33.7,7.9,82.8
+State,Kerala,145926,0,3,4920,10511,107251,122682,23241,15.9,3.1,91.1
+State,Madhya Pradesh,218544,1,110,403,29298,177320,207021,11412,5.2,1.5,85.8
+State,Maharashtra,292382,0,67,3369,56385,137667,197421,94894,32.5,12.5,70.9
+State,Manipur,12267,0,0,0,1563,55,1618,10649,86.8,1.4,3.4
+State,Meghalaya,8158,0,0,2,1337,1103,2442,5716,70.1,0.8,45.2
+State,Mizoram,2541,0,0,0,189,2014,2203,338,13.3,0,91.4
+State,Nagaland,2168,0,0,0,512,831,1343,825,38.1,0.1,61.9
+State,Odisha,82839,1,74,1457,4890,42306,48653,34111,41.2,4.5,89.6
+State,Punjab,53725,0,0,2297,9246,23489,35032,18693,34.8,2.5,71.8
+State,Rajasthan,172555,0,21,42080,25137,98391,165608,6926,4,0.9,79.7
+State,Sikkim,1662,0,0,0,521,569,1090,572,34.4,0.1,52.2
+State,Tamil Nadu,217603,0,0,11322,16579,135125,163026,54577,25.1,7.2,89.1
+State,Tripura,6398,0,0,0,843,4440,5283,1115,17.4,0.1,84
+State,Uttar Pradesh,187151,0,0,15722,45902,108193,169817,17334,9.3,2.3,70.2
+State,Uttarakhand,10653,0,0,490,2362,6596,9448,1205,11.3,0.2,73.6
+State,West Bengal,165781,0,13,476,24213,72399,97088,68680,41.4,9,74.9
+State,Total (States),2698526,59,1490,125170,388613,1472738,1986521,710456,26.3,93.5,79.1
+Union Territory,Andaman & Nicobar Islands,1425,0,0,0,196,677,873,552,38.7,0.1,77.5
+Union Territory,Chandigarh,5642,0,0,348,1808,931,3087,2555,45.3,0.3,34
+Union Territory,Dadra Nagar Haveli,685,0,0,16,81,239,336,349,50.9,0,74.7
+Union Territory,Daman & Diu,462,0,0,0,98,149,247,215,46.5,0,60.3
+Union Territory,Delhi,95878,228,158,1072,22841,26777,50690,44802,46.7,5.9,54
+Union Territory,Lakshadweep,345,0,0,0,83,91,174,171,49.6,0,52.3
+Union Territory,Pondicherry,5505,0,48,71,472,4349,4892,565,10.3,0.1,90.2
+Union Territory,Total (UTs),109942,228,206,1507,25579,33213,60299,49209,44.8,6.5,56.5
+Total (All-India),Total (All-India),2808468,287,1696,126677,414192,1505951,2046820,759665,27,100,78.4

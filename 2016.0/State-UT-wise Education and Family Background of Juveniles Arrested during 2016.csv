@@ -1,0 +1,40 @@
+S. No.,Category,State/UT,Education - Illiterate,Education - Primary,Education - Above Primary but Below Matric/H.Sec.,Education - Matric / H.Sec. & Above,Education - Total,Family Background - Living with Parents,Family Background - Living with Guardians,Family Background - Homeless,Family Background - Total
+1,State,Andhra Pradesh,228,427,475,99,1229,910,150,169,1229
+2,State,Arunachal Pradesh,3,10,64,3,80,73,7,0,80
+3,State,Assam,70,216,182,12,480,337,125,18,480
+4,State,Bihar,530,492,1216,388,2626,1910,648,68,2626
+5,State,Chhattisgarh,135,857,1116,286,2394,2206,169,19,2394
+6,State,Goa,2,7,17,0,26,24,1,1,26
+7,State,Gujarat,160,1160,677,88,2085,1998,49,38,2085
+8,State,Haryana,169,331,676,182,1358,1226,52,80,1358
+9,State,Himachal Pradesh,7,59,158,39,263,259,1,3,263
+10,State,Jammu & Kashmir,17,61,194,47,319,319,0,0,319
+11,State,Jharkhand,40,42,49,11,142,101,30,11,142
+12,State,Karnataka,18,163,369,77,627,604,20,3,627
+13,State,Kerala,4,98,669,289,1060,917,124,19,1060
+14,State,Madhya Pradesh,975,2730,3542,1217,8464,7291,889,284,8464
+15,State,Maharashtra,420,2764,4129,399,7712,6814,739,159,7712
+16,State,Manipur,0,1,11,0,12,12,0,0,12
+17,State,Meghalaya,12,40,29,12,93,92,1,0,93
+18,State,Mizoram,0,31,32,0,63,42,21,0,63
+19,State,Nagaland,5,14,6,0,25,17,3,5,25
+20,State,Odisha,270,624,336,55,1285,1218,65,2,1285
+21,State,Punjab,25,40,82,10,157,151,4,2,157
+22,State,Rajasthan,266,866,1411,400,2943,2703,188,52,2943
+23,State,Sikkim,3,11,25,0,39,30,9,0,39
+24,State,Tamil Nadu,223,783,1607,197,2810,2385,258,167,2810
+25,State,Telangana,437,281,393,71,1182,1058,69,55,1182
+26,State,Tripura,3,29,10,0,42,21,21,0,42
+27,State,Uttar Pradesh,279,509,624,175,1587,1193,279,115,1587
+28,State,Uttarakhand,24,51,31,45,151,99,36,16,151
+29,State,West Bengal,52,236,534,16,838,674,143,21,838
+Total (States),State,Total (States),4377,12933,18664,4118,40092,34684,4101,1307,40092
+30,UT,A & N Islands,0,0,10,3,13,13,0,0,13
+31,UT,Chandigarh,7,52,78,4,141,103,32,6,141
+32,UT,D&N Haveli,0,0,10,0,10,10,0,0,10
+33,UT,Daman & Diu,0,0,8,0,8,8,0,0,8
+34,UT,Delhi,1008,1510,1185,105,3808,3159,405,244,3808
+35,UT,Lakshadweep,0,0,0,0,0,0,0,0,0
+36,UT,Puducherry,20,6,59,14,99,84,12,3,99
+Total (UTs),UT,Total (UTs),1035,1568,1350,126,4079,3377,449,253,4079
+Total (All India),Total (All India),Total (All India),5412,14501,20014,4244,44171,38061,4550,1560,44171

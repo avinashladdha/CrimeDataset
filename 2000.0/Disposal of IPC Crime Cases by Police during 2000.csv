@@ -1,0 +1,28 @@
+SI.No,Crime Head,Total No. for investigation including pending cases,Cases withdrawan by Govt.,No. of Cases in Which Investigation was refused,No. of Cases in Which Investigation was completed charge found False/Mistake of Fact or Law Etc.,No. of Cases in Which Investigation was completed Final Report true submitted,No. of Cases in Which Investigation was Completed Chargesheets Were Submitted,No. of Cases in Which Investigation was Completed Total [ (6)+(7)+(8)],No. of Cases Pending investigation
+1,Murder,58185,15,110,1218,7100,29059,37377,20683
+2,Attempt to Commit Murder,41692,4,65,1292,3754,25322,30368,11255
+3,C.H. Not Amounting Murder,6159,0,7,120,691,3137,3948,2204
+4,Rape,22129,3,18,1179,899,14031,16109,5999
+5,Kidnapping & Abduction,36325,7,101,5276,4260,13302,22838,13379
+5,I)Of Women & Girls,24139,7,76,3847,2654,8865,15366,8690
+5,II) Of Others,12186,0,25,1429,1606,4437,7472,4689
+6,Dacoity,13621,1,19,455,2456,4335,7246,6355
+7,Preparation & Assembly for Dacoity,2458,0,16,49,101,1255,1405,1037
+8,Robbery,31180,1,60,1552,7723,11787,21062,10057
+9,Burglary,140859,9,296,3920,64655,38758,107333,33221
+10,Theft,363286,22,1344,11220,151543,106133,268896,93024
+10,I) Auto Theft,83510,6,310,2072,39275,20076,61423,21771
+10,II) Other Theft,279776,16,1034,9148,112268,86057,207473,71253
+11,Riots,104520,8,136,9698,6815,64642,81155,23221
+12,Criminal Breach of Trust,25073,4,104,2099,3738,9240,15077,9888
+13,Cheating,70069,8,490,9716,8880,22095,40691,28880
+14,Counterfeiting,5965,0,59,36,562,876,1474,4432
+15,Arson,13989,1,75,1495,3077,5966,10538,3375
+16,Hurt,282951,13,445,10454,12118,220726,243298,39195
+17,Dowry Deaths,9238,2,11,378,390,5952,6720,2505
+18,Molestation,37701,1,15,2141,1092,29287,32520,5165
+19,Sexual Harassment,12317,0,45,623,208,10416,11247,1025
+20,Cruelty by Husband and Relatives,56695,0,91,5056,2734,37174,44964,11640
+21,Importation of Girls,64,0,0,1,0,50,51,13
+22,Other IPC Crimes,939550,49,1939,46015,79261,663303,788579,148983
+23,Total Cognizable Crimes Under IPC,2274026,148,5446,113993,362057,1316846,1792896,475536

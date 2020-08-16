@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Total Number of Persons Under Trial Including those from Previous Year (Col. 3),Number of Persons whose - Cases Compounded or Withdrawn (Col. 4),Number of Persons whose - Trial Completed (Col. 5),Number of Persons whose - Trial Remained Pending (Col. 6),Number of Persons Convicted (Col. 7),Percentage of Persons - Whose Trials Remained Pending (Col. 6*100/Col.3) (Col. 8),Percentage of Persons - Convicted to Trial Completed (Col. 7*100/Col. 5) (Col. 9)
+1,Arms Act,213866,1274,49616,162976,31340,76.2,63.2
+2,Narcotic Drugs & Psychotropic Substances Act,45326,83,8273,36970,3715,81.6,44.9
+3,Gambling Act,741674,3196,351967,386511,302078,52.1,85.8
+4,Excise Act,264235,468,94133,169634,69264,64.2,73.6
+5,Prohibition Act,1450402,32780,654376,763246,442614,52.6,67.6
+6,Explosive & Explosive Substances Act,16890,124,4366,12400,1880,73.4,43.1
+7,Immoral Traffic (Prevention) Act,30242,356,18112,11774,15379,38.9,84.9
+8,Indian Railways Act,54023,4173,31936,17914,31064,33.2,97.3
+9,Foreigner's Registration Act,5248,130,3696,1422,2413,27.1,65.3
+10,Protection Of Civil Rights Act,17693,158,3816,13719,827,77.5,21.7
+11,Indian Passport Act,1704,29,606,1069,455,62.7,75.1
+12,Essential Commodities Act,28375,64,4759,23552,2011,83,42.3
+13,Terrorist & Disruptive Activites Act,1733,95,241,1397,43,80.6,17.8
+14,Antiquity & Art Treasure Act,30,5,4,21,0,70,0
+15,Dowry Prohibition Act,10769,280,2314,8175,624,75.9,27
+16,Other L & SL Crimes,3095705,77977,1834741,1182987,1682112,38.2,91.7
+17,Total Cognizable Crimes Under L & SL,5977915,121192,3062956,2793767,2585819,46.7,84.4

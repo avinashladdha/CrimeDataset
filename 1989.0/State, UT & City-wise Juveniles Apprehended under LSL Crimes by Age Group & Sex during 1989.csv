@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,7-12 Years - Boys,7-12 Years - Girls,12-16 Years - Boys,12-16 Years - Girls,16-18 Years -Girls Only,Overall Age Group - Boys,Overall Age Group - Girls,Total (Boys + Girls)
+1,State,Andhra Pradesh,406,3,458,47,248,864,298,1162
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0
+3,State,Assam,2,0,409,3,12,411,15,426
+4,State,Bihar,9,0,477,8,0,486,8,494
+5,State,Goa,2,0,3,0,2,5,2,7
+6,State,Gujarat,61,7,385,41,1170,446,1218,1664
+7,State,Haryana,4,0,47,0,0,51,0,51
+8,State,Himachal Pradesh,0,0,1,2,31,1,33,34
+9,State,Jammu & Kashmir,1,0,10,0,3,11,3,14
+10,State,Karnataka,7,0,21,1,0,28,1,29
+11,State,Kerala,2,0,2,0,0,4,0,4
+12,State,Madhya Pradesh,42,0,518,0,155,560,155,715
+13,State,Maharashtra,160,31,1055,70,363,1215,464,1679
+14,State,Manipur,0,0,9,8,69,9,77,86
+15,State,Meghalaya,0,0,0,0,0,0,0,0
+16,State,Mizoram,0,0,1,0,0,1,0,1
+17,State,Nagaland,0,0,0,0,8,0,8,8
+18,State,Orissa,0,0,152,0,0,152,0,152
+19,State,Punjab,0,0,78,0,0,78,0,78
+20,State,Rajasthan,2,0,97,0,0,99,0,99
+21,State,Sikkim,45,0,0,0,0,45,0,45
+22,State,Tamil Nadu,2367,0,3154,128,6195,5521,6323,11844
+23,State,Tripura,0,0,18,0,0,18,0,18
+24,State,Uttar Pradesh,12,0,36,0,2,48,2,50
+25,State,West Bengal,4,1,36,2,0,40,3,43
+Total (States),State,Total (States),3126,42,6967,310,8258,10093,8610,18703
+26,UT,A & N Islands,0,0,3,0,0,3,0,3
+27,UT,Chandigarh,0,0,0,0,0,0,0,0
+28,UT,D & N Haveli,0,0,0,0,0,0,0,0
+29,UT,Daman & Diu,0,0,0,0,0,0,0,0
+30,UT,Delhi,0,0,0,0,13,0,13,13
+31,UT,Lakshadweep,0,0,0,0,0,0,0,0
+32,UT,Pondicherry,0,0,0,0,1,0,1,1
+Total (UTs),UT,Total (UTs),0,0,3,0,14,3,14,17
+Total (All-India),Total (All-India),Total (All-India),3126,42,6970,310,8272,10096,8624,18720
+33,City,Ahmedabad,10,3,81,7,47,91,57,148
+34,City,Bangalore,0,0,3,0,0,3,0,3
+35,City,Bombay,0,0,87,0,194,87,194,281
+36,City,Calcutta,0,0,1,1,0,1,1,2
+37,City,Delhi,0,0,0,0,13,0,13,13
+38,City,Hyderabad,0,0,0,0,23,0,23,23
+39,City,Jaipur,0,0,0,0,0,0,0,0
+40,City,Kanpur,0,0,4,0,2,4,2,6
+41,City,Lucknow,0,0,0,0,0,0,0,0
+42,City,Madras,589,206,0,0,53,589,259,848
+43,City,Nagpur,58,7,28,1,4,86,12,98
+44,City,Pune,8,0,209,0,0,217,0,217

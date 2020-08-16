@@ -1,0 +1,40 @@
+S.No.(Col. 1),Ctegory(Col. 2),State/UT(Col. 3),Total No. of Persons Arrested (Col. 4),New offenders - No. (Col. 5),New offenders - Percentage To Total (Col. 6),Old offenders Convicted In The Past - Once - No. (Col. 7),Old offenders Convicted In The Past - Once - Percentage To Total (Col. 8),Old offenders Convicted In The Past - Twice - No. (Col. 9),Old offenders Convicted In The Past - Twice - Percentage To Total (Col. 10),Old offenders Convicted In The Past - Thrice Or More - No. (Col. 11),Old offenders Convicted In The Past - Thrice Or More - Percentage To Total (Col. 12),Percentage of Recidivists (Col. 13)= {(6)+(5)+(10)}
+1,State,Andhra Pradesh,147709,123577,83.7,23276,15.8,635,0.4,221,0.1,16.3
+2,State,Arunachal Pradesh,3343,3016,90.2,284,8.5,43,1.3,0,0,9.8
+3,State,Assam,114391,102465,89.6,9340,8.2,2460,2.2,126,0.1,10.4
+4,State,Bihar,236546,201996,85.4,29019,12.3,4541,1.9,990,0.4,14.6
+5,State,Chhattisgarh,79429,65943,83,12694,16,494,0.6,298,0.4,17
+6,State,Goa,3525,3498,99.2,15,0.4,4,0.1,8,0.2,0.8
+7,State,Gujarat,174512,164389,94.2,8952,5.1,1087,0.6,84,0,5.8
+8,State,Haryana,74121,62938,84.9,9746,13.1,1085,1.5,352,0.5,15.1
+9,State,Himachal Pradesh,18839,17826,94.6,796,4.2,152,0.8,65,0.3,5.4
+10,State,Jammu & Kashmir,39632,38928,98.2,510,1.3,153,0.4,41,0.1,1.8
+11,State,Jharkhand,36790,23712,64.5,7325,19.9,4113,11.2,1640,4.5,35.5
+12,State,Karnataka,164785,163781,99.4,1001,0.6,3,0,0,0,0.6
+13,State,Kerala,289780,282483,97.5,5911,2,1156,0.4,230,0.1,2.5
+14,State,Madhya Pradesh,398757,351178,88.1,36699,9.2,6814,1.7,4066,1,11.9
+15,State,Maharashtra,342519,338466,98.8,3163,0.9,596,0.2,294,0.1,1.2
+16,State,Manipur,1219,1208,99.1,11,0.9,0,0,0,0,0.9
+17,State,Meghalaya,3418,3305,96.7,89,2.6,15,0.4,9,0.3,3.3
+18,State,Mizoram,2278,1689,74.1,435,19.1,106,4.7,48,2.1,25.9
+19,State,Nagaland,1912,1682,88,184,9.6,31,1.6,15,0.8,12
+20,State,Odisha,101639,101556,99.9,79,0.1,3,0,1,0,0.1
+21,State,Punjab,44669,39867,89.2,4108,9.2,560,1.3,134,0.3,10.8
+22,State,Rajasthan,185157,172473,93.1,8107,4.4,3318,1.8,1259,0.7,6.9
+23,State,Sikkim,798,225,28.2,568,71.2,5,0.6,0,0,71.8
+24,State,Tamil Nadu,269663,228678,84.8,40513,15,433,0.2,39,0,15.2
+25,State,Telangana,117319,106023,90.4,9060,7.7,1540,1.3,696,0.6,9.6
+26,State,Tripura,4544,3243,71.4,1280,28.2,18,0.4,3,0.1,28.6
+27,State,Uttar Pradesh,500365,485791,97.1,11765,2.4,2261,0.5,548,0.1,2.9
+28,State,Uttarakhand,8664,8213,94.8,327,3.8,118,1.4,6,0.1,5.2
+29,State,West Bengal,190587,175911,92.3,9782,5.1,3076,1.6,1818,1,7.7
+TOTAL (STATES),State,TOTAL (STATES),3556910,3274060,92,235039,6.6,34820,1,12991,0.4,8
+30,UT,A & N Islands,814,794,97.5,20,2.5,0,0,0,0,2.5
+31,UT,Chandigarh,3817,2117,55.5,1378,36.1,230,6,92,2.4,44.5
+32,UT,D&N Haveli,400,396,99,4,1,0,0,0,0,1
+33,UT,Daman & Diu,383,381,99.5,0,0,1,0.3,1,0.3,0.5
+34,UT,Delhi UT,70023,58971,84.2,7570,10.8,2487,3.6,995,1.4,15.8
+35,UT,Lakshadweep,29,15,51.7,10,34.5,4,13.8,0,0,48.3
+36,UT,Puducherry,4220,3706,87.8,343,8.1,107,2.5,64,1.5,12.2
+TOTAL (Uts),UT,TOTAL (Uts),79686,66380,83.3,9325,11.7,2829,3.6,1152,1.4,16.7
+TOTAL (ALL INDIA),TOTAL (ALL INDIA),TOTAL (ALL INDIA),3636596,3340440,91.9,244364,6.7,37649,1,14143,0.4,8.1

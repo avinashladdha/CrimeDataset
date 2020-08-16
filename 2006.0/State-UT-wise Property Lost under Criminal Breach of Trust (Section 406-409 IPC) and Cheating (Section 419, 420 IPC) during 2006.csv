@@ -1,0 +1,39 @@
+Category (Col. 1),States/UTs (Col. 2),No. of Reported Cases where the Loss of Property under Criminal Breach of Trust (Section 406-409 IPC) Worth Rs.1-10 Crore (Col. 3) ,No. of Reported Cases where the Loss of Property under Criminal Breach of Trust (Section 406-409 IPC) Worth Rs.10-25 Crore (Col. 4),No. of Reported Cases where the Loss of Property under Criminal Breach of Trust (Section 406-409 IPC) Worth Rs.25-50 Crore (Col. 5),No. of Reported Cases where the Loss of Property under Criminal Breach of Trust (Section 406-409 IPC) Worth Rs.50-100 Crore (Col. 6),No. of Reported Cases where the Loss of Property under Criminal Breach of Trust (Section 406-409 IPC) Worth Rs.Above 100 Crore (Col. 7),No. of Reported Cases where the Loss of Property under Criminal Breach of Trust (Section 406-409 IPC) Total (Col. 8),"No. of Reported Cases where the Loss of Property under Cheating (Section 419, 420 IPC) Worth Rs.1-10 Crore (Col. 9)","No. of Reported Cases where the Loss of Property under Cheating (Section 419, 420 IPC) Worth Rs.10-25 Crore (Col. 10)","No. of Reported Cases where the Loss of Property under Cheating (Section 419, 420 IPC) Worth Rs.25-50 Crore  (Col. 11)","No. of Reported Cases where the Loss of Property under Cheating (Section 419, 420 IPC) Worth Rs.50-100 Crore  (Col. 12)","No. of Reported Cases where the Loss of Property under Cheating (Section 419, 420 IPC) Worth Rs. Above 100 Crore (Col. 13)","No. of Reported Cases where the Loss of Property under Cheating (Section 419, 420 IPC)Total (Col. 14)",Grand Total (Col. 15) = Col. (8+ 14)
+State,Andhra Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Assam,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Bihar,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Chhattisgarh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Goa,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Gujarat,16,0,0,0,0,16,22,0,0,0,0,22,38
+State,Haryana,0,0,0,0,0,0,0,0,1,0,0,1,1
+State,Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Jharkhand,5,0,0,0,0,5,182,0,0,0,0,182,187
+State,Karnataka,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Kerala,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Maharashtra,23,0,4,0,0,27,17,3,0,0,0,20,47
+State,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Meghalaya,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Mizoram,1,0,0,0,0,1,0,0,0,0,0,0,1
+State,Nagaland,11,0,0,0,0,11,14,0,0,0,0,14,25
+State,Orissa,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Punjab,1,0,0,0,0,1,0,0,0,0,0,0,1
+State,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Tamil Nadu,0,0,0,0,0,0,35,0,0,0,0,35,35
+State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttar Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,Uttaranchal,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,West Bengal,0,0,0,0,0,0,9,1,0,0,0,10,10
+State,Total (States),57,0,4,0,0,61,279,4,1,0,0,284,345
+Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Chandigarh,0,0,0,0,0,0,4,0,0,0,0,4,4
+Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Delhi,0,0,0,0,0,0,1,0,0,0,0,1,1
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0
+Union Territory,Pondicherry,1,0,0,0,0,1,1,0,0,0,0,1,2
+Union Territory,Total (UTs),1,0,0,0,0,1,6,0,0,0,0,6,7
+Total (All-India),Total (All-India),58,0,4,0,0,62,285,4,1,0,0,290,352

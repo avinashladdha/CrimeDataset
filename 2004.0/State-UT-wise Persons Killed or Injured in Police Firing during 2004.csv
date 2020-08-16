@@ -1,0 +1,39 @@
+Sr. No.,Category,States/UTs,No. of Occasions of Poilce Firing,Civilians Killed,Civilians Injured,Policemen Killed,Policemen Injured
+1,State,Andhra Pradesh,77,28,14,1,56
+2,State,Arunachal Pradesh,2,0,2,0,0
+3,State,Assam,13,12,5,1,3
+4,State,Bihar,16,10,6,0,24
+5,State,Chhattisgarh,95,0,4,0,40
+6,State,Goa,0,0,0,0,0
+7,State,Gujarat,23,11,2,1,30
+8,State,Haryana,0,0,0,0,0
+9,State,Himachal Pradesh,0,0,0,0,0
+10,State,Jammu & Kashmir,123,13,19,11,47
+11,State,Jharkhand,0,0,0,0,0
+12,State,Karnataka,3,0,2,0,7
+13,State,Kerala,4,0,12,0,12
+14,State,Madhya Pradesh,28,18,1,2,8
+15,State,Maharashtra,43,22,18,7,47
+16,State,Manipur,22,4,1,15,7
+17,State,Meghalaya,3,4,0,0,0
+18,State,Mizoram,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0
+20,State,Orissa,3,0,3,0,0
+21,State,Punjab,1,1,22,0,12
+22,State,Rajasthan,13,5,47,0,67
+23,State,Sikkim,0,0,0,0,0
+24,State,Tamil Nadu,12,6,1,0,23
+25,State,Tripura,40,33,50,10,3
+26,State,Uttar Pradesh,198,230,3,31,98
+27,State,Uttarakhand,6,6,1,0,9
+28,State,West Bengal,54,6,33,2,94
+State,State,Total (States),779,409,246,81,587
+29,Union Territory,A & N Islands,0,0,0,0,0
+30,Union Territory,Chandigarh,0,0,0,0,0
+31,Union Territory,D & N Haveli,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0
+33,Union Territory,Delhi,9,11,10,0,1
+34,Union Territory,Lakshadweep,0,0,0,0,0
+35,Union Territory,Puducherry,3,0,1,0,0
+Union Territory,Union Territory,Total (UTs),12,11,11,0,1
+Total (All-India),Total (All-India),Total (All-India),791,420,257,81,588

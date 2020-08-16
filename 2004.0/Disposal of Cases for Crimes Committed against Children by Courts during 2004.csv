@@ -1,0 +1,14 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Cases for Trial Including Pending Cases (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases - Compounded or Withdrawn (Col. 5),No. of Cases - in which Trials were Completed - Convicted (Col. 6),No. of Cases - in which Trials were Completed - Acquitted or Discharged (Col. 7),No. of Cases - in which Trials were Completed - Total {(Col. 6) + (Col. 7)} = (Col. 8),No. of Cases - Pending Trial (Col. 9)
+1,Infanticide,183,0,1,22,26,48,134
+2,Murder,4078,0,27,332,459,791,3260
+3,Rape,9666,1,312,562,1053,1615,7739
+4,Kid. & Abduction,7959,0,66,417,879,1296,6597
+5,Foeticide,76,0,0,3,5,8,68
+6,Abetment of Suicide,76,0,2,2,9,11,63
+7,Exposure and Abandonment,687,0,6,14,43,57,624
+8,Procuration Minor Girl,423,0,2,18,40,58,363
+9,Buying of Girls for Prost.,33,0,0,1,4,5,28
+10,Selling of Girls for Prost,75,0,0,0,3,3,72
+11,Child Marriage Restraint Act,403,0,0,24,29,53,350
+12,Other Crime,13943,0,491,908,1526,2434,11018
+13,Total,37602,1,907,2303,4076,6379,30316

@@ -1,0 +1,31 @@
+Category,Crime Head,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Total
+IPC Crimes,1. Murder,2265,181,2446,2143,142,2285,415,17,432,471,26,497,2,10,12
+IPC Crimes,2. Abetment of Suicide of Child,43,3,46,36,1,37,2,0,2,20,0,20,0,0,0
+IPC Crimes,3. Attempt to Commit Murder,343,13,356,396,9,405,57,1,58,414,1,415,20,0,20
+IPC Crimes,4. Infanticide,108,9,117,68,9,77,5,0,5,12,0,12,3,1,4
+IPC Crimes,5. Foeticide,132,9,141,82,8,90,2,2,4,24,3,27,0,0,0
+IPC Crimes,6. Exposure and Abandonment,132,57,189,72,48,120,4,0,4,37,6,43,2,0,2
+IPC Crimes,7. Kidnapping & Abduction,38332,758,39090,26610,587,27197,2174,39,2213,6226,146,6372,105,1,106
+IPC Crimes,7.1. Kidnapping & Abduction,8707,217,8924,7156,257,7413,630,27,657,1789,63,1852,58,0,58
+IPC Crimes,7.2. Kidnaping & Abduction in order to Murder,325,1,326,183,1,184,28,0,28,26,1,27,0,0,0
+IPC Crimes,7.3. Kidnapping for Ransom,312,3,315,282,3,285,38,0,38,18,1,19,0,0,0
+IPC Crimes,7.4. Kidnapping & Abduction of Women to Compel her for Marriage,21143,406,21549,13235,217,13452,1271,12,1283,2742,56,2798,13,0,13
+IPC Crimes,7.5. Procuration of Minor Girls,3102,18,3120,1987,15,2002,25,0,25,697,11,708,4,0,4
+IPC Crimes,7.6. Importation of Girls from Foreign Country,5,3,8,3,1,4,0,0,0,0,0,0,0,0,0
+IPC Crimes,7.7. Other Kidnapping,4738,110,4848,3764,93,3857,182,0,182,954,14,968,30,1,31
+IPC Crimes,8. Human Trafficking,434,91,525,366,78,444,4,0,4,43,2,45,0,0,0
+IPC Crimes,9. Selling of Minors for Prostitution,124,14,138,105,9,114,0,0,0,11,0,11,0,0,0
+IPC Crimes,10. Buying of Minors for Prostitution,17,4,21,23,2,25,7,0,7,0,0,0,0,0,0
+IPC Crimes,11. Unnatural Offences,1380,6,1386,1214,3,1217,130,1,131,167,2,169,13,0,13
+SLL Crimes,12. Protection of Children from Sexual Offences Act,41630,566,42196,37418,454,37872,3841,18,3859,8967,144,9111,77,0,77
+SLL Crimes,12.1. Child Rape (Sec. 4 & 6 POCSO)/ Sec. 376 IPC,23621,386,24007,21605,339,21944,2230,11,2241,5612,81,5693,33,0,33
+SLL Crimes,12.2. Sexual Assault of Children(Sec 8 & 10 POCSO)/Sec.354 IPC,14728,118,14846,12956,88,13044,1352,4,1356,2919,53,2972,36,0,36
+SLL Crimes,12.3. Sexual Harassment(Sec.12 POCSO)/ 509-IPC,1027,17,1044,762,5,767,25,0,25,134,2,136,4,0,4
+SLL Crimes,12.4. Use of Child for Pornography/Storing Child Pornography Material(Sec.14 & 15 POCSO),64,1,65,50,1,51,2,0,2,7,0,7,0,0,0
+SLL Crimes,12.5. Other Section of POCSO,2190,44,2234,2045,21,2066,232,3,235,295,8,303,4,0,4
+SLL Crimes,"13. Juvenile Justice (Care and Protection of Children) Act, 2000",2216,157,2373,1961,130,2091,299,11,310,186,8,194,10,0,10
+SLL Crimes,"14. Immoral Traffic (Prevention) Act, 1956",108,30,138,97,22,119,0,1,1,22,3,25,0,0,0
+SLL Crimes,"15. Child Labour (Prohibition & Regulation) Act, 1986",235,4,239,166,2,168,8,0,8,18,1,19,0,0,0
+SLL Crimes,"16. Prohibition of Child Marriage Act, 2006",583,157,740,501,143,644,24,11,35,99,16,115,7,1,8
+SLL Crimes,17. Other Crime Against Children (IPC+SLL),10782,436,11218,9744,365,10109,2001,44,2045,3432,114,3546,65,0,65
+Total Crime Against Children,Total Crime Against Children,98865,2495,101360,81003,2012,83015,8973,145,9118,20149,472,20621,304,13,317

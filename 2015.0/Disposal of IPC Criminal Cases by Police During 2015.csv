@@ -1,0 +1,36 @@
+Crime Head (Col. 1),Cases Pending Investigation from Previous Year (Col. 2),Cases Reported During the Year (Col. 3),No. of Cases Withdrawn by the Govt. During Investigation (Col. 4),Cases Transferred to other Police Station/ Magistrate (Col. 5),Cases Not Investigated U/S 157(1)(b) of Cr.PC (Col. 6),Total Cases for Investigation (Col. 7) = (Col. 2+3-4-5-6),Cases Ended as Final Report False (Col. 8),Cases Ended as Mistake of Fact or of Law (Col. 9),Cases in Ended as Final Report as Non Cognizable Submitted During the Year (Col. 10),Cases in Which Charge-sheets were Submitted (Col. 11),Cases in Which Chargesheets were not laid but Final Report as True submitted (Col. 12),Total Cases Disposed of by Police (Col. 13) = (Col. 8+9+10+ 11+12),Cases Pending Investigation at the End of the Year (Col. 14) = (col. 7 – col. 13),Charge-Sheeting Rate (Col. 15) = {Col.11/(Col.11+Col.12)} x 100,Cases Pendency Percentage (Col. 16) = {Col.14/(Col.2+Col.3)} x 100
+1 Murder,27759,32127,2,207,4,59673,974,774,138,28632,4575,35093,24580,86.2,41
+2 Attempt to Commit Murder,23876,46471,15,47,3,70282,1482,638,199,39996,2646,44961,25321,93.8,36
+3 Culpable Homicide Not Amounting to Murder,1990,3176,0,14,0,5152,75,72,13,2682,340,3182,1970,88.7,38.1
+4 Attempt to Commit Culpable Homicide,2084,6118,0,2,7,8193,88,32,40,4956,215,5331,2862,95.8,34.9
+5 Rape,16028,34651,14,152,4,50509,2624,505,30,30001,1231,34391,16118,96.1,31.8
+6 Attempt to Commit Rape,1300,4437,0,11,0,5726,378,68,13,3174,289,3922,1804,91.7,31.4
+7 Kidnapping & Abduction,48472,82999,41,177,21,131232,12878,12770,835,34805,16412,77700,53532,68,40.7
+8 Dacoity,5209,3972,7,17,1,9156,133,61,48,3479,906,4627,4529,79.3,49.3
+9 Making Preparation and Assembly for Committing Dacoity,1875,3163,0,3,0,5035,6,12,0,3232,31,3281,1754,99,34.8
+10 Robbery,23580,36188,17,53,2,59696,762,671,250,21764,12067,35514,24182,64.3,40.5
+11 Criminal Trespass/Burglary,57477,114123,5,49,17,171529,2657,5941,1337,42635,58890,111460,60069,42,35
+12 Theft,197257,467833,71,1819,141,663059,8627,15457,3652,132842,295445,456023,207036,31,31.1
+13 Unlawful Assembly,2205,10876,4,7,0,13070,1026,362,69,7056,1359,9872,3198,83.9,24.4
+14 Riots,32977,65255,10,50,3,98169,1828,1357,1003,53367,4651,62206,35963,92,36.6
+15 Criminal Breach of Trust,20107,19218,12,88,0,39225,1048,884,93,11581,4285,17891,21334,73,54.3
+16 Cheating,95487,115405,28,732,7,210125,13849,12257,1514,53188,23400,104208,105917,69.4,50.2
+17 Forgery,6856,13846,7,57,5,20633,2493,1337,36,5326,1477,10669,9964,78.3,48.1
+18 Counterfeiting,2965,1701,0,49,0,4617,21,39,1,1081,607,1749,2868,64,61.5
+19 Arson,7620,9710,2,6,1,17321,445,414,49,5684,2872,9464,7857,66.4,45.3
+20 Grievous Hurt,36819,92996,24,43,0,129748,1636,1707,382,80135,10325,94185,35563,88.6,27.4
+21 Dowry Deaths,4673,7634,0,6,1,12300,207,222,24,7150,477,8080,4220,93.7,34.3
+22 Assault on Women With Intent To Outrage Her Modesty,24780,82422,12,81,5,107104,4583,1025,182,66887,4252,76929,30175,94,28.1
+23 Insult to the Modesty of Women,3885,8685,1,12,1,12556,337,91,11,7019,476,7934,4622,93.6,36.8
+24 Cruelty by Husband or His Relatives,50933,113403,76,345,3,163912,7458,3314,438,90971,9926,112107,51805,90.2,31.5
+25 Importation of Girls from Foreign Country,24,6,0,0,0,30,1,0,0,9,3,13,17,75,56.7
+26 Causing Death by Negligence,44359,134384,5,106,28,178604,1719,3269,1109,103911,24017,134025,44579,81.2,24.9
+27 Offences against State,436,147,0,4,0,579,1,0,0,59,36,96,483,62.1,82.8
+28 Offences Promoting Enmity between Different Groups,439,424,0,2,0,861,29,17,0,259,61,366,495,80.9,57.4
+29 Extortion,3477,10636,6,28,0,14079,438,265,63,6568,1417,8751,5328,82.3,37.8
+30 Disclosure of Identity of Victims,2,0,0,0,0,2,0,0,0,0,1,1,1,0,50
+31 Causing Injuries under Rash Driving,70666,451069,11,64,9,521651,2970,5277,412,400047,27347,436053,85598,93.6,16.4
+32 Human Trafficking (Sec. 370 & 370 A IPC),351,1021,0,1,0,1371,12,20,0,631,100,763,608,86.3,44.3
+33 Unnatural Offences,299,1347,1,0,1,1644,33,25,0,1006,55,1119,525,94.8,31.9
+34 Other IPC Crimes,250835,973957,55,1376,9,1223352,42570,20666,5908,806583,81702,957429,265923,90.8,21.7
+Total Cognizable IPC crimes,1067102,2949400,426,5608,273,4010195,113388,89549,17849,2056716,591893,2869395,1140800,77.7,28.4

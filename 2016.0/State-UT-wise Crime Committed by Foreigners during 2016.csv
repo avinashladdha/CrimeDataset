@@ -1,0 +1,40 @@
+S. No. (Col.1),State/UT (Col.2),IPC Cases - Murder (Section 302 IPC) (Col.3),IPC Cases - Rape (Section 376 IPC) (Col.4),IPC Cases - Unnatural Offences (Section 377 IPC) (Col.5),IPC Cases - Cheating (Section 420 IPC) (Col.6),"IPC Cases - Forgery (Section 467, 468 and 471 IPC) (Col.7)",IPC Cases - Counterfeiting currency notes or Bank notes (Section 489A to 489E IPC) (Col.8),IPC Cases - Total IPC Crimes (Col.9),"SLL Cases - Foreigner Act, 1946 (Col.10)","SLL Cases - Narcotic Drugs & Psychotropic Substances Act, 1985 (Col.11)","SLL Cases - Passport Act, 1967 (Col.12)","SLL Cases - Registration of Foreigners Act, 1939 (Col.13)","SLL Cases - Arms Act,1959 (Col.14)","SLL Cases - Information Technology Act, 2000 (Col.15)","SLL Cases - Explosives and Explosive Substances Act, 1884 & 1908 (Col.16)",SLL Cases - Total SLL Crimes (Col.17),Other Crimes (IPC*+SLL) (Col.18),Total Crimes Committed by Foreigners (Col.19) = (Col.9+Col.17 +Col.18)
+1,Andhra Pradesh,0,0,0,2,0,1,3,1,1,0,0,0,0,0,2,2,7
+2,Arunachal Pradesh,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+3,Assam,0,0,0,0,0,0,0,4,0,1,2,1,0,0,8,0,8
+4,Bihar,0,0,0,0,0,0,0,3,0,1,0,0,0,0,4,0,4
+5,Chhattisgarh,0,0,0,0,0,0,0,0,0,3,1,0,0,0,4,0,4
+6,Goa,1,3,0,21,2,0,27,20,14,0,0,0,0,0,34,19,80
+7,Gujarat,0,0,0,0,1,0,1,9,0,0,0,0,0,0,9,1,11
+8,Haryana,0,0,0,3,0,0,3,17,8,0,3,0,0,0,28,7,38
+9,Himachal Pradesh,0,0,0,1,0,0,1,4,5,0,2,0,0,0,11,0,12
+10,Jammu & Kashmir,0,0,0,0,0,0,0,2,1,0,6,1,0,0,10,2,12
+11,Jharkhand,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+12,Karnataka,0,0,0,14,1,1,16,30,15,2,1,1,0,0,49,26,91
+13,Kerala,2,0,0,0,6,0,8,4,1,3,3,2,2,0,15,11,34
+14,Madhya Pradesh,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2
+15,Maharashtra,1,1,0,12,1,1,16,10,7,15,0,1,1,0,34,6,56
+16,Manipur,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2
+17,Meghalaya,0,0,0,0,0,0,0,9,0,0,0,0,0,0,9,0,9
+18,Mizoram,0,0,0,0,0,1,1,3,5,0,0,2,0,2,12,0,13
+19,Nagaland,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+20,Odisha,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,2
+21,Punjab,1,1,0,2,0,0,4,0,7,2,0,0,0,0,9,4,17
+22,Rajasthan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2
+23,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Tamil Nadu,2,0,0,0,0,0,2,1,0,17,6,0,1,0,25,37,64
+25,Telangana,0,0,0,3,1,0,4,2,1,0,0,0,12,0,15,6,25
+26,Tripura,0,0,0,0,0,0,0,3,0,14,0,0,0,0,17,0,17
+27,Uttar Pradesh,0,0,0,0,0,0,0,11,1,0,0,0,0,0,12,0,12
+28,Uttarakhand,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1
+29,West Bengal,0,0,0,0,0,0,0,517,0,0,3,0,0,0,520,0,520
+Total (States),Total (States),7,6,0,59,12,4,88,655,66,58,27,10,16,2,834,124,1046
+30,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,Chandigarh,1,0,0,2,0,0,3,0,1,0,2,0,0,0,3,0,6
+32,D&N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,Delhi,3,6,1,14,40,0,64,1,21,0,0,13,0,0,35,44,143
+35,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,Puducherry,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,30,31
+Total (UTs),Total (UTs),4,6,1,16,41,0,68,1,22,0,2,13,0,0,38,74,180
+Total (All-India),Total (All-India),11,12,1,75,53,4,156,656,88,58,29,23,16,2,872,198,1226

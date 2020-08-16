@@ -1,0 +1,48 @@
+SL. No.,Category,State/U.Ts/Cities,Number of DG/IG/DIG/SP,Number of ASP & DSP,Number of Inspector & Sub Inspectors,Number of Officers Below S.I.,Total
+1,State,Andhra Pradesh,94,284,3465,44975,48818
+2,State,Arunachal Pradesh,6,12,223,1839,2080
+3,State,Assam,97,123,2853,22526,25599
+4,State,Bihar,176,379,6122,47253,53930
+5,State,Gujarat,85,127,2647,44145,47004
+6,State,Haryana,43,87,698,14901,15729
+7,State,Himachal Pradesh,24,54,276,5614,5968
+8,State,Jammu & Kashmir,83,92,934,14357,15466
+9,State,Karnataka,87,159,2430,38334,41010
+10,State,Kerala,59,135,1971,24874,27039
+11,State,Madhya Pradesh,181,465,4107,52728,57491
+12,State,Maharashtra,141,376,6760,94482,101759
+13,State,Manipur,19,35,307,3791,4152
+14,State,Meghalaya,19,19,358,4042,4438
+15,State,Mizoram,12,26,199,1390,1627
+16,State,Nagaland,23,40,325,5908,6296
+17,State,Orissa,119,186,2556,22491,25352
+18,State,Punjab,115,144,1420,26911,28590
+19,State,Rajasthan,136,292,2191,37106,39725
+20,State,Sikkim,13,12,119,1295,1439
+21,State,Tamil Nadu,110,267,5078,45786,51241
+22,State,Tripura,13,41,536,4396,4986
+23,State,Uttar Pradesh,285,893,10704,96497,108379
+24,State,West Bengal,116,209,5910,38332,44567
+Total (States),State,Total (States),2056,4457,62189,693983,762685
+25,UT,A & N Islands,3,10,102,1648,1763
+26,UT,Chandigarh,3,6,96,1400,1505
+27,UT,D & N Haveli,NA,1,5,142,148
+28,UT,Delhi,36,95,2790,21028,23949
+29,UT,"Goa, Daman & Diu",3,12,99,1943,2057
+30,UT,Lakshadweep,1,1,17,267,286
+31,UT,Pondicherry,3,10,78,907,998
+Total (UTs),UT,Total (UTs),49,135,3187,27335,30706
+All India,All India,All India,2105,4592,65376,721318,793391
+1,City,Ahmedabad,15,16,466,7436,7933
+2,City,Bangalore,7,17,415,6128,6567
+3,City,Bombay,23,78,4316,25083,29500
+4,City,Calcutta,21,43,1642,10746,12452
+5,City,Delhi,36,95,2790,21028,23949
+6,City,Hyderabad,14,30,522,4579,5145
+7,City,Jaipur,1,11,208,3083,3303
+8,City,Kanpur,2,15,466,3674,4157
+9,City,Lucknow,4,12,383,2840,3239
+10,City,Madras,12,47,870,9436,10365
+11,City,Nagpur,5,7,172,3418,3602
+12,City,Pune,6,12,265,4408,4691
+Total (Cities),City,Total (Cities),146,383,12515,101859,114903

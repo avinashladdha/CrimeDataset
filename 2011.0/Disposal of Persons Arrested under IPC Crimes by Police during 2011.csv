@@ -1,0 +1,31 @@
+Sl. No.,Crime Head,total No. of Persons Under Arrest* including thosefromPrevious Year,Persons Released Before Trial No,Persons Released Before Trial Percentage to total,Persons Charge Sheeted No.,Persons Charge Sheeted Percentage to total,Persons Under investigation at the End of the Year No.,Persons Under investigation at the End of the Year Percentage to total
+1,Murder (sec.302 IPC),100175,4811,4.8,61931,61.8,33433,33.4
+2,Attempt to commit murder (sec. 307 IPC),98741,4153,4.2,65832,66.7,28756,29.1
+3,"C.H. not amounting murder (sec. 304, 308 IPC)",9893,965,9.8,6065,61.3,2863,28.9
+4,Rape(sec. 376 IPC),37929,2050,5.4,26436,69.7,9443,24.9
+5,Rape(sec. 376 IPC) - Custodial rape,8,5,62.5,3,37.5,0,0
+6,Rape(sec. 376 IPC) - Other rape,37921,2045,5.4,26433,69.7,9443,24.9
+7,"Kidnapping & abduction (sec. 363-369,371-373 IPC)",77818,13301,17.1,41027,52.7,23490,30.2
+8,"Kidnapping & abduction (sec. 363-369,371-373 IPC) - of women & girls",58630,11187,19.1,31419,53.6,16024,27.3
+9,"Kidnapping & abduction (sec. 363-369,371-373 IPC) - of others",19188,2114,11,9608,50.1,7466,38.9
+10,Dacoity(sec. 395-398 IPC),28505,2055,7.2,15207,53.3,11243,39.4
+11,Preparation & assembly for dacoity (sec. 399-402 IPC),17257,386,2.2,10213,59.2,6658,38.6
+12,"Robbery(sec. 392-394,397,398 IPC)",51738,3847,7.4,32470,62.8,15421,29.8
+13,"Burglary(sec. 449-452,454,455,457-460 IPC)",91979,5275,5.7,62400,67.8,24304,26.4
+14,Theft(sec. 379-382 IPC),278505,22871,8.2,179466,64.4,76168,27.3
+15,Theft(sec. 379-382 IPC) - Auto theft,78034,7056,9,51841,66.4,19137,24.5
+16,Theft(sec. 379-382 IPC) - Other theft,200471,15815,7.9,127625,63.7,57031,28.4
+17,"Riots(sec. 143-145,147-151,153,153a,153b,157,158,160 IPC)",454446,19281,4.2,329165,72.4,106000,23.3
+18,Criminal breach of trust (sec. 406-409 IPC),34002,4110,12.1,18605,54.7,11287,33.2
+19,"Cheating(sec. 419,420 IPC)",125509,15281,12.2,69212,55.1,41016,32.7
+20,"Counterfeiting(sec. 231-254,489a-489d IPC)",3953,255,6.5,1833,46.4,1865,47.2
+21,"Arson(sec. 435,436,438 IPC)",17031,1218,7.2,11033,64.8,4780,28.1
+22,"Hurt(sec. 323-333,335-338 IPC)",603212,12001,2,493981,81.9,97230,16.1
+23,Dowry deaths (sec. 304b IPC),32406,3598,11.1,19986,61.7,8822,27.2
+24,Molestation (sec. 354 IPC),62470,1844,3,51210,82,9416,15.1
+25,Sexual harassment (sec. 509 IPC),11452,111,1,9854,86,1487,13
+26,Cruelty by husband and relatives (sec. 498a IPC),218817,16063,7.3,161967,74,40787,18.6
+27,Importation of girls (sec. 366b IPC),279,4,1.4,240,86,35,12.5
+28,Death due to negligence (304a IPC),113966,3272,2.9,84594,74.2,26100,22.9
+29,Other IPC crimes,1442324,57180,4,1158325,80.3,226819,15.7
+30,Total cognizable crimes under IPC,3912407,193932,5,2911052,74.4,807423,20.6

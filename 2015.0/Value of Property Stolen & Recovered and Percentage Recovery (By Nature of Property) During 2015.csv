@@ -1,0 +1,25 @@
+Property(Col. 1),Nature of Property (Col. 2),Number of Cases In Which Property - Stolen (Col. 3),Number of Cases In Which Property - Recovered (Col. 4),Percentage Recovery (Col. 5) = (Col.4/Col.3) x 100,Value of Property (in lakhs) - Stolen (Col. 6),Value of Property (in lakhs) - Recovered (Col. 7),Percentage Recovery (Col. 8) = (Col.7/Col.6) x 100
+1,Communication & Electricity Wire,5982,1768,29.6,2332.4,794.4,34.1
+2,Cattle,8815,4144,47,3515.8,1623.3,46.2
+3,Cycle,4671,1243,26.6,200.6,44.1,22
+4,Motor Vehicles (Total),197115,41019,20.8,125296.9,37480.4,29.9
+4.1,Motor Cycles/Scooters,159646,33666,21.1,43747.1,11152,25.5
+4.2,LMV/Light Motor Vehicles,NA,NA,NA,NA,NA,NA
+4.21,LMV/Car,18415,2692,14.6,32984.4,6980.6,21.2
+4.22,LMV/Sport Utility(SUV),588,156,26.5,2847.1,775,27.2
+4.23,LMV Others,3657,1070,29.3,10003.8,4327.5,43.3
+4.3,Goods Carrying Vehicles(Truck etc),3417,1102,32.3,23790.4,9472,39.8
+4.4,Public Transport(Bus),121,66,54.5,1062.1,544.6,51.3
+4.5,Three Wheeler(Auto etc),2779,1119,40.3,2497.2,1056.3,42.3
+4.6,Other Vehicles,8492,1148,13.5,8364.8,3172.4,37.9
+5,Fire Arms,364,88,24.2,241.1,58.7,24.4
+5.1,Regular,168,34,20.2,113.9,22,19.3
+5.2,Country Made,196,54,27.6,127.1,36.7,28.9
+6,Explosives/Explosive Substances,34,13,38.2,83.4,14.5,17.3
+7,Electric Component,65336,15055,23,13336.5,2640.8,19.8
+7.1,Mobile Phone(s),46873,11718,25,7248.1,1567.8,21.6
+7.2,Laptop(s),11745,1838,15.6,3541.4,624.4,17.6
+7.3,Other Electronic Gadgets,6718,1499,22.3,2547,448.6,17.6
+8,Cultural Property,1747,693,39.7,1611.1,623.8,38.7
+9,Other Kind of Property,360951,109540,30.3,674422.7,91739.4,13.6
+Total Property,Total Property,645015,173563,26.9,821040,135019,16.4

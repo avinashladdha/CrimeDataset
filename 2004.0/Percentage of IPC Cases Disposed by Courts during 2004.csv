@@ -1,0 +1,31 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Cases Withdrawn by Govt. (Col. 3),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 4),Percentage of Cases to Total Cases for Trial - in which Trials were Completed - Convicted (Col. 5),Percentage of Cases to Total Cases for Trial in which - Trial was Completed - Acquitted or Discharged (Col. 6),Percentage of Cases to Total Cases for Trial - in which Trial was Completed - Total (Col. 7) = {(Col. 5) + (Col. 6)},Percentage of Cases to Total Cases for Trial - Pending Trial (Col. 8),Conviction Rate (Col. 9) = {(Col. 5)/ (Col. 7) × 100}
+1,Murder,0,0.6,5.4,10.5,15.9,83.4,34
+2,Attempt to Commit Murder,0,0.5,5.4,12.1,17.4,82.1,30.8
+3,C.H. Not Amounting to Murder,0,0.2,5.1,10.6,15.8,84,32.6
+4,Rape - Total,0.2,0.9,5,14.8,19.7,79.4,25.2
+4,Rape - Total i) Custodial Rape,0,0,0,0,0,0,0
+4,Rape - Total ii) Other Rape,0.2,0.9,5,14.8,19.7,79.4,25.2
+5,Kidnapping & Abduction - Total,0,0.6,3.4,10.4,13.8,85.6,24.5
+5,Kidnapping & Abduction - i) of Women & Girls,0,0.7,3.4,10.6,14,85.3,24.2
+5,Kidnapping & Abduction ii) of Others,0,0.3,3.4,10,13.4,86.4,25.4
+6,Dacoity,0,0.2,2.5,9,11.6,88.3,22
+7,Preparation & Assembly for Dacoity,0.3,0.3,3.3,11.8,15.1,84.6,22
+8,Robbery,0,0.3,3.5,7.7,11.2,88.5,31
+9,Burglary,0,0.6,4.9,7.9,12.7,86.7,38.1
+10,Theft - Total,0,0.5,5.2,6.9,12.1,87.5,42.8
+10,Theft - i) Auto Theft,0,0.3,6.1,7,13.2,86.5,46.6
+10,Theft - ii) Other Theft,0,0.5,5,6.9,11.8,87.6,42
+11,Riots,0,1.7,2.3,8.1,10.4,87.9,22
+12,Criminal Breach of Trust,0,0.8,2.2,5.9,8,91.2,26.8
+13,Cheating,0,1.4,2.5,6.4,8.9,89.7,27.7
+14,Counterfeiting,0,0.9,5.1,10.4,15.6,83.5,33.1
+15,Arson,0,1,2.8,12,14.8,84.2,18.9
+16,Hurt,0,5.5,5.1,9,14.1,80.5,36
+17,Dowry Death,0,0.4,6,12.7,18.7,81,32.1
+18,Molestation,0,4.5,4.4,9.9,14.4,81.1,30.9
+19,Sexual Harassment,0,2.4,16.5,10.8,27.3,70.3,60.5
+20,Cruelty by Husband and Relatives,0,2.5,2.7,9.8,12.5,85,21.5
+21,Importation of Girls,0,0,0.6,8.5,9,91,6.3
+22,Causing Death by Negligence,0,0.9,6.6,8.9,15.4,83.7,42.6
+23,Other IPC Crimes,0,2.9,8,7.3,15.3,81.7,52.5
+Total Cognizable Crimes under IPC,Total Cognizable Crimes under IPC,0,2.6,6,8.1,14.1,83.3,42.5

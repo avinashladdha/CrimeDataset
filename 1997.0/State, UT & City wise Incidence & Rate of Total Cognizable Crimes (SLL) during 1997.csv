@@ -1,0 +1,60 @@
+SI.No.,Category,State/UT/City,Incidence of Total Cognizable Crimes,Percentage Contribution to All - India total,Estimated Mid - Year Population(In Lakhs),Rate of Total Cognizable Crimes,Rank of* Criminality
+1,State,Andhra Pradesh,730886,15.6,733.6,996.3,2
+2,State,Arunachal Pradesh,50,0,10.9,4.6,30
+3,State,Assam,2732,0.1,252.8,10.8,26
+4,State,Bihar,8677,0.2,952.4,9.1,27
+5,State,Goa,1182,0,14.6,81,16
+6,State,Gujarat,137344,2.9,464.2,295.9,10
+7,State,Haryana,78264,1.7,190.2,411.5,6
+8,State,Himachal Pradesh,4988,0.1,62.3,80.1,17
+9,State,Jammu & Kashmir,4947,0.1,92.6,53.4,18
+10,State,Karnataka,1332402,28.4,502.9,2649.4,1
+11,State,Kerala,13507,0.3,314.6,42.9,20
+12,State,Madhya Pradesh,242844,5.2,760.1,319.5,8
+13,State,Maharashtra,336251,7.2,882.7,380.9,7
+14,State,Manipur,568,0,23,24.7,23
+15,State,Meghalaya,181,0,22.2,8.2,28
+16,State,Mizoram,1643,0,8.7,188.9,12
+17,State,Nagaland,685,0,15.3,44.8,19
+18,State,Orissa,4042,0.1,349.5,11.6,25
+19,State,Punjab,20448,0.4,228.1,89.6,15
+20,State,Rajasthan,20802,0.4,510.4,40.8,21
+21,State,Sikkim,602,0,5.1,118,13
+22,State,Tamil Nadu,570528,12.2,602.9,946.3,3
+23,State,Tripura,1275,0,34.5,37,22
+24,State,Uttar Pradesh,469350,10,1607,292.1,11
+25,State,West Bengal,687665,14.7,761.4,903.2,4
+Total States,State,Total States,4671863,99.6,9402.1,496.9,NA
+26,UT,A & N Islands,2461,0.1,3.5,703.1,5
+27,UT,Chandigarh,183,0,8.1,22.6,24
+28,UT,D & N Haveli,6,0,1.7,3.5,32
+29,UT,Daman & DIU,6,0,1.3,4.6,29
+30,UT,Delhi,13783,0.3,124.7,110.5,14
+31,UT,LakshadWeep,3,0,0.7,4.3,31
+32,UT,Pondicherry,3134,0.1,10.1,310.3,9
+Total (UTs),UT,Total (UTs),19576,0.4,150.1,130.4,NA
+Total (All -India),Total (All -India),Total (All -India),4691439,100,9552.2,491.1,NA
+33,City,Ahmedabad,14280,0.6,39.1,365.2,14
+34,City,Bangalore,741787,31.8,51.4,14431.7,1
+35,City,Bhopal,1240,0.1,14.6,84.9,19
+36,City,Calcutta,176233,7.5,164.8,1069.4,7
+37,City,Chennai,670158,28.7,123.6,5422,3
+38,City,Coimbatore,7315,0.3,12.3,594.7,12
+39,City,Delhi,12820,0.5,107.4,119.4,18
+40,City,Hyderabad,471526,20.2,60.9,7742.6,2
+41,City,Indore,2322,0.1,13.3,174.6,17
+42,City,Jaipur,1164,0,19.6,59.4,20
+43,City,Kanpur,47037,2,23.2,2027.5,5
+44,City,Kochi,298,0,15.7,19,23
+45,City,Lucknow,19375,0.8,23,842.4,11
+46,City,Ludhiana,835,0,14.7,56.8,21
+47,City,Madurai,61844,2.6,62.9,983.2,8
+48,City,Mumbai,30321,1.3,12.2,2485.3,4
+49,City,Nagpur,4075,0.2,19.4,210.1,16
+50,City,Patna,499,0,12.3,40.6,22
+51,City,Pune,10529,0.5,32,329,15
+52,City,Surat,20503,0.9,21,976.3,9
+53,City,Vadodra,6335,0.3,14.7,431,13
+54,City,Varanasi,11198,0.5,12.1,925.5,10
+55,City,Vishakhapatnam,24525,1,15.1,1624.2,6
+Total Cities,City,Total Cities,2336219,100,885.3,2638.9,NA

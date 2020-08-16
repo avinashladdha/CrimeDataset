@@ -1,0 +1,36 @@
+SL. No.,Category,State/UT/City,Number of Cases in which Property was Stolen - Stolen,Number of Cases in which Property was Stolen - Recovered,Value of Property (Rs. In Lakhs) - Stolen,Value of Property (Rs. In Lakhs) - Recovered
+1,State,Andhra Pradesh ,802,393,72.9,31.2
+2,State,Arunachal Pradesh ,4,2,6.4,1.1
+3,State,Assam,47,13,4.2,0.5
+4,State,Bihar,27,15,1.3,0.1
+5,State,Goa,1,0,0.1,0
+6,State,Gujarat,20,8,0.4,0.1
+7,State,Haryana,1,0,0,0
+8,State,Himachal Pradesh,36,12,9.6,1.7
+9,State,Jammu & Kashmir,0,0,0,0
+10,State,Karnataka ,876,235,70.6,32.5
+11,State,Kerala,8,2,4.9,1.5
+12,State,Madhya Pradesh,104,28,2.9,1.3
+13,State,Maharashtra,124,26,3.3,0.2
+14,State,Manipur,2,0,0.3,0
+15,State,Meghalaya,2,2,0,0
+16,State,Mizoram,3,1,0.1,0
+17,State,Nagaland,0,0,0,0
+18,State,Orissa,0,0,0,0
+19,State,Punjab,0,0,0,0
+20,State,Rajasthan,73,19,8.2,5.6
+21,State,Sikkim ,0,0,0,0
+22,State,Tamil Nadu,500,405,26,16.9
+23,State,Tripura,1,1,0.1,0.1
+24,State,Uttar Pradesh,135,27,11.6,3.1
+25,State,West Bengal ,990,37,30.2,2.6
+Total (States),State,Total (States),3756,1226,253.1,98.5
+26,UT,A & N Islands,0,0,0,0
+27,UT,Chandigarh,2,0,0.3,0
+28,UT,D & N Haveli,0,0,0,0
+29,UT,Daman & Diu,1,0,0.1,0
+30,UT,Delhi,0,0,0,0
+31,UT,Lakshadweep,0,0,0,0
+32,UT,Pondicherry,0,0,0,0
+Total (UTs),UT,Total (UTs),3,0,0.4,0
+Total (All-India),Total (All-India),Total (All-India),3759,1226,253.5,98.5

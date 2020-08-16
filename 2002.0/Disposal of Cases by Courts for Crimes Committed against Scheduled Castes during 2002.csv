@@ -1,0 +1,12 @@
+Sr. No. (Col. 1),Crime Head (Col. 2),Total No. of Cases for Trial Including Pending Cases (Col. 3),Cases Withdrawn by Govt. (Col. 4),No. of Cases - Compounded or Withdrawn (Col. 5),No. of Cases - in which Trials were Completed - Convicted (Col. 6),No. of Cases - in which Trials were Completed - Acquitted or Discharged (Col. 7),No. of Cases - in which Trials were Completed - Total {(Col. 6) + (Col. 7)} = (Col. 8),No. of Cases - Pending Trial (Col. 9)
+1,Murder,2964,4,5,236,287,523,2436
+2,Rape,4052,0,16,259,595,854,3182
+3,Kidnapping & Abduction,1213,0,6,75,147,222,985
+4,Dacoity,92,0,0,14,10,24,68
+5,Robbery,400,0,0,27,48,75,325
+6,Arson,1099,0,5,71,139,210,884
+7,Hurt,15200,1,263,790,1971,2761,12176
+8,P.C.R. Act,4289,0,12,151,615,766,3511
+9,SC/ ST Prev. of Atrocities Act,46476,3,471,2217,5050,7267,38738
+10,Other Crimes against SCs,38679,1,641,2716,4985,7701,30337
+11,Total,114464,9,1419,6556,13847,20403,92642

@@ -1,0 +1,28 @@
+SL. No. (Col. 1),Category (Col.2),States/U.Ts. (Col.3),Number of Occasions on which Firing was Resorted to during - Riot Control Operation (Col.4),Number of Occasions on which Firing was Resorted to during - Dacoity Operation (Col.5),Number of Occasions on which Firing was Resorted to during - Against Other Criminals (Col.6),Number of Occasions on which Firing was Resorted to during - Total (Col.7) = (Col.4+5+6),Civilians - Killed (Col.8),Civilians - Injured (Col.9),Policemen - Killed (Col.10),Policemen - Injured (Col.11)
+1,State,Andhra Pradesh,36,NA,21,57,34,43,NA,87
+2,State,Assam,2,NA,NA,2,3,8,NA,10
+3,State,Bihar,7,NA,2,9,7,8,1,1
+4,State,Gujarat,2,1,17,20,7,2,NA,28
+5,State,Haryana,4,NA,NA,4,10,29,1,120
+6,State,Himachal Pradesh,NA,NA,NA,NA,NA,NA,NA,NA
+7,State,Jammu and Kashmir,NA,NA,NA,NA,NA,NA,NA,NA
+8,State,Kerala,4,1,NA,5,6,8,NA,46
+9,State,Madhya Pradesh,6,118,15,139,23,22,8,64
+10,State,Maharashtra,90,5,3,98,43,140,1,162
+11,State,Manipur,2,NA,NA,2,NA,2,NA,14
+12,State,Mysore,6,NA,3,9,5,55,NA,75
+13,State,Nagaland,NA,NA,NA,NA,NA,NA,NA,NA
+14,State,Orissa,1,NA,NA,1,2,NA,NA,NA
+15,State,Punjab,NA,NA,109,109,52,8,NA,24
+16,State,Rajasthan,6,19,NA,25,33,33,2,94
+17,State,Tamil Nadu,9,NA,2,11,12,32,NA,34
+18,State,Tripura,1,NA,1,2,6,NA,NA,12
+19,State,Uttar Pradesh,2,11,6,19,7,10,6,27
+20,State,West Bengal,429,25,193,647,137,207,5,439
+21,UT,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA
+22,UT,Chandigarh,NA,NA,NA,NA,NA,NA,NA,NA
+23,UT,D & N Haveli,NA,NA,NA,NA,NA,NA,NA,NA
+24,UT,Delhi,NA,NA,NA,NA,NA,NA,NA,NA
+25,UT,Goa,NA,NA,NA,NA,NA,NA,NA,NA
+26,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Pondicherry,NA,NA,NA,NA,NA,NA,NA,NA

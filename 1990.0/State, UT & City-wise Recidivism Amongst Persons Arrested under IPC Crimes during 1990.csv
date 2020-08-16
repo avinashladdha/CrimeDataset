@@ -1,0 +1,48 @@
+SL. No. (Col. 1),Category (Col. 2),State/UT/City (Col. 3),Total Number of Persons Arrested (Col. 4),New Offenders - Number (Col. 5),New Offenders - Percentage to Total (Col. 6),Old Offenders Convicted in the Past - Once - Number (Col. 7),Old Offenders Convicted in the Past - Once - Percentage to Total (Col. 8),Old Offenders Convicted in the Past - Twice - Number (Col. 9),Old Offenders Convicted in the Past - Twice - Percentage to Total (Col. 10),Old Offenders Convicted in the Past - Thrice or More - Number (Col. 11),Old Offenders Convicted in the Past - Thrice or More - Percentage to Total (Col. 12),Old Offenders Convicted in the Past - Percentage of Recidivists (Col. 8+10+12) (Col. 13)
+1,State,Andhra Pradesh,172387,160916,93.3,7906,4.6,2573,1.5,992,0.6,6.7
+2,State,Arunachal Pradesh,2264,2253,99.5,7,0.3,3,0.1,1,0,0.5
+3,State,Assam,57114,56700,99.3,384,0.7,30,0.1,0,0,0.7
+4,State,Bihar,263308,255193,96.9,6101,2.3,1707,0.6,307,0.1,3.1
+5,State,Goa,4691,4570,97.4,67,1.4,38,0.8,16,0.3,2.6
+6,State,Gujarat,146851,127266,86.7,16816,11.5,1838,1.3,931,0.6,13.3
+7,State,Haryana,40528,34546,85.2,3613,8.9,2174,5.4,195,0.5,14.8
+8,State,Himachal Pradesh,11293,11083,98.1,161,1.4,31,0.3,18,0.2,1.9
+9,State,Jammu & Kashmir,18322,18322,100,0,0,0,0,0,0,0
+10,State,Karnataka,151058,140980,93.3,9135,6,662,0.4,281,0.2,6.7
+11,State,Kerala,109609,107492,98.1,1778,1.6,282,0.3,57,0.1,1.9
+12,State,Madhya Pradesh,274115,239963,87.5,29526,10.8,3003,1.1,1623,0.6,12.5
+13,State,Maharashtra,248846,237865,95.6,7176,2.9,2032,0.8,1773,0.7,4.4
+14,State,Manipur,2284,2273,99.5,11,0.5,0,0,0,0,0.5
+15,State,Meghalaya,2111,1910,90.5,78,3.7,91,4.3,32,1.5,9.5
+16,State,Mizoram,1281,1256,98,20,1.6,3,0.2,2,0.2,2
+17,State,Nagaland,1833,1588,86.6,245,13.4,0,0,0,0,13.4
+18,State,Orissa,82690,80230,97,2036,2.5,379,0.5,45,0.1,3
+19,State,Punjab,16059,14784,92.1,1052,6.6,184,1.1,39,0.2,7.9
+20,State,Rajasthan,151883,148470,97.8,2839,1.9,433,0.3,141,0.1,2.2
+21,State,Sikkim,468,469,98.1,6,1.3,3,0.6,0,0,1.9
+22,State,Tamil Nadu,210139,102222,48.6,65138,31,21525,10.2,21254,10.1,51.4
+23,State,Tripura,6920,6171,89.2,605,8.7,144,2.1,0,0,10.8
+24,State,Uttar Pradesh,326642,296851,90.9,22639,6.9,6189,1.9,963,0.3,9.1
+25,State,West Bengal,97023,96073,99,845,0.9,96,0.1,9,0,1
+Total (States),State,Total (States),2399719,2149436,89.6,178184,7.4,43420,1.8,28679,1.2,10.4
+26,UT,A & N Islands,1125,1085,96.4,31,2.8,9,0.8,0,0,3.6
+27,UT,Chandigarh,1825,1189,65.2,603,33,15,0.8,18,1,34.8
+28,UT,D & N Haveli,632,630,99.7,0,0,0,0,2,0.3,0.3
+29,UT,Daman & Diu,339,338,99.7,1,0.3,0,0,0,0,0.3
+30,UT,Delhi*,32568,32568,100,0,0,0,0,0,0,0
+31,UT,Lakshadweep,1,0,0,1,100,0,0,0,0,100
+32,UT,Pondicherry,4801,4663,97.1,122,2.5,9,0.2,7,0.1,2.9
+Total (UTs),UT,Total (UTs),41291,40473,98,758,1.8,33,0.1,27,0.1,2
+Total (All -India),Total (All -India),Total (All -India),2441010,2189909,89.7,178942,7.3,43453,1.8,28706,1.2,10.3
+33,City,Ahmedabad,17065,13418,78.6,2653,15.5,770,4.5,224,1.3,21.4
+34,City,Bangalore,14860,12705,85.5,2118,14.3,22,0.1,15,0.1,14.5
+35,City,Bombay,33321,30389,91.2,1466,4.4,659,2,807,2.4,8.8
+36,City,Calcutta,15106,14871,98.4,207,1.4,28,0.2,0,0,1.6
+37,City,Delhi*,31488,31488,100,0,0,0,0,0,0,0
+38,City,Hyderabad,5455,4816,88.3,483,8.9,107,2,49,0.9,11.7
+39,City,Jaipur,6226,5843,93.8,201,3.2,152,2.4,30,0.5,6.2
+40,City,Kanpur,6201,5024,81,870,14,266,4.3,41,0.7,19
+41,City,Lucknow,6082,5668,93.2,343,5.6,62,1,9,0.1,6.8
+42,City,Madras,12231,12080,98.8,102,0.8,49,0.4,0,0,1.2
+43,City,Nagpur,7481,7232,96.7,207,2.8,37,0.5,6,0.1,3.3
+44,City,Pune,13589,13077,96.2,128,0.9,307,2.3,77,0.6,3.8

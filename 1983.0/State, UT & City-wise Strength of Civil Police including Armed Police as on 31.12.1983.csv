@@ -1,0 +1,48 @@
+SL. No.,Category,State/U.Ts/Cities,Number of DG/IG/DIG/SP,Number of ASP & DSP,Number of Inspector/Sub-Inspectors,Number of Officers Below Sub-Inspectors,Total
+1,State,Andhra Pradesh,104,210,3046,47584,50944
+2,State,Assam,75,234,2934,26674,29917
+3,State,Bihar,125,392,6801,59082,66400
+4,State,Gujarat,82,154,3098,54587,57921
+5,State,Haryana,50,101,823,18896,19870
+6,State,Himachal Pradesh,55,63,377,7918,8413
+7,State,Jammu and Kashmir,72,166,1256,22276,23770
+8,State,Karnataka,89,156,2283,39906,42434
+9,State,Kerala,68,139,1888,20717,22812
+10,State,Madhya Pradesh,175,566,5439,73194,79374
+11,State,Maharashtra,151,373,6080,98264,104868
+12,State,Manipur,39,58,366,7454,7917
+13,State,Meghalaya,16,27,394,5044,5481
+14,State,Nagaland,24,83,522,11932,12561
+15,State,Orissa,115,258,2621,26673,29667
+16,State,Punjab,47,108,783,27874,28812
+17,State,Rajasthan,141,366,2495,43447,46449
+18,State,Sikkim,14,18,126,1699,1857
+19,State,Tamil Nadu,115,243,5005,44462,49825
+20,State,Tripura,15,50,1028,5457,6550
+21,State,Uttar Pradesh,355,845,11893,124166,137259
+22,State,West Bengal,138,249,5892,62690,68969
+Total (States),State,Total (States),206,4859,65150,829996,902070
+23,UT,A & N Islands,2,12,117,1821,1952
+24,UT,Arunachal Pradesh,6,14,146,1937,2103
+25,UT,Chandigarh,2,5,104,2138,2249
+26,UT,D & N Haveli,NA,1,5,149,155
+27,UT,Delhi,41,119,2725,25843,28728
+28,UT,"Goa, Daman & Diu",4,10,100,2336,2450
+29,UT,Lakshadweep,1,1,16,258,276
+30,UT,Mizoram,14,19,222,2269,2524
+31,UT,Pondicherry,13,NA,96,1436,1545
+Total (UTs),UT,Total (UTs),83,181,3531,38187,41982
+All India,All India,All India,2148,5040,68681,868183,944052
+1,City,Ahmedabad,10,15,432,6925,7382
+2,City,Bangalore,8,17,389,5290,5704
+3,City,Bombay,20,67,2220,16880,19187
+4,City,Calcutta,26,66,1914,18029,20035
+5,City,Delhi,41,119,2725,25843,28728
+6,City,Hyderabad,14,33,464,6073,6584
+7,City,Jaipur,1,16,303,5267,5587
+8,City,Kanpur,2,8,487,4547,4994
+9,City,Lucknow,NA,NA,NA,NA,NA
+10,City,Madras,12,34,759,6413,7218
+11,City,Nagpur,5,10,175,3309,3499
+12,City,Pune,6,12,213,4464,4695
+Total (Cities),City,Total (Cities),145,397,10031,103040,113613

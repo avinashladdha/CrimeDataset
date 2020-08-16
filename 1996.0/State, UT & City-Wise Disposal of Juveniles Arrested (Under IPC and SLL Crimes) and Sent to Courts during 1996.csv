@@ -1,0 +1,59 @@
+Category,SL. No.,State/UT/City,Arrested & Sent to Courts,Sent to Home After Advice or Admonition,Released on Probation and Placed Under Care of - Parents/ Guardians,Released on Probation and Placed Under Care of - Fit Instt.,Sent to Special Homes,Dealt with Fine,Acquitted or Otherwise Disposed of,Pending Disposal
+State,1,Andhra Pradesh,1216,83,356,125,66,223,47,316
+State,2,Arunachal Pradesh,17,0,17,0,0,0,0,0
+State,3,Assam,286,21,24,39,15,3,81,103
+State,4,Bihar,2032,822,179,139,301,62,124,405
+State,5,Goa,35,0,5,0,4,0,0,26
+State,6,Gujarat,1958,131,272,108,93,115,366,873
+State,7,Haryana,286,1,5,2,2,56,40,180
+State,8,Himachal Pradesh,79,6,1,0,0,0,7,65
+State,9,Jammu & Kashmir,2,0,0,0,0,0,0,2
+State,10,Karnataka,539,143,72,27,59,41,14,183
+State,11,Kerala,139,6,0,8,0,0,27,98
+State,12,Madhya Pradesh,4337,501,547,36,366,184,341,2362
+State,13,Maharashtra,2866,587,384,112,149,61,103,1470
+State,14,Manipur,0,0,0,0,0,0,0,0
+State,15,Meghalaya,34,10,6,0,0,0,14,4
+State,16,Mizoram,137,0,0,136,0,0,0,1
+State,17,Nagaland,0,0,0,0,0,0,0,0
+State,18,Orissa,169,15,40,15,13,18,1,67
+State,19,Punjab,5,0,0,0,2,3,0,0
+State,20,Rajasthan,822,90,77,10,55,17,51,522
+State,21,Sikkim,4,4,0,0,0,0,0,0
+State,22,Tamil Nadu,3490,2057,284,32,352,89,223,453
+State,23,Tripura,0,0,0,0,0,0,0,0
+State,24,Uttar Pradesh,38,0,3,0,35,0,0,0
+State,25,West Bengal,14,0,0,0,4,0,0,10
+State,Total (States),Total (States),18505,4477,2272,789,1516,872,1439,7140
+UT,26,A & N Islands,4,0,0,0,0,0,0,4
+UT,27,Chandigarh,41,0,0,6,0,2,2,31
+UT,28,D & N Haveli,3,1,1,0,0,1,0,0
+UT,29,Daman & Diu,2,0,0,0,0,2,0,0
+UT,30,Delhi,533,0,10,0,102,3,76,342
+UT,31,Lakshadweep,0,0,0,0,0,0,0,0
+UT,32,Pondicherry,10,3,0,0,5,0,0,2
+UT,Total (UTs),Total (UTs),593,4,11,6,107,8,78,379
+Total (All -India),Total (All -India),Total (All -India),19098,4481,2283,795,1623,880,1517,7519
+City,33,Ahmedabad,125,27,18,19,0,16,18,27
+City,34,Bangalore,132,69,38,24,0,0,1,0
+City,35,Bhopal,0,0,0,0,0,0,0,0
+City,36,Bombay,508,167,68,32,37,13,54,137
+City,37,Calcutta,4,0,0,0,4,0,0,0
+City,38,Coimbatore,123,0,107,3,0,0,0,13
+City,39,Delhi,533,0,10,0,102,3,76,342
+City,40,Hyderabad,105,0,0,105,0,0,0,0
+City,41,Indore,71,0,0,0,0,0,61,10
+City,42,Jaipur,93,46,24,6,17,0,0,0
+City,43,Kanpur,3,0,3,0,0,0,0,0
+City,44,Kochi,11,0,0,0,0,0,0,11
+City,45,Lucknow,0,0,0,0,0,0,0,0
+City,46,Ludhiana,0,0,0,0,0,0,0,0
+City,47,Madras,43,5,24,5,0,0,6,3
+City,48,Madurai,354,0,94,0,8,0,214,38
+City,49,Nagpur,55,0,0,0,25,10,0,20
+City,50,Patna,26,5,1,0,0,0,5,15
+City,51,Pune,126,25,60,0,32,0,5,4
+City,52,Surat,483,82,67,29,20,64,221,0
+City,53,Vadodara,170,0,0,0,0,0,43,127
+City,54,Varanasi,0,0,0,0,0,0,0,0
+City,55,Vishakhapatnam,102,2,7,0,0,31,4,58

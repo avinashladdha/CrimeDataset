@@ -1,0 +1,18 @@
+SL. No. (Col. 1),Crime Head (Col. 2),Percentage of Cases to Total Cases for Trial - Compounded or Withdrawn (Col. 3),Percentage of Cases to Total Cases for Trial - in which Tials were Completed - Convicted (Col. 4),Percentage of Cases to Total Cases for Trial - in which Tials were Completed - Acquitted or Discharged (Col. 5),Percentage of Cases to Total Cases for Trial - in which Tials were Completed - Total [Col. 4+5] (Col. 6),Percentage of Cases to Total Cases for Trial - Pending Trial (Col. 7)
+1,Arms Act,0.3,16.9,8.9,25.8,73.9
+2,Narcotic Drugs & Psychotropic Substances Act,0.4,16.6,13.1,29.7,69.9
+3,Gambling Act,0.6,41.2,6.6,47.8,51.6
+4,Excise Act,0.5,24.8,10.7,35.5,64
+5,Prohibition Act,0.5,11.3,7.8,19.1,80.3
+6,Explosive & Explosive Substances Act,0.4,14.4,10,24.4,75.2
+7,Immoral Traffic (Prevention) Act,0.3,59.5,4.9,64.4,35.3
+8,Indian Railways Act,0.3,72.9,1.9,74.8,24.9
+9,Foreigner's Registration Act,0,28.2,4.1,32.3,67.7
+10,Protection Of Civil Rights Act,1.6,3.9,11.2,15.1,83.4
+11,Indian Passport Act,0.3,23.6,3.2,26.8,72.8
+12,Essential Commodities Act,0.3,10.6,9.4,20,79.8
+13,Terrorist & Disruptive Activites Act,0.2,4.8,26.5,31.3,68.5
+14,Antiquity & Art Treasure Act,0,22.2,0,22.2,77.8
+15,Dowry Prohibition Act,0.8,3.5,8.9,12.4,86.8
+16,Other LSL Crimes not Include Above,1.9,75.7,3.1,78.8,19.3
+17,Total Cognizable Crimes Under LSL,1.3,52.2,5.1,57.3,41.3

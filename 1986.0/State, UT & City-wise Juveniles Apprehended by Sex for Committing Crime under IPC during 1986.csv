@@ -1,0 +1,48 @@
+SL. No.,Category,States/U.Ts/Cities,Boys,Girls,Total
+1,State,Andhra Pradesh,1279,157,1436
+2,State,Arunachal Pradesh,242,3,245
+3,State,Assam,2808,45,2853
+4,State,Bihar,3788,244,4032
+5,State,Gujarat,11892,675,12567
+6,State,Haryana,2474,15,2489
+7,State,Himachal Pradesh,933,123,1056
+8,State,Jammu & Kashmir,1454,80,1534
+9,State,Karnataka,1727,90,1817
+10,State,Kerala,432,21,453
+11,State,Madhya Pradesh,13211,347,13558
+12,State,Maharashtra,18906,1462,20368
+13,State,Manipur,368,13,381
+14,State,Meghalaya,55,NA,55
+15,State,Mizoram,286,38,324
+16,State,Nagaland,NA,NA,NA
+17,State,Orissa,492,4,496
+18,State,Punjab,221,NA,221
+19,State,Rajasthan,2909,230,3139
+20,State,Sikkim,65,1,66
+21,State,Tamil Nadu,3030,189,3219
+22,State,Tripura,261,21,282
+23,State,Uttar Pradesh,217,7,224
+24,State,West Bengal,1661,40,1701
+Total (States),State,Total (States),68711,3805,72516
+25,UT,A & N Islands,186,1,187
+26,UT,Chandigarh,246,2,248
+27,UT,D & N Haveli,67,NA,67
+28,UT,Delhi,3225,123,3348
+29,UT,"Goa, Daman & Diu",625,72,697
+30,UT,Lakshadweep,6,NA,6
+31,UT,Pondicherry,536,86,622
+Total (UTs),UT,Total (UTs),4891,284,5175
+All India,All India,All India,73602,4089,77691
+1,City,Ahmedabad,2452,195,2647
+2,City,Bangalore,376,4,380
+3,City,Bombay,463,45,508
+4,City,Calcutta,32,1,33
+5,City,Delhi,3069,116,3185
+6,City,Hyderabad,329,3,332
+7,City,Jaipur,715,28,743
+8,City,Kanpur,NA,NA,NA
+9,City,Lucknow,31,NA,31
+10,City,Madras,357,16,373
+11,City,Nagpur,754,15,769
+12,City,Pune,2401,135,2536
+Total (Cities),City,Total (Cities),10979,558,11537

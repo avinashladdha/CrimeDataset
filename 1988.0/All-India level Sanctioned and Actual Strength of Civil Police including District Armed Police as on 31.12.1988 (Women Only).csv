@@ -1,0 +1,48 @@
+SL. No.,Category,State/UT/City,DG/IG/DIG/SP - Sanctioned,DG/IG/DIG/SP - Actual,ASP & DSP - Sanctioned,ASP & DSP - Actual,"Inspector, SI & A.S.I. - Sanctioned","Inspector, SI & A.S.I. - Actual",Officers Below A.S.I. - Sanctioned,Officers Below A.S.I. - Actual,Grand Total - Sanctioned,Grand Total - Actual
+1,State,Andhra Pradesh,0,0,0,0,0,0,0,0,0,0
+2,State,Arunachal Pradesh,0,0,0,0,13,3,52,28,65,31
+3,State,Assam,0,0,0,0,22,22,201,201,223,223
+4,State,Bihar,2,2,2,2,44,44,245,245,293,293
+5,State,Goa,0,0,0,0,4,6,165,78,169,84
+6,State,Gujarat,0,0,0,0,24,24,716,671,740,695
+7,State,Haryana,0,0,0,0,19,19,169,169,188,188
+8,State,Himachal Pradesh,0,0,0,0,3,4,41,175,44,179
+9,State,Jammu & Kashmir,0,0,0,0,0,0,0,0,0,0
+10,State,Karnataka,64,3,162,0,3392,2421,38503,37456,42121,39880
+11,State,Kerala,0,0,0,0,9,9,368,368,377,377
+12,State,Madhya Pradesh,11,11,134,134,1815,1815,0,0,1960,1960
+13,State,Maharashtra,1,1,2,2,151,146,1273,1223,1427,1372
+14,State,Manipur,0,0,0,3,1,6,243,235,244,244
+15,State,Meghalaya,0,0,0,0,4,14,40,63,44,77
+16,State,Mizoram,0,0,0,0,0,4,0,45,0,49
+17,State,Nagaland,0,0,0,0,12,9,15,15,27,24
+18,State,Orissa,0,0,1,1,47,57,101,170,149,228
+19,State,Punjab,0,0,0,0,23,21,350,346,373,367
+20,State,Rajasthan,1,1,0,1,23,23,455,455,480,480
+21,State,Sikkim,0,0,0,0,10,10,13,13,23,23
+22,State,Tamil Nadu,3,3,0,0,91,81,770,701,864,785
+23,State,Tripura,0,0,0,0,22,19,175,160,197,179
+24,State,Uttar Pradesh,0,2,0,2,53,53,1283,1283,1336,1340
+25,State,West Bengal,0,0,0,0,0,0,0,0,0,0
+Total (States),State,Total (States),82,23,302,145,5782,4810,45178,44100,51344,49078
+26,UT,A & N Islands,0,0,0,0,1,3,5,42,6,45
+27,UT,Chandigarh,0,0,0,0,2,5,22,56,24,61
+28,UT,D & N Haveli,0,0,0,0,0,0,0,11,0,11
+29,UT,Daman & Diu,0,0,0,0,0,0,0,0,0,0
+30,UT,Delhi,0,2,1,3,347,272,838,448,1186,725
+31,UT,Lakshadweep,0,0,0,0,1,0,7,7,8,7
+32,UT,Pondicherry,0,0,0,0,2,2,12,12,14,14
+Total (UTs),UT,Total (UTs),0,2,1,3,353,282,884,576,1238,863
+Total (All-India),Total (All-India),Total (All-India),82,25,303,148,6135,5092,46062,44676,52582,49941
+33,City,Ahmedabad,0,0,0,0,1,1,136,100,137,101
+34,City,Bangalore,1,1,0,0,19,16,143,143,163,160
+35,City,Bombay,0,0,3,2,132,51,405,382,540,435
+36,City,Calcutta,0,0,1,0,77,75,80,50,158,125
+37,City,Delhi,0,2,1,3,347,272,838,448,1186,725
+38,City,Hyderabad,0,0,0,0,4,4,55,51,59,55
+39,City,Jaipur,0,0,0,0,0,0,51,48,51,48
+40,City,Kanpur,0,0,0,0,4,4,43,42,47,46
+41,City,Lucknow,0,0,0,0,4,4,43,43,47,47
+42,City,Madras,0,0,0,0,9,9,122,119,131,128
+43,City,Nagpur,0,0,0,0,5,3,54,49,59,52
+44,City,Pune,0,0,0,0,9,9,77,77,86,86

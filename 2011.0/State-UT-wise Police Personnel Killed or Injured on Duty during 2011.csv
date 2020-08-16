@@ -1,0 +1,39 @@
+Sl. No.,Category,State/UT,Number of Victims Killed - in Terrorist/ Extremists Operations,Number of Victims Killed - in Dacoity Operation or Other Raids,Number of Victims Killed - by Riotous Mobs,Number of Victims Killed - by Other Criminals,Number of Victims Killed - on Border Duties,Number of Victims Killed - in Accidents,Number of Victims Killed - Total,Number of Victims injured - in Terrorist/ Extremists Operations,Number of Victims injured - in Dacoity Operation or Other Raids,Number of Victims injured - by Riotous Mobs,Number of Victims injured - by Other Criminals,Number of Victims injured - on Border Duties,Number of Victims injured - in Accidents,Number of Victims injured - Total
+1,State,Andhra Pradesh,0,0,0,0,0,26,26,0,1,117,23,0,56,197
+2,State,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,12,0,0,0,12
+3,State,Assam,1,0,0,0,0,2,3,0,0,0,0,0,0,0
+4,State,Bihar,1,0,1,0,0,7,9,1,19,26,0,0,2,48
+5,State,Chhattisgarh,52,0,4,5,0,24,85,25,4,21,0,0,1,51
+6,State,Goa,0,0,0,0,0,0,0,0,0,22,0,0,3,25
+7,State,Gujarat,0,0,0,2,0,43,45,0,0,34,14,1,6,55
+8,State,Haryana,0,0,1,0,0,30,31,0,0,0,2,0,3,5
+9,State,Himachal Pradesh,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+10,State,Jammu & Kashmir,14,0,0,0,0,4,18,22,0,115,6,0,9,152
+11,State,Jharkhand,37,0,0,0,0,16,53,8,0,5,0,0,6,19
+12,State,Karnataka,0,0,0,0,0,12,12,0,3,97,27,0,28,155
+13,State,Kerala,0,0,0,0,0,6,6,0,3,322,175,0,15,515
+14,State,Madhya Pradesh,0,0,0,4,0,35,39,0,4,27,54,0,10,95
+15,State,Maharashtra,8,0,0,2,0,80,90,22,15,402,138,0,139,716
+16,State,Manipur,2,0,0,0,0,7,9,0,0,0,0,0,6,6
+17,State,Meghalaya,11,0,0,0,0,0,11,6,0,0,0,0,0,6
+18,State,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,State,Odisha,2,0,0,0,0,4,6,4,6,26,12,0,0,48
+21,State,Punjab,3,0,0,2,0,94,99,0,2,0,0,0,15,17
+22,State,Rajasthan,0,0,0,18,0,41,59,0,2,13,145,2,16,178
+23,State,Sikkim,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,State,Tamil Nadu,0,0,0,0,0,83,83,0,0,123,0,0,155,278
+25,State,Tripura,0,0,0,0,0,0,0,0,0,19,5,0,0,24
+26,State,Uttar Pradesh,1,1,5,15,0,112,134,0,1,16,6,0,30,53
+27,State,Uttarakhand,0,0,0,0,0,13,13,0,0,0,0,0,3,3
+28,State,West Bengal,0,1,1,1,0,17,20,2,1,341,9,4,86,443
+State,State,Total (States),132,2,12,49,0,658,853,90,61,1738,616,7,589,3101
+29,Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,9,0,0,9
+30,Union Territory,Chandigarh,0,0,0,0,0,0,0,0,0,44,2,0,3,49
+31,Union Territory,D & N Haveli,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,Union Territory,Delhi,0,0,0,1,0,13,14,0,0,85,25,0,10,120
+34,Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union Territory,Puducherry,0,0,0,0,0,0,0,0,0,17,3,0,0,20
+Union Territory,Union Territory,Total (UTs),0,0,0,1,0,13,14,0,0,146,39,0,13,198
+Total (All-India),Total (All-India),Total (All-India),132,2,12,50,0,671,867,90,61,1884,655,7,602,3299

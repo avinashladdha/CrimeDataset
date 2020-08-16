@@ -1,0 +1,21 @@
+S. No.,City,Education - Illiterate,Education - Primary,Education - Above Primary But Below Matric/ H.Sec.,Education - Matric / H.Sec. & Above,Education - Total,Family Background - Living With Parents,Family Background - Living with Guardians,Family Background - Homeless,Family Background - Total
+1,Ahmedabad (Gujarat),45,276,12,0,333,333,0,0,333
+2,Bengaluru (Karnataka),11,65,168,43,287,283,4,0,287
+3,Chennai (Tamil Nadu),96,181,208,0,485,283,70,132,485
+4,Coimbatore (Tamil Nadu),3,17,12,3,35,21,11,3,35
+5,Delhi,1007,1463,1065,75,3610,2977,405,228,3610
+6,Ghaziabad (Uttar Pradesh),2,4,5,0,11,9,1,1,11
+7,Hyderabad (Telangana),31,65,78,7,181,164,7,10,181
+8,Indore (Madhya Pradesh),59,210,223,22,514,422,78,14,514
+9,Jaipur (Rajasthan),64,106,133,26,329,329,0,0,329
+10,Kanpur (Uttar Pradesh),5,4,3,2,14,14,0,0,14
+11,Kochi (Kerala),0,16,72,18,106,88,7,11,106
+12,Kolkata (West Bengal),7,13,2,0,22,17,5,0,22
+13,Kozhikode (Kerala),0,0,83,16,99,82,17,0,99
+14,Lucknow (Uttar Pradesh),23,5,10,8,46,46,0,0,46
+15,Mumbai (Maharashtra),106,530,491,50,1177,903,235,39,1177
+16,Nagpur (Maharashtra),0,224,325,29,578,519,29,30,578
+17,Patna (Bihar),55,62,17,8,142,105,30,7,142
+18,Pune (Maharashtra),87,432,534,14,1067,942,112,13,1067
+19,Surat (Gujarat),0,305,0,0,305,305,0,0,305
+Total Cities,Total Cities,1601,3978,3441,321,9341,7842,1011,488,9341

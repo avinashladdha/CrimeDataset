@@ -1,0 +1,31 @@
+Sr. No.,Crime Head,2007,2008,2009,2010,2011
+1,Murder (sec.302 IPC),1.6,1.6,1.5,1.5,1.5
+2,Attempt to Commit Murder (sec. 307 IPC),1.4,1.4,1.4,1.3,1.3
+3,"C.h. not Amounting Murder (sec.304 , 308 IPC)",0.2,0.2,0.2,0.2,0.2
+4,Rape (sec. 376 IPC),1,1,1,1,1
+5,Rape (sec. 376 IPC) - Custodial Rape,0,0,0,0,0
+6,Rape (sec. 376 IPC) - Other Rape,1,1,1,1,1
+7,"Kidnapping & Abduction (sec.363-369,371-373 IPC)",1.4,1.4,1.6,1.7,1.9
+8,"Kidnapping & Abduction (sec.363-369,371-373 IPC) - Women & Girls",1,1.1,1.2,1.3,1.5
+9,"Kidnapping & Abduction (sec.363-369,371-373 IPC) - Others",0.4,0.3,0.4,0.4,0.4
+10,Dacoity (sec.395-398 IPC),0.2,0.2,0.2,0.2,0.2
+11,Preparation & Assembly for Dacoity (sec.399 To 402 IPC),0.2,0.2,0.1,0.1,0.1
+12,"Robbery - (sec.392-394, 397,398 IPC)",1,1,1.1,1.1,1.1
+13,"Burglary - (sec.449-452,454,455,457-460 IPC)",4.6,4.5,4.3,4.1,4
+14,Theft - (sec.379 – 382 IPC),14.3,15.1,15.3,14.8,14.7
+15,Theft - (sec.379 – 382 IPC) - Auto Theft,5,5.7,6.6,6.6,6.5
+16,Theft - (sec.379 – 382 IPC) - Other Theft,9.3,9.4,8.7,8.2,8.2
+17,"Sexual Harassment - (sec.143-145, 147-151, 153, 153a,153b,157,158,160 IPC)",3,3.2,3,3,2.9
+18,Criminal Breach of Trust - (sec.406-409 IPC),0.8,0.8,0.8,0.7,0.8
+19,"Cheating - (sec.419,420 IPC)",3.3,3.2,3.4,3.6,3.8
+20,"Counterfeiting (sec.231-254, 489a-489d IPC)",0.1,0.1,0.1,0.1,0.1
+21,"Arson - (sec.435,436,438 IPC)",0.5,0.4,0.4,0.4,0.4
+22,"Hurt - (sec.323-333,335-338 IPC)",13.7,13.6,13.2,13,13
+23,Dowry Deaths - (sec.304b IPC),0.4,0.4,0.4,0.4,0.4
+24,Molestation - (sec. 354 IPC),1.9,1.9,1.8,1.8,1.8
+25,Sexual Harassment - (sec.509 IPC),0.6,0.6,0.5,0.4,0.4
+26,Cruelty By Husband And Relatives (sec. 498a IPC),3.8,3.9,4.2,4.2,4.3
+27,Importation of Girls - (sec.366b IPC),0,0,0,0,0
+28,Causing Death By Negligence - (sec. 304a IPC),4.4,4.4,4.6,4.8,4.7
+29,Other IPC Crimes,41.7,40.9,40.8,41.5,41.5
+30,Total Cognizable Crimes Under IPC,100,100,100,100,100

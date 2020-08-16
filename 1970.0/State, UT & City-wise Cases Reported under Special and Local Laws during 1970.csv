@@ -1,0 +1,38 @@
+SL. No.,Category,States/U.Ts/Cities,Arms Act - Incidence (I),Arms Act - Volume (V),Opium Act - Incidence (I),Opium Act - Volume (V),Gambling Act - Incidence (I),Gambling Act - Volume (V),Excise & Prohibition Act - Incidence (I),Excise & Prohibition Act - Volume (V),Explosives & Explosive Substances Act - Incidence (I),Explosives & Explosive Substances Act - Volume (V),Suppression of Immoral Traffic in Women and Girls Act - Incidence (I),Suppression of Immoral Traffic in Women and Girls Act - Volume (V),Motor Vehicles Act - Incidence (I),Motor Vehicles Act - Volume (V),"Offences under other Special and Local Laws declared to be Cognizable, but not included above - Incidence (I)","Offences under other Special and Local Laws declared to be Cognizable, but not included above - Volume (V)",Grand Total - Incidence (I),Grand Total - Volume (V)
+1,State,Andhra Pradesh,163,0.4,3,NA,49429,114.1,184,0.4,64,0.1,1936,4.5,31898,73.6,177393,409.5,261070,602.7
+2,State,Assam,79,0.5,25,0.2,529,3.4,250,1.6,26,0.2,NA,NA,238,1.5,443,2.8,1590,10.1
+3,State,Bihar,263,0.5,2,NA,408,0.7,324,0.6,182,0.3,3,NA,8125,14,960,1.7,10267,17.8
+4,State,Gujarat,307,1.2,1,NA,14660,55.1,79603,299.2,16,0.1,8,NA,28,0.1,39498,148.4,134121,504.1
+5,State,Haryana,761,7.5,1325,13.1,1064,10.5,6528,64.6,7,0.1,NA,NA,NA,NA,5233,51.8,14918,147.7
+6,State,Himachal Pradesh,102,2.8,53,1.5,20,0.6,119,33,4,0.1,NA,NA,13735,378.9,2057,56.7,17167,473.6
+7,State,Jammu & Kashmir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,State,Kerala,83,0.4,1,NA,571,2.7,10,NA,35,0.2,43,0.2,493,2.3,2313,10.8,3549,16.6
+9,State,Madhya Pradesh,865,2.1,320,0.8,17342,42.5,4864,11.9,117,0.3,NA,NA,77703,190.4,32841,80.5,134052,328.5
+10,State,Maharashtra,147,0.3,9,NA,31652,63.1,137850,274.9,809,1.6,268,0.5,11191,22.3,314333,626.8,496259,989.5
+11,State,Manipur,26,2.3,7,0.6,45,4,73,6.5,2,0.2,NA,NA,NA,NA,138,12.3,291,26
+12,State,Mysore,197,0.7,NA,NA,4869,16.6,11873,40.4,22,0.1,1678,5.7,804262,2739.1,2625,8.9,825526,2811.5
+13,State,Nagaland,7,1.6,1,0.2,5,1.2,4,0.9,2,0.5,NA,NA,87,20.1,NA,NA,106,24.5
+14,State,Orissa,192,0.9,44,0.2,479,2.2,761,3.5,14,0.1,NA,NA,NA,NA,491,2.3,1981,9.1
+15,State,Punjab,3767,25.4,7328,49.5,2634,17.8,20082,135.6,36,0.2,9,0.1,53753,362.9,5128,34.6,92737,626.1
+16,State,Rajasthan,374,1.4,364,1.4,831,3.2,716,2.7,1,NA,2,NA,34165,129.8,1556,5.9,38009,144.4
+17,State,Tamil Nadu,96,0.2,99,0.3,29643,74.9,2,NA,152,0.4,2703,6.8,56150,141.9,625201,1580.4,714046,1805
+18,State,Tripura,14,0.9,NA,NA,7,0.5,3,0.2,50,3.3,NA,NA,728,48.1,69,4.6,871,57.6
+19,State,Uttar Pradesh,11474,12.6,585,0.6,4151,4.6,9071,10,80,0.1,NA,NA,NA,NA,17286,19,42647,46.9
+20,State,West Bengal,280,0.6,2,NA,2368,5.3,1325,2.9,1538,0.4,20,NA,18989,42.2,55995,124.5,80517,179
+21,UT,A & N Islands,1,1.1,1,1.1,15,16.1,647,695.7,2,2.2,NA,NA,14,15.1,64,68.8,744,800
+22,UT,Chandigarh,3,1.9,59,37.1,61,38.4,82,51.6,17,10.7,NA,NA,NA,NA,104,65.4,326,205
+23,UT,D & N Haveli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,UT,Delhi,485,11.4,227,5.4,1519,35.8,3054,72,5,0.1,68,1.6,NA,NA,673,15.9,6031,142.2
+25,UT,"Goa, Daman & Diu",15,2.2,6,0.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,2.2,36,5.2
+26,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,UT,Pondicherry,NA,NA,NA,NA,1513,337,193,43,1,0.2,NA,NA,1135,252.8,4814,1072.2,7656,1705.1
+Total (UTs),UT,Total (UTs),504,8.8,293,5.1,3108,54.2,3976,69.4,25,0.4,68,1.2,1149,20,5670,98.9,14793,258.1
+1,City,Ahmedabad,1,0.1,NA,NA,2424,148.9,4886,300.1,1,0.1,1,0.1,7,0.4,25655,1575.8,32975,2025.5
+2,City,Bangalore,6,0.3,NA,NA,775,42.8,758,4.9,6,0.3,497,27.5,704563,38947.7,3,0.2,706608,39060.7
+3,City,Bombay,7,0.1,NA,NA,11960,209.8,34468,604.7,784,13.8,101,1.8,10991,192.8,276342,4848.1,334653,5871.1
+4,City,Calcutta,25,0.8,2,0.1,1970,62.4,1223,38.7,442,14,20,0.6,2273,72,45649,1445,51604,1633.6
+5,City,Delhi,451,11.6,213,5.4,1446,37.1,2636,67.6,5,0.1,68,1.7,NA,NA,572,14.7,5391,138.2
+6,City,Hyderabad,4,0.3,NA,NA,602,43.7,NA,NA,4,0.3,639,46.4,6234,452.7,39326,2855.9,46809,3399.3
+7,City,Kanpur,957,72.9,56,4.3,258,19.7,445,33.9,2,0.2,23,1.8,20,1.5,852,64.9,2613,199.2
+8,City,Madras,4,0.2,3,0.1,479,23,NA,NA,NA,NA,31,1.5,NA,NA,63606,3049.2,64123,3074
+Total (Cities),City,Total (Cities),1455,6.9,274,1.3,19914,95,44416,211.8,1244,5.9,1380,6.6,724088,3452.5,452005,2155.2,1244776,5935.1

@@ -1,0 +1,58 @@
+Category,Crime Head,2001,2002,2003,2004,2005
+IPC Crimes,Murder,2.1,2.1,2,2,2
+IPC Crimes,Attempt to Commit Murder,2.5,2.6,2.5,2.4,2.3
+IPC Crimes,C.H. Not Amounting to Murder,2,2,1.9,1.8,1.9
+IPC Crimes,Rape - Total,1.3,1.3,1.3,1.2,1.3
+IPC Crimes,Rape - (i) Custodial Rape,0,0,0,0.5,0.4
+IPC Crimes,Rape - (ii) Other Rape,1.3,1.3,1.3,1.2,1.3
+IPC Crimes,Kidnapping & Abduction - Total,1.4,1.4,1.3,1.3,1.4
+IPC Crimes,Kidnapping & Abduction - (i) of Women & Girls,1.2,1.3,1.2,1.2,1.2
+IPC Crimes,Kidnapping & Abduction - (ii) of Others,1.7,1.7,1.6,1.5,1.8
+IPC Crimes,Dacoity,4,3.8,3.6,3.8,3.8
+IPC Crimes,Preparation & Assembly for Dacoity,4.6,4.4,4.4,4.2,3.9
+IPC Crimes,Robbery,1.5,1.5,1.5,1.5,1.6
+IPC Crimes,Burglary,0.7,0.7,0.7,0.7,0.7
+IPC Crimes,Theft - Total,0.6,0.7,0.7,0.7,0.8
+IPC Crimes,Theft - (i) Auto Theft,0.5,0.5,0.5,0.5,0.5
+IPC Crimes,Theft - (ii) Other Theft,0.7,0.7,0.7,0.8,0.9
+IPC Crimes,Riots,5.2,5.4,5.7,5.6,5.7
+IPC Crimes,Criminal Breach of Trust,1.1,1.1,1.1,1.1,1.2
+IPC Crimes,Cheating,1,1,0.9,0.9,0.9
+IPC Crimes,Counterfeiting,1.2,1.5,1.1,1.6,1.1
+IPC Crimes,Arson,1.3,1.5,1.3,1.4,1.4
+IPC Crimes,Hurt,1.8,1.8,1.8,1.8,1.7
+IPC Crimes,Dowry Death,3,2.7,2.7,2.6,2.5
+IPC Crimes,Molestation,1.2,1.3,1.3,1.3,1.3
+IPC Crimes,Sexual Harassment,1.3,1.3,1.2,1.3,1.3
+IPC Crimes,Cruelty by Husband and Relatives,2.2,2.3,2.2,2.2,2.2
+IPC Crimes,Importation of Girls,1.9,1.3,1.2,0.8,1.4
+IPC Crimes,Causing Death by Negligence,0.9,0.9,0.9,0.9,0.9
+IPC Crimes,Other IPC Crimes,1.4,1.4,1.3,1.3,1.3
+IPC Crimes,Total Cognizable Crimes under IPC,1.5,1.5,1.5,1.5,1.4
+SLL Crimes,Arms Act,1.1,1.1,1.1,1.1,1
+SLL Crimes,Narcotic Drugs & Psychotropic Substances Act,1.1,1.1,1.1,1.2,1.2
+SLL Crimes,Gambling Act,2.1,2,2,2,2.1
+SLL Crimes,Excise Act,1.1,1.1,1.1,1,1.1
+SLL Crimes,Prohibition Act,1,1,1,1,1
+SLL Crimes,Explosive & Explosive Substances Act,1.3,1.2,1.3,1.2,1.2
+SLL Crimes,Immoral Traffic (P) Act,1.5,1.8,2,2,2.1
+SLL Crimes,Railways Act,1.1,1.2,1,1.1,1.5
+SLL Crimes,Registration of Foreigners Act,1.9,2.3,2,1.5,1.4
+SLL Crimes,Protection of Civil Rights Act - Total,1.7,1.2,1.2,1.5,1.4
+SLL Crimes,Protection of Civil Rights Act - (i) PCR Act for SCs,1.7,1.2,1.2,1.5,2
+SLL Crimes,Protection of Civil Rights Act - (ii) PCR Act for STs,1.1,0.5,1.7,0.6,0.3
+SLL Crimes,Indian Passport Act,1.7,2.1,2.2,1.4,1.6
+SLL Crimes,Essential Commodities Act,1.5,1.4,1.5,1.4,1.4
+SLL Crimes,Terrorist & Disruptive Activities Act,0,2.2,0.8,1.1,3.3
+SLL Crimes,Antiquity & Art Treasure Act,1,1.7,1.6,1.2,0.6
+SLL Crimes,Dowry Prohibition Act,2.2,2.4,2.3,1.7,2.2
+SLL Crimes,Child Marriage Restraint Act,3.3,4.2,3.6,3.6,3.4
+SLL Crimes,Indecent Representation of Women (P) Act,0.7,1,1,1.2,1
+SLL Crimes,Copyrights Act,1.3,1.4,1.3,1.4,1.3
+SLL Crimes,Sati Prevention Act,0,0,0,0,18
+SLL Crimes,SC/ST (Prevention of Atrocities) Act - Total,1.9,1.9,1.7,1.7,1.7
+SLL Crimes,SC/ST (Prevention of Atrocities) Act - (i) Attrocities Act for SCs,2,1.9,1.7,1.7,1.8
+SLL Crimes,SC/ST (Prevention of Atrocities) Act - (ii) Attrocities Act for STs,1.6,1.6,1.6,1.5,1.5
+SLL Crimes,Forest Act,1.9,1.9,1.9,1.8,1.8
+SLL Crimes,Other SLL Crimes,1.1,1.1,1.1,1.1,1
+SLL Crimes,Total Cognizable Crimes under SLL,1.2,1.1,1.2,1.1,1.1

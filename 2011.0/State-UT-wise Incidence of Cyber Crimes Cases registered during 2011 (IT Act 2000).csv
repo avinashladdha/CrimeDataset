@@ -1,0 +1,93 @@
+Sl. No.,Category,State/UT/City,Tampering Computer Source Document (Sec. 65),Hacking - Loss / damage to computer resource / Utility (Sec. 66(1),Hacking - Hacking (Sec. 66(2),Obscene Publication / Transmission in Electronic Form Sec. 67,Failure - Of compliance / orders of certifying Authority (Sec. 68),Failure - Of compliance / orders of certifying Authority (Sec. 68),Un-authorised access / attempt to access of protected Computer system (Sec. 70),Obtaining Licence or Digital Signature by misrepre-sentation / supression of fact (Sec. 71),Publishing false digital Signature certificate (Sec. 73),Fraud Digital Signature (Sec. 74),Breach of confidentiality/privacy (Sec. 72),Others,Total
+1,State,Andhra pradesh,7,267,20,52,1,0,0,0,1,0,1,0,349
+2,State,Arunachal pradesh,0,10,0,3,0,0,0,0,0,0,0,0,13
+3,State,Assam,0,25,0,4,0,0,0,0,0,0,2,0,31
+4,State,Bihar,0,3,16,5,0,0,0,0,0,1,0,0,25
+5,State,Chhattisgarh,0,0,0,0,0,0,0,0,1,0,1,0,2
+6,State,Goa,0,3,6,6,0,0,0,0,0,0,1,0,16
+7,State,Gujarat,25,15,2,6,0,0,0,2,0,1,1,0,52
+8,State,Haryana,3,28,5,4,0,0,0,0,0,0,2,0,42
+9,State,Himachal pradesh,0,8,0,4,0,0,0,0,0,0,0,0,12
+10,State,Jammu & kashmir,1,0,11,1,0,0,0,0,0,0,1,0,14
+11,State,Jharkhand,0,0,0,0,0,0,0,0,0,0,0,8,8
+12,State,Karnataka,0,87,23,37,0,0,1,2,0,0,1,0,151
+13,State,Kerala,6,55,22,136,2,0,0,0,0,1,5,0,227
+14,State,Madhya pradesh,2,29,16,40,0,0,1,0,0,2,0,0,90
+15,State,Maharashtra,7,68,11,62,2,1,2,0,0,1,3,149,306
+16,State,Manipur,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,State,Meghalaya,0,2,0,0,0,0,0,0,0,4,0,0,6
+18,State,Mizoram,0,0,0,3,0,0,0,0,0,0,0,0,3
+19,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,State,Odisha,1,1,0,3,0,0,0,0,0,1,1,0,7
+21,State,Punjab,7,11,1,36,0,2,0,0,1,0,1,0,59
+22,State,Rajasthan,12,69,0,40,0,0,0,1,0,0,0,0,122
+23,State,Sikkim,0,0,3,0,0,0,0,0,0,0,0,0,3
+24,State,Tamil nadu,3,17,8,9,0,0,0,0,0,0,0,0,37
+25,State,Tripura,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,State,Uttar pradesh,17,43,8,25,1,0,1,0,0,1,5,0,101
+27,State,Uttarakhand,2,0,2,1,0,0,0,0,0,0,1,0,6
+28,State,West bengal,0,33,0,10,0,0,0,0,0,0,0,0,43
+State,State,Total (states),93,774,154,487,6,3,5,5,3,12,26,157,1725
+29,Union territory,A & N islands,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,Union territory,Chandigarh,0,8,0,2,0,0,0,0,0,0,0,0,10
+31,Union territory,D & n haveli,0,2,0,1,0,0,0,0,0,0,0,0,3
+32,Union territory,Daman & diu,0,1,0,0,0,0,0,0,0,0,0,0,1
+33,Union territory,Delhi,1,39,3,6,0,0,0,1,0,0,0,0,50
+34,Union territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union territory,Puducherry,0,2,0,0,0,0,0,0,0,0,0,0,2
+Union territory,Union territory,Total (UTs),1,52,3,9,0,0,0,1,0,0,0,0,66
+Total (All India),Total (all india),Total (all india),94,826,157,496,6,3,5,6,3,12,26,157,1791
+36,City,Agra,3,0,1,1,0,0,0,0,0,0,0,0,5
+37,City,Ahmedabad,18,0,3,1,0,0,0,2,0,0,0,0,24
+38,City,Allahabad,2,1,1,1,0,0,0,0,0,0,0,0,5
+39,City,Amritsar,3,0,0,9,0,0,0,0,0,0,0,0,12
+40,City,Asansol,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,City,Aurangabad,0,14,0,5,0,0,0,0,0,0,0,0,19
+42,City,Bengaluru,0,78,17,19,0,0,0,2,0,0,1,0,117
+43,City,Bhopal,0,0,0,5,0,0,0,0,0,0,0,0,5
+44,City,Chandigarh city,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,City,Chennai,0,10,0,3,0,0,0,0,0,0,0,0,13
+46,City,Coimbatore,3,0,7,5,0,0,0,0,0,0,0,0,15
+47,City,Delhi (city),1,3,39,6,0,0,0,1,0,0,0,0,50
+48,City,Dhanbad,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,City,Durg- bhilainagar,0,0,0,5,0,0,0,0,0,0,1,0,6
+50,City,Faridabad,3,3,2,0,0,0,0,0,0,0,1,0,9
+51,City,Ghaziabad,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,City,Gwalior,0,3,0,2,0,0,0,0,0,1,0,0,6
+53,City,Hyderabad,5,59,0,1,0,0,0,0,1,1,0,0,67
+54,City,Indore,2,1,0,2,0,0,1,0,0,0,0,0,6
+55,City,Jabalpur,0,1,0,5,0,0,0,0,0,1,0,0,7
+56,City,Jaipur,6,56,10,4,0,0,0,0,0,0,0,0,76
+57,City,Jamshedpur,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,City,Jodhpur,0,0,0,15,0,0,0,0,0,0,0,0,15
+59,City,Kannur,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,City,Kanpur,1,1,0,4,1,0,0,0,0,1,0,0,8
+61,City,Kochi,3,7,5,12,2,0,0,0,0,0,0,0,29
+62,City,Kolkata,0,0,0,6,0,0,0,0,0,0,0,0,6
+63,City,Kollam,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,City,Kota,0,0,0,1,0,0,0,0,0,0,0,0,1
+65,City,Kozhikode,0,7,0,5,0,0,0,0,0,0,1,0,13
+66,City,Lucknow,3,7,3,7,0,0,0,0,0,0,0,0,20
+67,City,Ludhiana,2,0,1,13,0,0,0,0,0,0,0,0,16
+68,City,Madurai,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,City,Malappuram,0,0,0,7,0,0,0,0,0,0,0,0,7
+70,City,Meerut,0,2,0,0,0,0,0,0,0,0,0,0,2
+71,City,Mumbai,0,0,0,0,0,0,0,0,0,0,0,8,8
+72,City,Nagpur,1,0,1,2,0,0,0,0,0,0,0,7,11
+73,City,Nasik,0,2,0,0,0,0,0,0,0,0,0,0,2
+74,City,Patna,0,2,15,5,0,0,0,0,1,0,0,0,23
+75,City,Pune,1,22,5,4,1,1,0,0,0,0,3,46,83
+76,City,Raipur,0,12,0,0,0,0,0,0,0,0,0,0,12
+77,City,Rajkot,0,0,1,0,0,0,0,0,0,0,0,0,1
+78,City,Ranchi,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,City,Srinagar,1,0,5,0,0,0,0,0,0,0,0,0,6
+80,City,Surat,0,0,1,0,0,0,0,0,0,0,0,0,1
+81,City,Thirissur,1,0,2,4,0,0,0,0,0,0,1,0,8
+82,City,Thiruvananthapuram,1,0,2,4,0,0,0,0,0,0,0,0,7
+83,City,Tiruchirappalli,0,0,0,1,0,0,0,0,0,0,0,0,1
+84,City,Vadodara,7,2,2,2,0,0,0,0,0,0,1,0,14
+85,City,Varanasi,0,0,2,1,0,0,0,0,0,1,0,0,4
+86,City,Vasai virar city,0,1,1,0,0,0,0,0,0,0,0,2,4
+87,City,Vijayawada,0,0,6,1,0,0,0,0,0,0,0,0,7
+88,City,Vishakhapatnam,0,107,0,0,0,0,0,0,0,0,0,0,107
+City,City,Total(cities),67,401,132,168,4,1,1,5,2,5,9,63,858

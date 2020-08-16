@@ -1,0 +1,40 @@
+SL. No.,Category,States/U.Ts./Cities,Number of Killed Personnel - in Dacoity Operation or Other Raids,Number of Killed Personnel - by Riotous Mobs,Number of Killed Personnel - by Other Criminals,Number of Killed Personnel - on Border Duties,Number of Killed Personnel - in Accidents,Number of Killed Personnel - Total,Number of Injured Personnels - in Dacoity Operation or Other Raids,Number of Injured Personnels - by Riotous Mobs,Number of Injured Personnels - by Other Criminals,Number of Injured Personnels - on Border Duties,Number of Injured Personnels - in Accidents,Number of Injured Personnels - Total
+1,State,Andhra Pradesh,NA,3,4,NA,4,11,5,435,20,NA,NA,460
+2,State,Assam,NA,NA,1,NA,1,2,9,57,21,NA,NA,87
+3,State,Bihar,1,1,1,NA,1,4,27,95,8,NA,28,158
+4,State,Gujarat,NA,NA,1,NA,2,3,65,177,89,5,NA,336
+5,State,Haryana,NA,NA,1,NA,NA,1,NA,NA,3,5,NA,8
+6,State,Jammu & Kashmir,NA,1,NA,NA,NA,1,NA,97,NA,NA,NA,97
+7,State,Kerala,NA,NA,NA,NA,NA,NA,NA,128,13,NA,NA,141
+8,State,Madhya Pradesh,6,2,1,NA,9,18,12,98,81,2,45,238
+9,State,Maharashtra,NA,NA,NA,NA,2,2,25,382,198,5,35,645
+10,State,Mysore,NA,NA,3,NA,2,5,NA,109,5,1,24,139
+11,State,Nagaland,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,State,Orissa,1,NA,1,NA,NA,2,NA,162,36,2,NA,200
+13,State,Punjab,NA,NA,NA,NA,4,4,NA,77,18,NA,NA,95
+14,State,Rajasthan,1,NA,1,NA,3,5,7,165,130,2,NA,304
+15,State,Tamil Nadu,1,NA,1,NA,1,3,19,52,23,1,5,100
+16,State,Uttar Pradesh,4,NA,6,5,9,24,25,62,39,NA,24,150
+17,State,West Bengal,2,NA,3,NA,2,7,19,368,26,NA,2,415
+Total (States),State,Total (States),16,7,24,5,40,92,213,2464,710,23,163,3573
+18,UT,A & N Islands,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,UT,Chandigarh,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,1
+20,UT,Dadra & N. Haveli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,UT,Delhi,NA,NA,NA,NA,2,2,NA,61,24,NA,1,86
+22,UT,"Goa, Daman & Diu",NA,NA,NA,NA,NA,NA,NA,33,12,NA,NA,45
+23,UT,Himachal Pradesh,NA,NA,NA,NA,NA,NA,NA,15,1,1,3,20
+24,UT,Lakshadweep,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,UT,Manipur,NA,1,NA,NA,NA,1,NA,66,NA,NA,NA,66
+26,UT,Pondicherry,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA
+27,UT,Tripura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total (UTs),UT,Total (UTs),NA,1,NA,NA,3,4,NA,176,37,1,4,218
+Total (All-India),Total (All-India),Total (All-India),16,8,24,5,43,96,213,2640,747,24,167,3791
+1,City,Ahmedabad,NA,NA,NA,NA,NA,NA,NA,89,12,NA,NA,101
+2,City,Bangalore,NA,NA,NA,NA,NA,NA,51,NA,NA,NA,NA,51
+3,City,Bombay,NA,NA,NA,NA,2,2,NA,274,59,NA,9,342
+4,City,Calcutta,NA,NA,1,NA,NA,1,NA,162,8,NA,NA,170
+5,City,Delhi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,City,Hyderabad,NA,1,NA,NA,NA,1,323,NA,NA,NA,NA,323
+7,City,Kanpur,NA,NA,2,NA,3,5,3,NA,NA,NA,NA,3
+8,City,Madras,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Total (Cities),City,Total (Cities),NA,1,3,NA,5,9,377,525,79,NA,9,990

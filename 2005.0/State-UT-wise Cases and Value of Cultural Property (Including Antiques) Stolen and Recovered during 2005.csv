@@ -1,0 +1,39 @@
+Category,States/ UTs,Number of Cases in which Property was Stolen,Number of Cases in which Property was Recovered,Value of Property (Rs.in Lakhs) - Stolen,Value of Property (Rs.in Lakhs) - Recovered
+State,Andhra Pradesh,72,27,44.6,4.3
+State,Arunachal Pradesh,10,4,4.6,0.2
+State,Assam,107,35,1.6,0.6
+State,Bihar,129,29,11.6,2.4
+State,Chhattisgarh,4,3,0.3,0.2
+State,Goa,20,1,10.2,0
+State,Gujarat,5,2,1.1,0.2
+State,Haryana,39,23,2.8,1.7
+State,Himachal Pradesh,12,5,13.7,9.7
+State,Jammu & Kashmir,2,1,0.4,0.4
+State,Jharkhand,89,5,3.1,0.3
+State,Karnataka,6,1,1.1,0.2
+State,Kerala,5,4,3.5,0.4
+State,Madhya Pradesh,96,42,29.6,27
+State,Maharashtra,13,8,0.8,0.3
+State,Manipur,0,0,0,0
+State,Meghalaya,0,0,0,0
+State,Mizoram,0,0,0,0
+State,Nagaland,2,1,0.1,0.1
+State,Orissa,33,15,88.8,88.4
+State,Punjab,4,2,0.8,0.3
+State,Rajasthan,41,10,17.4,16.1
+State,Sikkim,0,0,0,0
+State,Tamil Nadu,23,19,2.3,2.1
+State,Tripura,0,0,0,0
+State,Uttar Pradesh,9,4,152.8,150.9
+State,Uttaranchal,3,1,3.5,0
+State,West Bengal,279,81,20.8,4.6
+State,Total (States),1003,323,415.6,310.3
+Union Territory,A & N Islands,1,0,0,0
+Union Territory,Chandigarh,0,0,0,0
+Union Territory,D & N Haveli,0,0,0,0
+Union Territory,Daman & Diu,0,0,0,0
+Union Territory,Delhi,8,3,2.7,0.3
+Union Territory,Lakshadweep,0,0,0,0
+Union Territory,Pondicherry,0,0,0,0
+Union Territory,Total (UTs),9,3,2.7,0.3
+Total (All-India),Total (All-India),1012,326,418.3,310.6

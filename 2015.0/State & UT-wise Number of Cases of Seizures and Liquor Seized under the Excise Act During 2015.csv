@@ -1,0 +1,40 @@
+Category (Col. 1),State/UT (Col. 2),Cases Reported (Col. 3),Quantity of Liquor Seized (in Litre) - Total Liquor (Col. 4) = (Col.5+Col.6+Col.7),Quantity of Liquor Seized (in Litre) - Deshi/ Country made liquor (Col. 5),Quantity of Liquor Seized (in Litre) - Factory made illegal liquor (Col. 6),Quantity of Liquor Seized (in Litre) - Other liquor (Col. 7)
+State,Andhra Pradesh,1988,46327.71,18252.92,19995.79,8079
+State,Arunachal Pradesh,0,0,0,0,0
+State,Assam,1,40,0,40,0
+State,Bihar,4641,272312.91,192031.27,27986.64,52295
+State,Chhattisgarh,14172,58065.75,35767.55,17290.19,5008.02
+State,Goa,0,0,0,0,0
+State,Gujarat,0,0,0,0,0
+State,Haryana,14718,1075300.05,169139.25,676579.5,229581.3
+State,Himachal Pradesh,1738,96396.48,67612.41,19114.25,9669.82
+State,Jammu & Kashmir,459,12410.4,1754.2,2796.7,7859.5
+State,Jharkhand,207,17760.9,10834,6788.9,138
+State,Karnataka,3029,271066.41,121305.53,141788.14,7972.74
+State,Kerala,0,0,0,0,0
+State,Madhya Pradesh,49790,768259.04,501298.06,155577.14,111383.84
+State,Maharashtra,0,0,0,0,0
+State,Manipur,0,0,0,0,0
+State,Meghalaya,2,192,0,192,0
+State,Mizoram,0,0,0,0,0
+State,Nagaland,0,0,0,0,0
+State,Odisha,14984,1682649.56,1268597.84,328656.32,85395.41
+State,Punjab,7320,400415.48,88085.41,261931.19,50398.88
+State,Rajasthan,14617,2702820.36,1487724.17,1040825.33,174270.86
+State,Sikkim,0,0,0,0,0
+State,Tamil Nadu,0,0,0,0,0
+State,Telangana,4770,49311.5,29176.5,16307,3828
+State,Tripura,0,0,0,0,0
+State,Uttar Pradesh,51454,4412323.16,2784279.96,1623393.2,4650
+State,Uttarakhand,1176,352808.33,325671.75,27032.58,104
+State,West Bengal,6049,2325655.68,1502101.3,735470.4,88083.98
+State,TOTAL (STATES),191115,14544115.72,8603632.12,5101765.27,838718.34
+UT,A & N Islands,2094,6139.13,387.38,5751.75,0
+UT,Chandigarh,1097,11720,7435,3205,1080
+UT,D&N Haveli,10,2627,0,897,1730
+UT,Daman & Diu,0,0,0,0,0
+UT,Delhi UT,1933,256415,209478,41741,5196
+UT,Lakshadweep,0,0,0,0,0
+UT,Puducherry,0,0,0,0,0
+UT,TOTAL (UTS),5134,276901.13,217300.38,51594.75,8006
+TOTAL (ALL INDIA),TOTAL (ALL INDIA),196249,14821016.85,8820932.49,5153360.02,846724.34

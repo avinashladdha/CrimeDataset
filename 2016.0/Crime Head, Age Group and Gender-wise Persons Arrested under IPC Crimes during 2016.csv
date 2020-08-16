@@ -1,0 +1,39 @@
+S. No.,Category,Crime Head,Below 18 Years - Male,Below 18 Years - Female,Below 18 Years - Total,18 Years & Above – Below 30 Years - Male,18 Years & Above – Below 30 Years - Female,18 Years & Above – Below 30 Years - Total,30 Years & Above – Below 45 Years - Male,30 Years & Above – Below 45 Years - Female,30 Years & Above – Below 45 Years - Total,45 Years & Above – Below 60 Years - Male,45 Years & Above – Below 60 Years - Female,45 Years & Above – Below 60 Years - Total,60 Years & Above - Male,60 Years & Above - Female,60 Years & Above - Total,Total of Overall Age-Group - Male,Total of Overall Age-Group - Female,Total of Overall Age-Group - Total
+1,A. Offences Affecting the Human Body,Murder,1138,39,1177,24083,1340,25423,21551,1849,23400,8011,675,8686,634,82,716,55417,3985,59402
+2,A. Offences Affecting the Human Body,Culpable Homicide not Amounting to Murder,69,0,69,2412,52,2464,2627,108,2735,713,19,732,83,1,84,5904,180,6084
+3,A. Offences Affecting the Human Body,Causing Death by Negligence,299,1,300,55396,159,55555,48624,170,48794,16710,25,16735,1214,3,1217,122243,358,122601
+4,A. Offences Affecting the Human Body,Dowry Deaths,19,7,26,7215,1206,8421,6213,1482,7695,2863,1094,3957,329,117,446,16639,3906,20545
+5,A. Offences Affecting the Human Body,Attempt to Commit Murder,1257,21,1278,40217,1436,41653,35745,1914,37659,13546,771,14317,1060,68,1128,91825,4210,96035
+6,A. Offences Affecting the Human Body,Attempt to Commit Culpable Homicide,79,1,80,6145,97,6242,5368,200,5568,1557,57,1614,93,4,97,13242,359,13601
+7,A. Offences Affecting the Human Body,Grievous Hurt,1359,59,1418,63841,2700,66541,54179,3224,57403,20842,1220,22062,1479,137,1616,141700,7340,149040
+8,A. Offences Affecting the Human Body,Causing Injuries under Rash Driving,1203,20,1223,150851,1640,152491,128680,1009,129689,48238,125,48363,4246,8,4254,333218,2802,336020
+9,A. Offences Affecting the Human Body,Assault on Women with Intent to Outrage her Modesty,1613,14,1627,58655,1486,60141,35738,1970,37708,9403,660,10063,743,93,836,106152,4223,110375
+10,A. Offences Affecting the Human Body,Kidnapping & Abduction,1354,10,1364,45754,838,46592,24597,858,25455,5259,236,5495,257,14,271,77221,1956,79177
+11,A. Offences Affecting the Human Body,Human Trafficking,15,6,21,707,129,836,759,145,904,144,32,176,3,4,7,1628,316,1944
+12,A. Offences Affecting the Human Body,Rape,2043,11,2054,28182,396,28578,14015,562,14577,3115,191,3306,264,18,282,47619,1178,48797
+13,A. Offences Affecting the Human Body,Attempt to Commit Rape,73,0,73,3579,17,3596,1875,24,1899,382,3,385,12,0,12,5921,44,5965
+14,A. Offences Affecting the Human Body,Unnatural Offences,217,1,218,1443,5,1448,623,13,636,130,8,138,31,2,33,2444,29,2473
+Total (A),A. Offences Affecting the Human Body,Total (A),10738,190,10928,488480,11501,499981,380594,13528,394122,130913,5116,136029,10448,551,10999,1021173,30886,1052059
+15,B. Offences against the State,Offences Against State,6,0,6,76,4,80,91,0,91,10,1,11,2,0,2,185,5,190
+Total (B),B. Offences against the State,Total (B),6,0,6,76,4,80,91,0,91,10,1,11,2,0,2,185,5,190
+16,C. Offences against Public Tranquility,Unlawful Assembly,173,5,178,25768,3381,29149,33954,4362,38316,12968,562,13530,614,42,656,73477,8352,81829
+17,C. Offences against Public Tranquility,Riots,1970,56,2026,124712,4811,129523,99023,6064,105087,38687,2486,41173,3606,316,3922,267998,13733,281731
+18,C. Offences against Public Tranquility,Offences Promoting Enmity Between Different Groups,8,0,8,397,3,400,419,3,422,118,15,133,3,0,3,945,21,966
+Total (C ),C. Offences against Public Tranquility,Total (C),2151,61,2212,150877,8195,159072,133396,10429,143825,51773,3063,54836,4223,358,4581,342420,22106,364526
+19,D. Offences against Property,Theft,10022,117,10139,128890,2243,131133,77574,2025,79599,19435,602,20037,1374,45,1419,237295,5032,242327
+20,D. Offences against Property,Criminal Trespass/Burglary,3790,22,3812,41625,571,42196,27136,535,27671,6969,111,7080,323,12,335,79843,1251,81094
+21,D. Offences against Property,Extortion,102,0,102,7681,71,7752,6392,101,6493,1523,22,1545,61,4,65,15759,198,15957
+22,D. Offences against Property,Robbery,1795,3,1798,27731,185,27916,13459,233,13692,2775,59,2834,100,8,108,45860,488,46348
+23,D. Offences against Property,Dacoity,321,6,327,9076,111,9187,6245,130,6375,1359,39,1398,66,4,70,17067,290,17357
+24,D. Offences against Property,Making Preparation and Assembly for Committing Dacoity,119,0,119,8448,9,8457,4569,1,4570,987,3,990,25,0,25,14148,13,14161
+25,D. Offences against Property,Criminal Breach of Trust,19,1,20,7858,141,7999,10950,353,11303,4511,195,4706,331,14,345,23669,704,24373
+26,D. Offences against Property,Cheating,185,3,188,35894,1065,36959,50306,2398,52704,21541,962,22503,1952,139,2091,109878,4567,114445
+27,D. Offences against Property,Arson,89,1,90,6326,104,6430,6085,211,6296,1777,58,1835,117,7,124,14394,381,14775
+Total (D),D. Offences against Property,Total (D),16442,153,16595,273529,4500,278029,202716,5987,208703,60877,2051,62928,4349,233,4582,557913,12924,570837
+28,E. Offences Relating to Documents & Property Marks,Counterfeiting,13,1,14,728,18,746,787,20,807,154,5,159,7,1,8,1689,45,1734
+29,E. Offences Relating to Documents & Property Marks,Forgery,16,3,19,4888,138,5026,6155,338,6493,2533,133,2666,215,22,237,13807,634,14441
+Total (E),E. Offences Relating to Documents & Property Marks,Total (E),29,4,33,5616,156,5772,6942,358,7300,2687,138,2825,222,23,245,15496,679,16175
+30,Cruelty by Husband or his Relatives,Cruelty by Husband or his Relatives,120,49,169,62983,10402,73385,64177,14822,78999,29278,11649,40927,3476,1895,5371,160034,38817,198851
+31,Insult to the Modesty of Women,Insult to the Modesty of Women,94,0,94,4264,106,4370,3086,151,3237,835,49,884,74,9,83,8353,315,8668
+32,Other IPC Crimes *,Other IPC Crimes *,11197,592,11789,620457,32451,652908,554742,37526,592268,229232,15024,244256,23427,1916,25343,1439055,87509,1526564
+Total Cognizable IPC Crimes,Total Cognizable IPC Crimes,Total Cognizable IPC Crimes,40777,1049,41826,1606282,67315,1673597,1345744,82801,1428545,505605,37091,542696,46221,4985,51206,3544629,193241,3737870

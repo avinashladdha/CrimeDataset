@@ -1,0 +1,25 @@
+SI.No,Crime Heads,Total Number for investigation Including Pending Cases,Number of Cases in which - Investigation was Refused,Number of Cases in which - Investigation was completed - charge found False/Mistake of fact or Law Etc.,Number of cases in which - Investigation was completed - final report true submitted,Number of cases in which - Investigation was completed - chargesheets were submitted,Number of cases in which - Investigation was completed - total [Col. (5+6+7)],Number of cases pending investigation
+1,Murder,57583,113,1146,6828,28693,36667,20803
+2,Attempt to Commit Murder,40622,63,1307,2972,24321,28600,11959
+3,C.H. Not Amounting To Murder,6094,3,135,530,3116,3781,2310
+4,Rape,20736,35,1098,839,12936,14873,5828
+5,Kidnapping & Abduction,33403,162,5073,3552,11890,20515,12726
+5,I)Of Women & Girls,23448,129,3925,2334,8467,14726,8586
+5,II)Of Others,9955,33,1148,1218,3423,5789,4140
+6,Dacoity,15464,21,533,2656,4329,7518,7925
+7,Preparation & Assembly for Dacoity,1709,0,4,125,882,1011,698
+8,Robbery,32914,52,1987,8101,11531,21619,11243
+9,Burglary,149497,500,5069,66432,37823,109324,39673
+10,Theft,362246,1335,12156,145791,102157,260104,100807
+11,Riots,118131,420,12138,7680,71428,91246,26465
+12,Criminal Breach of Trust,25965,132,2122,3407,8736,14265,11568
+13,Cheating,56497,351,8148,6782,16329,31259,24887
+14,Counterfeiting,5612,55,47,1063,330,1440,4117
+15,Arson,16423,103,1854,3909,6409,12172,4148
+16,Hurt,263152,690,10060,10560,203518,224138,38324
+17,Dowry Deaths,7543,43,382,279,4791,5452,2048
+18,Molestation,34937,84,1806,900,27619,30325,4528
+19,Sexual Harassment,6131,6,109,81,5474,5664,461
+20,Cruelty by Husband and Relatives,43130,133,4040,1391,29298,34729,8268
+21,Other IPC Crimes,898059,4419,47402,74643,586919,708964,184676
+22,Total Cognizable Crimes Under IPC,2195848,8720,116616,348521,1198529,1663666,523462
