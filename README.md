@@ -17,5 +17,5 @@ years being omitted :P \*
 
 ### About the interesting years :
 * A really good read for first missing set of years. [here](https://www.amazon.in/Case-That-Shook-India-Emergency/dp/0143442643/ref=sr_1_1?crid=2O66X0QYSI3AZ&dchild=1&keywords=the+case+that+shook+india&qid=1597597817&sprefix=the+case+tha%2Caps%2C311&sr=8-1)
-* Second missing set info can be found [here] (https://en.wikipedia.org/wiki/1998_Indian_general_election) _A bit of my speculation for this one_
+* Second missing set info can be found [here](https://en.wikipedia.org/wiki/1998_Indian_general_election) _A bit of my speculation for this one_
 
