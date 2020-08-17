@@ -1,8 +1,6 @@
-<div align=”center”>
-  
-<img src="https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif" />
-
-</div>
+<p align=”center”>
+  <img src="https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif" />
+</p>
 
 # Collection of yearwise Crimes in India datasets.
 > _These files have been sourced from [Open Govt Data](https://data.gov.in/). Please refer terms of use before using the datasets._
