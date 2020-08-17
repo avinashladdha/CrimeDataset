@@ -6,8 +6,8 @@
 
 
 # Overview :
-1. Each folder has datasets corresponding to that year. Currently the repo has dataset starting from 1969 with some **interesting** 
-years being omitted :P \*
+1. Each folder has datasets corresponding to that year. Currently the repo has dataset starting from 1969 with some 
+years being omitted 
 2. Each year has crime data about IPC and SLL crimes at various levels (All India , State , UT and City levels)
 3. DataOGD.ipynb has the relavant code for data harvesting.
 
@@ -18,7 +18,4 @@ years being omitted :P \*
 4. Cyber Crimes
 5. Custodial Deaths.
 
-### About the interesting years :
-* A really good read for first missing set of years. [here](https://www.amazon.in/Case-That-Shook-India-Emergency/dp/0143442643/ref=sr_1_1?crid=2O66X0QYSI3AZ&dchild=1&keywords=the+case+that+shook+india&qid=1597597817&sprefix=the+case+tha%2Caps%2C311&sr=8-1)
-* Second missing set info can be found [here](https://en.wikipedia.org/wiki/1998_Indian_general_election) _A bit of my speculation for this one_
 
