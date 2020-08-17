@@ -3,10 +3,10 @@
 
 
 # Overview :
-
-1. The YearWise folder consists of yearwise crime data files avaliable. Currently the folder has dataset starting from 1969 with some **interesting** 
+1. Each folder has datasets corresponding to that year. Currently the repo has dataset starting from 1969 with some **interesting** 
 years being omitted :P \*
 2. Each year has crime data about IPC and SLL crimes at various levels (All India , State , UT and City levels)
+3. DataOGD.ipynb has the relavant code for data harvesting.
 
 # Some Interesting Data sets :
 1. State wise crime rates. : I have tried doing some analysis [here](https://www.linkedin.com/posts/avinashladdha_crime-in-india-activity-6662678356263337984-2WkC)
