@@ -1,4 +1,6 @@
 <div align=”center”>
+  
+<img src="https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif" width="80" height="100" />
 ![State wise crime in India.](https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif)
 </div>
 
