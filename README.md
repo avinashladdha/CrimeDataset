@@ -1,6 +1,6 @@
-<p align="center">
+<div align=”center”>
 ![State wise crime in India.](https://github.com/avinashladdha/CrimeDataset/blob/master/map.gif)
-</p>
+</div>
 
 # Collection of yearwise Crimes in India datasets.
 > _These files have been sourced from [Open Govt Data](https://data.gov.in/). Please refer terms of use before using the datasets._
