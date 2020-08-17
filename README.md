@@ -1,5 +1,5 @@
 <div align=”center”>
-![Alt Text](https://github.com/avinashladdha/CrimeDataset/blob/master/map.gif)
+![State wise crime in India.](https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif)
 </div>
 
 # Collection of yearwise Crimes in India datasets.
