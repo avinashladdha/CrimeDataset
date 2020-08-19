@@ -1,4 +1,7 @@
-  <img src="https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif" align = "middle" />
+<center> # One stop download for year wise crime statistics in India. </center>
+
+
+<img src="https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif" align = "middle" />
 
 
 # Collection of yearwise Crimes in India datasets.
