@@ -1,8 +1,6 @@
-<center> # One stop download for year wise crime statistics in India. </center>
-
+<center> <h1>One stop download for year wise crime statistics in India.  </h1> </center>
 
 <img src="https://raw.githubusercontent.com/avinashladdha/CrimeDataset/master/map.gif" align = "middle" />
-
 
 # Collection of yearwise Crimes in India datasets.
 > _These files have been sourced from [Open Govt Data](https://data.gov.in/). Please refer terms of use before using the datasets._
